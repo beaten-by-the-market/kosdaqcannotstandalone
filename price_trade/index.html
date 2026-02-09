@@ -1,0 +1,627 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>코스닥 신규상장 분석</title>
+<script src="https://cdn.plot.ly/plotly-2.35.2.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"></script>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: 'Segoe UI', -apple-system, sans-serif; background: #f5f7fa; color: #333; }
+  .header { background: #1a1a2e; color: #fff; padding: 20px 32px; }
+  .header h1 { font-size: 1.5rem; font-weight: 600; }
+  .header p { font-size: 0.85rem; color: #aab; margin-top: 4px; }
+  .tabs { display: flex; background: #16213e; padding: 0 32px; }
+  .tab { padding: 12px 24px; color: #aab; cursor: pointer; border-bottom: 3px solid transparent; font-size: 0.9rem; }
+  .tab:hover { color: #fff; }
+  .tab.active { color: #fff; border-bottom-color: #4cc9f0; font-weight: 600; }
+  .container { max-width: 1400px; margin: 0 auto; padding: 24px; }
+  .panel { display: none; }
+  .panel.active { display: block; }
+  .card { background: #fff; border-radius: 12px; padding: 24px; margin-bottom: 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.08); }
+  .card h3 { font-size: 1rem; color: #555; margin-bottom: 16px; }
+  .row { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; }
+  @media (max-width: 900px) { .row { grid-template-columns: 1fr; } }
+  /* 기준 토글 */
+  .base-toggle { display: flex; align-items: center; gap: 8px; margin-bottom: 20px; }
+  .base-toggle span { font-size: 0.85rem; color: #666; }
+  .toggle-btn { display: flex; background: #e9ecef; border-radius: 8px; overflow: hidden; }
+  .toggle-btn button { padding: 8px 18px; border: none; background: transparent; cursor: pointer; font-size: 0.85rem; color: #666; transition: all 0.2s; }
+  .toggle-btn button.active { background: #4361ee; color: #fff; font-weight: 600; }
+  /* Summary table */
+  .summary-table { width: 100%; border-collapse: collapse; margin-bottom: 20px; font-size: 0.88rem; }
+  .summary-table th, .summary-table td { padding: 10px 14px; text-align: center; border: 1px solid #e0e4ea; }
+  .summary-table thead th { background: #1a1a2e; color: #fff; font-weight: 600; font-size: 0.82rem; }
+  .summary-table tbody th { background: #f0f2f5; font-weight: 600; color: #333; text-align: left; min-width: 80px; }
+  .summary-table .cnt { font-size: 1.1rem; font-weight: 700; }
+  .summary-table .pct { font-size: 0.78rem; color: #888; }
+  .summary-table .ret { font-size: 0.9rem; font-weight: 600; }
+  .summary-table .ret.pos { color: #e63946; }
+  .summary-table .ret.neg { color: #457b9d; }
+  /* Individual tab */
+  .stock-selector { display: flex; gap: 12px; align-items: center; margin-bottom: 20px; flex-wrap: wrap; }
+  .stock-selector select { padding: 10px 16px; font-size: 0.95rem; border: 1px solid #ddd; border-radius: 8px; min-width: 300px; }
+  .info-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 12px; margin-bottom: 20px; }
+  .info-item { background: #f8f9fa; border-radius: 8px; padding: 14px; text-align: center; }
+  .info-item .lbl { font-size: 0.75rem; color: #888; }
+  .info-item .val { font-size: 1.2rem; font-weight: 700; margin-top: 2px; }
+  .loading { text-align: center; padding: 60px; color: #888; font-size: 1.1rem; }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>코스닥 신규상장 분석 대시보드</h1>
+  <p style="font-size:0.8rem;color:#8899aa;margin-top:2px">2020.02 ~ 2026.01 상장 종목 대상 (약 6년)</p>
+  <p id="subtitle">데이터 로딩 중...</p>
+</div>
+<div class="tabs">
+  <div class="tab active" data-tab="aggregate">전체 집계</div>
+  <div class="tab" data-tab="individual">개별 종목</div>
+</div>
+
+<div class="container">
+  <div id="loading" class="loading">데이터를 불러오는 중...</div>
+
+  <!-- 전체 집계 탭 -->
+  <div id="aggregate" class="panel">
+    <div class="base-toggle">
+      <span>수익률 기준:</span>
+      <div class="toggle-btn" id="agg-toggle">
+        <button class="active" data-base="ipo">공모가 대비</button>
+        <button data-base="close">상장일 종가 대비</button>
+      </div>
+    </div>
+    <div id="summary-table-wrap"></div>
+    <div class="row">
+      <div class="card">
+        <h3 id="hist-title">수익률 분포</h3>
+        <div id="chart-hist"></div>
+      </div>
+      <div class="card">
+        <h3>수익률 박스플롯</h3>
+        <div id="chart-box"></div>
+      </div>
+    </div>
+    <div class="card">
+      <h3>매매주체별 평균 순매수대금 (억원)</h3>
+      <div id="chart-entity-main"></div>
+    </div>
+    <div class="card">
+      <h3>기관 세부 평균 순매수대금 (억원)</h3>
+      <div id="chart-entity-sub"></div>
+    </div>
+    <div class="card">
+      <h3 id="agg-ret-title">상장 후 수익률 추이 (경과 거래일)</h3>
+      <p style="font-size:0.78rem;color:#999;margin:-10px 0 10px 0">※ 각 종목별 수익률의 단순 평균 (동일 가중)</p>
+      <div id="chart-agg-ret"></div>
+    </div>
+    <div class="card">
+      <h3>매매주체별 평균 누적 순매수 추이 (경과 거래일, 억원)</h3>
+      <p style="font-size:0.78rem;color:#999;margin:-10px 0 10px 0">※ 각 종목별 누적 순매수의 단순 평균</p>
+      <div id="chart-agg-cum-main"></div>
+    </div>
+    <div class="card">
+      <h3>기관 세부 평균 누적 순매수 추이 (경과 거래일, 억원)</h3>
+      <p style="font-size:0.78rem;color:#999;margin:-10px 0 10px 0">※ 각 종목별 누적 순매수의 단순 평균</p>
+      <div id="chart-agg-cum-sub"></div>
+    </div>
+  </div>
+
+  <!-- 개별 종목 탭 -->
+  <div id="individual" class="panel">
+    <div class="stock-selector">
+      <select id="stock-select"><option value="">종목을 선택하세요</option></select>
+      <div class="toggle-btn" id="ind-toggle">
+        <button class="active" data-base="ipo">공모가 대비</button>
+        <button data-base="close">상장일 종가 대비</button>
+      </div>
+    </div>
+    <div class="info-grid" id="stock-info"></div>
+    <div class="card">
+      <h3>주가 추이</h3>
+      <div id="chart-stock-price"></div>
+    </div>
+    <div class="card">
+      <h3>매매주체별 누적 순매수 (억원)</h3>
+      <div id="chart-stock-cum-main"></div>
+    </div>
+    <div class="card">
+      <h3>기관 세부 누적 순매수 (억원)</h3>
+      <div id="chart-stock-cum-sub"></div>
+    </div>
+    <div class="card">
+      <h3>전체 수익률 분포에서의 위치</h3>
+      <div id="chart-stock-pos"></div>
+    </div>
+  </div>
+</div>
+
+<script>
+// --- 매매주체 위계 ---
+const MAIN_ENTITIES = [
+  {key:'개인',        col:'개인',          label:'개인'},
+  {key:'기관',        col:'기관',          label:'기관'},
+  {key:'외국인총합계', col:'외국인총합계',   label:'외국인'},
+  {key:'기타법인',    col:'기타법인',       label:'기타법인'},
+];
+const SUB_ENTITIES = [
+  {col:'금융투자',     label:'금융투자'},
+  {col:'보험',        label:'보험'},
+  {col:'투신',        label:'투신'},
+  {col:'사모펀드',     label:'사모펀드'},
+  {col:'은행',        label:'은행'},
+  {col:'연기금',      label:'연기금'},
+  {col:'기타금융기관', label:'기타금융'},
+  {col:'국가,지자체',  label:'국가지자체'},
+];
+
+const PLOTLY_CFG = {responsive: true, displayModeBar: false};
+const COLORS = {listing:'#4361ee', m6:'#f72585', m12:'#4cc9f0', m18:'#ff9f1c', m24:'#2ec4b6'};
+const PERIOD_COLORS = [COLORS.m6, COLORS.m12, COLORS.m18, COLORS.m24];
+const PERIOD_LABELS = ['6개월','12개월','18개월','24개월'];
+
+const CUM_MAIN_COLORS = ['#e63946','#7209b7','#4361ee','#adb5bd'];
+const CUM_SUB_COLORS = ['#7209b7','#9b5de5','#c77dff','#e0aaff','#3a0ca3','#560bad','#480ca8','#6930c3'];
+
+let DATA = [];
+let AGG_TS = [];
+let STOCK_DAILY = {};
+let _stockDateKey = '날짜';
+let aggBase = 'ipo';
+let indBase = 'ipo';
+
+// --- 칼럼명 매핑 ---
+function colNames(base) {
+  if (base === 'ipo') {
+    return {
+      listing:'상장일수익률_공모가(%)',
+      m6:'6M수익률_공모가(%)', m12:'12M수익률_공모가(%)',
+      m18:'18M수익률_공모가(%)', m24:'24M수익률_공모가(%)',
+      label:'공모가 대비'
+    };
+  }
+  return {
+    listing:null,
+    m6:'6M수익률_종가(%)', m12:'12M수익률_종가(%)',
+    m18:'18M수익률_종가(%)', m24:'24M수익률_종가(%)',
+    label:'상장일 종가 대비'
+  };
+}
+
+// --- 유틸 ---
+function vals(arr) { return arr.filter(v => v !== null && v !== '' && !isNaN(v)).map(Number); }
+function mean(a) { return a.length ? a.reduce((s,v)=>s+v,0)/a.length : 0; }
+function median(a) { if(!a.length) return 0; const s=[...a].sort((x,y)=>x-y); const m=Math.floor(s.length/2); return s.length%2?s[m]:(s[m-1]+s[m])/2; }
+function fmt(v, dec=1) { return v !== null && !isNaN(v) ? Number(v).toFixed(dec) : '-'; }
+function cls(v) { return Number(v) >= 0 ? 'pos' : 'neg'; }
+function dailyCol(entity) { return entity.col.replace(',','_'); }
+
+// --- 토글 이벤트 ---
+function setupToggle(containerId, onChange) {
+  const container = document.getElementById(containerId);
+  container.querySelectorAll('button').forEach(btn => {
+    btn.addEventListener('click', () => {
+      container.querySelectorAll('button').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      onChange(btn.dataset.base);
+    });
+  });
+}
+setupToggle('agg-toggle', b => { aggBase = b; renderAggregate(); });
+setupToggle('ind-toggle', b => {
+  indBase = b;
+  const sel = document.getElementById('stock-select');
+  if (sel.value !== '') renderStock(DATA[sel.value]);
+});
+
+// --- 탭 전환 ---
+document.querySelectorAll('.tab').forEach(t => {
+  t.addEventListener('click', () => {
+    document.querySelectorAll('.tab').forEach(x => x.classList.remove('active'));
+    document.querySelectorAll('.panel').forEach(x => x.classList.remove('active'));
+    t.classList.add('active');
+    document.getElementById(t.dataset.tab).classList.add('active');
+  });
+});
+
+// --- 데이터 로드 ---
+let _loadCount = 0;
+function _onDataReady() {
+  if (++_loadCount < 3) return;
+  document.getElementById('loading').style.display = 'none';
+  document.getElementById('aggregate').classList.add('active');
+
+  const periods = [
+    {key:'6M', col:'6M수익률_공모가(%)'},
+    {key:'12M', col:'12M수익률_공모가(%)'},
+    {key:'18M', col:'18M수익률_공모가(%)'},
+    {key:'24M', col:'24M수익률_공모가(%)'},
+  ];
+  const parts = periods.map(p => {
+    const n = DATA.filter(r => r[p.col] !== null && !isNaN(r[p.col])).length;
+    return `${p.key} ${n}개`;
+  });
+  document.getElementById('subtitle').textContent = parts.join(' / ');
+
+  renderAggregate();
+  initStockSelector();
+}
+Papa.parse('data/ipo_analysis.csv', {
+  download: true, header: true, dynamicTyping: true, skipEmptyLines: true,
+  complete: function(results) {
+    DATA = results.data.filter(r => r['코드']);
+    _onDataReady();
+  }
+});
+Papa.parse('data/agg_timeseries.csv', {
+  download: true, header: true, dynamicTyping: true, skipEmptyLines: true,
+  complete: function(results) {
+    AGG_TS = results.data.filter(r => r['day'] != null);
+    _onDataReady();
+  }
+});
+Papa.parse('data/all_stocks.csv', {
+  download: true, header: true, dynamicTyping: true, skipEmptyLines: true,
+  complete: function(results) {
+    const fields = results.meta.fields;
+    let dk = '날짜';
+    if (fields) {
+      const f = fields.find(f => f.includes('날짜'));
+      if (f) dk = f;
+    }
+    _stockDateKey = dk;
+    results.data.forEach(r => {
+      const code = r['코드'];
+      if (!code) return;
+      if (!STOCK_DAILY[code]) STOCK_DAILY[code] = [];
+      STOCK_DAILY[code].push(r);
+    });
+    _onDataReady();
+  }
+});
+
+// --- 매매주체 차트 공통 ---
+function entityChart(divId, mainOrSub, getVal) {
+  const items = mainOrSub;
+  const labels = items.map(e => e.label);
+  const suffixes = ['_6M순매수','_12M순매수','_18M순매수','_24M순매수'];
+  const traces = suffixes.map((suf, i) => ({
+    x: labels,
+    y: items.map(e => getVal(e, suf)),
+    type: 'bar',
+    name: PERIOD_LABELS[i],
+    marker: {color: PERIOD_COLORS[i]}
+  }));
+  Plotly.newPlot(divId, traces,
+    {barmode:'group', yaxis:{title:'순매수 (억원)'}, margin:{t:20,r:20}, legend:{x:0.75,y:0.95}}, PLOTLY_CFG);
+}
+
+// --- 요약 테이블 ---
+function renderSummaryTable(c) {
+  const periodKeys = [];
+  const periodLabels = [];
+  if (c.listing) { periodKeys.push('listing'); periodLabels.push('상장일 당일'); }
+  periodKeys.push('m6','m12','m18','m24');
+  periodLabels.push('6M','12M','18M','24M');
+  if (!c.listing) {
+    // 종가 대비: 상장일 당일 없음
+  }
+
+  // 기간별 수익률 배열
+  const retArrays = {};
+  periodKeys.forEach(k => { retArrays[k] = vals(DATA.map(r => r[c[k]])); });
+
+  let html = '<table class="summary-table"><thead><tr><th></th>';
+  periodLabels.forEach(l => { html += `<th>${l}</th>`; });
+  html += '</tr></thead><tbody>';
+
+  // 행 1: 전체종목
+  html += '<tr><th>전체종목</th>';
+  periodKeys.forEach(k => {
+    const arr = retArrays[k];
+    const n = arr.length;
+    const avg = n ? mean(arr) : NaN;
+    html += `<td>
+      <div class="cnt">${n}개</div>
+      <div class="ret ${cls(avg)}">${fmt(avg)}%</div>
+    </td>`;
+  });
+  html += '</tr>';
+
+  // 행 2: 수익종목
+  html += '<tr><th>수익종목</th>';
+  periodKeys.forEach(k => {
+    const arr = retArrays[k];
+    const total = arr.length;
+    const pos = arr.filter(v => v >= 0);
+    const n = pos.length;
+    const pct = total ? (n / total * 100) : 0;
+    const avg = n ? mean(pos) : NaN;
+    html += `<td>
+      <div class="cnt">${n}개</div>
+      <div class="pct">${fmt(pct)}%</div>
+      <div class="ret pos">+${fmt(avg)}%</div>
+    </td>`;
+  });
+  html += '</tr>';
+
+  // 행 3: 손실종목
+  html += '<tr><th>손실종목</th>';
+  periodKeys.forEach(k => {
+    const arr = retArrays[k];
+    const total = arr.length;
+    const neg = arr.filter(v => v < 0);
+    const n = neg.length;
+    const pct = total ? (n / total * 100) : 0;
+    const avg = n ? mean(neg) : NaN;
+    html += `<td>
+      <div class="cnt">${n}개</div>
+      <div class="pct">${fmt(pct)}%</div>
+      <div class="ret neg">${fmt(avg)}%</div>
+    </td>`;
+  });
+  html += '</tr>';
+
+  html += '</tbody></table>';
+  document.getElementById('summary-table-wrap').innerHTML = html;
+}
+
+// --- 전체 집계 ---
+function renderAggregate() {
+  const c = colNames(aggBase);
+
+  // 요약 테이블
+  renderSummaryTable(c);
+
+  const retL = c.listing ? vals(DATA.map(r=>r[c.listing])) : [];
+  const ret6 = vals(DATA.map(r=>r[c.m6]));
+  const ret12 = vals(DATA.map(r=>r[c.m12]));
+  const ret18 = vals(DATA.map(r=>r[c.m18]));
+  const ret24 = vals(DATA.map(r=>r[c.m24]));
+
+  // 히스토그램
+  document.getElementById('hist-title').textContent = `수익률 분포 (${c.label})`;
+  const histTraces = [];
+  if (retL.length) histTraces.push({x:retL, type:'histogram', name:'상장일', opacity:0.5, marker:{color:COLORS.listing}, xbins:{size:10}});
+  histTraces.push(
+    {x:ret6, type:'histogram', name:'6M', opacity:0.5, marker:{color:COLORS.m6}, xbins:{size:10}},
+    {x:ret12, type:'histogram', name:'12M', opacity:0.5, marker:{color:COLORS.m12}, xbins:{size:10}},
+    {x:ret18, type:'histogram', name:'18M', opacity:0.5, marker:{color:COLORS.m18}, xbins:{size:10}},
+    {x:ret24, type:'histogram', name:'24M', opacity:0.5, marker:{color:COLORS.m24}, xbins:{size:10}},
+  );
+  Plotly.newPlot('chart-hist', histTraces,
+    {barmode:'overlay', xaxis:{title:'수익률 (%)'}, yaxis:{title:'종목 수'}, legend:{x:0.75,y:0.95}, margin:{t:20,r:20}}, PLOTLY_CFG);
+
+  // 박스플롯
+  const boxTraces = [];
+  if (retL.length) boxTraces.push({y:retL, type:'box', name:'상장일', marker:{color:COLORS.listing}});
+  boxTraces.push(
+    {y:ret6, type:'box', name:'6M', marker:{color:COLORS.m6}},
+    {y:ret12, type:'box', name:'12M', marker:{color:COLORS.m12}},
+    {y:ret18, type:'box', name:'18M', marker:{color:COLORS.m18}},
+    {y:ret24, type:'box', name:'24M', marker:{color:COLORS.m24}},
+  );
+  Plotly.newPlot('chart-box', boxTraces,
+    {yaxis:{title:'수익률 (%)'}, margin:{t:20,r:20}, showlegend:false}, PLOTLY_CFG);
+
+  // 매매주체 - 큰 분류
+  entityChart('chart-entity-main', MAIN_ENTITIES,
+    (e, suf) => mean(vals(DATA.map(r => r[e.col + suf]))));
+
+  // 매매주체 - 기관 세부
+  entityChart('chart-entity-sub', SUB_ENTITIES,
+    (e, suf) => mean(vals(DATA.map(r => r[e.col + suf]))));
+
+  // 집계 시계열
+  renderAggregateTimeSeries();
+}
+
+function renderAggregateTimeSeries() {
+  if (!AGG_TS.length) return;
+
+  const days = AGG_TS.map(r => r.day);
+
+  // 수익률 추이 (토글 연동)
+  let meanKey, medianKey, label;
+  if (aggBase === 'ipo') {
+    meanKey = 'ret_ipo_mean'; medianKey = 'ret_ipo_median'; label = '공모가 대비';
+  } else {
+    meanKey = 'ret_close_mean'; medianKey = 'ret_close_median'; label = '상장일 종가 대비';
+  }
+
+  document.getElementById('agg-ret-title').textContent = `상장 후 수익률 추이 — ${label} (경과 거래일)`;
+  document.getElementById('chart-agg-ret').innerHTML = '';
+
+  const retTraces = [
+    {x:days, y:AGG_TS.map(r=>r[meanKey]), type:'scatter', mode:'lines', name:'평균', line:{color:'#e63946', width:2.5}},
+    {x:days, y:AGG_TS.map(r=>r[medianKey]), type:'scatter', mode:'lines', name:'중간값', line:{color:'#4361ee', width:2.5, dash:'dash'}},
+  ];
+  Plotly.newPlot('chart-agg-ret', retTraces, {
+    height:400,
+    xaxis:{title:'상장 후 거래일'}, yaxis:{title:'수익률 (%)'},
+    shapes:[{type:'line', y0:0, y1:0, x0:0, x1:days[days.length-1], line:{color:'#adb5bd', width:1, dash:'dot'}}],
+    legend:{orientation:'h', y:-0.18, x:0.5, xanchor:'center'},
+    margin:{t:20, r:30, b:70}
+  }, PLOTLY_CFG);
+
+  // 매매주체 누적 순매수 추이 - 큰 분류
+  document.getElementById('chart-agg-cum-main').innerHTML = '';
+  const mainTraces = MAIN_ENTITIES.map((e, i) => ({
+    x:days, y:AGG_TS.map(r => r[dailyCol(e)]),
+    type:'scatter', mode:'lines', name:e.label, line:{color:CUM_MAIN_COLORS[i], width:2.5}
+  }));
+  Plotly.newPlot('chart-agg-cum-main', mainTraces, {
+    height:400,
+    xaxis:{title:'상장 후 거래일'}, yaxis:{title:'억원'},
+    legend:{orientation:'h', y:-0.18, x:0.5, xanchor:'center'},
+    margin:{t:20, r:30, b:80}
+  }, PLOTLY_CFG);
+
+  // 매매주체 누적 순매수 추이 - 기관 세부
+  document.getElementById('chart-agg-cum-sub').innerHTML = '';
+  const subTraces = SUB_ENTITIES.map((e, i) => ({
+    x:days, y:AGG_TS.map(r => r[dailyCol(e)]),
+    type:'scatter', mode:'lines', name:e.label, line:{color:CUM_SUB_COLORS[i], width:2}
+  }));
+  Plotly.newPlot('chart-agg-cum-sub', subTraces, {
+    height:420,
+    xaxis:{title:'상장 후 거래일'}, yaxis:{title:'억원'},
+    legend:{orientation:'h', y:-0.22, x:0.5, xanchor:'center'},
+    margin:{t:20, r:30, b:100}
+  }, PLOTLY_CFG);
+}
+
+// --- 개별 종목 ---
+function initStockSelector() {
+  const sel = document.getElementById('stock-select');
+  DATA.forEach((r, i) => {
+    const opt = document.createElement('option');
+    opt.value = i;
+    opt.textContent = `${r['코드']} ${r['종목명']}`;
+    sel.appendChild(opt);
+  });
+  sel.addEventListener('change', () => {
+    if (sel.value !== '') renderStock(DATA[sel.value]);
+  });
+}
+
+function renderStock(r) {
+  const c = colNames(indBase);
+
+  // 정보 카드
+  const items = [
+    {l:'종목코드', v:r['코드']},
+    {l:'종목명', v:r['종목명']},
+    {l:'상장일', v:r['상장일']},
+    {l:'공모가', v:r['공모가']?.toLocaleString()+'원'},
+    {l:'상장일 종가', v:r['상장일종가'] ? Number(r['상장일종가']).toLocaleString()+'원' : '-'},
+  ];
+  if (c.listing) items.push({l:'상장일 수익률(공모가)', v:fmt(r[c.listing])+'%', c:cls(r[c.listing])});
+  items.push(
+    {l:`6M 수익률(${c.label})`, v:fmt(r[c.m6])+'%', c:cls(r[c.m6])},
+    {l:`12M 수익률(${c.label})`, v:fmt(r[c.m12])+'%', c:cls(r[c.m12])},
+    {l:`18M 수익률(${c.label})`, v:fmt(r[c.m18])+'%', c:cls(r[c.m18])},
+    {l:`24M 수익률(${c.label})`, v:fmt(r[c.m24])+'%', c:cls(r[c.m24])},
+  );
+  document.getElementById('stock-info').innerHTML = items.map(i =>
+    `<div class="info-item"><div class="lbl">${i.l}</div><div class="val" style="color:${i.c==='pos'?'#e63946':i.c==='neg'?'#457b9d':''}">${i.v}</div></div>`
+  ).join('');
+
+  // 일별 데이터 → 주가 추이 + 누적 순매수 (사전 로드됨)
+  const code = r['코드'];
+  const tsCharts = ['chart-stock-price','chart-stock-cum-main','chart-stock-cum-sub'];
+  const daily = STOCK_DAILY[code];
+  if (daily && daily.length) {
+    renderStockTimeSeries(r, daily, _stockDateKey);
+  } else {
+    tsCharts.forEach(id => {
+      document.getElementById(id).innerHTML = '<p style="text-align:center;color:#999;padding:2rem">일별 데이터 없음</p>';
+    });
+  }
+
+  // 전체 분포에서 위치
+  const retPeriods = [
+    {key:'m6', label:'6M', color:COLORS.m6},
+    {key:'m12', label:'12M', color:COLORS.m12},
+    {key:'m18', label:'18M', color:COLORS.m18},
+    {key:'m24', label:'24M', color:COLORS.m24},
+  ];
+  const traces = [];
+  const shapes = [];
+  const annotations = [];
+  retPeriods.forEach((p, i) => {
+    const all = vals(DATA.map(d=>d[c[p.key]]));
+    const my = r[c[p.key]];
+    if (all.length) {
+      traces.push({x:all, type:'histogram', name:`전체 ${p.label}`, opacity:0.4, marker:{color:p.color}, xbins:{size:10}});
+    }
+    if (my !== null && !isNaN(my)) {
+      shapes.push({type:'line', x0:my, x1:my, y0:0, y1:1, yref:'paper', line:{color:p.color, width:3, dash:'dash'}});
+      annotations.push({x:my, y:1 - i*0.1, yref:'paper', text:`${p.label}: ${fmt(my)}%`, showarrow:false, yanchor:'bottom', font:{color:p.color, size:11}});
+    }
+  });
+
+  Plotly.newPlot('chart-stock-pos', traces,
+    {barmode:'overlay', xaxis:{title:'수익률 (%)'}, yaxis:{title:'종목 수'}, shapes, annotations, margin:{t:30,r:20}}, PLOTLY_CFG);
+}
+
+function renderStockTimeSeries(r, daily, dateKey) {
+  ['chart-stock-price','chart-stock-cum-main','chart-stock-cum-sub'].forEach(id => {
+    document.getElementById(id).innerHTML = '';
+  });
+
+  const dates = daily.map(d => d[dateKey]);
+  const prices = daily.map(d => d['종가']);
+
+  // 주가 추이
+  const ipoPrice = Number(r['공모가']);
+  const priceTraces = [{
+    x:dates, y:prices, type:'scatter', mode:'lines',
+    name:'종가', line:{color:'#4361ee', width:2.5},
+    fill:'tozeroy', fillcolor:'rgba(67,97,238,0.1)'
+  }];
+  const priceShapes = [];
+  const priceAnnotations = [];
+  if (ipoPrice > 0) {
+    priceShapes.push({
+      type:'line', y0:ipoPrice, y1:ipoPrice,
+      x0:dates[0], x1:dates[dates.length-1],
+      line:{color:'#e63946', width:1.5, dash:'dash'}
+    });
+    priceAnnotations.push({
+      x:dates[Math.floor(dates.length*0.5)], y:ipoPrice,
+      text:`공모가 ${ipoPrice.toLocaleString()}원`,
+      showarrow:false, yanchor:'bottom',
+      font:{color:'#e63946', size:12, weight:'bold'}
+    });
+  }
+  Plotly.newPlot('chart-stock-price', priceTraces, {
+    height:400,
+    xaxis:{title:'날짜'}, yaxis:{title:'원', tickformat:',', rangemode:'tozero'},
+    shapes:priceShapes, annotations:priceAnnotations,
+    margin:{t:20,r:30,b:50}, showlegend:false
+  }, PLOTLY_CFG);
+
+  // 누적 순매수 - 큰 분류
+  const mainTraces = MAIN_ENTITIES.map((e, i) => {
+    let cum = 0;
+    const cumVals = daily.map(d => {
+      cum += (Number(d[dailyCol(e)]) || 0);
+      return Math.round(cum * 100) / 100;
+    });
+    return {
+      x:dates, y:cumVals, type:'scatter', mode:'lines',
+      name:e.label, line:{color:CUM_MAIN_COLORS[i], width:2.5}
+    };
+  });
+  Plotly.newPlot('chart-stock-cum-main', mainTraces, {
+    height:400,
+    xaxis:{title:'날짜'}, yaxis:{title:'억원'},
+    legend:{orientation:'h', y:-0.18, x:0.5, xanchor:'center'},
+    margin:{t:20,r:30,b:80}
+  }, PLOTLY_CFG);
+
+  // 누적 순매수 - 기관 세부
+  const subTraces = SUB_ENTITIES.map((e, i) => {
+    let cum = 0;
+    const cumVals = daily.map(d => {
+      cum += (Number(d[dailyCol(e)]) || 0);
+      return Math.round(cum * 100) / 100;
+    });
+    return {
+      x:dates, y:cumVals, type:'scatter', mode:'lines',
+      name:e.label, line:{color:CUM_SUB_COLORS[i], width:2}
+    };
+  });
+  Plotly.newPlot('chart-stock-cum-sub', subTraces, {
+    height:420,
+    xaxis:{title:'날짜'}, yaxis:{title:'억원'},
+    legend:{orientation:'h', y:-0.22, x:0.5, xanchor:'center'},
+    margin:{t:20,r:30,b:100}
+  }, PLOTLY_CFG);
+}
+</script>
+</body>
+</html>

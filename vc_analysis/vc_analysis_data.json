@@ -1,0 +1,1952 @@
+{
+  "total_bin": [
+    {
+      "days": 0,
+      "net": -115343229,
+      "count": 1388,
+      "cum": -115343229
+    },
+    {
+      "days": 30,
+      "net": -55294413,
+      "count": 864,
+      "cum": -170637642
+    },
+    {
+      "days": 60,
+      "net": -16409216,
+      "count": 549,
+      "cum": -187046858
+    },
+    {
+      "days": 90,
+      "net": -15374722,
+      "count": 423,
+      "cum": -202421580
+    },
+    {
+      "days": 120,
+      "net": -12321572,
+      "count": 389,
+      "cum": -214743152
+    },
+    {
+      "days": 150,
+      "net": -4462162,
+      "count": 234,
+      "cum": -219205314
+    },
+    {
+      "days": 180,
+      "net": -18059592,
+      "count": 206,
+      "cum": -237264906
+    },
+    {
+      "days": 210,
+      "net": -8835143,
+      "count": 98,
+      "cum": -246100049
+    },
+    {
+      "days": 240,
+      "net": -7314711,
+      "count": 131,
+      "cum": -253414760
+    },
+    {
+      "days": 270,
+      "net": -11495088,
+      "count": 106,
+      "cum": -264909848
+    },
+    {
+      "days": 300,
+      "net": -2882768,
+      "count": 72,
+      "cum": -267792616
+    },
+    {
+      "days": 330,
+      "net": -2253358,
+      "count": 100,
+      "cum": -270045974
+    },
+    {
+      "days": 360,
+      "net": -6260545,
+      "count": 246,
+      "cum": -276306519
+    },
+    {
+      "days": 390,
+      "net": -2970208,
+      "count": 103,
+      "cum": -279276727
+    },
+    {
+      "days": 420,
+      "net": -7246832,
+      "count": 102,
+      "cum": -286523559
+    },
+    {
+      "days": 450,
+      "net": -1946583,
+      "count": 36,
+      "cum": -288470142
+    },
+    {
+      "days": 480,
+      "net": -2939757,
+      "count": 40,
+      "cum": -291409899
+    },
+    {
+      "days": 510,
+      "net": -4757666,
+      "count": 65,
+      "cum": -296167565
+    },
+    {
+      "days": 540,
+      "net": -1502362,
+      "count": 31,
+      "cum": -297669927
+    },
+    {
+      "days": 570,
+      "net": -8785275,
+      "count": 55,
+      "cum": -306455202
+    },
+    {
+      "days": 600,
+      "net": -4412269,
+      "count": 26,
+      "cum": -310867471
+    },
+    {
+      "days": 630,
+      "net": -3956265,
+      "count": 42,
+      "cum": -314823736
+    },
+    {
+      "days": 660,
+      "net": -3645751,
+      "count": 44,
+      "cum": -318469487
+    },
+    {
+      "days": 690,
+      "net": -7853646,
+      "count": 54,
+      "cum": -326323133
+    },
+    {
+      "days": 720,
+      "net": -17500,
+      "count": 1,
+      "cum": -326340633
+    }
+  ],
+  "type_pivot": [
+    {
+      "days": 0,
+      "장내매도": -114637772,
+      "장내매수": 1456447,
+      "장외매도": -131500,
+      "장외매수": 0,
+      "시간외매매": -2030404
+    },
+    {
+      "days": 30,
+      "장내매도": -42177043,
+      "장내매수": 91639,
+      "장외매도": -495100,
+      "장외매수": 0,
+      "시간외매매": -12713909
+    },
+    {
+      "days": 60,
+      "장내매도": -12387806,
+      "장내매수": 12715,
+      "장외매도": 0,
+      "장외매수": 0,
+      "시간외매매": -4034125
+    },
+    {
+      "days": 90,
+      "장내매도": -11962148,
+      "장내매수": 277463,
+      "장외매도": -320000,
+      "장외매수": 0,
+      "시간외매매": -3370037
+    },
+    {
+      "days": 120,
+      "장내매도": -10712359,
+      "장내매수": 116638,
+      "장외매도": 0,
+      "장외매수": 0,
+      "시간외매매": -1725851
+    },
+    {
+      "days": 150,
+      "장내매도": -4109260,
+      "장내매수": 87665,
+      "장외매도": 0,
+      "장외매수": 0,
+      "시간외매매": -440567
+    },
+    {
+      "days": 180,
+      "장내매도": -12057102,
+      "장내매수": 0,
+      "장외매도": -103412,
+      "장외매수": 84000,
+      "시간외매매": -5983078
+    },
+    {
+      "days": 210,
+      "장내매도": -5525143,
+      "장내매수": 0,
+      "장외매도": 0,
+      "장외매수": 0,
+      "시간외매매": -3310000
+    },
+    {
+      "days": 240,
+      "장내매도": -7340711,
+      "장내매수": 26000,
+      "장외매도": 0,
+      "장외매수": 0,
+      "시간외매매": 0
+    },
+    {
+      "days": 270,
+      "장내매도": -6128880,
+      "장내매수": 0,
+      "장외매도": 0,
+      "장외매수": 0,
+      "시간외매매": -5366208
+    },
+    {
+      "days": 300,
+      "장내매도": -2380969,
+      "장내매수": 0,
+      "장외매도": 0,
+      "장외매수": 0,
+      "시간외매매": -501799
+    },
+    {
+      "days": 330,
+      "장내매도": -2253358,
+      "장내매수": 0,
+      "장외매도": 0,
+      "장외매수": 0,
+      "시간외매매": 0
+    },
+    {
+      "days": 360,
+      "장내매도": -2365569,
+      "장내매수": 0,
+      "장외매도": 0,
+      "장외매수": 0,
+      "시간외매매": -3894976
+    },
+    {
+      "days": 390,
+      "장내매도": -1724400,
+      "장내매수": 0,
+      "장외매도": 0,
+      "장외매수": 249950,
+      "시간외매매": -1495758
+    },
+    {
+      "days": 420,
+      "장내매도": -3344414,
+      "장내매수": 0,
+      "장외매도": 0,
+      "장외매수": 268660,
+      "시간외매매": -4171078
+    },
+    {
+      "days": 450,
+      "장내매도": -1688619,
+      "장내매수": 0,
+      "장외매도": -257964,
+      "장외매수": 0,
+      "시간외매매": 0
+    },
+    {
+      "days": 480,
+      "장내매도": -1860610,
+      "장내매수": 0,
+      "장외매도": 0,
+      "장외매수": 0,
+      "시간외매매": -1079147
+    },
+    {
+      "days": 510,
+      "장내매도": -2799344,
+      "장내매수": 0,
+      "장외매도": 0,
+      "장외매수": 0,
+      "시간외매매": -1958322
+    },
+    {
+      "days": 540,
+      "장내매도": -1502362,
+      "장내매수": 0,
+      "장외매도": 0,
+      "장외매수": 0,
+      "시간외매매": 0
+    },
+    {
+      "days": 570,
+      "장내매도": -6185275,
+      "장내매수": 0,
+      "장외매도": 0,
+      "장외매수": 0,
+      "시간외매매": -2600000
+    },
+    {
+      "days": 600,
+      "장내매도": -4062269,
+      "장내매수": 0,
+      "장외매도": 0,
+      "장외매수": 0,
+      "시간외매매": -350000
+    },
+    {
+      "days": 630,
+      "장내매도": -2256265,
+      "장내매수": 0,
+      "장외매도": 0,
+      "장외매수": 0,
+      "시간외매매": -1700000
+    },
+    {
+      "days": 660,
+      "장내매도": -3645751,
+      "장내매수": 0,
+      "장외매도": 0,
+      "장외매수": 0,
+      "시간외매매": 0
+    },
+    {
+      "days": 690,
+      "장내매도": -6353646,
+      "장내매수": 0,
+      "장외매도": 0,
+      "장외매수": 0,
+      "시간외매매": -1500000
+    },
+    {
+      "days": 720,
+      "장내매도": -17500,
+      "장내매수": 0,
+      "장외매도": 0,
+      "장외매수": 0,
+      "시간외매매": 0
+    }
+  ],
+  "type_total": [
+    {
+      "type": "장내매도",
+      "total": -269478575,
+      "count": 5099
+    },
+    {
+      "type": "장내매수",
+      "total": 2068567,
+      "count": 133
+    },
+    {
+      "type": "장외매도",
+      "total": -1307976,
+      "count": 10
+    },
+    {
+      "type": "장외매수",
+      "total": 602610,
+      "count": 5
+    },
+    {
+      "type": "시간외매매",
+      "total": -58225259,
+      "count": 158
+    }
+  ],
+  "corp_top_sell": [
+    {
+      "CORP_NM": "티쓰리",
+      "net_shares": -11580224,
+      "sell_shares": -11580224,
+      "buy_shares": 0,
+      "tx_count": 15,
+      "sell_vcs": [
+        "IDGAccelChinaGrowthFundALP",
+        "IDGAccelChinaInvestorsLP",
+        "아이디지엑셀차이나그로쓰펀드"
+      ],
+      "buy_vcs": []
+    },
+    {
+      "CORP_NM": "LS머트리얼즈",
+      "net_shares": -10505405,
+      "sell_shares": -10505405,
+      "buy_shares": 0,
+      "tx_count": 38,
+      "sell_vcs": [
+        "케이디이호투자",
+        "케이브이일호투자",
+        "케이유이호투자",
+        "케이유투자"
+      ],
+      "buy_vcs": []
+    },
+    {
+      "CORP_NM": "우듬지팜",
+      "net_shares": -9044539,
+      "sell_shares": -9044539,
+      "buy_shares": 0,
+      "tx_count": 14,
+      "sell_vcs": [
+        "2019UQIP혁신성장Followon투자조합",
+        "유큐아이피농식품투자조합제2호",
+        "인커스트라이던트어그테크사모투자합자회사",
+        "패스파인더6차산업화투자조합"
+      ],
+      "buy_vcs": []
+    },
+    {
+      "CORP_NM": "유디엠텍",
+      "net_shares": -6167943,
+      "sell_shares": -6167943,
+      "buy_shares": 0,
+      "tx_count": 6,
+      "sell_vcs": [
+        "KB지식재산투자조합",
+        "KTBN13호벤처투자조합"
+      ],
+      "buy_vcs": []
+    },
+    {
+      "CORP_NM": "오름테라퓨틱",
+      "net_shares": -5942893,
+      "sell_shares": -5942893,
+      "buy_shares": 0,
+      "tx_count": 308,
+      "sell_vcs": [
+        "2018IMM벤처펀드",
+        "2020IMM벤처펀드",
+        "KB솔리더스글로벌헬스케어펀드",
+        "KTBN16호벤처투자조합",
+        "SEMA인터베스트바이오헬스케어전문투자조합",
+        "미래창조KB창업지원투자조합",
+        "스마일게이트패스파인더펀드",
+        "스마트아이엠엠살루스헬스케어벤처펀드제2호",
+        "스타셋제1호헬스케어기술금융창업벤처전문사모투자합자회사",
+        "스타셋제2호창업벤처전문사모투자합자회사",
+        "스틱이노베이션펀드",
+        "아이엠엠살루스벤처펀드제1호",
+        "에이티넘성장투자조합2018",
+        "에프앤에프파트너스1호조합",
+        "엑스퀘어드넥스트벤처펀드제3호",
+        "와이지아이온오름신기술투자조합",
+        "인터베스트4차산업혁명투자조합Ⅱ",
+        "인터베스트오픈이노베이션사모투자합자회사",
+        "창조경제바이오펀드",
+        "충북창조경제혁신펀드",
+        "케이비글로벌플랫폼펀드",
+        "케이비성장지원펀드",
+        "포지티브세컨더리벤처투자조합제1호",
+        "포지티브세컨더리벤처투자조합제2호",
+        "프리미어글로벌이노베이션2호투자조합"
+      ],
+      "buy_vcs": []
+    },
+    {
+      "CORP_NM": "샤페론",
+      "net_shares": -5555807,
+      "sell_shares": -5555807,
+      "buy_shares": 0,
+      "tx_count": 67,
+      "sell_vcs": [
+        "2016KIF유안타ICT전문투자조합",
+        "2020포스코무림바이오신기술투자조합",
+        "KVIC유안타2015해외진출펀드",
+        "디에이밸류인베스트먼트",
+        "스마일게이트Followon투자펀드",
+        "스마일게이트딥테크사업화1호펀드",
+        "스마일게이트바이오산업펀드3호",
+        "신주인베스트먼트",
+        "엔에이치엔인베스트먼트DY투자조합",
+        "엔에이치엔인베스트먼트파트너스",
+        "유안타혁신일자리창출펀드",
+        "케이넷디에이밸류세컨더리투자조합제1호"
+      ],
+      "buy_vcs": []
+    },
+    {
+      "CORP_NM": "네오이뮨텍",
+      "net_shares": -5412158,
+      "sell_shares": -5412158,
+      "buy_shares": 0,
+      "tx_count": 6,
+      "sell_vcs": [
+        "쿼드콜라보오퍼스원포스텍창업벤처전문사모투자합자회사",
+        "파트너스2호글로벌헬스케어사모투자합자회사",
+        "파트너스제4호Growth투자조합",
+        "파트너스홀딩스"
+      ],
+      "buy_vcs": []
+    },
+    {
+      "CORP_NM": "캔버스엔",
+      "net_shares": -4737217,
+      "sell_shares": -5255827,
+      "buy_shares": 518610,
+      "tx_count": 29,
+      "sell_vcs": [
+        "에스제이투자조합",
+        "제이아이투자조합",
+        "케이에스투자조합",
+        "키움성장15호세컨더리투자조합",
+        "티모투자조합1호"
+      ],
+      "buy_vcs": [
+        "에스제이투자조합",
+        "제이아이투자조합",
+        "케이에스투자조합",
+        "티모투자조합1호"
+      ]
+    },
+    {
+      "CORP_NM": "대진첨단소재",
+      "net_shares": -4164265,
+      "sell_shares": -4164265,
+      "buy_shares": 0,
+      "tx_count": 23,
+      "sell_vcs": [
+        "에스제이뉴챌린지펀드",
+        "에스제이이에스지혁신성장펀드",
+        "에스제이퍼스트무버벤처펀드제2호",
+        "케이비에스제이관광벤처조합",
+        "코오롱2020소재부품장비투자조합",
+        "코오롱2021이노베이션투자조합"
+      ],
+      "buy_vcs": []
+    },
+    {
+      "CORP_NM": "옵티코어",
+      "net_shares": -4074000,
+      "sell_shares": -4074000,
+      "buy_shares": 0,
+      "tx_count": 4,
+      "sell_vcs": [
+        "2019SBI일자리창출펀드",
+        "프렌드신기술사업투자조합14호",
+        "프렌드신기술사업투자조합15호",
+        "프렌드신기술사업투자조합29호"
+      ],
+      "buy_vcs": []
+    },
+    {
+      "CORP_NM": "오픈엣지테크놀로지",
+      "net_shares": -3626647,
+      "sell_shares": -3626647,
+      "buy_shares": 0,
+      "tx_count": 49,
+      "sell_vcs": [
+        "스톤브릿지2020벤처투자조합",
+        "스톤브릿지DNA혁신성장투자조합",
+        "스톤브릿지영프론티어투자조합",
+        "에이티넘성장투자조합2018",
+        "이노폴리스2020과학기술성장펀드",
+        "이노폴리스공공기술기반펀드"
+      ],
+      "buy_vcs": []
+    },
+    {
+      "CORP_NM": "세아메카닉스",
+      "net_shares": -3617000,
+      "sell_shares": -3617000,
+      "buy_shares": 0,
+      "tx_count": 12,
+      "sell_vcs": [
+        "케이브이오호투자"
+      ],
+      "buy_vcs": []
+    },
+    {
+      "CORP_NM": "더블유씨피",
+      "net_shares": -3514653,
+      "sell_shares": -3514653,
+      "buy_shares": 0,
+      "tx_count": 6,
+      "sell_vcs": [
+        "2019피씨씨소재부품투자조합",
+        "씨에스에스에프투자조합",
+        "엔피성장제6호사모투자합자회사",
+        "엘아이비소부장신기술투자조합제1호"
+      ],
+      "buy_vcs": []
+    },
+    {
+      "CORP_NM": "클로봇",
+      "net_shares": -3469811,
+      "sell_shares": -3469811,
+      "buy_shares": 0,
+      "tx_count": 28,
+      "sell_vcs": [
+        "스마트엘앤에스제이와이피투자조합",
+        "스톤브릿지신한유니콘세컨더리투자조합",
+        "신한벤처투모로우투자조합1호",
+        "에이티넘성장투자조합2018",
+        "케이디비씨엘앤에스디지털혁신투자조합"
+      ],
+      "buy_vcs": []
+    },
+    {
+      "CORP_NM": "에스엠씨지",
+      "net_shares": -3275813,
+      "sell_shares": -3275813,
+      "buy_shares": 0,
+      "tx_count": 11,
+      "sell_vcs": [
+        "서울투자창조경제혁신펀드",
+        "코오롱2021이노베이션투자조합",
+        "코오롱소재부품투자펀드20142호"
+      ],
+      "buy_vcs": []
+    },
+    {
+      "CORP_NM": "노타",
+      "net_shares": -2768381,
+      "sell_shares": -2768381,
+      "buy_shares": 0,
+      "tx_count": 33,
+      "sell_vcs": [
+        "2019KIF스톤브릿지혁신기술성장TCB투자조합",
+        "IBK컴퍼니케이혁신성장펀드",
+        "e신산업LB펀드1호",
+        "스마트코리아컴퍼니케이언택트펀드",
+        "스톤브릿지DX사업재편투자조합",
+        "스톤브릿지영프론티어투자조합",
+        "엘비혁신성장펀드Ⅱ"
+      ],
+      "buy_vcs": []
+    },
+    {
+      "CORP_NM": "파두",
+      "net_shares": -2746196,
+      "sell_shares": -2746196,
+      "buy_shares": 0,
+      "tx_count": 56,
+      "sell_vcs": [
+        "세쿼이아트리2호엔코어신기술사업투자조합",
+        "세쿼이아트리3호세컨더리벤처투자조합",
+        "세쿼이아트리4호세컨더리벤처투자조합",
+        "세쿼이아트리5호세컨더리벤처투자조합",
+        "세쿼이아트리5호창업벤처전문사모투자합자회사",
+        "세쿼이아트리신기술사업투자조합",
+        "아이비케이씨제이에스제1호신기술투자조합",
+        "제이에스제1호사모투자합자회사",
+        "제이에스제3호사모투자합자회사"
+      ],
+      "buy_vcs": []
+    },
+    {
+      "CORP_NM": "지니너스",
+      "net_shares": -2610653,
+      "sell_shares": -2610653,
+      "buy_shares": 0,
+      "tx_count": 40,
+      "sell_vcs": [
+        "KB솔리더스글로벌헬스케어펀드",
+        "컴퍼니케이고성장펀드",
+        "컴퍼니케이바이오펀드",
+        "컴퍼니케이유망서비스펀드",
+        "케이비성장지원펀드"
+      ],
+      "buy_vcs": []
+    },
+    {
+      "CORP_NM": "지씨지놈",
+      "net_shares": -2600516,
+      "sell_shares": -2600516,
+      "buy_shares": 0,
+      "tx_count": 14,
+      "sell_vcs": [
+        "지노베이션1호사모투자합자회사"
+      ],
+      "buy_vcs": []
+    },
+    {
+      "CORP_NM": "동국생명과학",
+      "net_shares": -2590622,
+      "sell_shares": -2590622,
+      "buy_shares": 0,
+      "tx_count": 33,
+      "sell_vcs": [
+        "라이프밸류업사모투자합자회사"
+      ],
+      "buy_vcs": []
+    },
+    {
+      "CORP_NM": "아이비젼웍스",
+      "net_shares": -2578250,
+      "sell_shares": -2578250,
+      "buy_shares": 0,
+      "tx_count": 24,
+      "sell_vcs": [
+        "노보섹비젼벤처투자조합"
+      ],
+      "buy_vcs": []
+    },
+    {
+      "CORP_NM": "서울바이오시스",
+      "net_shares": -2575875,
+      "sell_shares": -2575875,
+      "buy_shares": 0,
+      "tx_count": 16,
+      "sell_vcs": [
+        "린드먼글로벌협력성장사모투자전문회사",
+        "린드먼아시아글로벌파이오니어사모투자합자회사"
+      ],
+      "buy_vcs": []
+    },
+    {
+      "CORP_NM": "제이오",
+      "net_shares": -2574248,
+      "sell_shares": -2574248,
+      "buy_shares": 0,
+      "tx_count": 30,
+      "sell_vcs": [
+        "아이비케이비엔더블유기술금융2018사모투자합자회사",
+        "아이비케이비엔더블유산업경쟁력성장지원사모투자합자회사"
+      ],
+      "buy_vcs": []
+    },
+    {
+      "CORP_NM": "에임드바이오",
+      "net_shares": -2510410,
+      "sell_shares": -2513410,
+      "buy_shares": 3000,
+      "tx_count": 7,
+      "sell_vcs": [
+        "인터베스트딥테크투자조합",
+        "퓨처리딩바이오투자조합"
+      ],
+      "buy_vcs": [
+        "퓨처리딩바이오투자조합"
+      ]
+    },
+    {
+      "CORP_NM": "원준",
+      "net_shares": -2492096,
+      "sell_shares": -2492096,
+      "buy_shares": 0,
+      "tx_count": 22,
+      "sell_vcs": [
+        "아이비케이에스이브이신기술사업투자조합",
+        "타임에버웰릭스신기술투자조합",
+        "피씨씨이브이신기술투자조합"
+      ],
+      "buy_vcs": []
+    },
+    {
+      "CORP_NM": "휴럼",
+      "net_shares": -2479942,
+      "sell_shares": -2479942,
+      "buy_shares": 0,
+      "tx_count": 9,
+      "sell_vcs": [
+        "2014KIFSBIIT전문투자조합",
+        "에스비아이아세안스프링보드투자조합",
+        "한국투자ReUp펀드"
+      ],
+      "buy_vcs": []
+    },
+    {
+      "CORP_NM": "고바이오랩",
+      "net_shares": -2408442,
+      "sell_shares": -2408442,
+      "buy_shares": 0,
+      "tx_count": 15,
+      "sell_vcs": [
+        "CKDStartUp1호벤처투자조합",
+        "스톤브릿지이노베이션쿼터투자조합",
+        "에이티넘뉴패러다임투자조합",
+        "에이티넘성장투자조합2018",
+        "퀄컴컴퍼니케이모바일생태계상생펀드"
+      ],
+      "buy_vcs": []
+    },
+    {
+      "CORP_NM": "슈어소프트테크",
+      "net_shares": -2364675,
+      "sell_shares": -2364675,
+      "buy_shares": 0,
+      "tx_count": 9,
+      "sell_vcs": [
+        "티앤에프2020에스에스창업벤처전문사모투자합자회사"
+      ],
+      "buy_vcs": []
+    },
+    {
+      "CORP_NM": "한울앤제주",
+      "net_shares": -2360577,
+      "sell_shares": -2360577,
+      "buy_shares": 0,
+      "tx_count": 21,
+      "sell_vcs": [
+        "SBIKIS2018투자조합",
+        "SBIKIS밸류업투자조합",
+        "미래창조네이버스톤브릿지초기기업투자조합",
+        "스톤브릿지성장디딤돌투자조합",
+        "에스비아이2018이노베이션벤처투자조합",
+        "에스비아이아세안스프링보드투자조합"
+      ],
+      "buy_vcs": []
+    },
+    {
+      "CORP_NM": "싸이닉솔루션",
+      "net_shares": -2292854,
+      "sell_shares": -2292854,
+      "buy_shares": 0,
+      "tx_count": 3,
+      "sell_vcs": [
+        "아이비케이수성PreIPO메자닌신기술투자조합제1호",
+        "아이비케이에스디자인신기술투자조합",
+        "코오롱2020소재부품장비투자조합"
+      ],
+      "buy_vcs": []
+    }
+  ],
+  "corp_top_buy": [
+    {
+      "CORP_NM": "브이씨",
+      "net_shares": 204150,
+      "sell_shares": -176650,
+      "buy_shares": 380800,
+      "tx_count": 32,
+      "sell_vcs": [
+        "엔에이치엔인베스트먼트JWP투자조합",
+        "컴퍼니케이유망서비스펀드"
+      ],
+      "buy_vcs": [
+        "CKPKIS2019투자조합",
+        "CKPKIS2020투자조합",
+        "스마트코리아컴퍼니케이언택트펀드"
+      ]
+    },
+    {
+      "CORP_NM": "에이비온",
+      "net_shares": 84000,
+      "sell_shares": 0,
+      "buy_shares": 84000,
+      "tx_count": 1,
+      "sell_vcs": [],
+      "buy_vcs": [
+        "한일인베스트먼트"
+      ]
+    },
+    {
+      "CORP_NM": "파인메딕스",
+      "net_shares": -8,
+      "sell_shares": -8,
+      "buy_shares": 0,
+      "tx_count": 1,
+      "sell_vcs": [
+        "엔브이씨바이오헬스케어2호투자조합"
+      ],
+      "buy_vcs": []
+    },
+    {
+      "CORP_NM": "삼성스팩12호",
+      "net_shares": -236,
+      "sell_shares": -236,
+      "buy_shares": 0,
+      "tx_count": 1,
+      "sell_vcs": [
+        "코너스톤투자파트너스"
+      ],
+      "buy_vcs": []
+    },
+    {
+      "CORP_NM": "오로스테크놀로지",
+      "net_shares": -400,
+      "sell_shares": -400,
+      "buy_shares": 0,
+      "tx_count": 1,
+      "sell_vcs": [
+        "키움뉴마진글로벌파트너쉽사모투자합자회사"
+      ],
+      "buy_vcs": []
+    },
+    {
+      "CORP_NM": "프로티아",
+      "net_shares": -18000,
+      "sell_shares": -18000,
+      "buy_shares": 0,
+      "tx_count": 7,
+      "sell_vcs": [
+        "한국투자글로벌제약산업육성사모투자전문회사"
+      ],
+      "buy_vcs": []
+    },
+    {
+      "CORP_NM": "바이오인프라",
+      "net_shares": -20000,
+      "sell_shares": -20000,
+      "buy_shares": 0,
+      "tx_count": 1,
+      "sell_vcs": [
+        "오엔제2호세컨더리투자조합"
+      ],
+      "buy_vcs": []
+    },
+    {
+      "CORP_NM": "아이패밀리에스씨",
+      "net_shares": -23117,
+      "sell_shares": -170177,
+      "buy_shares": 147060,
+      "tx_count": 89,
+      "sell_vcs": [
+        "타이거자산운용투자일임"
+      ],
+      "buy_vcs": [
+        "타이거자산운용투자일임"
+      ]
+    },
+    {
+      "CORP_NM": "바이젠셀",
+      "net_shares": -30079,
+      "sell_shares": -30079,
+      "buy_shares": 0,
+      "tx_count": 3,
+      "sell_vcs": [
+        "티그리스유온투자조합1호"
+      ],
+      "buy_vcs": []
+    },
+    {
+      "CORP_NM": "지에프아이",
+      "net_shares": -38690,
+      "sell_shares": -38690,
+      "buy_shares": 0,
+      "tx_count": 4,
+      "sell_vcs": [
+        "비엔케이안전신기술투자조합",
+        "비엔케이안전신기술투자조합제2호"
+      ],
+      "buy_vcs": []
+    },
+    {
+      "CORP_NM": "하나기술",
+      "net_shares": -39518,
+      "sell_shares": -39518,
+      "buy_shares": 0,
+      "tx_count": 1,
+      "sell_vcs": [
+        "KBKDBC신기술투자조합"
+      ],
+      "buy_vcs": []
+    },
+    {
+      "CORP_NM": "시선AI",
+      "net_shares": -46571,
+      "sell_shares": -46571,
+      "buy_shares": 0,
+      "tx_count": 1,
+      "sell_vcs": [
+        "하랑기술투자"
+      ],
+      "buy_vcs": []
+    },
+    {
+      "CORP_NM": "지놈앤컴퍼니",
+      "net_shares": -63000,
+      "sell_shares": -63000,
+      "buy_shares": 0,
+      "tx_count": 1,
+      "sell_vcs": [
+        "한국투자글로벌제약산업육성사모투자전문회사"
+      ],
+      "buy_vcs": []
+    },
+    {
+      "CORP_NM": "자람테크놀로지",
+      "net_shares": -64931,
+      "sell_shares": -64931,
+      "buy_shares": 0,
+      "tx_count": 1,
+      "sell_vcs": [
+        "티그리스투자조합61호"
+      ],
+      "buy_vcs": []
+    },
+    {
+      "CORP_NM": "에스앤디",
+      "net_shares": -73000,
+      "sell_shares": -73000,
+      "buy_shares": 0,
+      "tx_count": 1,
+      "sell_vcs": [
+        "유안타세컨더리2호펀드"
+      ],
+      "buy_vcs": []
+    },
+    {
+      "CORP_NM": "제놀루션",
+      "net_shares": -75000,
+      "sell_shares": -75000,
+      "buy_shares": 0,
+      "tx_count": 1,
+      "sell_vcs": [
+        "엔에이치엔인베스트먼트파트너스"
+      ],
+      "buy_vcs": []
+    },
+    {
+      "CORP_NM": "자이언트스텝",
+      "net_shares": -80000,
+      "sell_shares": -80000,
+      "buy_shares": 0,
+      "tx_count": 1,
+      "sell_vcs": [
+        "티그리스투자조합1호"
+      ],
+      "buy_vcs": []
+    },
+    {
+      "CORP_NM": "에이유브랜즈",
+      "net_shares": -87000,
+      "sell_shares": -87000,
+      "buy_shares": 0,
+      "tx_count": 9,
+      "sell_vcs": [
+        "무신사한국투자넥스트웨이브신기술사업투자조합1호"
+      ],
+      "buy_vcs": []
+    },
+    {
+      "CORP_NM": "툴젠",
+      "net_shares": -100103,
+      "sell_shares": -100103,
+      "buy_shares": 0,
+      "tx_count": 4,
+      "sell_vcs": [
+        "미래창조LB선도기업투자펀드20호"
+      ],
+      "buy_vcs": []
+    },
+    {
+      "CORP_NM": "HPSP",
+      "net_shares": -108040,
+      "sell_shares": -108040,
+      "buy_shares": 0,
+      "tx_count": 6,
+      "sell_vcs": [
+        "2021HB반도체세컨더리투자조합"
+      ],
+      "buy_vcs": []
+    },
+    {
+      "CORP_NM": "이지스",
+      "net_shares": -108328,
+      "sell_shares": -108328,
+      "buy_shares": 0,
+      "tx_count": 3,
+      "sell_vcs": [
+        "2021에이스톤일자리투자조합",
+        "2023에이스톤청년창업투자조합",
+        "2024에이스톤프로젝트제5호투자조합"
+      ],
+      "buy_vcs": []
+    },
+    {
+      "CORP_NM": "심플랫폼",
+      "net_shares": -118294,
+      "sell_shares": -118294,
+      "buy_shares": 0,
+      "tx_count": 1,
+      "sell_vcs": [
+        "IBK금융그룹IP창조투자조합제2호"
+      ],
+      "buy_vcs": []
+    },
+    {
+      "CORP_NM": "우양에이치씨",
+      "net_shares": -122105,
+      "sell_shares": -122105,
+      "buy_shares": 0,
+      "tx_count": 4,
+      "sell_vcs": [
+        "나우아이비캐피탈"
+      ],
+      "buy_vcs": []
+    },
+    {
+      "CORP_NM": "스튜디오미르",
+      "net_shares": -131500,
+      "sell_shares": -131500,
+      "buy_shares": 0,
+      "tx_count": 1,
+      "sell_vcs": [
+        "LB넥스트유니콘펀드"
+      ],
+      "buy_vcs": []
+    },
+    {
+      "CORP_NM": "케이옥션",
+      "net_shares": -132238,
+      "sell_shares": -132238,
+      "buy_shares": 0,
+      "tx_count": 3,
+      "sell_vcs": [
+        "티그리스인베스트먼트",
+        "티그리스투자조합34호"
+      ],
+      "buy_vcs": []
+    },
+    {
+      "CORP_NM": "넥스트바이오메디컬",
+      "net_shares": -133333,
+      "sell_shares": -133333,
+      "buy_shares": 0,
+      "tx_count": 1,
+      "sell_vcs": [
+        "2018IMM벤처펀드"
+      ],
+      "buy_vcs": []
+    },
+    {
+      "CORP_NM": "블루엠텍",
+      "net_shares": -136781,
+      "sell_shares": -136781,
+      "buy_shares": 0,
+      "tx_count": 1,
+      "sell_vcs": [
+        "블루2022신기술사업투자조합"
+      ],
+      "buy_vcs": []
+    },
+    {
+      "CORP_NM": "와이제이링크",
+      "net_shares": -141660,
+      "sell_shares": -141660,
+      "buy_shares": 0,
+      "tx_count": 1,
+      "sell_vcs": [
+        "대구시아이비피ABB성장투자1호조합"
+      ],
+      "buy_vcs": []
+    },
+    {
+      "CORP_NM": "미트박스",
+      "net_shares": -142868,
+      "sell_shares": -142868,
+      "buy_shares": 0,
+      "tx_count": 5,
+      "sell_vcs": [
+        "알파글로벌스타펀드"
+      ],
+      "buy_vcs": []
+    },
+    {
+      "CORP_NM": "에코앤드림",
+      "net_shares": -144018,
+      "sell_shares": -144018,
+      "buy_shares": 0,
+      "tx_count": 2,
+      "sell_vcs": [
+        "KB121벤처조합",
+        "케이비인베스트먼트"
+      ],
+      "buy_vcs": []
+    }
+  ],
+  "vc_top_sell": [
+    {
+      "SHR_HD_NM": "아이디지엑셀차이나그로쓰펀드",
+      "net_shares": -8924960,
+      "sell_shares": -8924960,
+      "buy_shares": 0,
+      "tx_count": 5,
+      "corps": [
+        "티쓰리"
+      ],
+      "source": []
+    },
+    {
+      "SHR_HD_NM": "케이브이일호투자",
+      "net_shares": -5141314,
+      "sell_shares": -5141314,
+      "buy_shares": 0,
+      "tx_count": 13,
+      "corps": [
+        "LS머트리얼즈"
+      ],
+      "source": []
+    },
+    {
+      "SHR_HD_NM": "에이티넘성장투자조합2018",
+      "net_shares": -4942409,
+      "sell_shares": -4942409,
+      "buy_shares": 0,
+      "tx_count": 59,
+      "corps": [
+        "고바이오랩",
+        "민테크",
+        "비씨엔씨",
+        "씨메스",
+        "아이빔테크놀로지",
+        "오가노이드사이언스",
+        "오름테라퓨틱",
+        "오픈엣지테크놀로지",
+        "원티드랩",
+        "인투셀",
+        "컨텍",
+        "클로봇"
+      ],
+      "source": [
+        "KVCA"
+      ]
+    },
+    {
+      "SHR_HD_NM": "KB지식재산투자조합",
+      "net_shares": -4338125,
+      "sell_shares": -4338125,
+      "buy_shares": 0,
+      "tx_count": 3,
+      "corps": [
+        "유디엠텍",
+        "이지트로닉스"
+      ],
+      "source": [
+        "KVCA"
+      ]
+    },
+    {
+      "SHR_HD_NM": "인커스트라이던트어그테크사모투자합자회사",
+      "net_shares": -4200239,
+      "sell_shares": -4200239,
+      "buy_shares": 0,
+      "tx_count": 7,
+      "corps": [
+        "우듬지팜"
+      ],
+      "source": []
+    },
+    {
+      "SHR_HD_NM": "아이비케이비엔더블유기술금융2018사모투자합자회사",
+      "net_shares": -3792047,
+      "sell_shares": -3792047,
+      "buy_shares": 0,
+      "tx_count": 26,
+      "corps": [
+        "성일하이텍",
+        "제이오",
+        "청담글로벌",
+        "포스뱅크"
+      ],
+      "source": []
+    },
+    {
+      "SHR_HD_NM": "케이브이오호투자",
+      "net_shares": -3617000,
+      "sell_shares": -3617000,
+      "buy_shares": 0,
+      "tx_count": 12,
+      "corps": [
+        "세아메카닉스"
+      ],
+      "source": []
+    },
+    {
+      "SHR_HD_NM": "신주인베스트먼트",
+      "net_shares": -3200000,
+      "sell_shares": -3200000,
+      "buy_shares": 0,
+      "tx_count": 6,
+      "corps": [
+        "샤페론"
+      ],
+      "source": []
+    },
+    {
+      "SHR_HD_NM": "KTBN13호벤처투자조합",
+      "net_shares": -3173361,
+      "sell_shares": -3173361,
+      "buy_shares": 0,
+      "tx_count": 33,
+      "corps": [
+        "버넥트",
+        "유디엠텍",
+        "젝시믹스"
+      ],
+      "source": [
+        "KVCA"
+      ]
+    },
+    {
+      "SHR_HD_NM": "2019SBI일자리창출펀드",
+      "net_shares": -3034903,
+      "sell_shares": -3034903,
+      "buy_shares": 0,
+      "tx_count": 6,
+      "corps": [
+        "뉴로핏",
+        "실리콘투",
+        "아이지넷",
+        "옵티코어"
+      ],
+      "source": [
+        "KVCA"
+      ]
+    },
+    {
+      "SHR_HD_NM": "유암코삼호그린중소기업성장사모투자합자회사",
+      "net_shares": -2983992,
+      "sell_shares": -2983992,
+      "buy_shares": 0,
+      "tx_count": 17,
+      "corps": [
+        "브레인즈컴퍼니",
+        "율촌",
+        "한주라이트메탈"
+      ],
+      "source": []
+    },
+    {
+      "SHR_HD_NM": "코오롱2020소재부품장비투자조합",
+      "net_shares": -2893309,
+      "sell_shares": -2893309,
+      "buy_shares": 0,
+      "tx_count": 16,
+      "corps": [
+        "뉴로핏",
+        "대진첨단소재",
+        "싸이닉솔루션",
+        "아이씨에이치",
+        "이노스페이스",
+        "이엔셀"
+      ],
+      "source": [
+        "KVCA"
+      ]
+    },
+    {
+      "SHR_HD_NM": "코오롱2021이노베이션투자조합",
+      "net_shares": -2787673,
+      "sell_shares": -2787673,
+      "buy_shares": 0,
+      "tx_count": 26,
+      "corps": [
+        "뉴로핏",
+        "대진첨단소재",
+        "시지트로닉스",
+        "에스엠씨지",
+        "엔알비",
+        "이노스페이스"
+      ],
+      "source": [
+        "KVCA"
+      ]
+    },
+    {
+      "SHR_HD_NM": "파트너스제4호Growth투자조합",
+      "net_shares": -2649720,
+      "sell_shares": -2649720,
+      "buy_shares": 0,
+      "tx_count": 12,
+      "corps": [
+        "네오이뮨텍",
+        "셀레믹스",
+        "퀀타매트릭스"
+      ],
+      "source": []
+    },
+    {
+      "SHR_HD_NM": "지노베이션1호사모투자합자회사",
+      "net_shares": -2600516,
+      "sell_shares": -2600516,
+      "buy_shares": 0,
+      "tx_count": 14,
+      "corps": [
+        "지씨지놈"
+      ],
+      "source": []
+    },
+    {
+      "SHR_HD_NM": "케이유투자",
+      "net_shares": -2590888,
+      "sell_shares": -2590888,
+      "buy_shares": 0,
+      "tx_count": 11,
+      "corps": [
+        "LS머트리얼즈"
+      ],
+      "source": []
+    },
+    {
+      "SHR_HD_NM": "라이프밸류업사모투자합자회사",
+      "net_shares": -2590622,
+      "sell_shares": -2590622,
+      "buy_shares": 0,
+      "tx_count": 33,
+      "corps": [
+        "동국생명과학"
+      ],
+      "source": []
+    },
+    {
+      "SHR_HD_NM": "노보섹비젼벤처투자조합",
+      "net_shares": -2578250,
+      "sell_shares": -2578250,
+      "buy_shares": 0,
+      "tx_count": 24,
+      "corps": [
+        "아이비젼웍스"
+      ],
+      "source": []
+    },
+    {
+      "SHR_HD_NM": "티앤에프2020에스에스창업벤처전문사모투자합자회사",
+      "net_shares": -2364675,
+      "sell_shares": -2364675,
+      "buy_shares": 0,
+      "tx_count": 9,
+      "corps": [
+        "슈어소프트테크"
+      ],
+      "source": []
+    },
+    {
+      "SHR_HD_NM": "패스파인더6차산업화투자조합",
+      "net_shares": -2364300,
+      "sell_shares": -2364300,
+      "buy_shares": 0,
+      "tx_count": 3,
+      "corps": [
+        "우듬지팜"
+      ],
+      "source": []
+    },
+    {
+      "SHR_HD_NM": "유큐아이피농식품투자조합제2호",
+      "net_shares": -2338769,
+      "sell_shares": -2338769,
+      "buy_shares": 0,
+      "tx_count": 2,
+      "corps": [
+        "우듬지팜"
+      ],
+      "source": []
+    },
+    {
+      "SHR_HD_NM": "KTBN16호벤처투자조합",
+      "net_shares": -2171459,
+      "sell_shares": -2171459,
+      "buy_shares": 0,
+      "tx_count": 187,
+      "corps": [
+        "HEM파마",
+        "비씨엔씨",
+        "쏘닉스",
+        "아이씨에이치",
+        "오름테라퓨틱",
+        "원티드랩",
+        "젝시믹스",
+        "플라즈맵"
+      ],
+      "source": [
+        "KVCA"
+      ]
+    },
+    {
+      "SHR_HD_NM": "하나반도체신기술투자조합",
+      "net_shares": -2156327,
+      "sell_shares": -2156327,
+      "buy_shares": 0,
+      "tx_count": 4,
+      "corps": [
+        "네패스아크"
+      ],
+      "source": []
+    },
+    {
+      "SHR_HD_NM": "엔피성장제6호사모투자합자회사",
+      "net_shares": -2150988,
+      "sell_shares": -2150988,
+      "buy_shares": 0,
+      "tx_count": 2,
+      "corps": [
+        "더블유씨피"
+      ],
+      "source": []
+    },
+    {
+      "SHR_HD_NM": "에이케이케이로보테크밸류업신기술투자조합",
+      "net_shares": -2135509,
+      "sell_shares": -2135509,
+      "buy_shares": 0,
+      "tx_count": 8,
+      "corps": [
+        "제닉스로보틱스"
+      ],
+      "source": []
+    },
+    {
+      "SHR_HD_NM": "원익뉴그로쓰2020사모투자합자회사",
+      "net_shares": -2130743,
+      "sell_shares": -2130743,
+      "buy_shares": 0,
+      "tx_count": 13,
+      "corps": [
+        "동방메디컬",
+        "쎄크"
+      ],
+      "source": []
+    },
+    {
+      "SHR_HD_NM": "아주좋은성장지원펀드",
+      "net_shares": -1951314,
+      "sell_shares": -1951314,
+      "buy_shares": 0,
+      "tx_count": 26,
+      "corps": [
+        "닷밀",
+        "모아데이타",
+        "오가노이드사이언스",
+        "오에스피",
+        "지아이이노베이션"
+      ],
+      "source": []
+    },
+    {
+      "SHR_HD_NM": "컴퍼니케이유망서비스펀드",
+      "net_shares": -1919289,
+      "sell_shares": -1919289,
+      "buy_shares": 0,
+      "tx_count": 24,
+      "corps": [
+        "브이씨",
+        "지니너스",
+        "현대ADM"
+      ],
+      "source": [
+        "KVCA"
+      ]
+    },
+    {
+      "SHR_HD_NM": "케이유이호투자",
+      "net_shares": -1888907,
+      "sell_shares": -1888907,
+      "buy_shares": 0,
+      "tx_count": 13,
+      "corps": [
+        "LS머트리얼즈"
+      ],
+      "source": []
+    },
+    {
+      "SHR_HD_NM": "린드먼아시아글로벌파이오니어사모투자합자회사",
+      "net_shares": -1880284,
+      "sell_shares": -1880284,
+      "buy_shares": 0,
+      "tx_count": 8,
+      "corps": [
+        "서울바이오시스"
+      ],
+      "source": []
+    }
+  ],
+  "vc_top_buy": [
+    {
+      "SHR_HD_NM": "CKPKIS2019투자조합",
+      "net_shares": 93100,
+      "sell_shares": 0,
+      "buy_shares": 93100,
+      "tx_count": 10,
+      "corps": [
+        "브이씨"
+      ],
+      "source": []
+    },
+    {
+      "SHR_HD_NM": "한일인베스트먼트",
+      "net_shares": 84000,
+      "sell_shares": 0,
+      "buy_shares": 84000,
+      "tx_count": 1,
+      "corps": [
+        "에이비온"
+      ],
+      "source": []
+    },
+    {
+      "SHR_HD_NM": "오픈워터인베스트먼트",
+      "net_shares": 46000,
+      "sell_shares": -16581,
+      "buy_shares": 62581,
+      "tx_count": 14,
+      "corps": [
+        "링크솔루션",
+        "에이럭스"
+      ],
+      "source": [
+        "VCS",
+        "KVCA"
+      ]
+    },
+    {
+      "SHR_HD_NM": "CKPKIS2020투자조합",
+      "net_shares": 33100,
+      "sell_shares": 0,
+      "buy_shares": 33100,
+      "tx_count": 10,
+      "corps": [
+        "브이씨"
+      ],
+      "source": []
+    },
+    {
+      "SHR_HD_NM": "윈베스트벤처투자",
+      "net_shares": 900,
+      "sell_shares": 0,
+      "buy_shares": 900,
+      "tx_count": 1,
+      "corps": [
+        "씨어스테크놀로지"
+      ],
+      "source": [
+        "VCS",
+        "KVCA"
+      ]
+    },
+    {
+      "SHR_HD_NM": "KAIKGROWTH탄소중립기술혁신투자조합",
+      "net_shares": 0,
+      "sell_shares": 0,
+      "buy_shares": 0,
+      "tx_count": 1,
+      "corps": [
+        "아우토크립트"
+      ],
+      "source": []
+    },
+    {
+      "SHR_HD_NM": "서울글로벌바이오메디컬신성장동력투자펀드",
+      "net_shares": 0,
+      "sell_shares": 0,
+      "buy_shares": 0,
+      "tx_count": 1,
+      "corps": [
+        "프로티아"
+      ],
+      "source": []
+    },
+    {
+      "SHR_HD_NM": "엔브이씨바이오헬스케어2호투자조합",
+      "net_shares": -8,
+      "sell_shares": -8,
+      "buy_shares": 0,
+      "tx_count": 1,
+      "corps": [
+        "파인메딕스"
+      ],
+      "source": [
+        "KVCA"
+      ]
+    },
+    {
+      "SHR_HD_NM": "토니인베스트먼트",
+      "net_shares": -180,
+      "sell_shares": -180,
+      "buy_shares": 0,
+      "tx_count": 1,
+      "corps": [
+        "이노룰스"
+      ],
+      "source": [
+        "VCS",
+        "KVCA"
+      ]
+    },
+    {
+      "SHR_HD_NM": "시너지아이비투자",
+      "net_shares": -394,
+      "sell_shares": -394,
+      "buy_shares": 0,
+      "tx_count": 1,
+      "corps": [
+        "케이엔알시스템"
+      ],
+      "source": [
+        "VCS"
+      ]
+    },
+    {
+      "SHR_HD_NM": "키움뉴마진글로벌파트너쉽사모투자합자회사",
+      "net_shares": -400,
+      "sell_shares": -400,
+      "buy_shares": 0,
+      "tx_count": 1,
+      "corps": [
+        "오로스테크놀로지"
+      ],
+      "source": []
+    },
+    {
+      "SHR_HD_NM": "티그리스인베스트먼트",
+      "net_shares": -610,
+      "sell_shares": -610,
+      "buy_shares": 0,
+      "tx_count": 2,
+      "corps": [
+        "씨어스테크놀로지",
+        "케이옥션"
+      ],
+      "source": []
+    },
+    {
+      "SHR_HD_NM": "제이비인베스트먼트",
+      "net_shares": -757,
+      "sell_shares": -757,
+      "buy_shares": 0,
+      "tx_count": 1,
+      "corps": [
+        "노머스"
+      ],
+      "source": [
+        "VCS",
+        "KVCA"
+      ]
+    },
+    {
+      "SHR_HD_NM": "베스트바이오8호투자조합",
+      "net_shares": -1258,
+      "sell_shares": -1258,
+      "buy_shares": 0,
+      "tx_count": 1,
+      "corps": [
+        "씨어스테크놀로지"
+      ],
+      "source": [
+        "KVCA"
+      ]
+    },
+    {
+      "SHR_HD_NM": "엔에이치나우농식품1호사모투자합자회사",
+      "net_shares": -2250,
+      "sell_shares": -2250,
+      "buy_shares": 0,
+      "tx_count": 1,
+      "corps": [
+        "세니젠"
+      ],
+      "source": []
+    },
+    {
+      "SHR_HD_NM": "데일리임파워링바이오헬스케어펀드1호",
+      "net_shares": -3693,
+      "sell_shares": -3693,
+      "buy_shares": 0,
+      "tx_count": 1,
+      "corps": [
+        "와이바이오로직스"
+      ],
+      "source": [
+        "KVCA"
+      ]
+    },
+    {
+      "SHR_HD_NM": "코너스톤투자파트너스",
+      "net_shares": -4535,
+      "sell_shares": -4535,
+      "buy_shares": 0,
+      "tx_count": 2,
+      "corps": [
+        "삼성스팩12호",
+        "아이언디바이스"
+      ],
+      "source": []
+    },
+    {
+      "SHR_HD_NM": "진앤인베스트먼트",
+      "net_shares": -5000,
+      "sell_shares": -5000,
+      "buy_shares": 0,
+      "tx_count": 1,
+      "corps": [
+        "아크릴"
+      ],
+      "source": []
+    },
+    {
+      "SHR_HD_NM": "현대투자파트너스",
+      "net_shares": -5435,
+      "sell_shares": -5435,
+      "buy_shares": 0,
+      "tx_count": 2,
+      "corps": [
+        "서남"
+      ],
+      "source": [
+        "VCS",
+        "KVCA"
+      ]
+    },
+    {
+      "SHR_HD_NM": "윈베스트21호투자조합",
+      "net_shares": -5650,
+      "sell_shares": -5650,
+      "buy_shares": 0,
+      "tx_count": 7,
+      "corps": [
+        "HEM파마"
+      ],
+      "source": [
+        "KVCA"
+      ]
+    },
+    {
+      "SHR_HD_NM": "글로벌ICT융합펀드",
+      "net_shares": -5914,
+      "sell_shares": -5914,
+      "buy_shares": 0,
+      "tx_count": 2,
+      "corps": [
+        "에스씨엠생명과학"
+      ],
+      "source": [
+        "KVCA"
+      ]
+    },
+    {
+      "SHR_HD_NM": "케이티디에스씨KTDSC창조경제청년창업투자조합",
+      "net_shares": -5914,
+      "sell_shares": -5914,
+      "buy_shares": 0,
+      "tx_count": 2,
+      "corps": [
+        "에스씨엠생명과학"
+      ],
+      "source": []
+    },
+    {
+      "SHR_HD_NM": "마그나액시스관광벤처펀드",
+      "net_shares": -6408,
+      "sell_shares": -6408,
+      "buy_shares": 0,
+      "tx_count": 1,
+      "corps": [
+        "쓰리빌리언"
+      ],
+      "source": []
+    },
+    {
+      "SHR_HD_NM": "스마트iM디지털그린벤처펀드2호",
+      "net_shares": -6599,
+      "sell_shares": -6599,
+      "buy_shares": 0,
+      "tx_count": 1,
+      "corps": [
+        "나라스페이스테크놀로지"
+      ],
+      "source": [
+        "KVCA"
+      ]
+    },
+    {
+      "SHR_HD_NM": "스타셋제1호헬스케어기술금융창업벤처전문사모투자합자회사",
+      "net_shares": -6668,
+      "sell_shares": -6668,
+      "buy_shares": 0,
+      "tx_count": 2,
+      "corps": [
+        "오름테라퓨틱"
+      ],
+      "source": []
+    },
+    {
+      "SHR_HD_NM": "한국투자Future투자조합17",
+      "net_shares": -7323,
+      "sell_shares": -7323,
+      "buy_shares": 0,
+      "tx_count": 2,
+      "corps": [
+        "KT밀리의서재"
+      ],
+      "source": []
+    },
+    {
+      "SHR_HD_NM": "한국투자Growth투자조합17",
+      "net_shares": -7323,
+      "sell_shares": -7323,
+      "buy_shares": 0,
+      "tx_count": 2,
+      "corps": [
+        "KT밀리의서재"
+      ],
+      "source": []
+    },
+    {
+      "SHR_HD_NM": "한국투자Impact투자조합17",
+      "net_shares": -7323,
+      "sell_shares": -7323,
+      "buy_shares": 0,
+      "tx_count": 2,
+      "corps": [
+        "KT밀리의서재"
+      ],
+      "source": []
+    },
+    {
+      "SHR_HD_NM": "한국투자Joint투자조합17",
+      "net_shares": -7323,
+      "sell_shares": -7323,
+      "buy_shares": 0,
+      "tx_count": 2,
+      "corps": [
+        "KT밀리의서재"
+      ],
+      "source": []
+    },
+    {
+      "SHR_HD_NM": "한국투자High투자조합17",
+      "net_shares": -7324,
+      "sell_shares": -7324,
+      "buy_shares": 0,
+      "tx_count": 2,
+      "corps": [
+        "KT밀리의서재"
+      ],
+      "source": []
+    }
+  ],
+  "types": [
+    "장내매도",
+    "장내매수",
+    "장외매도",
+    "장외매수",
+    "시간외매매"
+  ],
+  "summary": {
+    "total_records": 5405,
+    "total_stocks": 303,
+    "total_vcs": 669,
+    "total_net": -326340633,
+    "buy": 2671177,
+    "sell": -329011810,
+    "buy_count": 138,
+    "sell_count": 5265
+  }
+}
