@@ -295,7 +295,7 @@ function entityChart(divId, mainOrSub, getVal) {
     marker: {color: PERIOD_COLORS[i]}
   }));
   Plotly.newPlot(divId, traces,
-    {barmode:'group', yaxis:{title:'순매수 (억원)'}, margin:{t:20,r:20}, legend:{x:0.75,y:0.95}}, PLOTLY_CFG);
+    {barmode:'group', yaxis:{title:'순매수 (억원)'}, margin:{t:20,r:20}, legend:{x:1,y:1,xanchor:'right',yanchor:'top'}}, PLOTLY_CFG);
 }
 
 // --- 요약 테이블 ---
