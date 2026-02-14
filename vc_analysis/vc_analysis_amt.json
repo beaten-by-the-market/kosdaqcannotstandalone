@@ -2,259 +2,259 @@
   "total_bin": [
     {
       "days": 0,
-      "net": -1827868620873,
-      "count": 975,
-      "cum": -1827868620873,
-      "net_pct_mcap": -4.5018,
-      "net_pct_offering": -27.2602,
-      "cum_pct_mcap": -4.5018,
-      "cum_pct_offering": -27.2602
+      "net": -1825760176405,
+      "count": 968,
+      "cum": -1825760176405,
+      "net_pct_mcap": -4.4966,
+      "net_pct_offering": -27.2288,
+      "cum_pct_mcap": -4.4966,
+      "cum_pct_offering": -27.2288
     },
     {
       "days": 30,
       "net": -821678895434,
       "count": 664,
-      "cum": -2649547516307,
+      "cum": -2647439071839,
       "net_pct_mcap": -2.0237,
       "net_pct_offering": -12.2542,
-      "cum_pct_mcap": -6.5255,
-      "cum_pct_offering": -39.5144
+      "cum_pct_mcap": -6.5203,
+      "cum_pct_offering": -39.483
     },
     {
       "days": 60,
-      "net": -220238492083,
-      "count": 369,
-      "cum": -2869786008390,
+      "net": -220236803029,
+      "count": 368,
+      "cum": -2867675874868,
       "net_pct_mcap": -0.5424,
-      "net_pct_offering": -3.2846,
-      "cum_pct_mcap": -7.0679,
-      "cum_pct_offering": -42.799
+      "net_pct_offering": -3.2845,
+      "cum_pct_mcap": -7.0627,
+      "cum_pct_offering": -42.7675
     },
     {
       "days": 90,
-      "net": -242037109407,
-      "count": 324,
-      "cum": -3111823117797,
-      "net_pct_mcap": -0.5961,
-      "net_pct_offering": -3.6097,
-      "cum_pct_mcap": -7.664,
-      "cum_pct_offering": -46.4087
+      "net": -179537109407,
+      "count": 323,
+      "cum": -3047212984275,
+      "net_pct_mcap": -0.4422,
+      "net_pct_offering": -2.6776,
+      "cum_pct_mcap": -7.5049,
+      "cum_pct_offering": -45.4451
     },
     {
       "days": 120,
       "net": -122530402169,
       "count": 289,
-      "cum": -3234353519966,
+      "cum": -3169743386444,
       "net_pct_mcap": -0.3018,
       "net_pct_offering": -1.8274,
-      "cum_pct_mcap": -7.9658,
-      "cum_pct_offering": -48.236
+      "cum_pct_mcap": -7.8067,
+      "cum_pct_offering": -47.2725
     },
     {
       "days": 150,
       "net": -47727263413,
       "count": 164,
-      "cum": -3282080783379,
+      "cum": -3217470649857,
       "net_pct_mcap": -0.1175,
       "net_pct_offering": -0.7118,
-      "cum_pct_mcap": -8.0833,
-      "cum_pct_offering": -48.9478
+      "cum_pct_mcap": -7.9242,
+      "cum_pct_offering": -47.9842
     },
     {
       "days": 180,
       "net": -125242253363,
       "count": 110,
-      "cum": -3407323036742,
+      "cum": -3342712903220,
       "net_pct_mcap": -0.3085,
       "net_pct_offering": -1.8678,
-      "cum_pct_mcap": -8.3918,
-      "cum_pct_offering": -50.8156
+      "cum_pct_mcap": -8.2327,
+      "cum_pct_offering": -49.8521
     },
     {
       "days": 210,
       "net": -83110125546,
       "count": 56,
-      "cum": -3490433162288,
+      "cum": -3425823028766,
       "net_pct_mcap": -0.2047,
       "net_pct_offering": -1.2395,
-      "cum_pct_mcap": -8.5965,
-      "cum_pct_offering": -52.0551
+      "cum_pct_mcap": -8.4374,
+      "cum_pct_offering": -51.0915
     },
     {
       "days": 240,
       "net": -84186359988,
       "count": 94,
-      "cum": -3574619522276,
+      "cum": -3510009388754,
       "net_pct_mcap": -0.2073,
       "net_pct_offering": -1.2555,
-      "cum_pct_mcap": -8.8038,
-      "cum_pct_offering": -53.3106
+      "cum_pct_mcap": -8.6447,
+      "cum_pct_offering": -52.3471
     },
     {
       "days": 270,
       "net": -235479177803,
       "count": 70,
-      "cum": -3810098700079,
+      "cum": -3745488566557,
       "net_pct_mcap": -0.58,
       "net_pct_offering": -3.5119,
-      "cum_pct_mcap": -9.3838,
-      "cum_pct_offering": -56.8225
+      "cum_pct_mcap": -9.2246,
+      "cum_pct_offering": -55.8589
     },
     {
       "days": 300,
       "net": -15264549996,
       "count": 14,
-      "cum": -3825363250075,
+      "cum": -3760753116553,
       "net_pct_mcap": -0.0376,
       "net_pct_offering": -0.2277,
-      "cum_pct_mcap": -9.4214,
-      "cum_pct_offering": -57.0501
+      "cum_pct_mcap": -9.2622,
+      "cum_pct_offering": -56.0866
     },
     {
       "days": 330,
       "net": -16519677515,
       "count": 29,
-      "cum": -3841882927590,
+      "cum": -3777272794068,
       "net_pct_mcap": -0.0407,
       "net_pct_offering": -0.2464,
-      "cum_pct_mcap": -9.4621,
-      "cum_pct_offering": -57.2965
+      "cum_pct_mcap": -9.3029,
+      "cum_pct_offering": -56.3329
     },
     {
       "days": 360,
       "net": -47104421187,
       "count": 116,
-      "cum": -3888987348777,
+      "cum": -3824377215255,
       "net_pct_mcap": -0.116,
       "net_pct_offering": -0.7025,
-      "cum_pct_mcap": -9.5781,
-      "cum_pct_offering": -57.999
+      "cum_pct_mcap": -9.4189,
+      "cum_pct_offering": -57.0354
     },
     {
       "days": 390,
       "net": -28467857957,
       "count": 54,
-      "cum": -3917455206734,
+      "cum": -3852845073212,
       "net_pct_mcap": -0.0701,
       "net_pct_offering": -0.4246,
-      "cum_pct_mcap": -9.6482,
-      "cum_pct_offering": -58.4236
+      "cum_pct_mcap": -9.4891,
+      "cum_pct_offering": -57.46
     },
     {
       "days": 420,
       "net": -50165803868,
       "count": 54,
-      "cum": -3967621010602,
+      "cum": -3903010877080,
       "net_pct_mcap": -0.1236,
       "net_pct_offering": -0.7482,
-      "cum_pct_mcap": -9.7717,
-      "cum_pct_offering": -59.1717
+      "cum_pct_mcap": -9.6126,
+      "cum_pct_offering": -58.2082
     },
     {
       "days": 450,
       "net": -7442916905,
       "count": 18,
-      "cum": -3975063927507,
+      "cum": -3910453793985,
       "net_pct_mcap": -0.0183,
       "net_pct_offering": -0.111,
-      "cum_pct_mcap": -9.7901,
-      "cum_pct_offering": -59.2827
+      "cum_pct_mcap": -9.6309,
+      "cum_pct_offering": -58.3192
     },
     {
       "days": 480,
       "net": -9000830295,
       "count": 12,
-      "cum": -3984064757802,
+      "cum": -3919454624280,
       "net_pct_mcap": -0.0222,
       "net_pct_offering": -0.1342,
-      "cum_pct_mcap": -9.8122,
-      "cum_pct_offering": -59.417
+      "cum_pct_mcap": -9.6531,
+      "cum_pct_offering": -58.4534
     },
     {
       "days": 510,
       "net": -144341043209,
       "count": 30,
-      "cum": -4128405801011,
+      "cum": -4063795667489,
       "net_pct_mcap": -0.3555,
       "net_pct_offering": -2.1527,
-      "cum_pct_mcap": -10.1677,
-      "cum_pct_offering": -61.5696
+      "cum_pct_mcap": -10.0086,
+      "cum_pct_offering": -60.606
     },
     {
       "days": 540,
       "net": -10283798838,
       "count": 25,
-      "cum": -4138689599849,
+      "cum": -4074079466327,
       "net_pct_mcap": -0.0253,
       "net_pct_offering": -0.1534,
-      "cum_pct_mcap": -10.1931,
-      "cum_pct_offering": -61.723
+      "cum_pct_mcap": -10.0339,
+      "cum_pct_offering": -60.7594
     },
     {
       "days": 570,
       "net": -5908673125,
       "count": 42,
-      "cum": -4144598272974,
+      "cum": -4079988139452,
       "net_pct_mcap": -0.0146,
       "net_pct_offering": -0.0881,
-      "cum_pct_mcap": -10.2076,
-      "cum_pct_offering": -61.8111
+      "cum_pct_mcap": -10.0485,
+      "cum_pct_offering": -60.8475
     },
     {
       "days": 600,
       "net": -2013807832,
       "count": 10,
-      "cum": -4146612080806,
+      "cum": -4082001947284,
       "net_pct_mcap": -0.005,
       "net_pct_offering": -0.03,
-      "cum_pct_mcap": -10.2126,
-      "cum_pct_offering": -61.8411
+      "cum_pct_mcap": -10.0534,
+      "cum_pct_offering": -60.8776
     },
     {
       "days": 630,
       "net": -12197188035,
       "count": 22,
-      "cum": -4158809268841,
+      "cum": -4094199135319,
       "net_pct_mcap": -0.03,
       "net_pct_offering": -0.1819,
-      "cum_pct_mcap": -10.2426,
-      "cum_pct_offering": -62.023
+      "cum_pct_mcap": -10.0835,
+      "cum_pct_offering": -61.0595
     },
     {
       "days": 660,
       "net": -3871678992,
       "count": 27,
-      "cum": -4162680947833,
+      "cum": -4098070814311,
       "net_pct_mcap": -0.0095,
       "net_pct_offering": -0.0577,
-      "cum_pct_mcap": -10.2521,
-      "cum_pct_offering": -62.0808
+      "cum_pct_mcap": -10.093,
+      "cum_pct_offering": -61.1172
     },
     {
       "days": 690,
       "net": -14664435976,
       "count": 29,
-      "cum": -4177345383809,
+      "cum": -4112735250287,
       "net_pct_mcap": -0.0361,
       "net_pct_offering": -0.2187,
-      "cum_pct_mcap": -10.2883,
-      "cum_pct_offering": -62.2995
+      "cum_pct_mcap": -10.1291,
+      "cum_pct_offering": -61.3359
     },
     {
       "days": 720,
       "net": -147140000,
       "count": 1,
-      "cum": -4177492523809,
+      "cum": -4112882390287,
       "net_pct_mcap": -0.0004,
       "net_pct_offering": -0.0022,
-      "cum_pct_mcap": -10.2886,
-      "cum_pct_offering": -62.3017
+      "cum_pct_mcap": -10.1295,
+      "cum_pct_offering": -61.3381
     }
   ],
   "type_pivot": [
     {
       "days": 0,
-      "장내매도": -1804962086026,
+      "장내매도": -1802853641558,
       "장내매수": 400208653,
       "장외매도": -5405833500,
       "장외매수": 0,
@@ -270,7 +270,7 @@
     },
     {
       "days": 60,
-      "장내매도": -161690098330,
+      "장내매도": -161688409276,
       "장내매수": 1248931,
       "장외매도": 0,
       "장외매수": 0,
@@ -278,7 +278,7 @@
     },
     {
       "days": 90,
-      "장내매도": -175515320552,
+      "장내매도": -113015320552,
       "장내매수": 880967192,
       "장외매도": -900160000,
       "장외매수": 0,
@@ -456,9 +456,9 @@
   "type_total": [
     {
       "type": "장내매도",
-      "total_amount": -3364114369986,
-      "total_shares": -147919894,
-      "count": 3467
+      "total_amount": -3299504236464,
+      "total_shares": -146668793,
+      "count": 3458
     },
     {
       "type": "장내매수",
@@ -708,29 +708,6 @@
       "ipo_offering": 70730000000,
       "pct_mcap": -11.15,
       "pct_offering": -111.21
-    },
-    {
-      "corp_name": "뉴로메카",
-      "net_amount": -76254800581,
-      "sell_amount": -76254800581,
-      "buy_amount": 0,
-      "net_shares": -1050166,
-      "sell_shares": -1050166,
-      "buy_shares": 0,
-      "tx_count": 42,
-      "sell_vcs": [
-        "KAI-ONE IT 1호 신기술투자조합",
-        "KTBN 8호 투자조합",
-        "디에스씨 팔로우온(DSC Follow-on) 성장사다리펀드",
-        "디에스씨(DSC)유망서비스산업펀드",
-        "디에스씨드림엑스청년창업펀드"
-      ],
-      "buy_vcs": [],
-      "stock_code": "348340",
-      "ipo_mcap": 166556598000,
-      "ipo_offering": 25350000000,
-      "pct_mcap": -45.78,
-      "pct_offering": -300.81
     },
     {
       "corp_name": "디앤디파마텍",
@@ -1187,6 +1164,29 @@
       "ipo_offering": 20700000000,
       "pct_mcap": -27.47,
       "pct_offering": -170.31
+    },
+    {
+      "corp_name": "압타머사이언스",
+      "net_amount": -34387695055,
+      "sell_amount": -34387695055,
+      "buy_amount": 0,
+      "net_shares": -1277670,
+      "sell_shares": -1277670,
+      "buy_shares": 0,
+      "tx_count": 59,
+      "sell_vcs": [
+        "경남지앤텍창조경제혁신펀드",
+        "지앤텍3호벤처투자조합",
+        "지앤텍명장세컨더리투자조합",
+        "키움고성장가젤기업펀드",
+        "한-영 이노베이션펀드 제1호"
+      ],
+      "buy_vcs": [],
+      "stock_code": "291650",
+      "ipo_mcap": 211653150000,
+      "ipo_offering": 32500000000,
+      "pct_mcap": -16.25,
+      "pct_offering": -105.81
     }
   ],
   "corp_top_buy": [
@@ -1821,16 +1821,15 @@
     },
     {
       "SPC_NM": "에이티넘성장투자조합2018",
-      "net_amount": -72049785444,
-      "sell_amount": -72049785444,
+      "net_amount": -70941315888,
+      "sell_amount": -70941315888,
       "buy_amount": 0,
-      "net_shares": -4942409,
-      "sell_shares": -4942409,
+      "net_shares": -4085295,
+      "sell_shares": -4085295,
       "buy_shares": 0,
-      "tx_count": 59,
+      "tx_count": 54,
       "corps": [
         "고바이오랩",
-        "민테크",
         "비씨엔씨",
         "씨메스",
         "아이빔테크놀로지",
@@ -1839,21 +1838,7 @@
         "오픈엣지테크놀로지",
         "원티드랩",
         "인투셀",
-        "컨텍",
-        "클로봇"
-      ]
-    },
-    {
-      "SPC_NM": "KAI-ONE IT 1호 신기술투자조합",
-      "net_amount": -62500000000,
-      "sell_amount": -62500000000,
-      "buy_amount": 0,
-      "net_shares": -250000,
-      "sell_shares": -250000,
-      "buy_shares": 0,
-      "tx_count": 1,
-      "corps": [
-        "뉴로메카"
+        "컨텍"
       ]
     },
     {
@@ -2216,6 +2201,19 @@
       "corps": [
         "비트맥스",
         "오토앤"
+      ]
+    },
+    {
+      "SPC_NM": "타임에버웰릭스신기술투자조합",
+      "net_amount": -26289531281,
+      "sell_amount": -26289531281,
+      "buy_amount": 0,
+      "net_shares": -804268,
+      "sell_shares": -804268,
+      "buy_shares": 0,
+      "tx_count": 9,
+      "corps": [
+        "원준"
       ]
     }
   ],
@@ -5050,399 +5048,6 @@
           "amount": -21780000000,
           "shares": -300000,
           "rcept_no": "20251222000374"
-        }
-      ]
-    },
-    {
-      "corp_name": "뉴로메카",
-      "stock_code": "348340",
-      "net_amount": -76254800581,
-      "sell_amount": -76254800581,
-      "buy_amount": 0,
-      "net_shares": -1050166,
-      "tx_count": 42,
-      "ipo_mcap": 166556598000,
-      "ipo_offering": 25350000000,
-      "pct_mcap": -45.78,
-      "pct_offering": -300.81,
-      "disclosures": [
-        {
-          "date": "2022-11-04",
-          "days": 0,
-          "vc": "KTBN 8호 투자조합",
-          "type": "장내매도",
-          "amount": -3221540000,
-          "shares": -140000,
-          "rcept_no": "20221110000367"
-        },
-        {
-          "date": "2022-11-04",
-          "days": 0,
-          "vc": "디에스씨 팔로우온(DSC Follow-on) 성장사다리펀드",
-          "type": "장내매도",
-          "amount": -258750000,
-          "shares": -10350,
-          "rcept_no": "20221110000052"
-        },
-        {
-          "date": "2022-11-04",
-          "days": 0,
-          "vc": "디에스씨(DSC)유망서비스산업펀드",
-          "type": "장내매도",
-          "amount": -588100000,
-          "shares": -23524,
-          "rcept_no": "20221110000052"
-        },
-        {
-          "date": "2022-11-04",
-          "days": 0,
-          "vc": "디에스씨(DSC)유망서비스산업펀드",
-          "type": "장내매도",
-          "amount": -168377500,
-          "shares": -7165,
-          "rcept_no": "20221110000052"
-        },
-        {
-          "date": "2022-11-04",
-          "days": 0,
-          "vc": "디에스씨드림엑스청년창업펀드",
-          "type": "장내매도",
-          "amount": -329350000,
-          "shares": -13174,
-          "rcept_no": "20221110000052"
-        },
-        {
-          "date": "2022-11-21",
-          "days": 17,
-          "vc": "디에스씨 팔로우온(DSC Follow-on) 성장사다리펀드",
-          "type": "장내매도",
-          "amount": -93809751,
-          "shares": -4969,
-          "rcept_no": "20230113000227"
-        },
-        {
-          "date": "2022-11-21",
-          "days": 17,
-          "vc": "디에스씨(DSC)유망서비스산업펀드",
-          "type": "장내매도",
-          "amount": -52332588,
-          "shares": -2772,
-          "rcept_no": "20230113000227"
-        },
-        {
-          "date": "2022-11-21",
-          "days": 17,
-          "vc": "디에스씨드림엑스청년창업펀드",
-          "type": "장내매도",
-          "amount": -74748960,
-          "shares": -3960,
-          "rcept_no": "20230113000227"
-        },
-        {
-          "date": "2022-11-22",
-          "days": 18,
-          "vc": "디에스씨드림엑스청년창업펀드",
-          "type": "장내매도",
-          "amount": -82086218,
-          "shares": -4478,
-          "rcept_no": "20230113000227"
-        },
-        {
-          "date": "2022-11-22",
-          "days": 18,
-          "vc": "디에스씨(DSC)유망서비스산업펀드",
-          "type": "장내매도",
-          "amount": -135971040,
-          "shares": -7422,
-          "rcept_no": "20230113000227"
-        },
-        {
-          "date": "2022-11-22",
-          "days": 18,
-          "vc": "디에스씨 팔로우온(DSC Follow-on) 성장사다리펀드",
-          "type": "장내매도",
-          "amount": -57728568,
-          "shares": -3147,
-          "rcept_no": "20230113000227"
-        },
-        {
-          "date": "2022-11-23",
-          "days": 19,
-          "vc": "디에스씨 팔로우온(DSC Follow-on) 성장사다리펀드",
-          "type": "장내매도",
-          "amount": -214704574,
-          "shares": -12586,
-          "rcept_no": "20230113000227"
-        },
-        {
-          "date": "2022-11-23",
-          "days": 19,
-          "vc": "디에스씨(DSC)유망서비스산업펀드",
-          "type": "장내매도",
-          "amount": -506748920,
-          "shares": -29690,
-          "rcept_no": "20230113000227"
-        },
-        {
-          "date": "2022-11-23",
-          "days": 19,
-          "vc": "디에스씨드림엑스청년창업펀드",
-          "type": "장내매도",
-          "amount": -305669970,
-          "shares": -17910,
-          "rcept_no": "20230113000227"
-        },
-        {
-          "date": "2022-12-05",
-          "days": 31,
-          "vc": "KTBN 8호 투자조합",
-          "type": "장내매도",
-          "amount": -344280000,
-          "shares": -24000,
-          "rcept_no": "20230106000577"
-        },
-        {
-          "date": "2022-12-06",
-          "days": 32,
-          "vc": "KTBN 8호 투자조합",
-          "type": "장내매도",
-          "amount": -324346000,
-          "shares": -23000,
-          "rcept_no": "20230106000577"
-        },
-        {
-          "date": "2022-12-08",
-          "days": 34,
-          "vc": "KTBN 8호 투자조합",
-          "type": "장내매도",
-          "amount": -56100000,
-          "shares": -4000,
-          "rcept_no": "20230106000577"
-        },
-        {
-          "date": "2022-12-09",
-          "days": 35,
-          "vc": "KTBN 8호 투자조합",
-          "type": "장내매도",
-          "amount": -280136000,
-          "shares": -19000,
-          "rcept_no": "20230106000577"
-        },
-        {
-          "date": "2022-12-13",
-          "days": 39,
-          "vc": "KTBN 8호 투자조합",
-          "type": "장내매도",
-          "amount": -296580000,
-          "shares": -20000,
-          "rcept_no": "20230106000577"
-        },
-        {
-          "date": "2022-12-14",
-          "days": 40,
-          "vc": "KTBN 8호 투자조합",
-          "type": "장내매도",
-          "amount": -282302000,
-          "shares": -19000,
-          "rcept_no": "20230106000577"
-        },
-        {
-          "date": "2022-12-15",
-          "days": 41,
-          "vc": "KTBN 8호 투자조합",
-          "type": "장내매도",
-          "amount": -315147000,
-          "shares": -21000,
-          "rcept_no": "20230106000577"
-        },
-        {
-          "date": "2022-12-16",
-          "days": 42,
-          "vc": "KTBN 8호 투자조합",
-          "type": "장내매도",
-          "amount": -284540000,
-          "shares": -20000,
-          "rcept_no": "20230106000577"
-        },
-        {
-          "date": "2022-12-19",
-          "days": 45,
-          "vc": "KTBN 8호 투자조합",
-          "type": "장내매도",
-          "amount": -282500000,
-          "shares": -20000,
-          "rcept_no": "20230106000577"
-        },
-        {
-          "date": "2022-12-20",
-          "days": 46,
-          "vc": "KTBN 8호 투자조합",
-          "type": "장내매도",
-          "amount": -386595000,
-          "shares": -27500,
-          "rcept_no": "20230106000577"
-        },
-        {
-          "date": "2022-12-21",
-          "days": 47,
-          "vc": "KTBN 8호 투자조합",
-          "type": "장내매도",
-          "amount": -377382500,
-          "shares": -27500,
-          "rcept_no": "20230106000577"
-        },
-        {
-          "date": "2022-12-22",
-          "days": 48,
-          "vc": "KTBN 8호 투자조합",
-          "type": "장내매도",
-          "amount": -386045000,
-          "shares": -27500,
-          "rcept_no": "20230106000577"
-        },
-        {
-          "date": "2023-01-03",
-          "days": 60,
-          "vc": "KTBN 8호 투자조합",
-          "type": "장내매도",
-          "amount": -335610000,
-          "shares": -27500,
-          "rcept_no": "20230106000577"
-        },
-        {
-          "date": "2023-01-04",
-          "days": 61,
-          "vc": "KTBN 8호 투자조합",
-          "type": "장내매도",
-          "amount": -91469000,
-          "shares": -7000,
-          "rcept_no": "20230106000577"
-        },
-        {
-          "date": "2023-01-05",
-          "days": 62,
-          "vc": "KTBN 8호 투자조합",
-          "type": "장내매도",
-          "amount": -339432000,
-          "shares": -24000,
-          "rcept_no": "20230106000577"
-        },
-        {
-          "date": "2023-01-06",
-          "days": 63,
-          "vc": "디에스씨(DSC)유망서비스산업펀드",
-          "type": "장내매도",
-          "amount": -574321398,
-          "shares": -37879,
-          "rcept_no": "20230113000227"
-        },
-        {
-          "date": "2023-01-06",
-          "days": 63,
-          "vc": "디에스씨드림엑스청년창업펀드",
-          "type": "장내매도",
-          "amount": -319722336,
-          "shares": -21213,
-          "rcept_no": "20230113000227"
-        },
-        {
-          "date": "2023-01-06",
-          "days": 63,
-          "vc": "디에스씨 팔로우온(DSC Follow-on) 성장사다리펀드",
-          "type": "장내매도",
-          "amount": -250273322,
-          "shares": -16666,
-          "rcept_no": "20230113000227"
-        },
-        {
-          "date": "2023-01-09",
-          "days": 66,
-          "vc": "디에스씨 팔로우온(DSC Follow-on) 성장사다리펀드",
-          "type": "장내매도",
-          "amount": -45760000,
-          "shares": -2860,
-          "rcept_no": "20230113000227"
-        },
-        {
-          "date": "2023-01-09",
-          "days": 66,
-          "vc": "디에스씨(DSC)유망서비스산업펀드",
-          "type": "장내매도",
-          "amount": -104000000,
-          "shares": -6500,
-          "rcept_no": "20230113000227"
-        },
-        {
-          "date": "2023-01-09",
-          "days": 66,
-          "vc": "디에스씨드림엑스청년창업펀드",
-          "type": "장내매도",
-          "amount": -58240000,
-          "shares": -3640,
-          "rcept_no": "20230113000227"
-        },
-        {
-          "date": "2023-01-10",
-          "days": 67,
-          "vc": "디에스씨 팔로우온(DSC Follow-on) 성장사다리펀드",
-          "type": "장내매도",
-          "amount": -202232580,
-          "shares": -12540,
-          "rcept_no": "20230113000227"
-        },
-        {
-          "date": "2023-01-10",
-          "days": 67,
-          "vc": "디에스씨(DSC)유망서비스산업펀드",
-          "type": "장내매도",
-          "amount": -487686276,
-          "shares": -30261,
-          "rcept_no": "20230113000227"
-        },
-        {
-          "date": "2023-01-10",
-          "days": 67,
-          "vc": "디에스씨드림엑스청년창업펀드",
-          "type": "장내매도",
-          "amount": -257498640,
-          "shares": -15960,
-          "rcept_no": "20230113000227"
-        },
-        {
-          "date": "2023-01-11",
-          "days": 68,
-          "vc": "디에스씨드림엑스청년창업펀드",
-          "type": "장내매도",
-          "amount": -284682480,
-          "shares": -17520,
-          "rcept_no": "20230113000227"
-        },
-        {
-          "date": "2023-01-11",
-          "days": 68,
-          "vc": "디에스씨 팔로우온(DSC Follow-on) 성장사다리펀드",
-          "type": "장내매도",
-          "amount": -210950960,
-          "shares": -12980,
-          "rcept_no": "20230113000227"
-        },
-        {
-          "date": "2023-01-11",
-          "days": 68,
-          "vc": "디에스씨(DSC)유망서비스산업펀드",
-          "type": "장내매도",
-          "amount": -487050000,
-          "shares": -30000,
-          "rcept_no": "20230113000227"
-        },
-        {
-          "date": "2023-02-24",
-          "days": 112,
-          "vc": "KAI-ONE IT 1호 신기술투자조합",
-          "type": "장내매도",
-          "amount": -62500000000,
-          "shares": -250000,
-          "rcept_no": "20230307000365"
         }
       ]
     },
@@ -9966,6 +9571,30 @@
           "rcept_no": "20210817000264"
         }
       ]
+    },
+    {
+      "corp_name": "네오이뮨텍",
+      "stock_code": "950220",
+      "net_amount": -29590000000,
+      "sell_amount": -29590000000,
+      "buy_amount": 0,
+      "net_shares": -2000000,
+      "tx_count": 1,
+      "ipo_mcap": 737940075000,
+      "ipo_offering": 112500000000,
+      "pct_mcap": -4.01,
+      "pct_offering": -26.3,
+      "disclosures": [
+        {
+          "date": "2021-03-16",
+          "days": 0,
+          "vc": "파트너스제4호Growth투자조합",
+          "type": "장내매도",
+          "amount": -29590000000,
+          "shares": -2000000,
+          "rcept_no": "20210323001105"
+        }
+      ]
     }
   ],
   "missing_price": {
@@ -10879,17 +10508,17 @@
     "시간외매매"
   ],
   "summary": {
-    "total_records": 3598,
+    "total_records": 3589,
     "total_stocks": 210,
-    "total_vcs": 535,
-    "total_net_amount": -4177492523809,
+    "total_vcs": 534,
+    "total_net_amount": -4112882390287,
     "buy_amount": 1894301204,
-    "sell_amount": -4179386825013,
-    "total_net_shares": -178066067,
+    "sell_amount": -4114776691491,
+    "total_net_shares": -176814966,
     "buy_shares": 138618,
-    "sell_shares": -178204685,
+    "sell_shares": -176953584,
     "buy_count": 26,
-    "sell_count": 3546,
+    "sell_count": 3537,
     "ipo_vc_count": 675,
     "ipo_stock_count": 236,
     "ipo_pair_count": 862,
@@ -10898,579 +10527,5 @@
     "funnel_ipo_total": 403,
     "funnel_raw_stocks": 401,
     "funnel_vc_stocks": 258
-  },
-  "non_common_stocks": [
-    {
-      "stock_code": "950220",
-      "corp_name": "네오이뮨텍",
-      "records": [
-        {
-          "spc_nm": "쿼드콜라보오퍼스원포스텍창업벤처전문사모투자합자회사",
-          "stk_knd": "증권예탁증권",
-          "hld_mth_adj": "신규상장(+)",
-          "mdf_dt": "2021.03.16",
-          "mdf_sdk_cnt": "3,750,000",
-          "hld_unt_pr": "-",
-          "afr_mdf_cnt": "3,750,000",
-          "bfr_mdf_cnt": "-",
-          "rmk": "-",
-          "rcept_no_new": "20210323000598",
-          "has_common": false,
-          "common_info": null
-        }
-      ]
-    },
-    {
-      "stock_code": "330860",
-      "corp_name": "네패스아크",
-      "records": [
-        {
-          "spc_nm": "하나반도체신기술투자조합",
-          "stk_knd": "의결권있는 주식으로 전환될주식",
-          "hld_mth_adj": "신규상장(+)",
-          "mdf_dt": "2020.11.17",
-          "mdf_sdk_cnt": "34,652",
-          "hld_unt_pr": "-",
-          "afr_mdf_cnt": "34,652",
-          "bfr_mdf_cnt": "-",
-          "rmk": "-",
-          "rcept_no_new": "20201124000161",
-          "has_common": true,
-          "common_info": {
-            "qty": "1,043,515",
-            "unit_price": "-",
-            "afr_cnt": "1,043,515"
-          }
-        },
-        {
-          "spc_nm": "하나반도체신기술투자조합",
-          "stk_knd": "전환사채권",
-          "hld_mth_adj": "신규상장(+)",
-          "mdf_dt": "2020.11.17",
-          "mdf_sdk_cnt": "1,078,160",
-          "hld_unt_pr": "-",
-          "afr_mdf_cnt": "1,078,160",
-          "bfr_mdf_cnt": "-",
-          "rmk": "-",
-          "rcept_no_new": "20201124000161",
-          "has_common": true,
-          "common_info": {
-            "qty": "1,043,515",
-            "unit_price": "-",
-            "afr_cnt": "1,043,515"
-          }
-        }
-      ]
-    },
-    {
-      "stock_code": "351320",
-      "corp_name": "넥사다이내믹스",
-      "records": [
-        {
-          "spc_nm": "메이플투자파트너스(주)",
-          "stk_knd": "전환사채권",
-          "hld_mth_adj": "신규상장(+)",
-          "mdf_dt": "2020.06.22",
-          "mdf_sdk_cnt": "290,000",
-          "hld_unt_pr": "1,000",
-          "afr_mdf_cnt": "290,000",
-          "bfr_mdf_cnt": "-",
-          "rmk": "-",
-          "rcept_no_new": "20200626000108",
-          "has_common": true,
-          "common_info": {
-            "qty": "10,000",
-            "unit_price": "1,000",
-            "afr_cnt": "10,000"
-          }
-        }
-      ]
-    },
-    {
-      "stock_code": "376930",
-      "corp_name": "노을",
-      "records": [
-        {
-          "spc_nm": "2020 프리미어 스케일업 투자조합",
-          "stk_knd": "의결권있는 주식으로 전환될주식",
-          "hld_mth_adj": "신규상장(+)",
-          "mdf_dt": "2022.03.03",
-          "mdf_sdk_cnt": "316,455",
-          "hld_unt_pr": "-&cr;(   -)",
-          "afr_mdf_cnt": "316,455",
-          "bfr_mdf_cnt": "-",
-          "rmk": "-",
-          "rcept_no_new": "20220310000673",
-          "has_common": false,
-          "common_info": null
-        },
-        {
-          "spc_nm": "2020 프리미어 스케일업 투자조합",
-          "stk_knd": "의결권있는 주식으로 전환될주식",
-          "hld_mth_adj": "신규상장(+)",
-          "mdf_dt": "2022.03.03",
-          "mdf_sdk_cnt": "316,455",
-          "hld_unt_pr": "-&cr;(   -)",
-          "afr_mdf_cnt": "316,455",
-          "bfr_mdf_cnt": "-",
-          "rmk": "-",
-          "rcept_no_new": "20220310000579",
-          "has_common": false,
-          "common_info": null
-        }
-      ]
-    },
-    {
-      "stock_code": "393970",
-      "corp_name": "대진첨단소재",
-      "records": [
-        {
-          "spc_nm": "에스제이 지비 이에스지 혁신 펀드",
-          "stk_knd": "전환사채권",
-          "hld_mth_adj": "신규상장(+)",
-          "mdf_dt": "2025.03.06",
-          "mdf_sdk_cnt": "317,460",
-          "hld_unt_pr": "-",
-          "afr_mdf_cnt": "317,460",
-          "bfr_mdf_cnt": "-",
-          "rmk": "-",
-          "rcept_no_new": "20250313000872",
-          "has_common": false,
-          "common_info": null
-        }
-      ]
-    },
-    {
-      "stock_code": "363260",
-      "corp_name": "모비데이즈",
-      "records": [
-        {
-          "spc_nm": "(주)하나벤처스",
-          "stk_knd": "전환사채권",
-          "hld_mth_adj": "신규상장(유상취득)(+)",
-          "mdf_dt": "2021.02.10",
-          "mdf_sdk_cnt": "800,000",
-          "hld_unt_pr": "1,000",
-          "afr_mdf_cnt": "800,000",
-          "bfr_mdf_cnt": "-",
-          "rmk": "발기시 취득",
-          "rcept_no_new": "20210222002332",
-          "has_common": false,
-          "common_info": null
-        }
-      ]
-    },
-    {
-      "stock_code": "352480",
-      "corp_name": "씨앤씨인터내셔널",
-      "records": [
-        {
-          "spc_nm": "아주 중소벤처 해외진출 지원펀드",
-          "stk_knd": "전환사채권",
-          "hld_mth_adj": "신규상장(유상취득)(+)",
-          "mdf_dt": "2021.05.17",
-          "mdf_sdk_cnt": "127,817",
-          "hld_unt_pr": "33,250",
-          "afr_mdf_cnt": "127,817",
-          "bfr_mdf_cnt": "-",
-          "rmk": "-",
-          "rcept_no_new": "20210520000285",
-          "has_common": false,
-          "common_info": null
-        }
-      ]
-    },
-    {
-      "stock_code": "359090",
-      "corp_name": "씨엔알리서치",
-      "records": [
-        {
-          "spc_nm": "에이아이피벤처파트너스(주)",
-          "stk_knd": "전환사채권",
-          "hld_mth_adj": "신규상장(+)",
-          "mdf_dt": "2020.09.23",
-          "mdf_sdk_cnt": "200,000",
-          "hld_unt_pr": "&cr;1,000",
-          "afr_mdf_cnt": "200,000",
-          "bfr_mdf_cnt": "-",
-          "rmk": "-",
-          "rcept_no_new": "20201012000115",
-          "has_common": false,
-          "common_info": null
-        },
-        {
-          "spc_nm": "에이아이피벤처파트너스(주)",
-          "stk_knd": "전환사채권",
-          "hld_mth_adj": "신규상장(+)",
-          "mdf_dt": "2020.09.23",
-          "mdf_sdk_cnt": "200,000",
-          "hld_unt_pr": "1,000",
-          "afr_mdf_cnt": "200,000",
-          "bfr_mdf_cnt": "-",
-          "rmk": "-",
-          "rcept_no_new": "20201012000113",
-          "has_common": false,
-          "common_info": null
-        }
-      ]
-    },
-    {
-      "stock_code": "304360",
-      "corp_name": "에스바이오메딕스",
-      "records": [
-        {
-          "spc_nm": "미래에쿼티 제33호 신기술사업투자조합",
-          "stk_knd": "신주인수권부사채권",
-          "hld_mth_adj": "신규상장(+)",
-          "mdf_dt": "2023.05.04",
-          "mdf_sdk_cnt": "320,000",
-          "hld_unt_pr": "-",
-          "afr_mdf_cnt": "320,000",
-          "bfr_mdf_cnt": "-",
-          "rmk": "신규상장",
-          "rcept_no_new": "20230510000740",
-          "has_common": false,
-          "common_info": null
-        },
-        {
-          "spc_nm": "미래에쿼티 제35호 신기술사업투자조합",
-          "stk_knd": "신주인수권부사채권",
-          "hld_mth_adj": "신규상장(+)",
-          "mdf_dt": "2023.05.04",
-          "mdf_sdk_cnt": "28,800",
-          "hld_unt_pr": "-",
-          "afr_mdf_cnt": "28,800",
-          "bfr_mdf_cnt": "-",
-          "rmk": "신규상장",
-          "rcept_no_new": "20230510000740",
-          "has_common": false,
-          "common_info": null
-        }
-      ]
-    },
-    {
-      "stock_code": "475230",
-      "corp_name": "엔알비",
-      "records": [
-        {
-          "spc_nm": "에스엘아이 퀀텀 성장 2호 펀드",
-          "stk_knd": "전환사채권",
-          "hld_mth_adj": "신규상장(+)",
-          "mdf_dt": "2025.07.28",
-          "mdf_sdk_cnt": "316,456",
-          "hld_unt_pr": "-",
-          "afr_mdf_cnt": "316,456",
-          "bfr_mdf_cnt": "-",
-          "rmk": "코스닥 상장",
-          "rcept_no_new": "20250805000050",
-          "has_common": false,
-          "common_info": null
-        },
-        {
-          "spc_nm": "우리 2022스케일업 펀드",
-          "stk_knd": "전환사채권",
-          "hld_mth_adj": "신규상장(+)",
-          "mdf_dt": "2025.07.28",
-          "mdf_sdk_cnt": "316,456",
-          "hld_unt_pr": "15,800",
-          "afr_mdf_cnt": "316,456",
-          "bfr_mdf_cnt": "-",
-          "rmk": "-",
-          "rcept_no_new": "20250804000191",
-          "has_common": false,
-          "common_info": null
-        },
-        {
-          "spc_nm": "코오롱 2021 이노베이션 투자조합",
-          "stk_knd": "전환사채권",
-          "hld_mth_adj": "신규상장(+)",
-          "mdf_dt": "2025.07.28",
-          "mdf_sdk_cnt": "158,228",
-          "hld_unt_pr": "-",
-          "afr_mdf_cnt": "158,228",
-          "bfr_mdf_cnt": "-",
-          "rmk": "미전환 보유",
-          "rcept_no_new": "20250801000642",
-          "has_common": true,
-          "common_info": {
-            "qty": "463,742",
-            "unit_price": "-",
-            "afr_cnt": "463,742"
-          }
-        },
-        {
-          "spc_nm": "아이비케이-코오롱 2023 초격차 투자조합",
-          "stk_knd": "전환사채권",
-          "hld_mth_adj": "신규상장(+)",
-          "mdf_dt": "2025.07.28",
-          "mdf_sdk_cnt": "158,228",
-          "hld_unt_pr": "-",
-          "afr_mdf_cnt": "158,228",
-          "bfr_mdf_cnt": "-",
-          "rmk": "미전환 보유",
-          "rcept_no_new": "20250801000642",
-          "has_common": false,
-          "common_info": null
-        }
-      ]
-    },
-    {
-      "stock_code": "289930",
-      "corp_name": "웨이비스",
-      "records": [
-        {
-          "spc_nm": "제이앤 무림 웨이브 신기술사업투자조합",
-          "stk_knd": "전환사채권",
-          "hld_mth_adj": "신규상장(+)",
-          "mdf_dt": "2024.10.25",
-          "mdf_sdk_cnt": "517,241",
-          "hld_unt_pr": "11,600",
-          "afr_mdf_cnt": "517,241",
-          "bfr_mdf_cnt": "-",
-          "rmk": "-",
-          "rcept_no_new": "20241031000545",
-          "has_common": true,
-          "common_info": {
-            "qty": "517,241",
-            "unit_price": "11,600",
-            "afr_cnt": "517,241"
-          }
-        }
-      ]
-    },
-    {
-      "stock_code": "240600",
-      "corp_name": "유진테크놀로지",
-      "records": [
-        {
-          "spc_nm": "하베스트제1호창업벤처전문사모투자 합자회사",
-          "stk_knd": "전환사채권",
-          "hld_mth_adj": "신규상장(유상취득)(+)",
-          "mdf_dt": "2023.11.02",
-          "mdf_sdk_cnt": "666,666",
-          "hld_unt_pr": "7,500",
-          "afr_mdf_cnt": "666,666",
-          "bfr_mdf_cnt": "-",
-          "rmk": "최초 취득단가이며, 신규상장일 종가는 21,200원임",
-          "rcept_no_new": "20231106000262",
-          "has_common": false,
-          "common_info": null
-        }
-      ]
-    },
-    {
-      "stock_code": "432470",
-      "corp_name": "케이엔에스",
-      "records": [
-        {
-          "spc_nm": "신영 HT 제4호 신기술사업투자조합",
-          "stk_knd": "전환사채권",
-          "hld_mth_adj": "신규상장(+)",
-          "mdf_dt": "2023.12.06",
-          "mdf_sdk_cnt": "416,221",
-          "hld_unt_pr": "-",
-          "afr_mdf_cnt": "416,221",
-          "bfr_mdf_cnt": "-",
-          "rmk": "코스닥 시장 상장에 따른 기존 보유 전환사채 신규 보고이므로 취득단가를 기재하지 않음",
-          "rcept_no_new": "20231213000039",
-          "has_common": false,
-          "common_info": null
-        }
-      ]
-    },
-    {
-      "stock_code": "950250",
-      "corp_name": "테라뷰",
-      "records": [
-        {
-          "spc_nm": "ULMUS 2024 SECONDARY FUND",
-          "stk_knd": "증권예탁증권",
-          "hld_mth_adj": "신규상장(무상취득)(+)",
-          "mdf_dt": "2025.12.09",
-          "mdf_sdk_cnt": "734,095",
-          "hld_unt_pr": "-",
-          "afr_mdf_cnt": "734,095",
-          "bfr_mdf_cnt": "-",
-          "rmk": "-",
-          "rcept_no_new": "20251216000103",
-          "has_common": false,
-          "common_info": null
-        },
-        {
-          "spc_nm": "PATHFINDER YOUNG ENTREPRENEURS VENTURE FUND",
-          "stk_knd": "증권예탁증권",
-          "hld_mth_adj": "신규상장(무상취득)(+)",
-          "mdf_dt": "2025.12.09",
-          "mdf_sdk_cnt": "271,352",
-          "hld_unt_pr": "-",
-          "afr_mdf_cnt": "271,352",
-          "bfr_mdf_cnt": "-",
-          "rmk": "-",
-          "rcept_no_new": "20251216000103",
-          "has_common": false,
-          "common_info": null
-        }
-      ]
-    },
-    {
-      "stock_code": "318020",
-      "corp_name": "포인트모바일",
-      "records": [
-        {
-          "spc_nm": "로드스톤 제1호 창업벤처전문 사모투자합자회사",
-          "stk_knd": "신주인수권부사채권",
-          "hld_mth_adj": "신규상장(유상취득)(+)",
-          "mdf_dt": "2020.12.03",
-          "mdf_sdk_cnt": "43,500",
-          "hld_unt_pr": "5,124",
-          "afr_mdf_cnt": "43,500",
-          "bfr_mdf_cnt": "-",
-          "rmk": "-",
-          "rcept_no_new": "20201211000016",
-          "has_common": true,
-          "common_info": {
-            "qty": "299,950",
-            "unit_price": "7,320",
-            "afr_cnt": "299,950"
-          }
-        },
-        {
-          "spc_nm": "로드스톤 제1호 창업벤처전문 사모투자합자회사",
-          "stk_knd": "신주인수권부사채권",
-          "hld_mth_adj": "신규상장(무상취득)(+)",
-          "mdf_dt": "2020.12.03",
-          "mdf_sdk_cnt": "14,450",
-          "hld_unt_pr": "5,124",
-          "afr_mdf_cnt": "14,450",
-          "bfr_mdf_cnt": "-",
-          "rmk": "-",
-          "rcept_no_new": "20201211000016",
-          "has_common": true,
-          "common_info": {
-            "qty": "299,950",
-            "unit_price": "7,320",
-            "afr_cnt": "299,950"
-          }
-        },
-        {
-          "spc_nm": "아주 중소벤처 해외진출 지원펀드",
-          "stk_knd": "신주인수권부사채권",
-          "hld_mth_adj": "신규상장(유상취득)(+)",
-          "mdf_dt": "2020.12.03",
-          "mdf_sdk_cnt": "34,977",
-          "hld_unt_pr": "5,124",
-          "afr_mdf_cnt": "34,977",
-          "bfr_mdf_cnt": "-",
-          "rmk": "-",
-          "rcept_no_new": "20201210000212",
-          "has_common": true,
-          "common_info": {
-            "qty": "281,477",
-            "unit_price": "7,358",
-            "afr_cnt": "281,477"
-          }
-        },
-        {
-          "spc_nm": "아주 중소벤처 해외진출 지원펀드",
-          "stk_knd": "신주인수권부사채권",
-          "hld_mth_adj": "신규상장(무상취득)(+)",
-          "mdf_dt": "2020.12.03",
-          "mdf_sdk_cnt": "11,618",
-          "hld_unt_pr": "5,124",
-          "afr_mdf_cnt": "11,618",
-          "bfr_mdf_cnt": "-",
-          "rmk": "-",
-          "rcept_no_new": "20201210000212",
-          "has_common": true,
-          "common_info": {
-            "qty": "281,477",
-            "unit_price": "7,358",
-            "afr_cnt": "281,477"
-          }
-        },
-        {
-          "spc_nm": "IMM 세컨더리 벤처펀드 제2호",
-          "stk_knd": "신주인수권이표시된것",
-          "hld_mth_adj": "신규상장(+)",
-          "mdf_dt": "2020.12.03",
-          "mdf_sdk_cnt": "31,793",
-          "hld_unt_pr": "5,124",
-          "afr_mdf_cnt": "31,793",
-          "bfr_mdf_cnt": "-",
-          "rmk": "-",
-          "rcept_no_new": "20201208000310",
-          "has_common": true,
-          "common_info": {
-            "qty": "326,700",
-            "unit_price": "7,636",
-            "afr_cnt": "326,700"
-          }
-        }
-      ]
-    },
-    {
-      "stock_code": "371950",
-      "corp_name": "풍원정밀",
-      "records": [
-        {
-          "spc_nm": "에스브이아이씨55호신기술사업투자조합(업무집행조합원:삼성벤처투자(주))",
-          "stk_knd": "전환사채권",
-          "hld_mth_adj": "신규상장(+)",
-          "mdf_dt": "2022.02.28",
-          "mdf_sdk_cnt": "1,369,010",
-          "hld_unt_pr": "11,249",
-          "afr_mdf_cnt": "1,369,010",
-          "bfr_mdf_cnt": "-",
-          "rmk": "주식으로전환시 전환가격",
-          "rcept_no_new": "20220307000324",
-          "has_common": false,
-          "common_info": null
-        }
-      ]
-    },
-    {
-      "stock_code": "163730",
-      "corp_name": "핑거",
-      "records": [
-        {
-          "spc_nm": "한-영 이노베이션펀드 제1호",
-          "stk_knd": "전환사채권",
-          "hld_mth_adj": "신규상장(+)",
-          "mdf_dt": "2021.01.29",
-          "mdf_sdk_cnt": "400,000",
-          "hld_unt_pr": "10,000",
-          "afr_mdf_cnt": "400,000",
-          "bfr_mdf_cnt": "-",
-          "rmk": "-",
-          "rcept_no_new": "20210202000491",
-          "has_common": false,
-          "common_info": null
-        }
-      ]
-    },
-    {
-      "stock_code": "353190",
-      "corp_name": "휴럼",
-      "records": [
-        {
-          "spc_nm": "(주)코오롱인베스트먼트",
-          "stk_knd": "전환사채권",
-          "hld_mth_adj": "신규상장(+)",
-          "mdf_dt": "2020.06.17",
-          "mdf_sdk_cnt": "380,000",
-          "hld_unt_pr": "-",
-          "afr_mdf_cnt": "380,000",
-          "bfr_mdf_cnt": "0",
-          "rmk": "-",
-          "rcept_no_new": "20200623000169",
-          "has_common": true,
-          "common_info": {
-            "qty": "20,000",
-            "unit_price": "-",
-            "afr_cnt": "20,000"
-          }
-        }
-      ]
-    }
-  ]
+  }
 }
