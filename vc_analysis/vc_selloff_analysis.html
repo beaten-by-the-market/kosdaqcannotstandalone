@@ -63,23 +63,18 @@
         .doc .case-box { background: #14161e; border: 1px solid #2a2d3a; border-radius: 8px; padding: 14px 18px; margin: 10px 0; }
         .doc .case-box .case-title { font-size: 13px; font-weight: 600; color: #f59e0b; margin-bottom: 6px; }
         .doc .case-box ul { margin: 4px 0 4px 16px; }
-        /* ── 플로우 다이어그램 ── */
-        .flow { display: flex; flex-direction: column; align-items: center; gap: 0; margin: 20px 0; }
-        .flow-step { display: flex; align-items: center; gap: 16px; width: 100%; max-width: 700px; }
-        .flow-box { flex: 1; background: #14161e; border: 2px solid #2a2d3a; border-radius: 10px; padding: 16px 20px; position: relative; }
-        .flow-box.highlight { border-color: #3b82f6; background: rgba(59,130,246,0.06); }
-        .flow-box.result { border-color: #22c55e; background: rgba(34,197,94,0.06); }
-        .flow-box .flow-label { font-size: 11px; color: #888; text-transform: uppercase; letter-spacing: .5px; margin-bottom: 4px; }
-        .flow-box .flow-title { font-size: 15px; font-weight: 700; color: #fff; }
-        .flow-box .flow-desc { font-size: 12px; color: #aaa; margin-top: 4px; line-height: 1.5; }
-        .flow-box .flow-num { font-size: 20px; font-weight: 700; color: #3b82f6; }
-        .flow-box.result .flow-num { color: #22c55e; }
-        .flow-arrow { display: flex; flex-direction: column; align-items: center; padding: 4px 0; }
-        .flow-arrow .arrow-line { width: 2px; height: 20px; background: #3a3d4a; }
-        .flow-arrow .arrow-head { width: 0; height: 0; border-left: 6px solid transparent; border-right: 6px solid transparent; border-top: 8px solid #3a3d4a; }
-        .flow-arrow .arrow-label { font-size: 11px; color: #f59e0b; font-weight: 600; margin: 2px 0; padding: 2px 10px; background: rgba(245,158,11,0.1); border-radius: 4px; }
-        .flow-side { font-size: 11px; color: #666; text-align: right; min-width: 120px; line-height: 1.5; }
-        .flow-side-left { text-align: left; min-width: 120px; }
+        /* ── 가로 퍼널 다이어그램 ── */
+        .hfunnel { display: flex; align-items: stretch; gap: 0; margin: 20px 0; overflow-x: auto; padding-bottom: 4px; }
+        .hfunnel-step { display: flex; flex-direction: column; align-items: center; flex: 1; min-width: 130px; position: relative; }
+        .hfunnel-bar { width: 100%; border-radius: 8px; display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 14px 8px; transition: all .2s; position: relative; }
+        .hfunnel-num { font-size: 22px; font-weight: 800; color: #fff; }
+        .hfunnel-unit { font-size: 11px; color: rgba(255,255,255,.7); margin-top: 1px; }
+        .hfunnel-label { font-size: 13px; color: #e0e0e0; text-align: center; margin-top: 10px; line-height: 1.4; font-weight: 700; }
+        .hfunnel-desc { font-size: 12px; color: #888; text-align: center; margin-top: 5px; line-height: 1.5; }
+        .hfunnel-pct { font-size: 10px; color: rgba(255,255,255,.5); margin-top: 2px; }
+        .hfunnel-arrow { display: flex; align-items: center; justify-content: center; width: 28px; min-width: 28px; color: #3a3d4a; font-size: 16px; align-self: flex-start; margin-top: 28px; }
+        .hfunnel-arrow span { display: block; width: 20px; height: 2px; background: #3a3d4a; position: relative; }
+        .hfunnel-arrow span::after { content:''; position: absolute; right: -1px; top: -4px; border: 5px solid transparent; border-left: 6px solid #3a3d4a; }
     </style>
 </head>
 <body>
@@ -103,6 +98,7 @@
         <div class="tab" data-tab="vc">VC 랭킹</div>
         <div class="tab" data-tab="early">6개월 내 매도</div>
         <div class="tab" data-tab="criteria">VC 확인기준</div>
+        <div class="tab" data-tab="notes">참고사항</div>
     </div>
 
     <!-- 탭1: 순매매금액 -->
@@ -198,73 +194,16 @@
         <div class="chart-box">
             <div class="doc">
                 <h2>분석 데이터 구조</h2>
-                <p>이 대시보드의 분석 대상은 아래 2단계 필터를 거쳐 추출됩니다.</p>
+                <p>코스닥 신규상장 종목이 분석 대상에 포함되기까지의 필터링 과정입니다.</p>
 
-                <div class="flow">
-                    <!-- Step 1: 원본 데이터 -->
-                    <div class="flow-step">
-                        <div class="flow-side">DART 전자공시<br>대량보유상황보고</div>
-                        <div class="flow-box">
-                            <div class="flow-label">원본 데이터</div>
-                            <div class="flow-title">코스닥 신규상장 종목의 지분공시 전체</div>
-                            <div class="flow-desc">상장 전후 지분을 공시한 <b>모든 주주</b>의 보유변동 내역<br>주식 종류: 보통주, CB, BW, 우선주 등 전체 포함</div>
-                        </div>
-                    </div>
-
-                    <!-- Arrow 1 -->
-                    <div class="flow-arrow">
-                        <div class="arrow-line"></div>
-                        <div class="arrow-label">Phase A: 신규상장 시점 보유 VC 식별</div>
-                        <div class="arrow-line"></div>
-                        <div class="arrow-head"></div>
-                    </div>
-
-                    <!-- Step 2: Phase A -->
-                    <div class="flow-step">
-                        <div class="flow-side">신규상장(+)<br>신규상장(무상취득)(+)<br>신규상장(유상취득)(+)<br><span style="color:#f59e0b">← 주식 종류 무관</span></div>
-                        <div class="flow-box highlight">
-                            <div class="flow-label">Phase A &mdash; VC 주주 특정</div>
-                            <div class="flow-title">신규상장 시점에 지분공시를 한 주주 중 VC만 추출</div>
-                            <div class="flow-desc">
-                                보통주든 CB/BW든 <b>종류 불문</b>, 신규상장 시점에 지분을 공시한 법인/펀드 주주를 모두 추출한 뒤,<br>
-                                이 중 <b>VC(벤처캐피탈)로 판별된 주주</b>만 선별합니다.
-                            </div>
-                            <div style="margin-top:8px"><span class="flow-num" id="flowVCCount">675사</span> <span style="color:#888;font-size:12px">(VC 주주) &times;</span> <span class="flow-num" id="flowStockCount">236종목</span></div>
-                        </div>
-                    </div>
-
-                    <!-- Arrow 2 -->
-                    <div class="flow-arrow">
-                        <div class="arrow-line"></div>
-                        <div class="arrow-label">Phase B: 해당 VC의 보통주 매매만 추출</div>
-                        <div class="arrow-line"></div>
-                        <div class="arrow-head"></div>
-                    </div>
-
-                    <!-- Step 3: Phase B -->
-                    <div class="flow-step">
-                        <div class="flow-side">
-                            <b style="color:#3b82f6">보통주만</b><br>(의결권있는 주식)<br><br>
-                            장내매도/매수<br>장외매도/매수<br>시간외매매
-                        </div>
-                        <div class="flow-box result">
-                            <div class="flow-label">Phase B &mdash; 분석 대상 매매</div>
-                            <div class="flow-title">Phase A에서 특정된 VC들의 보통주 매매 내역</div>
-                            <div class="flow-desc">
-                                Phase A에서 특정된 VC 주주가 이후 <b>보통주(의결권있는 주식)</b>를 매매한 기록만 추출합니다.<br>
-                                신규상장, CB/BW 전환, 유무상증자, 주식배당 등은 제외 &mdash; 순수 매매(장내/장외/시간외)만 포함합니다.
-                            </div>
-                            <div style="margin-top:8px"><span class="flow-num" style="color:#22c55e" id="flowTradeCount">3,303건</span> <span style="color:#888;font-size:12px">매매 레코드 (상장일~+24개월)</span></div>
-                        </div>
-                    </div>
-                </div>
+                <div class="hfunnel" id="hfunnelDiagram"></div>
 
                 <div class="case-box" style="margin-top:16px">
                     <div class="case-title">왜 Phase A에서는 주식 종류를 가리지 않는가?</div>
                     <ul>
                         <li>VC는 상장 전 CB/BW/RCPS 등 다양한 수단으로 투자합니다. 보통주만으로 필터하면 CB/BW로만 투자한 VC가 누락됩니다.</li>
                         <li>따라서 <b>신규상장 시점 보유 여부</b>는 주식 종류 불문으로 판단하고, <b>이후 매매 분석</b>에서만 보통주로 한정합니다.</li>
-                        <li>이렇게 하면 "CB로 투자 → 상장 후 보통주 전환 → 보통주 매도" 패턴도 빠짐없이 포착됩니다.</li>
+                        <li>이렇게 하면 "CB로 투자 &rarr; 상장 후 보통주 전환 &rarr; 보통주 매도" 패턴도 빠짐없이 포착됩니다.</li>
                     </ul>
                 </div>
             </div>
@@ -274,7 +213,8 @@
         <div class="chart-box">
             <div class="doc">
                 <h2>VC는 어떻게 판별했는가?</h2>
-                <p>Phase A에서 추출한 법인/펀드 주주 <b>1,325사</b>를 전수 점검하여 VC 여부를 판별한 과정입니다.</p>
+                <p>코스닥 신규상장 종목의 대량보유상황보고에 등장하는 법인/펀드 주주 <b>1,325사</b>를 전수 점검하여 VC 여부를 판별한 과정입니다.<br>
+                <span style="color:#888;font-size:12px">위 퍼널의 "대량보유 보고 존재" 단계에서 개인을 제외한 법인/펀드만 추출한 수치입니다.</span></p>
                 <div class="stat-grid" id="selStatGrid"></div>
 
                 <h3 style="margin-top:24px">핵심 원칙</h3>
@@ -468,6 +408,37 @@
             </div>
         </div>
 
+    </div>
+
+    <!-- 탭: 참고사항 (비보통주 상세) -->
+    <div id="tab-notes" class="chart-container" style="display:none;">
+        <div class="chart-box">
+            <div class="doc">
+                <h2>Phase A 비보통주 보유 상세</h2>
+                <p>신규상장 시점(Phase A) 236개 종목 중 <b>보통주(의결권있는 주식) 외</b>의 주식종류를 보유한 VC 현황입니다.</p>
+                <p style="font-size:12px;color:#888;margin-top:4px">
+                    Phase A에서는 VC 식별 목적으로 주식종류를 가리지 않으므로, CB/BW/DR 등 비보통주 보유자도 포함됩니다.
+                    이후 Phase B(매매 분석)에서는 보통주 매매만 집계합니다.
+                </p>
+
+                <div class="stat-grid" style="margin:16px 0;">
+                    <div class="stat-item"><div class="num" id="ncTotalRecords">30</div><div class="desc">비보통주 레코드</div></div>
+                    <div class="stat-item"><div class="num" id="ncTotalCorps">18</div><div class="desc">해당 종목</div></div>
+                    <div class="stat-item"><div class="num" id="ncDualCount">-</div><div class="desc">보통주 동시보유</div></div>
+                    <div class="stat-item"><div class="num" id="ncOnlyCount">-</div><div class="desc">비보통주만 보유</div></div>
+                </div>
+
+                <h3 style="margin-top:20px">주식종류별 분포</h3>
+                <div id="chartNcTypeDist" style="height:260px;"></div>
+            </div>
+        </div>
+        <div class="chart-box">
+            <div class="doc">
+                <h2>종목별 비보통주 보유 상세</h2>
+                <p style="font-size:12px;color:#888;">각 종목을 클릭하면 상세 내역이 펼쳐집니다. DART 접수번호를 클릭하면 원본 공시로 이동합니다.</p>
+                <div id="ncCorpList"></div>
+            </div>
+        </div>
     </div>
 
 <script>
@@ -734,11 +705,35 @@ function renderCriteria(){
 
     const ss = SEL.summary;
 
-    // 플로우 다이어그램 숫자 업데이트 (DATA.summary에서)
+    // 가로 퍼널 다이어그램 렌더링
     const ds = DATA.summary;
-    document.getElementById('flowVCCount').textContent = ds.ipo_vc_count.toLocaleString() + '사';
-    document.getElementById('flowStockCount').textContent = ds.ipo_stock_count.toLocaleString() + '종목';
-    document.getElementById('flowTradeCount').textContent = ds.total_records.toLocaleString() + '건';
+    const base = ds.funnel_ipo_total || 1;
+    const funnel = [
+        {label:'수집대상 (IPO 전체)', count: ds.funnel_ipo_total, color:'#6366f1',
+         desc:'2021~2024년 코스닥 신규상장 종목 전체'},
+        {label:'대량보유 보고 존재', count: ds.funnel_raw_stocks, color:'#8b5cf6',
+         desc:'상장 전후 2.5년 내 대량보유상황보고(5%이상)가 1건 이상 접수된 종목'},
+        {label:'VC 포함 종목', count: ds.funnel_vc_stocks, color:'#f59e0b',
+         desc:'대량보유 보고 주주 중 VC로 선별된 960사가 1사 이상 포함된 종목'},
+        {label:'Phase A (IPO시점 보유)', count: ds.ipo_stock_count, color:'#3b82f6',
+         desc:'VC가 신규상장 시점에 지분을 보유(주식종류 불문)하고 있던 종목<br><b>'+ds.ipo_vc_count+'사</b> &times; <b>'+ds.ipo_stock_count+'종목</b>'},
+        {label:'Phase B (최종 분석)', count: ds.total_stocks, color:'#22c55e',
+         desc:'Phase A의 VC가 보통주를 실제 매매(장내/장외/시간외)한 종목<br><b>'+ds.total_vcs+'사</b>, <b>'+ds.total_records.toLocaleString()+'건</b>'},
+    ];
+    const maxH = 80, minH = 36;
+    document.getElementById('hfunnelDiagram').innerHTML = funnel.map((f,i)=>{
+        const pct = (f.count/base*100);
+        const h = minH + (maxH-minH)*(f.count/base);
+        const arrow = i < funnel.length-1 ? '<div class="hfunnel-arrow"><span></span></div>' : '';
+        return `<div class="hfunnel-step">
+            <div class="hfunnel-bar" style="background:${f.color};height:${h}px;opacity:${0.6+0.4*(f.count/base)}">
+                <div class="hfunnel-num">${f.count.toLocaleString()}</div>
+                <div class="hfunnel-pct">${i===0?'':'('+pct.toFixed(1)+'%)'}</div>
+            </div>
+            <div class="hfunnel-label">${f.label}</div>
+            <div class="hfunnel-desc">${f.desc}</div>
+        </div>${arrow}`;
+    }).join('');
 
     // 선별 통계 카드
     document.getElementById('selStatGrid').innerHTML = [
@@ -962,7 +957,7 @@ function initTabs(){
         el.addEventListener('click',()=>{
             const tab=el.dataset.tab;
             document.querySelectorAll('.tab').forEach(t=>t.classList.toggle('active',t.dataset.tab===tab));
-            ['net','type','corp','vc','early','criteria'].forEach(t=>{
+            ['net','type','corp','vc','early','criteria','notes'].forEach(t=>{
                 const p=document.getElementById('tab-'+t);
                 if(p) p.style.display=t===tab?'block':'none';
             });
@@ -971,6 +966,205 @@ function initTabs(){
             if(tab==='vc') setTimeout(renderVCRanking,80);
             if(tab==='early') setTimeout(renderEarlySell,80);
             if(tab==='criteria') setTimeout(renderCriteria,80);
+            if(tab==='notes') setTimeout(renderNotes,80);
+        });
+    });
+}
+
+/* ── 탭: 참고사항 (비보통주 상세) ── */
+let notesRendered = false;
+function renderNotes(){
+    if(notesRendered || !DATA || !DATA.non_common_stocks) return;
+    notesRendered = true;
+    const ncs = DATA.non_common_stocks;
+
+    // 통계
+    const totalRecs = ncs.reduce((s,c)=>s+c.records.length, 0);
+    let dualCount = 0, onlyCount = 0;
+    ncs.forEach(c=>{
+        c.records.forEach(r=>{
+            if(r.has_common) dualCount++;
+            else onlyCount++;
+        });
+    });
+    document.getElementById('ncTotalRecords').textContent = totalRecs;
+    document.getElementById('ncTotalCorps').textContent = ncs.length;
+    document.getElementById('ncDualCount').textContent = dualCount;
+    document.getElementById('ncOnlyCount').textContent = onlyCount;
+
+    // 주식종류별 분포 차트
+    const typeDist = {};
+    ncs.forEach(c=>c.records.forEach(r=>{
+        typeDist[r.stk_knd] = (typeDist[r.stk_knd]||0)+1;
+    }));
+    const types = Object.entries(typeDist).sort((a,b)=>b[1]-a[1]);
+    const typeColors = {
+        '전환사채권':'#f59e0b',
+        '신주인수권부사채권':'#3b82f6',
+        '의결권있는 주식으로 전환될주식':'#22c55e',
+        '증권예탁증권':'#a78bfa',
+        '신주인수권이표시된것':'#ec4899'
+    };
+    Plotly.newPlot('chartNcTypeDist',[{
+        x: types.map(t=>t[0]),
+        y: types.map(t=>t[1]),
+        type:'bar',
+        marker:{color:types.map(t=>typeColors[t[0]]||'#888')},
+        text: types.map(t=>t[1]+'건'),
+        textposition:'outside',
+        textfont:{color:'#aaa',size:12},
+        hovertemplate:'%{x}: %{y}건<extra></extra>'
+    }],{...DARK,
+        xaxis:{...DARK.xaxis},
+        yaxis:{...DARK.yaxis,title:'건수'},
+        margin:{l:50,r:30,t:10,b:100},
+    },{responsive:true});
+
+    // 종목별 상세 아코디언
+    const STK_KND_LABELS = {
+        '전환사채권':'CB (전환사채)',
+        '신주인수권부사채권':'BW (신주인수권부사채)',
+        '의결권있는 주식으로 전환될주식':'전환될 주식',
+        '증권예탁증권':'DR (예탁증권)',
+        '신주인수권이표시된것':'신주인수권증서'
+    };
+    const STK_KND_COLORS = {
+        '전환사채권':'#f59e0b',
+        '신주인수권부사채권':'#3b82f6',
+        '의결권있는 주식으로 전환될주식':'#22c55e',
+        '증권예탁증권':'#a78bfa',
+        '신주인수권이표시된것':'#ec4899'
+    };
+
+    function cleanPrice(s){
+        if(!s || s==='-' || s==='(-)')return '-';
+        return s.replace(/&cr;/g,' ').replace(/\s+/g,' ').trim();
+    }
+    function cleanRmk(s){
+        if(!s || s==='-')return '';
+        return s.replace(/&cr;/g,' ').replace(/\s+/g,' ').trim();
+    }
+
+    let html = '';
+    ncs.forEach((corp, ci) => {
+        const recs = corp.records;
+        const stkTypes = [...new Set(recs.map(r=>r.stk_knd))];
+        const tags = stkTypes.map(t=>{
+            const c = STK_KND_COLORS[t]||'#888';
+            const l = STK_KND_LABELS[t]||t;
+            return '<span style="display:inline-block;padding:2px 8px;border-radius:4px;font-size:11px;font-weight:600;background:'+c+'22;color:'+c+';margin-right:4px">'+l+'</span>';
+        }).join('');
+
+        const totalQty = recs.reduce((s,r)=>{
+            const n = parseInt((r.mdf_sdk_cnt||'0').replace(/,/g,''),10);
+            return s + (isNaN(n)?0:n);
+        },0);
+
+        html += '<div style="border:1px solid #2a2d3a;border-radius:8px;margin-bottom:8px;overflow:hidden">';
+        html += '<div class="nc-corp-header" data-idx="'+ci+'" style="display:flex;align-items:center;gap:12px;padding:12px 16px;cursor:pointer;background:#14161e;transition:background .15s">';
+        html += '<span style="color:#888;font-size:12px;min-width:24px">'+(ci+1)+'</span>';
+        html += '<b style="font-size:14px;color:#fff;min-width:120px">'+corp.corp_name+'</b>';
+        html += '<span style="color:#888;font-size:12px">('+corp.stock_code+')</span>';
+        html += tags;
+        html += '<span style="margin-left:auto;color:#888;font-size:12px">'+recs.length+'건 | '+totalQty.toLocaleString()+'주</span>';
+        html += '<span style="color:#3a3d4a;font-size:14px" id="nc-arrow-'+ci+'">&#9654;</span>';
+        html += '</div>';
+
+        html += '<div id="nc-detail-'+ci+'" style="display:none;padding:0 16px 16px;background:#1a1d29">';
+
+        recs.forEach((r, ri)=>{
+            const stkColor = STK_KND_COLORS[r.stk_knd]||'#888';
+            const stkLabel = STK_KND_LABELS[r.stk_knd]||r.stk_knd;
+            const dartUrl = r.rcept_no_new ? 'https://dart.fss.or.kr/dsaf001/main.do?rcpNo='+r.rcept_no_new : '';
+            const rmk = cleanRmk(r.rmk);
+            const price = cleanPrice(r.hld_unt_pr);
+
+            html += '<div style="border:1px solid #2a2d3a;border-radius:6px;padding:14px 16px;margin-top:10px;background:#14161e">';
+
+            // 헤더: VC명 + 주식종류
+            html += '<div style="display:flex;align-items:center;gap:10px;margin-bottom:10px;flex-wrap:wrap">';
+            html += '<span style="font-weight:600;font-size:13px;color:#e0e0e0">'+r.spc_nm+'</span>';
+            html += '<span style="padding:2px 8px;border-radius:4px;font-size:11px;font-weight:600;background:'+stkColor+'22;color:'+stkColor+'">'+stkLabel+'</span>';
+            if(r.has_common) html += '<span style="padding:2px 8px;border-radius:4px;font-size:10px;font-weight:600;background:rgba(34,197,94,0.15);color:#22c55e">보통주 동시보유</span>';
+            html += '</div>';
+
+            // 상세 테이블
+            html += '<table style="width:100%;border-collapse:collapse;font-size:13px">';
+            html += '<tbody>';
+
+            html += '<tr><td style="padding:4px 10px;color:#888;width:140px;border-bottom:1px solid #1f2230">변동일자</td>';
+            html += '<td style="padding:4px 10px;border-bottom:1px solid #1f2230">'+r.mdf_dt+'</td></tr>';
+
+            html += '<tr><td style="padding:4px 10px;color:#888;border-bottom:1px solid #1f2230">보유방법</td>';
+            html += '<td style="padding:4px 10px;border-bottom:1px solid #1f2230">'+r.hld_mth_adj+'</td></tr>';
+
+            html += '<tr><td style="padding:4px 10px;color:#888;border-bottom:1px solid #1f2230">변동수량</td>';
+            html += '<td style="padding:4px 10px;border-bottom:1px solid #1f2230;font-weight:600;color:#fff">'+r.mdf_sdk_cnt+'주</td></tr>';
+
+            html += '<tr><td style="padding:4px 10px;color:#888;border-bottom:1px solid #1f2230">보유단가</td>';
+            html += '<td style="padding:4px 10px;border-bottom:1px solid #1f2230;'+(price!=='-'?'color:#f59e0b;font-weight:600':'color:#666')+'">'+(price!=='-'?price+'원':price)+'</td></tr>';
+
+            html += '<tr><td style="padding:4px 10px;color:#888;border-bottom:1px solid #1f2230">변동전 수량</td>';
+            html += '<td style="padding:4px 10px;border-bottom:1px solid #1f2230">'+(r.bfr_mdf_cnt||'-')+'주</td></tr>';
+
+            html += '<tr><td style="padding:4px 10px;color:#888;border-bottom:1px solid #1f2230">변동후 수량</td>';
+            html += '<td style="padding:4px 10px;border-bottom:1px solid #1f2230">'+r.afr_mdf_cnt+'주</td></tr>';
+
+            if(rmk){
+                html += '<tr><td style="padding:4px 10px;color:#888;border-bottom:1px solid #1f2230">비고(RMK)</td>';
+                html += '<td style="padding:4px 10px;border-bottom:1px solid #1f2230;color:#93c5fd;font-style:italic">'+rmk+'</td></tr>';
+            }
+
+            html += '<tr><td style="padding:4px 10px;color:#888">DART 공시</td>';
+            if(dartUrl){
+                html += '<td style="padding:4px 10px"><a href="'+dartUrl+'" target="_blank" rel="noopener" style="color:#60a5fa;text-decoration:none">'+r.rcept_no_new+' &#8599;</a></td></tr>';
+            } else {
+                html += '<td style="padding:4px 10px;color:#666">-</td></tr>';
+            }
+
+            html += '</tbody></table>';
+
+            // 보통주 동시보유 정보
+            if(r.has_common && r.common_info){
+                html += '<div style="margin-top:8px;padding:8px 12px;background:rgba(34,197,94,0.08);border:1px solid rgba(34,197,94,0.2);border-radius:4px;font-size:12px">';
+                html += '<span style="color:#22c55e;font-weight:600">동시 보유 보통주:</span> ';
+                html += '<span style="color:#d0d0d0">'+r.common_info.qty+'주</span>';
+                if(r.common_info.unit_price && r.common_info.unit_price !== '-'){
+                    html += ' <span style="color:#888">|</span> <span style="color:#f59e0b">단가 '+r.common_info.unit_price+'원</span>';
+                }
+                html += '</div>';
+            }
+
+            html += '</div>';
+        });
+
+        html += '</div>';
+        html += '</div>';
+    });
+
+    document.getElementById('ncCorpList').innerHTML = html;
+
+    // 아코디언 토글
+    document.querySelectorAll('.nc-corp-header').forEach(el=>{
+        el.addEventListener('click',()=>{
+            const idx = el.dataset.idx;
+            const detail = document.getElementById('nc-detail-'+idx);
+            const arrow = document.getElementById('nc-arrow-'+idx);
+            if(detail.style.display==='none'){
+                detail.style.display='block';
+                arrow.innerHTML='&#9660;';
+                el.style.background='#1a1d29';
+            } else {
+                detail.style.display='none';
+                arrow.innerHTML='&#9654;';
+                el.style.background='#14161e';
+            }
+        });
+        el.addEventListener('mouseenter',()=>{ el.style.background='#1f2233'; });
+        el.addEventListener('mouseleave',()=>{
+            const idx = el.dataset.idx;
+            const detail = document.getElementById('nc-detail-'+idx);
+            el.style.background = detail.style.display==='none' ? '#14161e' : '#1a1d29';
         });
     });
 }

@@ -10894,6 +10894,583 @@
     "ipo_stock_count": 236,
     "ipo_pair_count": 862,
     "total_ipo_mcap": 40603049699600,
-    "total_ipo_offering": 6705264620900
-  }
+    "total_ipo_offering": 6705264620900,
+    "funnel_ipo_total": 403,
+    "funnel_raw_stocks": 401,
+    "funnel_vc_stocks": 258
+  },
+  "non_common_stocks": [
+    {
+      "stock_code": "950220",
+      "corp_name": "네오이뮨텍",
+      "records": [
+        {
+          "spc_nm": "쿼드콜라보오퍼스원포스텍창업벤처전문사모투자합자회사",
+          "stk_knd": "증권예탁증권",
+          "hld_mth_adj": "신규상장(+)",
+          "mdf_dt": "2021.03.16",
+          "mdf_sdk_cnt": "3,750,000",
+          "hld_unt_pr": "-",
+          "afr_mdf_cnt": "3,750,000",
+          "bfr_mdf_cnt": "-",
+          "rmk": "-",
+          "rcept_no_new": "20210323000598",
+          "has_common": false,
+          "common_info": null
+        }
+      ]
+    },
+    {
+      "stock_code": "330860",
+      "corp_name": "네패스아크",
+      "records": [
+        {
+          "spc_nm": "하나반도체신기술투자조합",
+          "stk_knd": "의결권있는 주식으로 전환될주식",
+          "hld_mth_adj": "신규상장(+)",
+          "mdf_dt": "2020.11.17",
+          "mdf_sdk_cnt": "34,652",
+          "hld_unt_pr": "-",
+          "afr_mdf_cnt": "34,652",
+          "bfr_mdf_cnt": "-",
+          "rmk": "-",
+          "rcept_no_new": "20201124000161",
+          "has_common": true,
+          "common_info": {
+            "qty": "1,043,515",
+            "unit_price": "-",
+            "afr_cnt": "1,043,515"
+          }
+        },
+        {
+          "spc_nm": "하나반도체신기술투자조합",
+          "stk_knd": "전환사채권",
+          "hld_mth_adj": "신규상장(+)",
+          "mdf_dt": "2020.11.17",
+          "mdf_sdk_cnt": "1,078,160",
+          "hld_unt_pr": "-",
+          "afr_mdf_cnt": "1,078,160",
+          "bfr_mdf_cnt": "-",
+          "rmk": "-",
+          "rcept_no_new": "20201124000161",
+          "has_common": true,
+          "common_info": {
+            "qty": "1,043,515",
+            "unit_price": "-",
+            "afr_cnt": "1,043,515"
+          }
+        }
+      ]
+    },
+    {
+      "stock_code": "351320",
+      "corp_name": "넥사다이내믹스",
+      "records": [
+        {
+          "spc_nm": "메이플투자파트너스(주)",
+          "stk_knd": "전환사채권",
+          "hld_mth_adj": "신규상장(+)",
+          "mdf_dt": "2020.06.22",
+          "mdf_sdk_cnt": "290,000",
+          "hld_unt_pr": "1,000",
+          "afr_mdf_cnt": "290,000",
+          "bfr_mdf_cnt": "-",
+          "rmk": "-",
+          "rcept_no_new": "20200626000108",
+          "has_common": true,
+          "common_info": {
+            "qty": "10,000",
+            "unit_price": "1,000",
+            "afr_cnt": "10,000"
+          }
+        }
+      ]
+    },
+    {
+      "stock_code": "376930",
+      "corp_name": "노을",
+      "records": [
+        {
+          "spc_nm": "2020 프리미어 스케일업 투자조합",
+          "stk_knd": "의결권있는 주식으로 전환될주식",
+          "hld_mth_adj": "신규상장(+)",
+          "mdf_dt": "2022.03.03",
+          "mdf_sdk_cnt": "316,455",
+          "hld_unt_pr": "-&cr;(   -)",
+          "afr_mdf_cnt": "316,455",
+          "bfr_mdf_cnt": "-",
+          "rmk": "-",
+          "rcept_no_new": "20220310000673",
+          "has_common": false,
+          "common_info": null
+        },
+        {
+          "spc_nm": "2020 프리미어 스케일업 투자조합",
+          "stk_knd": "의결권있는 주식으로 전환될주식",
+          "hld_mth_adj": "신규상장(+)",
+          "mdf_dt": "2022.03.03",
+          "mdf_sdk_cnt": "316,455",
+          "hld_unt_pr": "-&cr;(   -)",
+          "afr_mdf_cnt": "316,455",
+          "bfr_mdf_cnt": "-",
+          "rmk": "-",
+          "rcept_no_new": "20220310000579",
+          "has_common": false,
+          "common_info": null
+        }
+      ]
+    },
+    {
+      "stock_code": "393970",
+      "corp_name": "대진첨단소재",
+      "records": [
+        {
+          "spc_nm": "에스제이 지비 이에스지 혁신 펀드",
+          "stk_knd": "전환사채권",
+          "hld_mth_adj": "신규상장(+)",
+          "mdf_dt": "2025.03.06",
+          "mdf_sdk_cnt": "317,460",
+          "hld_unt_pr": "-",
+          "afr_mdf_cnt": "317,460",
+          "bfr_mdf_cnt": "-",
+          "rmk": "-",
+          "rcept_no_new": "20250313000872",
+          "has_common": false,
+          "common_info": null
+        }
+      ]
+    },
+    {
+      "stock_code": "363260",
+      "corp_name": "모비데이즈",
+      "records": [
+        {
+          "spc_nm": "(주)하나벤처스",
+          "stk_knd": "전환사채권",
+          "hld_mth_adj": "신규상장(유상취득)(+)",
+          "mdf_dt": "2021.02.10",
+          "mdf_sdk_cnt": "800,000",
+          "hld_unt_pr": "1,000",
+          "afr_mdf_cnt": "800,000",
+          "bfr_mdf_cnt": "-",
+          "rmk": "발기시 취득",
+          "rcept_no_new": "20210222002332",
+          "has_common": false,
+          "common_info": null
+        }
+      ]
+    },
+    {
+      "stock_code": "352480",
+      "corp_name": "씨앤씨인터내셔널",
+      "records": [
+        {
+          "spc_nm": "아주 중소벤처 해외진출 지원펀드",
+          "stk_knd": "전환사채권",
+          "hld_mth_adj": "신규상장(유상취득)(+)",
+          "mdf_dt": "2021.05.17",
+          "mdf_sdk_cnt": "127,817",
+          "hld_unt_pr": "33,250",
+          "afr_mdf_cnt": "127,817",
+          "bfr_mdf_cnt": "-",
+          "rmk": "-",
+          "rcept_no_new": "20210520000285",
+          "has_common": false,
+          "common_info": null
+        }
+      ]
+    },
+    {
+      "stock_code": "359090",
+      "corp_name": "씨엔알리서치",
+      "records": [
+        {
+          "spc_nm": "에이아이피벤처파트너스(주)",
+          "stk_knd": "전환사채권",
+          "hld_mth_adj": "신규상장(+)",
+          "mdf_dt": "2020.09.23",
+          "mdf_sdk_cnt": "200,000",
+          "hld_unt_pr": "&cr;1,000",
+          "afr_mdf_cnt": "200,000",
+          "bfr_mdf_cnt": "-",
+          "rmk": "-",
+          "rcept_no_new": "20201012000115",
+          "has_common": false,
+          "common_info": null
+        },
+        {
+          "spc_nm": "에이아이피벤처파트너스(주)",
+          "stk_knd": "전환사채권",
+          "hld_mth_adj": "신규상장(+)",
+          "mdf_dt": "2020.09.23",
+          "mdf_sdk_cnt": "200,000",
+          "hld_unt_pr": "1,000",
+          "afr_mdf_cnt": "200,000",
+          "bfr_mdf_cnt": "-",
+          "rmk": "-",
+          "rcept_no_new": "20201012000113",
+          "has_common": false,
+          "common_info": null
+        }
+      ]
+    },
+    {
+      "stock_code": "304360",
+      "corp_name": "에스바이오메딕스",
+      "records": [
+        {
+          "spc_nm": "미래에쿼티 제33호 신기술사업투자조합",
+          "stk_knd": "신주인수권부사채권",
+          "hld_mth_adj": "신규상장(+)",
+          "mdf_dt": "2023.05.04",
+          "mdf_sdk_cnt": "320,000",
+          "hld_unt_pr": "-",
+          "afr_mdf_cnt": "320,000",
+          "bfr_mdf_cnt": "-",
+          "rmk": "신규상장",
+          "rcept_no_new": "20230510000740",
+          "has_common": false,
+          "common_info": null
+        },
+        {
+          "spc_nm": "미래에쿼티 제35호 신기술사업투자조합",
+          "stk_knd": "신주인수권부사채권",
+          "hld_mth_adj": "신규상장(+)",
+          "mdf_dt": "2023.05.04",
+          "mdf_sdk_cnt": "28,800",
+          "hld_unt_pr": "-",
+          "afr_mdf_cnt": "28,800",
+          "bfr_mdf_cnt": "-",
+          "rmk": "신규상장",
+          "rcept_no_new": "20230510000740",
+          "has_common": false,
+          "common_info": null
+        }
+      ]
+    },
+    {
+      "stock_code": "475230",
+      "corp_name": "엔알비",
+      "records": [
+        {
+          "spc_nm": "에스엘아이 퀀텀 성장 2호 펀드",
+          "stk_knd": "전환사채권",
+          "hld_mth_adj": "신규상장(+)",
+          "mdf_dt": "2025.07.28",
+          "mdf_sdk_cnt": "316,456",
+          "hld_unt_pr": "-",
+          "afr_mdf_cnt": "316,456",
+          "bfr_mdf_cnt": "-",
+          "rmk": "코스닥 상장",
+          "rcept_no_new": "20250805000050",
+          "has_common": false,
+          "common_info": null
+        },
+        {
+          "spc_nm": "우리 2022스케일업 펀드",
+          "stk_knd": "전환사채권",
+          "hld_mth_adj": "신규상장(+)",
+          "mdf_dt": "2025.07.28",
+          "mdf_sdk_cnt": "316,456",
+          "hld_unt_pr": "15,800",
+          "afr_mdf_cnt": "316,456",
+          "bfr_mdf_cnt": "-",
+          "rmk": "-",
+          "rcept_no_new": "20250804000191",
+          "has_common": false,
+          "common_info": null
+        },
+        {
+          "spc_nm": "코오롱 2021 이노베이션 투자조합",
+          "stk_knd": "전환사채권",
+          "hld_mth_adj": "신규상장(+)",
+          "mdf_dt": "2025.07.28",
+          "mdf_sdk_cnt": "158,228",
+          "hld_unt_pr": "-",
+          "afr_mdf_cnt": "158,228",
+          "bfr_mdf_cnt": "-",
+          "rmk": "미전환 보유",
+          "rcept_no_new": "20250801000642",
+          "has_common": true,
+          "common_info": {
+            "qty": "463,742",
+            "unit_price": "-",
+            "afr_cnt": "463,742"
+          }
+        },
+        {
+          "spc_nm": "아이비케이-코오롱 2023 초격차 투자조합",
+          "stk_knd": "전환사채권",
+          "hld_mth_adj": "신규상장(+)",
+          "mdf_dt": "2025.07.28",
+          "mdf_sdk_cnt": "158,228",
+          "hld_unt_pr": "-",
+          "afr_mdf_cnt": "158,228",
+          "bfr_mdf_cnt": "-",
+          "rmk": "미전환 보유",
+          "rcept_no_new": "20250801000642",
+          "has_common": false,
+          "common_info": null
+        }
+      ]
+    },
+    {
+      "stock_code": "289930",
+      "corp_name": "웨이비스",
+      "records": [
+        {
+          "spc_nm": "제이앤 무림 웨이브 신기술사업투자조합",
+          "stk_knd": "전환사채권",
+          "hld_mth_adj": "신규상장(+)",
+          "mdf_dt": "2024.10.25",
+          "mdf_sdk_cnt": "517,241",
+          "hld_unt_pr": "11,600",
+          "afr_mdf_cnt": "517,241",
+          "bfr_mdf_cnt": "-",
+          "rmk": "-",
+          "rcept_no_new": "20241031000545",
+          "has_common": true,
+          "common_info": {
+            "qty": "517,241",
+            "unit_price": "11,600",
+            "afr_cnt": "517,241"
+          }
+        }
+      ]
+    },
+    {
+      "stock_code": "240600",
+      "corp_name": "유진테크놀로지",
+      "records": [
+        {
+          "spc_nm": "하베스트제1호창업벤처전문사모투자 합자회사",
+          "stk_knd": "전환사채권",
+          "hld_mth_adj": "신규상장(유상취득)(+)",
+          "mdf_dt": "2023.11.02",
+          "mdf_sdk_cnt": "666,666",
+          "hld_unt_pr": "7,500",
+          "afr_mdf_cnt": "666,666",
+          "bfr_mdf_cnt": "-",
+          "rmk": "최초 취득단가이며, 신규상장일 종가는 21,200원임",
+          "rcept_no_new": "20231106000262",
+          "has_common": false,
+          "common_info": null
+        }
+      ]
+    },
+    {
+      "stock_code": "432470",
+      "corp_name": "케이엔에스",
+      "records": [
+        {
+          "spc_nm": "신영 HT 제4호 신기술사업투자조합",
+          "stk_knd": "전환사채권",
+          "hld_mth_adj": "신규상장(+)",
+          "mdf_dt": "2023.12.06",
+          "mdf_sdk_cnt": "416,221",
+          "hld_unt_pr": "-",
+          "afr_mdf_cnt": "416,221",
+          "bfr_mdf_cnt": "-",
+          "rmk": "코스닥 시장 상장에 따른 기존 보유 전환사채 신규 보고이므로 취득단가를 기재하지 않음",
+          "rcept_no_new": "20231213000039",
+          "has_common": false,
+          "common_info": null
+        }
+      ]
+    },
+    {
+      "stock_code": "950250",
+      "corp_name": "테라뷰",
+      "records": [
+        {
+          "spc_nm": "ULMUS 2024 SECONDARY FUND",
+          "stk_knd": "증권예탁증권",
+          "hld_mth_adj": "신규상장(무상취득)(+)",
+          "mdf_dt": "2025.12.09",
+          "mdf_sdk_cnt": "734,095",
+          "hld_unt_pr": "-",
+          "afr_mdf_cnt": "734,095",
+          "bfr_mdf_cnt": "-",
+          "rmk": "-",
+          "rcept_no_new": "20251216000103",
+          "has_common": false,
+          "common_info": null
+        },
+        {
+          "spc_nm": "PATHFINDER YOUNG ENTREPRENEURS VENTURE FUND",
+          "stk_knd": "증권예탁증권",
+          "hld_mth_adj": "신규상장(무상취득)(+)",
+          "mdf_dt": "2025.12.09",
+          "mdf_sdk_cnt": "271,352",
+          "hld_unt_pr": "-",
+          "afr_mdf_cnt": "271,352",
+          "bfr_mdf_cnt": "-",
+          "rmk": "-",
+          "rcept_no_new": "20251216000103",
+          "has_common": false,
+          "common_info": null
+        }
+      ]
+    },
+    {
+      "stock_code": "318020",
+      "corp_name": "포인트모바일",
+      "records": [
+        {
+          "spc_nm": "로드스톤 제1호 창업벤처전문 사모투자합자회사",
+          "stk_knd": "신주인수권부사채권",
+          "hld_mth_adj": "신규상장(유상취득)(+)",
+          "mdf_dt": "2020.12.03",
+          "mdf_sdk_cnt": "43,500",
+          "hld_unt_pr": "5,124",
+          "afr_mdf_cnt": "43,500",
+          "bfr_mdf_cnt": "-",
+          "rmk": "-",
+          "rcept_no_new": "20201211000016",
+          "has_common": true,
+          "common_info": {
+            "qty": "299,950",
+            "unit_price": "7,320",
+            "afr_cnt": "299,950"
+          }
+        },
+        {
+          "spc_nm": "로드스톤 제1호 창업벤처전문 사모투자합자회사",
+          "stk_knd": "신주인수권부사채권",
+          "hld_mth_adj": "신규상장(무상취득)(+)",
+          "mdf_dt": "2020.12.03",
+          "mdf_sdk_cnt": "14,450",
+          "hld_unt_pr": "5,124",
+          "afr_mdf_cnt": "14,450",
+          "bfr_mdf_cnt": "-",
+          "rmk": "-",
+          "rcept_no_new": "20201211000016",
+          "has_common": true,
+          "common_info": {
+            "qty": "299,950",
+            "unit_price": "7,320",
+            "afr_cnt": "299,950"
+          }
+        },
+        {
+          "spc_nm": "아주 중소벤처 해외진출 지원펀드",
+          "stk_knd": "신주인수권부사채권",
+          "hld_mth_adj": "신규상장(유상취득)(+)",
+          "mdf_dt": "2020.12.03",
+          "mdf_sdk_cnt": "34,977",
+          "hld_unt_pr": "5,124",
+          "afr_mdf_cnt": "34,977",
+          "bfr_mdf_cnt": "-",
+          "rmk": "-",
+          "rcept_no_new": "20201210000212",
+          "has_common": true,
+          "common_info": {
+            "qty": "281,477",
+            "unit_price": "7,358",
+            "afr_cnt": "281,477"
+          }
+        },
+        {
+          "spc_nm": "아주 중소벤처 해외진출 지원펀드",
+          "stk_knd": "신주인수권부사채권",
+          "hld_mth_adj": "신규상장(무상취득)(+)",
+          "mdf_dt": "2020.12.03",
+          "mdf_sdk_cnt": "11,618",
+          "hld_unt_pr": "5,124",
+          "afr_mdf_cnt": "11,618",
+          "bfr_mdf_cnt": "-",
+          "rmk": "-",
+          "rcept_no_new": "20201210000212",
+          "has_common": true,
+          "common_info": {
+            "qty": "281,477",
+            "unit_price": "7,358",
+            "afr_cnt": "281,477"
+          }
+        },
+        {
+          "spc_nm": "IMM 세컨더리 벤처펀드 제2호",
+          "stk_knd": "신주인수권이표시된것",
+          "hld_mth_adj": "신규상장(+)",
+          "mdf_dt": "2020.12.03",
+          "mdf_sdk_cnt": "31,793",
+          "hld_unt_pr": "5,124",
+          "afr_mdf_cnt": "31,793",
+          "bfr_mdf_cnt": "-",
+          "rmk": "-",
+          "rcept_no_new": "20201208000310",
+          "has_common": true,
+          "common_info": {
+            "qty": "326,700",
+            "unit_price": "7,636",
+            "afr_cnt": "326,700"
+          }
+        }
+      ]
+    },
+    {
+      "stock_code": "371950",
+      "corp_name": "풍원정밀",
+      "records": [
+        {
+          "spc_nm": "에스브이아이씨55호신기술사업투자조합(업무집행조합원:삼성벤처투자(주))",
+          "stk_knd": "전환사채권",
+          "hld_mth_adj": "신규상장(+)",
+          "mdf_dt": "2022.02.28",
+          "mdf_sdk_cnt": "1,369,010",
+          "hld_unt_pr": "11,249",
+          "afr_mdf_cnt": "1,369,010",
+          "bfr_mdf_cnt": "-",
+          "rmk": "주식으로전환시 전환가격",
+          "rcept_no_new": "20220307000324",
+          "has_common": false,
+          "common_info": null
+        }
+      ]
+    },
+    {
+      "stock_code": "163730",
+      "corp_name": "핑거",
+      "records": [
+        {
+          "spc_nm": "한-영 이노베이션펀드 제1호",
+          "stk_knd": "전환사채권",
+          "hld_mth_adj": "신규상장(+)",
+          "mdf_dt": "2021.01.29",
+          "mdf_sdk_cnt": "400,000",
+          "hld_unt_pr": "10,000",
+          "afr_mdf_cnt": "400,000",
+          "bfr_mdf_cnt": "-",
+          "rmk": "-",
+          "rcept_no_new": "20210202000491",
+          "has_common": false,
+          "common_info": null
+        }
+      ]
+    },
+    {
+      "stock_code": "353190",
+      "corp_name": "휴럼",
+      "records": [
+        {
+          "spc_nm": "(주)코오롱인베스트먼트",
+          "stk_knd": "전환사채권",
+          "hld_mth_adj": "신규상장(+)",
+          "mdf_dt": "2020.06.17",
+          "mdf_sdk_cnt": "380,000",
+          "hld_unt_pr": "-",
+          "afr_mdf_cnt": "380,000",
+          "bfr_mdf_cnt": "0",
+          "rmk": "-",
+          "rcept_no_new": "20200623000169",
+          "has_common": true,
+          "common_info": {
+            "qty": "20,000",
+            "unit_price": "-",
+            "afr_cnt": "20,000"
+          }
+        }
+      ]
+    }
+  ]
 }
