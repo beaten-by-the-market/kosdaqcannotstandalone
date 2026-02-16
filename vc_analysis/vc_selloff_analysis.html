@@ -97,6 +97,7 @@
         <div class="tab" data-tab="corp">종목 랭킹</div>
         <div class="tab" data-tab="vc">VC 랭킹</div>
         <div class="tab" data-tab="early">6개월 내 매도</div>
+        <div class="tab" data-tab="yearly">연도별 비교</div>
         <div class="tab" data-tab="criteria">VC 확인기준</div>
         <div class="tab" data-tab="notes">참고사항</div>
     </div>
@@ -184,6 +185,39 @@
             <div class="chart-title">상장 후 6개월 이내 순매도금액 상위 종목 TOP 30</div>
             <div class="chart-subtitle">상장일 ~ +180일 이내 VC 매매만 집계. 클릭하면 개별 공시내역 펼침</div>
             <div id="tableEarlySell"></div>
+        </div>
+    </div>
+
+    <!-- 탭: 연도별 비교 -->
+    <div id="tab-yearly" class="chart-container" style="display:none;">
+        <div class="chart-box">
+            <div class="chart-title">연도별 VC 매매 요약</div>
+            <div id="tableYearlySummary"></div>
+        </div>
+        <div class="chart-box">
+            <div class="chart-title">상장연도별 VC 순매도금액 (전체 24개월)</div>
+            <div class="chart-subtitle">IPO 상장연도 기준, 상장 후 24개월(720일) 이내 VC 순매매금액 합계</div>
+            <div id="chartYearlyFullBar" style="height:420px;"></div>
+        </div>
+        <div class="chart-box">
+            <div class="chart-title">상장연도별 공모금액 대비 순매도 비율 (전체 24개월)</div>
+            <div class="chart-subtitle">해당 연도 IPO 총 공모금액 대비 24개월 이내 순매도금액 비율 (%)</div>
+            <div id="chartYearlyFullPct" style="height:420px;"></div>
+        </div>
+        <div class="chart-box">
+            <div class="chart-title">상장연도별 6개월 이내 VC 순매도금액</div>
+            <div class="chart-subtitle">IPO 상장연도 기준, 상장 후 180일 이내 VC 순매매금액 합계</div>
+            <div id="chartYearlyBar" style="height:420px;"></div>
+        </div>
+        <div class="chart-box">
+            <div class="chart-title">상장연도별 공모금액 대비 6개월 이내 매도 비율</div>
+            <div class="chart-subtitle">해당 연도 IPO 총 공모금액 대비 6개월 이내 순매도금액 비율 (%). IPO 규모 차이를 보정한 비교</div>
+            <div id="chartYearlyPct" style="height:420px;"></div>
+        </div>
+        <div class="chart-box">
+            <div class="chart-title">연도별 30일 단위 매도 타이밍 비교</div>
+            <div class="chart-subtitle">6개월 이내에서 언제 집중적으로 매도하는지 연도별 패턴 비교 (30일 단위)</div>
+            <div id="chartYearlyBin" style="height:420px;"></div>
         </div>
     </div>
 
@@ -951,13 +985,197 @@ function renderEarlySell(){
     });
 }
 
+/* ── 탭: 연도별 비교 ── */
+let yearlyRendered = false;
+function renderYearlyEarlySell(){
+    if(yearlyRendered || !DATA || !DATA.yearly_early_sell) return;
+    yearlyRendered = true;
+
+    const ys = DATA.yearly_early_sell.sort((a,b)=>a.year-b.year);
+    const yb = DATA.yearly_early_bin || [];
+    const years = ys.map(d=>String(d.year));
+
+    const palette = ['#3b82f6','#ef4444','#22c55e','#f59e0b','#a78bfa',
+                     '#ec4899','#60a5fa','#f87171','#34d399','#fbbf24',
+                     '#818cf8','#fb923c'];
+
+    // ── 요약 테이블 (최상단) ──
+    const fB = v => {
+        const a=Math.abs(v),s=v<0?'-':'';
+        if(a>=1e12) return s+(a/1e12).toFixed(1)+'조';
+        if(a>=1e8) return s+(a/1e8).toFixed(0)+'억';
+        if(a>=1e4) return s+Math.round(a/1e4)+'만';
+        return v.toLocaleString()+'원';
+    };
+    const amtColor = v => v<0?'#60a5fa':'#f87171';
+    const pctBar = v => {
+        const w = Math.min(Math.abs(v), 120);
+        const c = v<0?'rgba(96,165,250,0.25)':'rgba(248,113,113,0.25)';
+        return `background:linear-gradient(90deg,${c} ${w}%,transparent ${w}%)`;
+    };
+
+    let h = `<table style="width:100%;border-collapse:separate;border-spacing:0;font-size:13px;">
+    <thead><tr style="background:#1a1d29;">
+        <th style="padding:10px 12px;text-align:center;border-bottom:2px solid #3b82f6;white-space:nowrap;" rowspan="2">상장연도</th>
+        <th style="padding:10px 12px;text-align:center;border-bottom:2px solid #3b82f6;white-space:nowrap;" rowspan="2">전체 IPO</th>
+        <th style="padding:10px 12px;text-align:center;border-bottom:2px solid #3b82f6;white-space:nowrap;" rowspan="2">VC보유 IPO</th>
+        <th style="padding:10px 12px;text-align:center;border-bottom:2px solid #3b82f6;white-space:nowrap;" rowspan="2">공모금액</th>
+        <th style="padding:10px 6px;text-align:center;border-bottom:2px solid #f59e0b;border-left:2px solid #2a2d3a;" colspan="2">전체 (24개월)</th>
+        <th style="padding:10px 6px;text-align:center;border-bottom:2px solid #ec4899;border-left:2px solid #2a2d3a;" colspan="2">6개월 이내</th>
+    </tr><tr style="background:#1a1d29;">
+        <th style="padding:6px 12px;text-align:center;border-bottom:1px solid #2a2d3a;border-left:2px solid #2a2d3a;color:#f59e0b;font-size:11px;">순매도액</th>
+        <th style="padding:6px 12px;text-align:center;border-bottom:1px solid #2a2d3a;color:#f59e0b;font-size:11px;">공모금액 대비</th>
+        <th style="padding:6px 12px;text-align:center;border-bottom:1px solid #2a2d3a;border-left:2px solid #2a2d3a;color:#ec4899;font-size:11px;">순매도액</th>
+        <th style="padding:6px 12px;text-align:center;border-bottom:1px solid #2a2d3a;color:#ec4899;font-size:11px;">공모금액 대비</th>
+    </tr></thead><tbody>`;
+
+    ys.forEach((d,i)=>{
+        const bg = i%2===0 ? 'background:#12141c;' : 'background:#161820;';
+        const offering = d.total_ipo_offering;
+        h+=`<tr style="${bg}">
+            <td style="padding:9px 12px;text-align:center;font-weight:bold;color:#e0e0e0;">${d.year}</td>
+            <td style="padding:9px 12px;text-align:center;color:#aaa;">${d.ipo_total_count}</td>
+            <td style="padding:9px 12px;text-align:center;color:#aaa;">${d.vc_ipo_count}</td>
+            <td style="padding:9px 12px;text-align:right;color:#ccc;">${fB(offering)}</td>
+            <td style="padding:9px 12px;text-align:right;color:${amtColor(d.full_net_amount)};border-left:2px solid #2a2d3a;">${fB(d.full_net_amount)}</td>
+            <td style="padding:9px 12px;text-align:right;color:${amtColor(d.full_pct_offering)};${pctBar(d.full_pct_offering)}">${d.full_pct_offering.toFixed(1)}%</td>
+            <td style="padding:9px 12px;text-align:right;color:${amtColor(d.net_amount)};border-left:2px solid #2a2d3a;">${fB(d.net_amount)}</td>
+            <td style="padding:9px 12px;text-align:right;color:${amtColor(d.pct_offering)};${pctBar(d.pct_offering)}">${d.pct_offering.toFixed(1)}%</td>
+        </tr>`;
+    });
+
+    // 합계
+    const totIpo=ys.reduce((s,d)=>s+d.ipo_total_count,0);
+    const totVcIpo=ys.reduce((s,d)=>s+d.vc_ipo_count,0);
+    const totOffering=ys.reduce((s,d)=>s+d.total_ipo_offering,0);
+    const totFullNet=ys.reduce((s,d)=>s+d.full_net_amount,0);
+    const totFullPct=totOffering?totFullNet/totOffering*100:0;
+    const totNet=ys.reduce((s,d)=>s+d.net_amount,0);
+    const totPct=totOffering?totNet/totOffering*100:0;
+    h+=`<tr style="background:#1a1d29;font-weight:bold;border-top:2px solid #3a3d4a;">
+        <td style="padding:10px 12px;text-align:center;">합계</td>
+        <td style="padding:10px 12px;text-align:center;">${totIpo}</td>
+        <td style="padding:10px 12px;text-align:center;">${totVcIpo}</td>
+        <td style="padding:10px 12px;text-align:right;">${fB(totOffering)}</td>
+        <td style="padding:10px 12px;text-align:right;color:${amtColor(totFullNet)};border-left:2px solid #2a2d3a;">${fB(totFullNet)}</td>
+        <td style="padding:10px 12px;text-align:right;color:${amtColor(totFullPct)};">${totFullPct.toFixed(1)}%</td>
+        <td style="padding:10px 12px;text-align:right;color:${amtColor(totNet)};border-left:2px solid #2a2d3a;">${fB(totNet)}</td>
+        <td style="padding:10px 12px;text-align:right;color:${amtColor(totPct)};">${totPct.toFixed(1)}%</td>
+    </tr>`;
+    h+='</tbody></table>';
+    document.getElementById('tableYearlySummary').innerHTML=h;
+
+    // ── 차트: 전체(24개월) 순매도금액 bar (주황 계열) ──
+    const fullAmounts = ys.map(d=>d.full_net_amount);
+    Plotly.newPlot('chartYearlyFullBar',[{
+        x: years,
+        y: fullAmounts,
+        type:'bar',
+        marker:{color:'#f59e0b'},
+        text: fullAmounts.map(v=>fmtAmt(v)),
+        textposition:'outside',
+        textfont:{color:'#aaa',size:11},
+        hovertemplate:'%{x}년<br>24개월 순매도: %{customdata}<extra></extra>',
+        customdata: fullAmounts.map(v=>fmtAmt(v)),
+    }],{
+        ...DARK,
+        xaxis:{...DARK.xaxis, title:'상장연도', type:'category'},
+        yaxis: krwYAxis(fullAmounts,'순매도금액'),
+        margin:{...DARK.margin, t:30},
+    },{responsive:true});
+
+    // ── 차트: 전체(24개월) 공모금액 대비 비율 bar (초록 계열) ──
+    const fullPctValues = ys.map(d=>d.full_pct_offering);
+    Plotly.newPlot('chartYearlyFullPct',[{
+        x: years,
+        y: fullPctValues,
+        type:'bar',
+        marker:{color:'#22c55e'},
+        text: fullPctValues.map(v=>v.toFixed(1)+'%'),
+        textposition:'outside',
+        textfont:{color:'#aaa',size:11},
+        hovertemplate:'%{x}년<br>공모금액 대비: %{y:.1f}%<extra></extra>',
+    }],{
+        ...DARK,
+        xaxis:{...DARK.xaxis, title:'상장연도', type:'category'},
+        yaxis:{...DARK.yaxis, title:'공모금액 대비 (%)', ticksuffix:'%'},
+        margin:{...DARK.margin, t:30},
+    },{responsive:true});
+
+    // ── 차트: 6개월 이내 순매도금액 bar (파랑 계열) ──
+    const netAmounts = ys.map(d=>d.net_amount);
+    Plotly.newPlot('chartYearlyBar',[{
+        x: years,
+        y: netAmounts,
+        type:'bar',
+        marker:{color:'#3b82f6'},
+        text: netAmounts.map(v=>fmtAmt(v)),
+        textposition:'outside',
+        textfont:{color:'#aaa',size:11},
+        hovertemplate:'%{x}년<br>6개월 이내 순매도: %{customdata}<extra></extra>',
+        customdata: netAmounts.map(v=>fmtAmt(v)),
+    }],{
+        ...DARK,
+        xaxis:{...DARK.xaxis, title:'상장연도', type:'category'},
+        yaxis: krwYAxis(netAmounts,'순매도금액'),
+        margin:{...DARK.margin, t:30},
+    },{responsive:true});
+
+    // ── 차트 2: 공모금액 대비 비율 bar (분홍 계열) ──
+    const pctValues = ys.map(d=>d.pct_offering);
+    Plotly.newPlot('chartYearlyPct',[{
+        x: years,
+        y: pctValues,
+        type:'bar',
+        marker:{color:'#ec4899'},
+        text: pctValues.map(v=>v.toFixed(1)+'%'),
+        textposition:'outside',
+        textfont:{color:'#aaa',size:11},
+        hovertemplate:'%{x}년<br>공모금액 대비: %{y:.1f}%<extra></extra>',
+    }],{
+        ...DARK,
+        xaxis:{...DARK.xaxis, title:'상장연도', type:'category'},
+        yaxis:{...DARK.yaxis, title:'공모금액 대비 (%)', ticksuffix:'%'},
+        margin:{...DARK.margin, t:30},
+    },{responsive:true});
+
+    // ── 차트 3: 연도×30일빈 line chart ──
+    const binDays = [0,30,60,90,120,150,180];
+    const binLabels = binDays.map(d=>d+'일');
+    const lineTraces = years.map((yr,i)=>{
+        const yrData = yb.filter(d=>String(d.year)===yr);
+        const yVals = binDays.map(day=>{
+            const found = yrData.find(d=>d.days===day);
+            return found ? found.net_amount : 0;
+        });
+        return {
+            x: binLabels,
+            y: yVals,
+            type:'scatter',
+            mode:'lines+markers',
+            name:yr+'년',
+            line:{color:palette[i%palette.length], width:2},
+            marker:{size:6},
+            hovertemplate:yr+'년 %{x}<br>%{customdata}<extra></extra>',
+            customdata: yVals.map(v=>fmtAmt(v)),
+        };
+    });
+    Plotly.newPlot('chartYearlyBin', lineTraces, {
+        ...DARK,
+        xaxis:{...DARK.xaxis, title:'상장 후 경과일'},
+        yaxis: krwYAxis(yb.map(d=>d.net_amount),'순매도금액'),
+        margin:{...DARK.margin, t:30},
+        legend:{font:{color:'#ccc'},bgcolor:'rgba(0,0,0,0)'},
+    },{responsive:true});
+}
+
 /* ── Tabs ── */
 function initTabs(){
     document.querySelectorAll('.tab').forEach(el=>{
         el.addEventListener('click',()=>{
             const tab=el.dataset.tab;
             document.querySelectorAll('.tab').forEach(t=>t.classList.toggle('active',t.dataset.tab===tab));
-            ['net','type','corp','vc','early','criteria','notes'].forEach(t=>{
+            ['net','type','corp','vc','early','yearly','criteria','notes'].forEach(t=>{
                 const p=document.getElementById('tab-'+t);
                 if(p) p.style.display=t===tab?'block':'none';
             });
@@ -965,6 +1183,7 @@ function initTabs(){
             if(tab==='corp') setTimeout(renderCorpRanking,80);
             if(tab==='vc') setTimeout(renderVCRanking,80);
             if(tab==='early') setTimeout(renderEarlySell,80);
+            if(tab==='yearly') setTimeout(renderYearlyEarlySell,80);
             if(tab==='criteria') setTimeout(renderCriteria,80);
             if(tab==='notes') setTimeout(renderNotes,80);
         });

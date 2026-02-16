@@ -5,240 +5,240 @@
       "net": -1825760176405,
       "count": 968,
       "cum": -1825760176405,
-      "net_pct_mcap": -4.4966,
-      "net_pct_offering": -27.2288,
-      "cum_pct_mcap": -4.4966,
-      "cum_pct_offering": -27.2288
+      "net_pct_mcap": -5.1401,
+      "net_pct_offering": -31.6933,
+      "cum_pct_mcap": -5.1401,
+      "cum_pct_offering": -31.6933
     },
     {
       "days": 30,
       "net": -821678895434,
       "count": 664,
       "cum": -2647439071839,
-      "net_pct_mcap": -2.0237,
-      "net_pct_offering": -12.2542,
-      "cum_pct_mcap": -6.5203,
-      "cum_pct_offering": -39.483
+      "net_pct_mcap": -2.3133,
+      "net_pct_offering": -14.2635,
+      "cum_pct_mcap": -7.4534,
+      "cum_pct_offering": -45.9569
     },
     {
       "days": 60,
       "net": -220236803029,
       "count": 368,
       "cum": -2867675874868,
-      "net_pct_mcap": -0.5424,
-      "net_pct_offering": -3.2845,
-      "cum_pct_mcap": -7.0627,
-      "cum_pct_offering": -42.7675
+      "net_pct_mcap": -0.62,
+      "net_pct_offering": -3.8231,
+      "cum_pct_mcap": -8.0735,
+      "cum_pct_offering": -49.7799
     },
     {
       "days": 90,
       "net": -179537109407,
       "count": 323,
       "cum": -3047212984275,
-      "net_pct_mcap": -0.4422,
-      "net_pct_offering": -2.6776,
-      "cum_pct_mcap": -7.5049,
-      "cum_pct_offering": -45.4451
+      "net_pct_mcap": -0.5055,
+      "net_pct_offering": -3.1166,
+      "cum_pct_mcap": -8.5789,
+      "cum_pct_offering": -52.8965
     },
     {
       "days": 120,
       "net": -122530402169,
       "count": 289,
       "cum": -3169743386444,
-      "net_pct_mcap": -0.3018,
-      "net_pct_offering": -1.8274,
-      "cum_pct_mcap": -7.8067,
-      "cum_pct_offering": -47.2725
+      "net_pct_mcap": -0.345,
+      "net_pct_offering": -2.127,
+      "cum_pct_mcap": -8.9239,
+      "cum_pct_offering": -55.0235
     },
     {
       "days": 150,
       "net": -47727263413,
       "count": 164,
       "cum": -3217470649857,
-      "net_pct_mcap": -0.1175,
-      "net_pct_offering": -0.7118,
-      "cum_pct_mcap": -7.9242,
-      "cum_pct_offering": -47.9842
+      "net_pct_mcap": -0.1344,
+      "net_pct_offering": -0.8285,
+      "cum_pct_mcap": -9.0583,
+      "cum_pct_offering": -55.852
     },
     {
       "days": 180,
       "net": -125242253363,
       "count": 110,
       "cum": -3342712903220,
-      "net_pct_mcap": -0.3085,
-      "net_pct_offering": -1.8678,
-      "cum_pct_mcap": -8.2327,
-      "cum_pct_offering": -49.8521
+      "net_pct_mcap": -0.3526,
+      "net_pct_offering": -2.1741,
+      "cum_pct_mcap": -9.4109,
+      "cum_pct_offering": -58.0261
     },
     {
       "days": 210,
       "net": -83110125546,
       "count": 56,
       "cum": -3425823028766,
-      "net_pct_mcap": -0.2047,
-      "net_pct_offering": -1.2395,
-      "cum_pct_mcap": -8.4374,
-      "cum_pct_offering": -51.0915
+      "net_pct_mcap": -0.234,
+      "net_pct_offering": -1.4427,
+      "cum_pct_mcap": -9.6449,
+      "cum_pct_offering": -59.4688
     },
     {
       "days": 240,
       "net": -84186359988,
       "count": 94,
       "cum": -3510009388754,
-      "net_pct_mcap": -0.2073,
-      "net_pct_offering": -1.2555,
-      "cum_pct_mcap": -8.6447,
-      "cum_pct_offering": -52.3471
+      "net_pct_mcap": -0.237,
+      "net_pct_offering": -1.4614,
+      "cum_pct_mcap": -9.8819,
+      "cum_pct_offering": -60.9302
     },
     {
       "days": 270,
       "net": -235479177803,
       "count": 70,
       "cum": -3745488566557,
-      "net_pct_mcap": -0.58,
-      "net_pct_offering": -3.5119,
-      "cum_pct_mcap": -9.2246,
-      "cum_pct_offering": -55.8589
+      "net_pct_mcap": -0.663,
+      "net_pct_offering": -4.0877,
+      "cum_pct_mcap": -10.5448,
+      "cum_pct_offering": -65.0179
     },
     {
       "days": 300,
       "net": -15264549996,
       "count": 14,
       "cum": -3760753116553,
-      "net_pct_mcap": -0.0376,
-      "net_pct_offering": -0.2277,
-      "cum_pct_mcap": -9.2622,
-      "cum_pct_offering": -56.0866
+      "net_pct_mcap": -0.043,
+      "net_pct_offering": -0.265,
+      "cum_pct_mcap": -10.5878,
+      "cum_pct_offering": -65.2829
     },
     {
       "days": 330,
       "net": -16519677515,
       "count": 29,
       "cum": -3777272794068,
-      "net_pct_mcap": -0.0407,
-      "net_pct_offering": -0.2464,
-      "cum_pct_mcap": -9.3029,
-      "cum_pct_offering": -56.3329
+      "net_pct_mcap": -0.0465,
+      "net_pct_offering": -0.2868,
+      "cum_pct_mcap": -10.6343,
+      "cum_pct_offering": -65.5696
     },
     {
       "days": 360,
       "net": -47104421187,
       "count": 116,
       "cum": -3824377215255,
-      "net_pct_mcap": -0.116,
-      "net_pct_offering": -0.7025,
-      "cum_pct_mcap": -9.4189,
-      "cum_pct_offering": -57.0354
+      "net_pct_mcap": -0.1326,
+      "net_pct_offering": -0.8177,
+      "cum_pct_mcap": -10.7669,
+      "cum_pct_offering": -66.3873
     },
     {
       "days": 390,
       "net": -28467857957,
       "count": 54,
       "cum": -3852845073212,
-      "net_pct_mcap": -0.0701,
-      "net_pct_offering": -0.4246,
-      "cum_pct_mcap": -9.4891,
-      "cum_pct_offering": -57.46
+      "net_pct_mcap": -0.0801,
+      "net_pct_offering": -0.4942,
+      "cum_pct_mcap": -10.8471,
+      "cum_pct_offering": -66.8815
     },
     {
       "days": 420,
       "net": -50165803868,
       "count": 54,
       "cum": -3903010877080,
-      "net_pct_mcap": -0.1236,
-      "net_pct_offering": -0.7482,
-      "cum_pct_mcap": -9.6126,
-      "cum_pct_offering": -58.2082
+      "net_pct_mcap": -0.1412,
+      "net_pct_offering": -0.8708,
+      "cum_pct_mcap": -10.9883,
+      "cum_pct_offering": -67.7523
     },
     {
       "days": 450,
       "net": -7442916905,
       "count": 18,
       "cum": -3910453793985,
-      "net_pct_mcap": -0.0183,
-      "net_pct_offering": -0.111,
-      "cum_pct_mcap": -9.6309,
-      "cum_pct_offering": -58.3192
+      "net_pct_mcap": -0.021,
+      "net_pct_offering": -0.1292,
+      "cum_pct_mcap": -11.0093,
+      "cum_pct_offering": -67.8815
     },
     {
       "days": 480,
       "net": -9000830295,
       "count": 12,
       "cum": -3919454624280,
-      "net_pct_mcap": -0.0222,
-      "net_pct_offering": -0.1342,
-      "cum_pct_mcap": -9.6531,
-      "cum_pct_offering": -58.4534
+      "net_pct_mcap": -0.0253,
+      "net_pct_offering": -0.1562,
+      "cum_pct_mcap": -11.0346,
+      "cum_pct_offering": -68.0378
     },
     {
       "days": 510,
       "net": -144341043209,
       "count": 30,
       "cum": -4063795667489,
-      "net_pct_mcap": -0.3555,
-      "net_pct_offering": -2.1527,
-      "cum_pct_mcap": -10.0086,
-      "cum_pct_offering": -60.606
+      "net_pct_mcap": -0.4064,
+      "net_pct_offering": -2.5056,
+      "cum_pct_mcap": -11.441,
+      "cum_pct_offering": -70.5434
     },
     {
       "days": 540,
       "net": -10283798838,
       "count": 25,
       "cum": -4074079466327,
-      "net_pct_mcap": -0.0253,
-      "net_pct_offering": -0.1534,
-      "cum_pct_mcap": -10.0339,
-      "cum_pct_offering": -60.7594
+      "net_pct_mcap": -0.029,
+      "net_pct_offering": -0.1785,
+      "cum_pct_mcap": -11.4699,
+      "cum_pct_offering": -70.7219
     },
     {
       "days": 570,
       "net": -5908673125,
       "count": 42,
       "cum": -4079988139452,
-      "net_pct_mcap": -0.0146,
-      "net_pct_offering": -0.0881,
-      "cum_pct_mcap": -10.0485,
-      "cum_pct_offering": -60.8475
+      "net_pct_mcap": -0.0166,
+      "net_pct_offering": -0.1026,
+      "cum_pct_mcap": -11.4866,
+      "cum_pct_offering": -70.8245
     },
     {
       "days": 600,
       "net": -2013807832,
       "count": 10,
       "cum": -4082001947284,
-      "net_pct_mcap": -0.005,
-      "net_pct_offering": -0.03,
-      "cum_pct_mcap": -10.0534,
-      "cum_pct_offering": -60.8776
+      "net_pct_mcap": -0.0057,
+      "net_pct_offering": -0.035,
+      "cum_pct_mcap": -11.4922,
+      "cum_pct_offering": -70.8594
     },
     {
       "days": 630,
       "net": -12197188035,
       "count": 22,
       "cum": -4094199135319,
-      "net_pct_mcap": -0.03,
-      "net_pct_offering": -0.1819,
-      "cum_pct_mcap": -10.0835,
-      "cum_pct_offering": -61.0595
+      "net_pct_mcap": -0.0343,
+      "net_pct_offering": -0.2117,
+      "cum_pct_mcap": -11.5266,
+      "cum_pct_offering": -71.0711
     },
     {
       "days": 660,
       "net": -3871678992,
       "count": 27,
       "cum": -4098070814311,
-      "net_pct_mcap": -0.0095,
-      "net_pct_offering": -0.0577,
-      "cum_pct_mcap": -10.093,
-      "cum_pct_offering": -61.1172
+      "net_pct_mcap": -0.0109,
+      "net_pct_offering": -0.0672,
+      "cum_pct_mcap": -11.5375,
+      "cum_pct_offering": -71.1383
     },
     {
       "days": 690,
       "net": -14664435976,
       "count": 29,
       "cum": -4112735250287,
-      "net_pct_mcap": -0.0361,
-      "net_pct_offering": -0.2187,
-      "cum_pct_mcap": -10.1291,
-      "cum_pct_offering": -61.3359
+      "net_pct_mcap": -0.0413,
+      "net_pct_offering": -0.2546,
+      "cum_pct_mcap": -11.5788,
+      "cum_pct_offering": -71.3929
     },
     {
       "days": 720,
@@ -246,9 +246,9 @@
       "count": 1,
       "cum": -4112882390287,
       "net_pct_mcap": -0.0004,
-      "net_pct_offering": -0.0022,
-      "cum_pct_mcap": -10.1295,
-      "cum_pct_offering": -61.3381
+      "net_pct_offering": -0.0026,
+      "cum_pct_mcap": -11.5792,
+      "cum_pct_offering": -71.3955
     }
   ],
   "type_pivot": [
@@ -544,10 +544,10 @@
       ],
       "buy_vcs": [],
       "stock_code": "382840",
-      "ipo_mcap": 326312415000,
-      "ipo_offering": 65312455000,
-      "pct_mcap": -43.37,
-      "pct_offering": -216.68
+      "ipo_mcap": 108862209049,
+      "ipo_offering": 21789113140,
+      "pct_mcap": -130.0,
+      "pct_offering": -649.5
     },
     {
       "corp_name": "엔켐",
@@ -731,10 +731,10 @@
       ],
       "buy_vcs": [],
       "stock_code": "347850",
-      "ipo_mcap": 344164656000,
-      "ipo_offering": 36300000000,
-      "pct_mcap": -20.62,
-      "pct_offering": -195.52
+      "ipo_mcap": 86127637526,
+      "ipo_offering": 9084120602,
+      "pct_mcap": -82.4,
+      "pct_offering": -781.28
     },
     {
       "corp_name": "이엔셀",
@@ -798,10 +798,10 @@
       ],
       "buy_vcs": [],
       "stock_code": "377030",
-      "ipo_mcap": 128002365000,
-      "ipo_offering": 15000000000,
-      "pct_mcap": -43.33,
-      "pct_offering": -369.77
+      "ipo_mcap": 54799694035,
+      "ipo_offering": 6421720493,
+      "pct_mcap": -101.22,
+      "pct_offering": -863.72
     },
     {
       "corp_name": "이노테크",
@@ -860,10 +860,10 @@
       ],
       "buy_vcs": [],
       "stock_code": "950220",
-      "ipo_mcap": 737940075000,
-      "ipo_offering": 112500000000,
-      "pct_mcap": -6.9,
-      "pct_offering": -45.27
+      "ipo_mcap": 634369538224,
+      "ipo_offering": 96710526325,
+      "pct_mcap": -8.03,
+      "pct_offering": -52.66
     },
     {
       "corp_name": "에스씨엠생명과학",
@@ -883,10 +883,10 @@
       ],
       "buy_vcs": [],
       "stock_code": "298060",
-      "ipo_mcap": 187452982000,
-      "ipo_offering": 30600000000,
-      "pct_mcap": -26.02,
-      "pct_offering": -159.38
+      "ipo_mcap": 142926748792,
+      "ipo_offering": 23331496071,
+      "pct_mcap": -34.12,
+      "pct_offering": -209.03
     },
     {
       "corp_name": "에이치브이엠",
@@ -975,10 +975,10 @@
       ],
       "buy_vcs": [],
       "stock_code": "262260",
-      "ipo_mcap": 137072606400,
-      "ipo_offering": 29547007200,
-      "pct_mcap": -33.52,
-      "pct_offering": -155.52
+      "ipo_mcap": 68536303200,
+      "ipo_offering": 14773503600,
+      "pct_mcap": -67.05,
+      "pct_offering": -311.03
     },
     {
       "corp_name": "엘케이켐",
@@ -1040,10 +1040,10 @@
       ],
       "buy_vcs": [],
       "stock_code": "348210",
-      "ipo_mcap": 236315664000,
-      "ipo_offering": 24128000000,
-      "pct_mcap": -18.5,
-      "pct_offering": -181.18
+      "ipo_mcap": 78818636883,
+      "ipo_offering": 8047439761,
+      "pct_mcap": -55.46,
+      "pct_offering": -543.2
     },
     {
       "corp_name": "센코",
@@ -1065,10 +1065,10 @@
       ],
       "buy_vcs": [],
       "stock_code": "347000",
-      "ipo_mcap": 101018372000,
-      "ipo_offering": 20956000000,
-      "pct_mcap": -38.92,
-      "pct_offering": -187.63
+      "ipo_mcap": 25270607325,
+      "ipo_offering": 5242322130,
+      "pct_mcap": -155.6,
+      "pct_offering": -750.06
     },
     {
       "corp_name": "퀀타매트릭스",
@@ -1183,10 +1183,10 @@
       ],
       "buy_vcs": [],
       "stock_code": "291650",
-      "ipo_mcap": 211653150000,
-      "ipo_offering": 32500000000,
-      "pct_mcap": -16.25,
-      "pct_offering": -105.81
+      "ipo_mcap": 90349961287,
+      "ipo_offering": 13873517790,
+      "pct_mcap": -38.06,
+      "pct_offering": -247.87
     }
   ],
   "corp_top_buy": [
@@ -1202,8 +1202,8 @@
       "sell_vcs": [],
       "buy_vcs": [],
       "stock_code": "476060",
-      "ipo_mcap": 140451480000,
-      "ipo_offering": 20150000000,
+      "ipo_mcap": 35112870000,
+      "ipo_offering": 5037500000,
       "pct_mcap": 0.0,
       "pct_offering": 0.0
     },
@@ -1316,10 +1316,10 @@
       ],
       "buy_vcs": [],
       "stock_code": "373110",
-      "ipo_mcap": 108302120000,
-      "ipo_offering": 16180000000,
-      "pct_mcap": -0.64,
-      "pct_offering": -4.27
+      "ipo_mcap": 95469193746,
+      "ipo_offering": 14262800717,
+      "pct_mcap": -0.72,
+      "pct_offering": -4.85
     },
     {
       "corp_name": "시선AI",
@@ -1434,10 +1434,10 @@
       ],
       "buy_vcs": [],
       "stock_code": "308080",
-      "ipo_mcap": 497087480000,
-      "ipo_offering": 99417496000,
-      "pct_mcap": -0.3,
-      "pct_offering": -1.49
+      "ipo_mcap": 249058323262,
+      "ipo_offering": 49811664652,
+      "pct_mcap": -0.59,
+      "pct_offering": -2.97
     },
     {
       "corp_name": "아이빔테크놀로지",
@@ -1476,10 +1476,10 @@
       ],
       "buy_vcs": [],
       "stock_code": "376930",
-      "ipo_mcap": 104250500000,
-      "ipo_offering": 15000000000,
-      "pct_mcap": -1.64,
-      "pct_offering": -11.38
+      "ipo_mcap": 41449263930,
+      "ipo_offering": 5963894263,
+      "pct_mcap": -4.12,
+      "pct_offering": -28.62
     },
     {
       "corp_name": "닷밀",
@@ -1496,10 +1496,10 @@
       ],
       "buy_vcs": [],
       "stock_code": "464580",
-      "ipo_mcap": 118923324000,
-      "ipo_offering": 15600000000,
-      "pct_mcap": -1.51,
-      "pct_offering": -11.52
+      "ipo_mcap": 59461662000,
+      "ipo_offering": 7800000000,
+      "pct_mcap": -3.02,
+      "pct_offering": -23.05
     },
     {
       "corp_name": "와이제이링크",
@@ -1515,10 +1515,10 @@
       ],
       "buy_vcs": [],
       "stock_code": "209640",
-      "ipo_mcap": 170658876000,
-      "ipo_offering": 42720000000,
-      "pct_mcap": -1.09,
-      "pct_offering": -4.34
+      "ipo_mcap": 85329438000,
+      "ipo_offering": 21360000000,
+      "pct_mcap": -2.17,
+      "pct_offering": -8.68
     },
     {
       "corp_name": "와이바이오로직스",
@@ -1754,10 +1754,10 @@
       ],
       "buy_vcs": [],
       "stock_code": "439580",
-      "ipo_mcap": 202353591000,
-      "ipo_offering": 26600000000,
-      "pct_mcap": -1.47,
-      "pct_offering": -11.19
+      "ipo_mcap": 67490186125,
+      "ipo_offering": 8871791906,
+      "pct_mcap": -4.41,
+      "pct_offering": -33.55
     },
     {
       "corp_name": "씨앤씨인터내셔널",
@@ -1773,10 +1773,10 @@
       ],
       "buy_vcs": [],
       "stock_code": "352480",
-      "ipo_mcap": 280679970000,
-      "ipo_offering": 70300000000,
-      "pct_mcap": -1.13,
-      "pct_offering": -4.52
+      "ipo_mcap": 187333100750,
+      "ipo_offering": 46920045569,
+      "pct_mcap": -1.7,
+      "pct_offering": -6.78
     }
   ],
   "vc_top_sell": [
@@ -5353,10 +5353,10 @@
       "buy_amount": 0,
       "net_shares": -872755,
       "tx_count": 5,
-      "ipo_mcap": 128002365000,
-      "ipo_offering": 15000000000,
-      "pct_mcap": -43.33,
-      "pct_offering": -369.77,
+      "ipo_mcap": 54799694035,
+      "ipo_offering": 6421720493,
+      "pct_mcap": -101.22,
+      "pct_offering": -863.72,
       "disclosures": [
         {
           "date": "2021-07-29",
@@ -5413,10 +5413,10 @@
       "buy_amount": 0,
       "net_shares": -473107,
       "tx_count": 3,
-      "ipo_mcap": 326312415000,
-      "ipo_offering": 65312455000,
-      "pct_mcap": -16.22,
-      "pct_offering": -81.02,
+      "ipo_mcap": 108862209049,
+      "ipo_offering": 21789113140,
+      "pct_mcap": -48.61,
+      "pct_offering": -242.86,
       "disclosures": [
         {
           "date": "2021-10-20",
@@ -6634,10 +6634,10 @@
       "buy_amount": 0,
       "net_shares": -387995,
       "tx_count": 68,
-      "ipo_mcap": 236315664000,
-      "ipo_offering": 24128000000,
-      "pct_mcap": -18.5,
-      "pct_offering": -181.18,
+      "ipo_mcap": 78818636883,
+      "ipo_offering": 8047439761,
+      "pct_mcap": -55.46,
+      "pct_offering": -543.2,
       "disclosures": [
         {
           "date": "2020-10-08",
@@ -7261,10 +7261,10 @@
       "buy_amount": 0,
       "net_shares": -1791763,
       "tx_count": 30,
-      "ipo_mcap": 101018372000,
-      "ipo_offering": 20956000000,
-      "pct_mcap": -37.15,
-      "pct_offering": -179.07,
+      "ipo_mcap": 25270607325,
+      "ipo_offering": 5242322130,
+      "pct_mcap": -148.5,
+      "pct_offering": -715.84,
       "disclosures": [
         {
           "date": "2020-10-29",
@@ -7588,10 +7588,10 @@
       "buy_amount": 0,
       "net_shares": -671093,
       "tx_count": 7,
-      "ipo_mcap": 137072606400,
-      "ipo_offering": 29547007200,
-      "pct_mcap": -26.89,
-      "pct_offering": -124.76,
+      "ipo_mcap": 68536303200,
+      "ipo_offering": 14773503600,
+      "pct_mcap": -53.78,
+      "pct_offering": -249.51,
       "disclosures": [
         {
           "date": "2020-07-16",
@@ -7666,10 +7666,10 @@
       "buy_amount": 0,
       "net_shares": -1180648,
       "tx_count": 39,
-      "ipo_mcap": 187452982000,
-      "ipo_offering": 30600000000,
-      "pct_mcap": -18.77,
-      "pct_offering": -114.95,
+      "ipo_mcap": 142926748792,
+      "ipo_offering": 23331496071,
+      "pct_mcap": -24.61,
+      "pct_offering": -150.77,
       "disclosures": [
         {
           "date": "2020-06-17",
@@ -8032,10 +8032,10 @@
       "buy_amount": 0,
       "net_shares": -1277670,
       "tx_count": 59,
-      "ipo_mcap": 211653150000,
-      "ipo_offering": 32500000000,
-      "pct_mcap": -16.25,
-      "pct_offering": -105.81,
+      "ipo_mcap": 90349961287,
+      "ipo_offering": 13873517790,
+      "pct_mcap": -38.06,
+      "pct_offering": -247.87,
       "disclosures": [
         {
           "date": "2020-09-16",
@@ -8578,10 +8578,10 @@
       "buy_amount": 0,
       "net_shares": -1198062,
       "tx_count": 3,
-      "ipo_mcap": 133687940000,
-      "ipo_offering": 20000000000,
-      "pct_mcap": -25.7,
-      "pct_offering": -171.82,
+      "ipo_mcap": 86816788684,
+      "ipo_offering": 12987976130,
+      "pct_mcap": -39.58,
+      "pct_offering": -264.58,
       "disclosures": [
         {
           "date": "2020-12-21",
@@ -8620,10 +8620,10 @@
       "buy_amount": 0,
       "net_shares": -1221727,
       "tx_count": 11,
-      "ipo_mcap": 207226160000,
-      "ipo_offering": 26600000000,
-      "pct_mcap": -16.13,
-      "pct_offering": -125.65,
+      "ipo_mcap": 92663994216,
+      "ipo_offering": 11894551567,
+      "pct_mcap": -36.07,
+      "pct_offering": -280.99,
       "disclosures": [
         {
           "date": "2020-09-14",
@@ -9412,10 +9412,10 @@
       "buy_amount": 0,
       "net_shares": -470941,
       "tx_count": 17,
-      "ipo_mcap": 87917040000,
-      "ipo_offering": 17640000000,
-      "pct_mcap": -35.37,
-      "pct_offering": -176.31,
+      "ipo_mcap": 29326612632,
+      "ipo_offering": 5884200000,
+      "pct_mcap": -106.05,
+      "pct_offering": -528.54,
       "disclosures": [
         {
           "date": "2021-03-24",
@@ -9580,10 +9580,10 @@
       "buy_amount": 0,
       "net_shares": -2000000,
       "tx_count": 1,
-      "ipo_mcap": 737940075000,
-      "ipo_offering": 112500000000,
-      "pct_mcap": -4.01,
-      "pct_offering": -26.3,
+      "ipo_mcap": 634369538224,
+      "ipo_offering": 96710526325,
+      "pct_mcap": -4.66,
+      "pct_offering": -30.6,
       "disclosures": [
         {
           "date": "2021-03-16",
@@ -9595,6 +9595,352 @@
           "rcept_no": "20210323001105"
         }
       ]
+    }
+  ],
+  "yearly_early_sell": [
+    {
+      "year": 2020,
+      "ipo_total_count": 63,
+      "vc_ipo_count": 26,
+      "early_sell_stocks": 24,
+      "early_sell_vcs": 80,
+      "net_amount": -567642315254,
+      "sell_amount": -567642315254,
+      "buy_amount": 0,
+      "tx_count": 385,
+      "full_net_amount": -743920644027,
+      "full_pct_offering": -146.99,
+      "total_ipo_mcap": 2945215996763,
+      "total_ipo_offering": 506103436259,
+      "pct_mcap": -19.27,
+      "pct_offering": -112.16
+    },
+    {
+      "year": 2021,
+      "ipo_total_count": 70,
+      "vc_ipo_count": 34,
+      "early_sell_stocks": 31,
+      "early_sell_vcs": 69,
+      "net_amount": -458499492769,
+      "sell_amount": -458499492769,
+      "buy_amount": 0,
+      "tx_count": 578,
+      "full_net_amount": -748740380453,
+      "full_pct_offering": -83.14,
+      "total_ipo_mcap": 5181360304227,
+      "total_ipo_offering": 900575173694,
+      "pct_mcap": -8.85,
+      "pct_offering": -50.91
+    },
+    {
+      "year": 2022,
+      "ipo_total_count": 65,
+      "vc_ipo_count": 35,
+      "early_sell_stocks": 32,
+      "early_sell_vcs": 69,
+      "net_amount": -406559931851,
+      "sell_amount": -408054024402,
+      "buy_amount": 1494092551,
+      "tx_count": 380,
+      "full_net_amount": -536483721423,
+      "full_pct_offering": -41.62,
+      "total_ipo_mcap": 7200542140206,
+      "total_ipo_offering": 1288890943237,
+      "pct_mcap": -5.65,
+      "pct_offering": -31.54
+    },
+    {
+      "year": 2023,
+      "ipo_total_count": 71,
+      "vc_ipo_count": 37,
+      "early_sell_stocks": 36,
+      "early_sell_vcs": 84,
+      "net_amount": -369340865995,
+      "sell_amount": -369340865995,
+      "buy_amount": 0,
+      "tx_count": 325,
+      "full_net_amount": -417966892641,
+      "full_pct_offering": -42.04,
+      "total_ipo_mcap": 6430467123565,
+      "total_ipo_offering": 994283599799,
+      "pct_mcap": -5.74,
+      "pct_offering": -37.15
+    },
+    {
+      "year": 2024,
+      "ipo_total_count": 68,
+      "vc_ipo_count": 42,
+      "early_sell_stocks": 41,
+      "early_sell_vcs": 139,
+      "net_amount": -472886654350,
+      "sell_amount": -472886654350,
+      "buy_amount": 0,
+      "tx_count": 533,
+      "full_net_amount": -578044220434,
+      "full_pct_offering": -55.71,
+      "total_ipo_mcap": 6783816834849,
+      "total_ipo_offering": 1037571649740,
+      "pct_mcap": -6.97,
+      "pct_offering": -45.58
+    },
+    {
+      "year": 2025,
+      "ipo_total_count": 67,
+      "vc_ipo_count": 36,
+      "early_sell_stocks": 36,
+      "early_sell_vcs": 130,
+      "net_amount": -948395175554,
+      "sell_amount": -948795384207,
+      "buy_amount": 400208653,
+      "tx_count": 582,
+      "full_net_amount": -1087726531309,
+      "full_pct_offering": -105.27,
+      "total_ipo_mcap": 6978252300301,
+      "total_ipo_offering": 1033280905408,
+      "pct_mcap": -13.59,
+      "pct_offering": -91.78
+    }
+  ],
+  "yearly_early_bin": [
+    {
+      "year": 2020,
+      "days": 0,
+      "net_amount": -314791910416,
+      "count": 144
+    },
+    {
+      "year": 2020,
+      "days": 30,
+      "net_amount": -155566195117,
+      "count": 101
+    },
+    {
+      "year": 2020,
+      "days": 60,
+      "net_amount": -56827317945,
+      "count": 103
+    },
+    {
+      "year": 2020,
+      "days": 90,
+      "net_amount": -28466978414,
+      "count": 33
+    },
+    {
+      "year": 2020,
+      "days": 120,
+      "net_amount": -6679653760,
+      "count": 3
+    },
+    {
+      "year": 2020,
+      "days": 150,
+      "net_amount": -5310259602,
+      "count": 1
+    },
+    {
+      "year": 2021,
+      "days": 0,
+      "net_amount": -241300219885,
+      "count": 120
+    },
+    {
+      "year": 2021,
+      "days": 30,
+      "net_amount": -111785321032,
+      "count": 46
+    },
+    {
+      "year": 2021,
+      "days": 60,
+      "net_amount": -40868055598,
+      "count": 24
+    },
+    {
+      "year": 2021,
+      "days": 90,
+      "net_amount": -37006020686,
+      "count": 111
+    },
+    {
+      "year": 2021,
+      "days": 120,
+      "net_amount": -17511144241,
+      "count": 170
+    },
+    {
+      "year": 2021,
+      "days": 150,
+      "net_amount": -7053921487,
+      "count": 105
+    },
+    {
+      "year": 2021,
+      "days": 180,
+      "net_amount": -2974809840,
+      "count": 2
+    },
+    {
+      "year": 2022,
+      "days": 0,
+      "net_amount": -144123118274,
+      "count": 130
+    },
+    {
+      "year": 2022,
+      "days": 30,
+      "net_amount": -126511994862,
+      "count": 96
+    },
+    {
+      "year": 2022,
+      "days": 60,
+      "net_amount": -50406306533,
+      "count": 35
+    },
+    {
+      "year": 2022,
+      "days": 90,
+      "net_amount": -33282230070,
+      "count": 50
+    },
+    {
+      "year": 2022,
+      "days": 120,
+      "net_amount": -35108266372,
+      "count": 49
+    },
+    {
+      "year": 2022,
+      "days": 150,
+      "net_amount": -16698021420,
+      "count": 18
+    },
+    {
+      "year": 2022,
+      "days": 180,
+      "net_amount": -429994320,
+      "count": 2
+    },
+    {
+      "year": 2023,
+      "days": 0,
+      "net_amount": -171837619132,
+      "count": 113
+    },
+    {
+      "year": 2023,
+      "days": 30,
+      "net_amount": -130651735628,
+      "count": 91
+    },
+    {
+      "year": 2023,
+      "days": 60,
+      "net_amount": -21661938557,
+      "count": 35
+    },
+    {
+      "year": 2023,
+      "days": 90,
+      "net_amount": -29282025139,
+      "count": 43
+    },
+    {
+      "year": 2023,
+      "days": 120,
+      "net_amount": -6782128964,
+      "count": 22
+    },
+    {
+      "year": 2023,
+      "days": 150,
+      "net_amount": -7217313075,
+      "count": 20
+    },
+    {
+      "year": 2023,
+      "days": 180,
+      "net_amount": -1908105500,
+      "count": 1
+    },
+    {
+      "year": 2024,
+      "days": 0,
+      "net_amount": -280838663799,
+      "count": 158
+    },
+    {
+      "year": 2024,
+      "days": 30,
+      "net_amount": -97631310588,
+      "count": 143
+    },
+    {
+      "year": 2024,
+      "days": 60,
+      "net_amount": -24753201797,
+      "count": 126
+    },
+    {
+      "year": 2024,
+      "days": 90,
+      "net_amount": -35613647766,
+      "count": 71
+    },
+    {
+      "year": 2024,
+      "days": 120,
+      "net_amount": -33749594590,
+      "count": 34
+    },
+    {
+      "year": 2024,
+      "days": 150,
+      "net_amount": -300235810,
+      "count": 1
+    },
+    {
+      "year": 2025,
+      "days": 0,
+      "net_amount": -672868644899,
+      "count": 303
+    },
+    {
+      "year": 2025,
+      "days": 30,
+      "net_amount": -199532338207,
+      "count": 187
+    },
+    {
+      "year": 2025,
+      "days": 60,
+      "net_amount": -25719982599,
+      "count": 45
+    },
+    {
+      "year": 2025,
+      "days": 90,
+      "net_amount": -15886207332,
+      "count": 15
+    },
+    {
+      "year": 2025,
+      "days": 120,
+      "net_amount": -22699614242,
+      "count": 11
+    },
+    {
+      "year": 2025,
+      "days": 150,
+      "net_amount": -11147512019,
+      "count": 19
+    },
+    {
+      "year": 2025,
+      "days": 180,
+      "net_amount": -540876256,
+      "count": 2
     }
   ],
   "missing_price": {
@@ -10522,8 +10868,8 @@
     "ipo_vc_count": 675,
     "ipo_stock_count": 236,
     "ipo_pair_count": 862,
-    "total_ipo_mcap": 40603049699600,
-    "total_ipo_offering": 6705264620900,
+    "total_ipo_mcap": 35519654699914,
+    "total_ipo_offering": 5760705708137,
     "funnel_ipo_total": 403,
     "funnel_raw_stocks": 401,
     "funnel_vc_stocks": 258
