@@ -59,6 +59,7 @@
 <div class="tabs">
   <div class="tab active" data-tab="aggregate">전체 집계</div>
   <div class="tab" data-tab="individual">개별 종목</div>
+  <div class="tab" data-tab="methodology">수정공모가 산정</div>
 </div>
 
 <div class="container">
@@ -69,7 +70,7 @@
     <div class="base-toggle">
       <span>수익률 기준:</span>
       <div class="toggle-btn" id="agg-toggle">
-        <button class="active" data-base="ipo">공모가 대비</button>
+        <button class="active" data-base="ipo">수정공모가 대비</button>
         <button data-base="close">상장일 종가 대비</button>
       </div>
     </div>
@@ -109,12 +110,117 @@
     </div>
   </div>
 
+  <!-- 수정공모가 산정 탭 -->
+  <div id="methodology" class="panel">
+    <div class="card">
+      <h3 style="font-size:1.2rem;color:#1a1a2e;margin-bottom:20px">수정공모가란?</h3>
+      <p style="line-height:1.8;color:#444;margin-bottom:16px">
+        본 대시보드의 수익률은 <strong>수정주가</strong>(Adjusted Price)를 기반으로 산출됩니다.
+        수정주가란 액면분할, 무상증자, 배당 등 기업 이벤트에 의한 주가 단절을 보정하여,
+        시간에 걸쳐 일관된 비교가 가능하도록 조정한 가격입니다.
+      </p>
+      <p style="line-height:1.8;color:#444;margin-bottom:16px">
+        수정주가와 정확하게 비교하려면 공모가 역시 동일한 수정계수로 보정해야 합니다.
+        이렇게 보정된 공모가를 <strong>수정공모가</strong>라 합니다.
+      </p>
+    </div>
+
+    <div class="row">
+      <div class="card">
+        <h3>산정 공식</h3>
+        <div style="background:#f0f4ff;border-radius:10px;padding:24px;text-align:center;margin-bottom:16px">
+          <div style="font-size:1.4rem;font-weight:700;color:#4361ee;letter-spacing:1px">수정공모가 = 공모가 &divide; 수정계수</div>
+        </div>
+        <table class="summary-table" style="font-size:0.85rem">
+          <thead><tr><th>구분</th><th>출처</th><th>설명</th></tr></thead>
+          <tbody>
+            <tr><td style="font-weight:600">공모가</td><td>KRX 정보데이터시스템</td><td style="text-align:left">IPO 당시 실제 공모 가격</td></tr>
+            <tr><td style="font-weight:600">수정계수</td><td>DataGuide (FnGuide)</td><td style="text-align:left">기업 이벤트 누적 보정 계수</td></tr>
+            <tr><td style="font-weight:600">수정주가</td><td>DataGuide (FnGuide)</td><td style="text-align:left">종가를 수정계수로 보정한 가격</td></tr>
+          </tbody>
+        </table>
+      </div>
+
+      <div class="card">
+        <h3>왜 수정공모가를 쓰는가?</h3>
+        <div style="line-height:1.9;color:#444;font-size:0.92rem">
+          <p style="margin-bottom:12px"><strong style="color:#e63946">문제:</strong> 수정주가와 원래 공모가를 직접 비교하면 수익률이 왜곡됩니다.</p>
+          <div style="background:#fff5f5;border-left:4px solid #e63946;padding:14px 18px;border-radius:0 8px 8px 0;margin-bottom:14px;font-size:0.88rem">
+            <strong>예시)</strong> 공모가 8,000원인 종목이 2:1 액면분할<br>
+            &bull; 수정주가: 분할 후 기준 (약 4,000원대)<br>
+            &bull; 원래 공모가 8,000원과 비교하면 수익률이 <strong>절반으로 과소평가</strong>됨<br>
+            &bull; 수정공모가 4,000원(= 8,000 &divide; 2)과 비교해야 정확
+          </div>
+          <p><strong style="color:#457b9d">해결:</strong> 공모가를 동일한 수정계수로 나누면, 수정주가와 일관된 수익률 산출이 가능합니다.</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="card">
+      <h3>수정계수 예시</h3>
+      <table class="summary-table" style="font-size:0.85rem">
+        <thead>
+          <tr><th>기업 이벤트</th><th>수정계수</th><th>의미</th><th>영향</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>이벤트 없음</td><td><strong>1.0</strong></td><td>보정 불필요</td><td>공모가 = 수정공모가</td></tr>
+          <tr><td>2:1 액면분할</td><td><strong>2.0</strong></td><td>주식 수 2배 증가</td><td>수정공모가 = 공모가 &divide; 2</td></tr>
+          <tr><td>5:1 액면분할</td><td><strong>5.0</strong></td><td>주식 수 5배 증가</td><td>수정공모가 = 공모가 &divide; 5</td></tr>
+          <tr><td>무상감자 (2:1)</td><td><strong>0.5</strong></td><td>주식 수 절반 감소</td><td>수정공모가 = 공모가 &times; 2</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <div class="card">
+      <h3>주요 종목 산정 예시</h3>
+      <table class="summary-table" style="font-size:0.85rem">
+        <thead>
+          <tr><th>종목</th><th>공모가(원)</th><th>수정계수</th><th>수정공모가(원)</th><th>추정 이벤트</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>펨트론</td><td style="text-align:right">8,000</td><td>2.000</td><td style="text-align:right;font-weight:600;color:#4361ee">4,000</td><td>액면분할</td></tr>
+          <tr><td>HPSP</td><td style="text-align:right">25,000</td><td>4.000</td><td style="text-align:right;font-weight:600;color:#4361ee">6,250</td><td>액면분할</td></tr>
+          <tr><td>모아데이타</td><td style="text-align:right">20,000</td><td>5.998</td><td style="text-align:right;font-weight:600;color:#4361ee">3,335</td><td>액면분할</td></tr>
+          <tr><td>루닛</td><td style="text-align:right">30,000</td><td>2.071</td><td style="text-align:right;font-weight:600;color:#4361ee">14,484</td><td>복합 이벤트</td></tr>
+          <tr><td>한주라이트메탈</td><td style="text-align:right">3,100</td><td>1.408</td><td style="text-align:right;font-weight:600;color:#4361ee">2,202</td><td>복합 이벤트</td></tr>
+          <tr><td>위니아에이드</td><td style="text-align:right">16,200</td><td>0.414</td><td style="text-align:right;font-weight:600;color:#4361ee">39,087</td><td>무상감자</td></tr>
+          <tr><td>셀레스트라</td><td style="text-align:right">13,900</td><td>0.114</td><td style="text-align:right;font-weight:600;color:#4361ee">122,140</td><td>무상감자</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <div class="row">
+      <div class="card">
+        <h3>데이터 현황</h3>
+        <div style="display:grid;grid-template-columns:1fr 1fr;gap:12px">
+          <div class="info-item"><div class="lbl">전체 분석 대상</div><div class="val">405개</div></div>
+          <div class="info-item"><div class="lbl">수정계수 매칭</div><div class="val" style="color:#2ec4b6">100%</div></div>
+          <div class="info-item"><div class="lbl">수정계수 &ne; 1</div><div class="val">150개</div></div>
+          <div class="info-item"><div class="lbl">수정계수 = 1</div><div class="val">255개</div></div>
+        </div>
+      </div>
+
+      <div class="card">
+        <h3>적용 범위</h3>
+        <table class="summary-table" style="font-size:0.85rem">
+          <thead><tr><th>분석 항목</th><th>적용 기준가</th></tr></thead>
+          <tbody>
+            <tr><td style="text-align:left">IPO 수익률 (상장일/6M/12M/18M/24M)</td><td><strong>수정공모가</strong> 대비 수정주가</td></tr>
+            <tr><td style="text-align:left">IPO 시가총액 (ipo_mcap)</td><td>수정공모가 &times; 최초상장주식수</td></tr>
+            <tr><td style="text-align:left">공모금액 (ipo_offering)</td><td>수정공모가 &times; 공모주식수</td></tr>
+            <tr><td style="text-align:left">주가 차트 기준선</td><td>수정공모가</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+
   <!-- 개별 종목 탭 -->
   <div id="individual" class="panel">
     <div class="stock-selector">
       <select id="stock-select"><option value="">종목을 선택하세요</option></select>
       <div class="toggle-btn" id="ind-toggle">
-        <button class="active" data-base="ipo">공모가 대비</button>
+        <button class="active" data-base="ipo">수정공모가 대비</button>
         <button data-base="close">상장일 종가 대비</button>
       </div>
     </div>
@@ -176,10 +282,10 @@ let indBase = 'ipo';
 function colNames(base) {
   if (base === 'ipo') {
     return {
-      listing:'상장일수익률_공모가(%)',
-      m6:'6M수익률_공모가(%)', m12:'12M수익률_공모가(%)',
-      m18:'18M수익률_공모가(%)', m24:'24M수익률_공모가(%)',
-      label:'공모가 대비'
+      listing:'상장일수익률_수정공모가(%)',
+      m6:'6M수익률_수정공모가(%)', m12:'12M수익률_수정공모가(%)',
+      m18:'18M수익률_수정공모가(%)', m24:'24M수익률_수정공모가(%)',
+      label:'수정공모가 대비'
     };
   }
   return {
@@ -234,10 +340,10 @@ function _onDataReady() {
   document.getElementById('aggregate').classList.add('active');
 
   const periods = [
-    {key:'6M', col:'6M수익률_공모가(%)'},
-    {key:'12M', col:'12M수익률_공모가(%)'},
-    {key:'18M', col:'18M수익률_공모가(%)'},
-    {key:'24M', col:'24M수익률_공모가(%)'},
+    {key:'6M', col:'6M수익률_수정공모가(%)'},
+    {key:'12M', col:'12M수익률_수정공모가(%)'},
+    {key:'18M', col:'18M수익률_수정공모가(%)'},
+    {key:'24M', col:'24M수익률_수정공모가(%)'},
   ];
   const parts = periods.map(p => {
     const n = DATA.filter(r => r[p.col] !== null && !isNaN(r[p.col])).length;
@@ -426,7 +532,7 @@ function renderAggregateTimeSeries() {
   // 수익률 추이 (토글 연동)
   let meanKey, medianKey, label;
   if (aggBase === 'ipo') {
-    meanKey = 'ret_ipo_mean'; medianKey = 'ret_ipo_median'; label = '공모가 대비';
+    meanKey = 'ret_ipo_mean'; medianKey = 'ret_ipo_median'; label = '수정공모가 대비';
   } else {
     meanKey = 'ret_close_mean'; medianKey = 'ret_close_median'; label = '상장일 종가 대비';
   }
@@ -495,10 +601,10 @@ function renderStock(r) {
     {l:'종목코드', v:r['코드']},
     {l:'종목명', v:r['종목명']},
     {l:'상장일', v:r['상장일']},
-    {l:'공모가', v:r['공모가']?.toLocaleString()+'원'},
+    {l:'수정공모가', v:r['수정공모가'] != null ? Number(r['수정공모가']).toLocaleString(undefined,{maximumFractionDigits:2})+'원' : '-'},
     {l:'상장일 종가', v:r['상장일종가'] ? Number(r['상장일종가']).toLocaleString()+'원' : '-'},
   ];
-  if (c.listing) items.push({l:'상장일 수익률(공모가)', v:fmt(r[c.listing])+'%', c:cls(r[c.listing])});
+  if (c.listing) items.push({l:'상장일 수익률(수정공모가)', v:fmt(r[c.listing])+'%', c:cls(r[c.listing])});
   items.push(
     {l:`6M 수익률(${c.label})`, v:fmt(r[c.m6])+'%', c:cls(r[c.m6])},
     {l:`12M 수익률(${c.label})`, v:fmt(r[c.m12])+'%', c:cls(r[c.m12])},
@@ -556,7 +662,7 @@ function renderStockTimeSeries(r, daily, dateKey) {
   const prices = daily.map(d => d['종가']);
 
   // 주가 추이
-  const ipoPrice = Number(r['공모가']);
+  const ipoPrice = Number(r['수정공모가']);
   const priceTraces = [{
     x:dates, y:prices, type:'scatter', mode:'lines',
     name:'종가', line:{color:'#4361ee', width:2.5},
@@ -572,7 +678,7 @@ function renderStockTimeSeries(r, daily, dateKey) {
     });
     priceAnnotations.push({
       x:dates[Math.floor(dates.length*0.5)], y:ipoPrice,
-      text:`공모가 ${ipoPrice.toLocaleString()}원`,
+      text:`수정공모가 ${ipoPrice.toLocaleString(undefined,{maximumFractionDigits:2})}원`,
       showarrow:false, yanchor:'bottom',
       font:{color:'#e63946', size:12, weight:'bold'}
     });
