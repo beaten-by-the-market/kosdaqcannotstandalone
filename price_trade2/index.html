@@ -59,6 +59,7 @@
 <div class="tabs">
   <div class="tab active" data-tab="aggregate">전체 집계</div>
   <div class="tab" data-tab="individual">개별 종목</div>
+  <div class="tab" data-tab="volume">매매금액 추이</div>
   <div class="tab" data-tab="methodology">수정공모가 산정</div>
 </div>
 
@@ -216,6 +217,35 @@
     </div>
   </div>
 
+  <!-- 매매금액 추이 탭 -->
+  <div id="volume" class="panel">
+    <div class="row">
+      <div class="card">
+        <h3>매매주체별 월별 매수/매도 금액 (조원, 종목당 평균)</h3>
+        <p style="font-size:0.78rem;color:#999;margin:-10px 0 10px 0">※ 상장 후 24개월간 월별 매수·매도 금액, 각 종목별 단순 평균</p>
+        <div id="chart-vol-main"></div>
+      </div>
+      <div class="card">
+        <h3>2개월차 이후 (조원, 종목당 평균)</h3>
+        <p style="font-size:0.78rem;color:#999;margin:-10px 0 10px 0">※ 상장 첫 달 제외</p>
+        <div id="chart-vol-main2"></div>
+      </div>
+    </div>
+    <p id="vol-main-count" style="font-size:0.78rem;color:#999;margin:4px 0 20px 0"></p>
+    <div class="row">
+      <div class="card">
+        <h3>기관 세부 월별 매수/매도 금액 (억원, 종목당 평균)</h3>
+        <p style="font-size:0.78rem;color:#999;margin:-10px 0 10px 0">※ 기관 합계 / 사모펀드 / 기타금융기관</p>
+        <div id="chart-vol-sub"></div>
+      </div>
+      <div class="card">
+        <h3>기관 세부 2개월차 이후 (억원, 종목당 평균)</h3>
+        <p style="font-size:0.78rem;color:#999;margin:-10px 0 10px 0">※ 상장 첫 달 제외</p>
+        <div id="chart-vol-sub2"></div>
+      </div>
+    </div>
+  </div>
+
   <!-- 개별 종목 탭 -->
   <div id="individual" class="panel">
     <div class="stock-selector">
@@ -275,6 +305,7 @@ const CUM_SUB_COLORS = ['#7209b7','#9b5de5','#c77dff','#e0aaff','#3a0ca3','#560b
 let DATA = [];
 let AGG_TS = [];
 let STOCK_DAILY = {};
+let VOL_MONTHLY = [];
 let _stockDateKey = '날짜';
 let aggBase = 'ipo';
 let indBase = 'ipo';
@@ -338,7 +369,7 @@ document.querySelectorAll('.tab').forEach(t => {
 // --- 데이터 로드 ---
 let _loadCount = 0;
 function _onDataReady() {
-  if (++_loadCount < 3) return;
+  if (++_loadCount < 4) return;
   document.getElementById('loading').style.display = 'none';
   document.getElementById('aggregate').classList.add('active');
 
@@ -356,6 +387,7 @@ function _onDataReady() {
   document.getElementById('subtitle').textContent = parts.join(' / ');
 
   renderAggregate();
+  renderVolumeCharts();
   initStockSelector();
 }
 Papa.parse('data/ipo_analysis.csv', {
@@ -369,6 +401,13 @@ Papa.parse('data/agg_timeseries.csv', {
   download: true, header: true, dynamicTyping: true, skipEmptyLines: true,
   complete: function(results) {
     AGG_TS = results.data.filter(r => r['day'] != null);
+    _onDataReady();
+  }
+});
+Papa.parse('data/volume_monthly.csv', {
+  download: true, header: true, dynamicTyping: true, skipEmptyLines: true,
+  complete: function(results) {
+    VOL_MONTHLY = results.data.filter(r => r['month'] != null);
     _onDataReady();
   }
 });
@@ -800,6 +839,80 @@ function renderStockTimeSeries(r, daily, dateKey) {
     xaxis:{title:'날짜'}, yaxis:{title:'억원'},
     legend:{orientation:'h', y:-0.22, x:0.5, xanchor:'center'},
     margin:{t:20, r:30, b:100}
+  }, PLOTLY_CFG);
+}
+// --- 매매금액 추이 탭 ---
+function renderVolumeCharts() {
+  if (!VOL_MONTHLY.length) return;
+
+  const allLabels = VOL_MONTHLY.map(r => r.month + '개월');
+  const from2 = VOL_MONTHLY.slice(1);
+  const from2Labels = from2.map(r => r.month + '개월');
+
+  // 메인 매매주체 차트
+  const mainVol = [
+    {key:'개인',   csv:'개인',         label:'개인',   buyColor:'#e63946', sellColor:'#f8a0a8'},
+    {key:'기관',   csv:'기관',         label:'기관',   buyColor:'#7209b7', sellColor:'#c490e4'},
+    {key:'외국인', csv:'외국인총합계', label:'외국인', buyColor:'#4361ee', sellColor:'#a0b4f8'},
+    {key:'기타법인', csv:'기타법인',   label:'기타법인', buyColor:'#6c757d', sellColor:'#c4c8cc'},
+  ];
+  renderVolBar('chart-vol-main', mainVol, allLabels, VOL_MONTHLY, {scale:1/10000, unit:'조원'});
+  renderVolBar('chart-vol-main2', mainVol, from2Labels, from2, {scale:1/10000, unit:'조원'});
+
+  // 종목 수 안내
+  const first = VOL_MONTHLY[0], last = VOL_MONTHLY[VOL_MONTHLY.length - 1];
+  document.getElementById('vol-main-count').textContent =
+    `※ 집계 종목 수: 1개월 ${first.count}개 → ${last.month}개월 ${last.count}개`;
+
+  // 기관 세부 차트
+  const subVol = [
+    {key:'기관',     csv:'기관',         label:'기관 합계', buyColor:'#7209b7', sellColor:'#c490e4'},
+    {key:'사모펀드', csv:'사모펀드',     label:'사모펀드',   buyColor:'#4361ee', sellColor:'#a0b4f8'},
+    {key:'기타금융', csv:'기타금융기관', label:'기타금융',   buyColor:'#e63946', sellColor:'#f8a0a8'},
+  ];
+  renderVolBar('chart-vol-sub', subVol, allLabels, VOL_MONTHLY, {unit:'억원'});
+  renderVolBar('chart-vol-sub2', subVol, from2Labels, from2, {unit:'억원'});
+}
+
+function renderVolBar(divId, entities, monthLabels, data, opts) {
+  opts = opts || {};
+  var scale = opts.scale || 1;
+  var unit = opts.unit || '억원';
+  var hoverDec = scale < 1 ? '.3f' : '.1f';
+
+  const traces = [];
+  entities.forEach(ent => {
+    const buyKey = ent.csv + '_buy';
+    const sellKey = ent.csv + '_sell';
+    const buyVals = data.map(r => (r[buyKey] || 0) * scale);
+    const sellVals = data.map(r => (r[sellKey] || 0) * scale);
+
+    // 매수 (base=0)
+    traces.push({
+      x: monthLabels, y: buyVals,
+      name: ent.label + ' 매수', type: 'bar',
+      offsetgroup: ent.key, legendgroup: ent.key,
+      marker: {color: ent.buyColor},
+      hovertemplate: ent.label + ' 매수: %{y:' + hoverDec + '}' + unit + '<extra></extra>'
+    });
+    // 매도 (base=buy, 위에 쌓기)
+    traces.push({
+      x: monthLabels, y: sellVals,
+      name: ent.label + ' 매도', type: 'bar',
+      offsetgroup: ent.key, legendgroup: ent.key,
+      base: buyVals,
+      marker: {color: ent.sellColor},
+      hovertemplate: ent.label + ' 매도: %{y:' + hoverDec + '}' + unit + '<extra></extra>'
+    });
+  });
+
+  Plotly.newPlot(divId, traces, {
+    barmode: 'group',
+    yaxis: {title: unit, separatethousands: false},
+    xaxis: {title: '상장 후 경과 개월'},
+    legend: {orientation:'h', y:-0.28, x:0.5, xanchor:'center'},
+    margin: {t:20, r:30, b:110},
+    height: 500
   }, PLOTLY_CFG);
 }
 </script>
