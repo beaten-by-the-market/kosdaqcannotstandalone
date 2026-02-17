@@ -124,6 +124,11 @@
       </div>
     </div>
     <p id="vol-main-count" style="font-size:0.8rem;color:#888;margin:-10px 0 20px 8px"></p>
+    <div class="card">
+      <h3>개인/기관 매매금액 배율 (월별)</h3>
+      <p style="font-size:0.78rem;color:#999;margin:-10px 0 10px 0">※ (개인 매수+매도) / (기관 매수+매도)</p>
+      <div id="chart-vol-ratio"></div>
+    </div>
     <div class="row">
       <div class="card">
         <h3>기관 세부 월별 매수/매도 금액 (억원, 종목당 평균)</h3>
@@ -133,11 +138,6 @@
         <h3>기관 세부 2개월차 이후 (억원, 종목당 평균)</h3>
         <div id="chart-vol-sub2"></div>
       </div>
-    </div>
-    <div class="card">
-      <h3>개인/기관 매매금액 배율 (월별)</h3>
-      <p style="font-size:0.78rem;color:#999;margin:-10px 0 10px 0">※ (개인 매수+매도) / (기관 매수+매도)</p>
-      <div id="vol-ratio-table"></div>
     </div>
   </div>
 
@@ -798,22 +798,29 @@ function renderVolumeCharts() {
   renderVolBar('chart-vol-sub', subVol, allLabels, VOL_MONTHLY, {unit:'억원'});
   renderVolBar('chart-vol-sub2', subVol, from2Labels, from2, {unit:'억원'});
 
-  // 개인/기관 배율 표
-  renderVolRatioTable();
+  // 개인/기관 배율 차트
+  renderVolRatioChart();
 }
 
-function renderVolRatioTable() {
-  let html = '<table class="summary-table" style="font-size:0.82rem"><thead><tr><th>월</th>';
-  for (let m = 1; m <= 24; m++) html += '<th>' + m + '</th>';
-  html += '</tr></thead><tbody><tr><th>개인/기관</th>';
-  VOL_MONTHLY.forEach(r => {
+function renderVolRatioChart() {
+  const labels = VOL_MONTHLY.map(r => r.month + '개월');
+  const ratios = VOL_MONTHLY.map(r => {
     const indiv = (r['개인_buy'] || 0) + (r['개인_sell'] || 0);
     const inst = (r['기관_buy'] || 0) + (r['기관_sell'] || 0);
-    const ratio = inst > 0 ? (indiv / inst).toFixed(1) : '-';
-    html += '<td>' + ratio + 'x</td>';
+    return inst > 0 ? Math.round((indiv / inst) * 10) / 10 : 0;
   });
-  html += '</tr></tbody></table>';
-  document.getElementById('vol-ratio-table').innerHTML = html;
+  Plotly.newPlot('chart-vol-ratio', [{
+    x: labels, y: ratios, type: 'bar',
+    marker: {color: '#4361ee'},
+    text: ratios.map(v => v.toFixed(1) + 'x'),
+    textposition: 'outside', textfont: {size: 11},
+    hovertemplate: '%{x}: %{y:.1f}배<extra></extra>'
+  }], {
+    yaxis: {title: '배율', rangemode: 'tozero'},
+    xaxis: {title: '상장 후 경과 개월'},
+    margin: {t:30, r:30, b:60},
+    height: 350
+  }, PLOTLY_CFG);
 }
 
 function renderVolBar(divId, entities, monthLabels, data, opts) {
