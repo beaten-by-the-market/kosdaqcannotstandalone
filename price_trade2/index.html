@@ -244,6 +244,11 @@
         <div id="chart-vol-sub2"></div>
       </div>
     </div>
+    <div class="card">
+      <h3>개인/기관 매매금액 배율 (월별)</h3>
+      <p style="font-size:0.78rem;color:#999;margin:-10px 0 10px 0">※ (개인 매수+매도) / (기관 매수+매도)</p>
+      <div id="vol-ratio-table"></div>
+    </div>
   </div>
 
   <!-- 개별 종목 탭 -->
@@ -872,6 +877,23 @@ function renderVolumeCharts() {
   ];
   renderVolBar('chart-vol-sub', subVol, allLabels, VOL_MONTHLY, {unit:'억원'});
   renderVolBar('chart-vol-sub2', subVol, from2Labels, from2, {unit:'억원'});
+
+  // 개인/기관 배율 표
+  renderVolRatioTable();
+}
+
+function renderVolRatioTable() {
+  let html = '<table class="summary-table" style="font-size:0.82rem"><thead><tr><th>월</th>';
+  for (let m = 1; m <= 24; m++) html += '<th>' + m + '</th>';
+  html += '</tr></thead><tbody><tr><th>개인/기관</th>';
+  VOL_MONTHLY.forEach(r => {
+    const indiv = (r['개인_buy'] || 0) + (r['개인_sell'] || 0);
+    const inst = (r['기관_buy'] || 0) + (r['기관_sell'] || 0);
+    const ratio = inst > 0 ? (indiv / inst).toFixed(1) : '-';
+    html += '<td>' + ratio + 'x</td>';
+  });
+  html += '</tr></tbody></table>';
+  document.getElementById('vol-ratio-table').innerHTML = html;
 }
 
 function renderVolBar(divId, entities, monthLabels, data, opts) {
