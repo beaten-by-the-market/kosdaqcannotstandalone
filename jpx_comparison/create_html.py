@@ -1,0 +1,597 @@
+import sys
+sys.stdout.reconfigure(encoding='utf-8')
+
+html = r'''<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>JPX 그룹 자율규제 체계 분석 보고서</title>
+<style>
+  :root {
+    --primary: #1a237e;
+    --primary-light: #3949ab;
+    --accent: #0d47a1;
+    --accent-light: #e3f2fd;
+    --bg: #f5f7fa;
+    --card: #ffffff;
+    --border: #e0e4ea;
+    --text: #263238;
+    --text-secondary: #546e7a;
+    --success: #2e7d32;
+    --warning: #f57c00;
+    --danger: #c62828;
+    --tse-color: #1565c0;
+    --jpxr-color: #6a1b9a;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif; background: var(--bg); color: var(--text); line-height: 1.6; }
+
+  .report-header {
+    background: linear-gradient(135deg, var(--primary) 0%, var(--accent) 100%);
+    color: #fff; padding: 48px 40px 36px; position: relative; overflow: hidden;
+  }
+  .report-header::after {
+    content: ''; position: absolute; top:0;right:0;bottom:0;left:0;
+    background: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23ffffff' fill-opacity='0.04'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+    pointer-events: none;
+  }
+  .report-header h1 { font-size: 2rem; font-weight: 700; margin-bottom: 6px; position: relative; z-index: 1; }
+  .report-header .subtitle { font-size: 1.05rem; opacity: 0.85; font-weight: 400; position: relative; z-index: 1; }
+  .meta-bar { display: flex; flex-wrap: wrap; gap: 16px; margin-top: 20px; position: relative; z-index: 1; }
+  .meta-item { background: rgba(255,255,255,0.13); border: 1px solid rgba(255,255,255,0.2); border-radius: 8px; padding: 10px 18px; font-size: 0.85rem; }
+  .meta-item strong { font-weight: 600; }
+
+  .container { max-width: 1100px; margin: 0 auto; padding: 32px 24px 60px; }
+
+  /* TOC */
+  .toc { background: var(--card); border:1px solid var(--border); border-radius:10px; padding:24px 28px; margin-bottom:36px; box-shadow:0 1px 3px rgba(0,0,0,0.04); }
+  .toc h2 { font-size:1.1rem; color:var(--primary); margin-bottom:12px; }
+  .toc ol { padding-left:20px; }
+  .toc li { margin:4px 0; font-size:0.92rem; }
+  .toc a { color:var(--accent); text-decoration:none; }
+  .toc a:hover { text-decoration:underline; }
+
+  .section { margin-bottom: 36px; }
+  .section-title { font-size: 1.35rem; font-weight: 700; color: var(--primary); border-left: 4px solid var(--primary); padding-left: 14px; margin-bottom: 18px; }
+  .subsection-title { font-size: 1.1rem; font-weight: 600; color: var(--text); margin: 24px 0 12px; padding-bottom: 6px; border-bottom: 2px solid var(--border); }
+  .sub3-title { font-size: 1rem; font-weight: 600; color: var(--text-secondary); margin: 18px 0 10px; }
+
+  .card { background: var(--card); border: 1px solid var(--border); border-radius: 10px; padding: 24px; margin-bottom: 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.04); }
+
+  table { width:100%; border-collapse:separate; border-spacing:0; font-size:0.88rem; margin:12px 0 16px; border-radius:8px; overflow:hidden; border:1px solid var(--border); }
+  thead th { background:#f0f3f8; color:var(--primary); font-weight:600; text-align:left; padding:11px 14px; border-bottom:2px solid var(--border); }
+  thead th.center { text-align:center; }
+  tbody td { padding:9px 14px; border-bottom:1px solid #f0f2f5; vertical-align:top; }
+  tbody td.center { text-align:center; }
+  tbody td.num { text-align:right; font-variant-numeric:tabular-nums; }
+  tbody tr:last-child td { border-bottom:none; }
+  tbody tr:hover { background:#f8fafd; }
+  .tbl-highlight td { background:#fffde7; }
+
+  .note { background:#fffde7; border-left:4px solid #fbc02d; padding:12px 16px; font-size:0.88rem; border-radius:0 6px 6px 0; margin:12px 0; color:#5d4037; }
+  .note.info { background:var(--accent-light); border-left-color:var(--accent); color:#0d47a1; }
+  .note.source { background:#f3e5f5; border-left-color:#9c27b0; color:#4a148c; }
+  .note.correction { background:#fce4ec; border-left-color:#c62828; color:#b71c1c; }
+
+  /* Flow Diagram */
+  .flow-diagram { background:var(--card); border:1px solid var(--border); border-radius:10px; padding:28px 24px; margin:16px 0 20px; box-shadow:0 1px 3px rgba(0,0,0,0.04); overflow-x:auto; }
+  .flow-row { display:flex; align-items:center; justify-content:center; gap:0; flex-wrap:wrap; margin:6px 0; }
+  .flow-box { display:inline-flex; align-items:center; justify-content:center; text-align:center; padding:12px 20px; border-radius:8px; font-size:0.86rem; font-weight:500; line-height:1.35; min-width:140px; max-width:320px; }
+  .flow-box.start { background:#e8eaf6; border:2px solid #7986cb; color:#283593; }
+  .flow-box.process { background:#e3f2fd; border:2px solid #64b5f6; color:#0d47a1; }
+  .flow-box.decision { background:#fff3e0; border:2px solid #ffb74d; color:#e65100; }
+  .flow-box.end { background:#fce4ec; border:2px solid #ef9a9a; color:#b71c1c; }
+  .flow-box.success { background:#e8f5e9; border:2px solid #81c784; color:#1b5e20; }
+  .flow-box.alert { background:#f3e5f5; border:2px solid #ba68c8; color:#6a1b9a; }
+  .flow-arrow { display:flex; align-items:center; justify-content:center; color:#90a4ae; font-size:1.3rem; padding:0 6px; flex-shrink:0; }
+  .flow-arrow.down { padding:4px 0; font-size:1.5rem; }
+  .flow-label { font-size:0.78rem; color:var(--text-secondary); text-align:center; margin:2px 0; }
+  .flow-col { display:flex; flex-direction:column; align-items:center; gap:4px; }
+
+  .tracks { display:grid; grid-template-columns:1fr 1fr; gap:20px; margin:16px 0 20px; }
+  @media (max-width:800px) { .tracks { grid-template-columns:1fr; } }
+  .track { border-radius:10px; padding:24px; border:2px solid; }
+  .track.tse { border-color:var(--tse-color); background:linear-gradient(180deg,#e3f2fd 0%,#fff 40%); }
+  .track.jpxr { border-color:var(--jpxr-color); background:linear-gradient(180deg,#f3e5f5 0%,#fff 40%); }
+  .track-header { font-size:1rem; font-weight:700; margin-bottom:6px; }
+  .track.tse .track-header { color:var(--tse-color); }
+  .track.jpxr .track-header { color:var(--jpxr-color); }
+  .track-sub { font-size:0.82rem; color:var(--text-secondary); margin-bottom:14px; }
+  .track-flow { display:flex; flex-direction:column; align-items:center; gap:6px; }
+  .track-flow .flow-box { width:100%; max-width:100%; font-size:0.82rem; padding:10px 14px; }
+
+  .stat-row { display:flex; gap:16px; flex-wrap:wrap; margin:16px 0; }
+  .stat-card { flex:1; min-width:120px; background:var(--card); border:1px solid var(--border); border-radius:10px; padding:18px 20px; text-align:center; box-shadow:0 1px 3px rgba(0,0,0,0.04); }
+  .stat-card .stat-value { font-size:2rem; font-weight:700; color:var(--primary); line-height:1.1; }
+  .stat-card .stat-label { font-size:0.8rem; color:var(--text-secondary); margin-top:4px; }
+  .stat-card.tse .stat-value { color:var(--tse-color); }
+  .stat-card.jpxr .stat-value { color:var(--jpxr-color); }
+
+  .org-chart { background:var(--card); border:1px solid var(--border); border-radius:10px; padding:24px; margin:16px 0 20px; box-shadow:0 1px 3px rgba(0,0,0,0.04); overflow-x:auto; }
+  .org-node { border:2px solid var(--border); border-radius:8px; padding:10px 16px; margin:4px 0; font-size:0.85rem; line-height:1.4; }
+  .org-node.highlight { border-color:var(--tse-color); background:#e3f2fd; }
+  .org-node.jpxr-hl { border-color:var(--jpxr-color); background:#f3e5f5; }
+  .org-node .org-label { font-weight:600; color:var(--primary); }
+  .org-node .org-count { font-weight:700; color:var(--tse-color); }
+  .org-tree { padding-left:28px; border-left:2px solid var(--border); margin-left:14px; }
+
+  details { margin:12px 0; border:1px solid var(--border); border-radius:8px; overflow:hidden; }
+  details summary { padding:12px 16px; background:#f8f9fc; font-weight:600; font-size:0.9rem; cursor:pointer; user-select:none; color:var(--primary); }
+  details summary:hover { background:#eef1f7; }
+  details[open] summary { border-bottom:1px solid var(--border); }
+  details .detail-body { padding:16px; }
+
+  .badge { display:inline-block; padding:2px 10px; border-radius:12px; font-size:0.75rem; font-weight:600; }
+  .badge.tse { background:#e3f2fd; color:#1565c0; }
+  .badge.jpxr { background:#f3e5f5; color:#6a1b9a; }
+  .badge.both { background:#fff3e0; color:#e65100; }
+
+  ul.bullet { padding-left:20px; margin:8px 0; }
+  ul.bullet li { margin:4px 0; font-size:0.92rem; }
+
+  .report-footer { background:#263238; color:#b0bec5; padding:24px 40px; font-size:0.82rem; line-height:1.7; }
+  .report-footer strong { color:#eceff1; }
+  .report-footer a { color:#64b5f6; }
+
+  @media print { body { background:#fff; } .container { padding:0; } .report-header { padding:24px; } }
+</style>
+</head>
+<body>
+
+<!-- HEADER -->
+<div class="report-header">
+  <h1>JPX 그룹 자율규제 체계 분석 보고서</h1>
+  <div class="subtitle">JPX-R과 TSE Listing Department의 조직·인력·역할 분담</div>
+  <div class="meta-bar">
+    <div class="meta-item"><strong>작성일</strong>&nbsp; 2026-03-23</div>
+    <div class="meta-item"><strong>자료 ①</strong>&nbsp; E_20250130_1.pdf — 독립이사 조사위원회 보고서 (2025.01.30)</div>
+    <div class="meta-item"><strong>자료 ②</strong>&nbsp; JPX-R_Annual_Report_2025_E.pdf — JPX-R 연차보고서 (FY2024)</div>
+    <div class="meta-item"><strong>자료 ③</strong>&nbsp; Securities Listing Regulations (2025.12.8)</div>
+  </div>
+</div>
+
+<div class="container">
+
+<!-- TOC -->
+<div class="toc">
+  <h2>목차</h2>
+  <ol>
+    <li><a href="#s1">JPX 그룹 전체 구조</a></li>
+    <li><a href="#s2">TSE Listing Department 상세 조직</a></li>
+    <li><a href="#s3">JPX-R 조직 및 인력 구성</a></li>
+    <li><a href="#s4">JPX-R 상장·공시 관련 업무 인원</a></li>
+    <li><a href="#s5">TSE Listing Department와 JPX-R의 역할 분담</a></li>
+    <li><a href="#s6">전체 시장조치 — 판단주체·조치주체 종합표</a></li>
+    <li><a href="#s7">감사의견 미표명(Disclaimer of Opinion) 처리 절차</a></li>
+    <li><a href="#s8">내부자거래 사건과 정보관리 체계 개편</a></li>
+    <li><a href="#s9">원본 자료 레퍼런스 가이드</a></li>
+  </ol>
+</div>
+
+<!-- ===== 1 ===== -->
+<div class="section" id="s1">
+  <h2 class="section-title">1. JPX 그룹 전체 구조</h2>
+  <div class="note source">출처: JPX-R_Annual_Report_2025_E.pdf pp.6–7 (Section I. Overview of Japan Exchange Regulation)</div>
+
+  <div class="stat-row">
+    <div class="stat-card tse"><div class="stat-value">TSE</div><div class="stat-label">현물시장 운영</div></div>
+    <div class="stat-card"><div class="stat-value">OSE</div><div class="stat-label">파생시장 운영</div></div>
+    <div class="stat-card"><div class="stat-value">TOCOM</div><div class="stat-label">파생시장 운영</div></div>
+    <div class="stat-card jpxr"><div class="stat-value">JPX-R</div><div class="stat-label">자율규제기관</div></div>
+    <div class="stat-card"><div class="stat-value">JSCC</div><div class="stat-label">청산</div></div>
+  </div>
+
+  <table>
+    <thead><tr><th>법인</th><th>역할</th><th>비고</th></tr></thead>
+    <tbody>
+      <tr><td><strong>Japan Exchange Group (JPX)</strong></td><td>지주회사</td><td>상장회사 (8697, TSE Prime)</td></tr>
+      <tr><td><strong>Tokyo Stock Exchange (TSE)</strong></td><td>현물시장 운영</td><td>JPX 자회사</td></tr>
+      <tr><td><strong>Osaka Exchange (OSE)</strong></td><td>파생시장 운영</td><td>JPX 자회사</td></tr>
+      <tr><td><strong>Tokyo Commodity Exchange (TOCOM)</strong></td><td>파생시장 운영</td><td>JPX 자회사</td></tr>
+      <tr><td><strong>Japan Exchange Regulation (JPX-R)</strong></td><td>자율규제 (Self-Regulation)</td><td>금상법상 독립 사단법인</td></tr>
+      <tr><td><strong>Japan Securities Clearing Corp. (JSCC)</strong></td><td>청산 (Clearing)</td><td>JPX 자회사</td></tr>
+      <tr><td><strong>JPX Market Innovation & Research</strong></td><td>시장관련 서비스</td><td>JPX 자회사</td></tr>
+    </tbody>
+  </table>
+
+  <h3 class="subsection-title">JPX-R의 법적 지위</h3>
+  <ul class="bullet">
+    <li>금융상품거래법에 의거하여 설립된 <strong>사단법인(membership association)</strong></li>
+    <li>TSE 및 OSE로부터 자율규제 업무를 <strong>위탁(entrusted)</strong> 받아 수행</li>
+    <li>이해충돌 방지를 위해 거래소(영리 운영)와 <strong>법적으로 독립된 운영</strong>이 의무화</li>
+    <li>설립일: 2007년 10월 17일 (업무개시: 2007년 11월 1일)</li>
+    <li>자본금: 30억엔 (JPY 3,000,000,000)</li>
+  </ul>
+</div>
+
+<!-- ===== 2 ===== -->
+<div class="section" id="s2">
+  <h2 class="section-title">2. TSE Listing Department 상세 조직</h2>
+  <div class="note source">출처: E_20250130_1.pdf pp.16–18 (Chapter 2, Section 3) / 기준일: 2024년 10월 1일</div>
+
+  <div class="stat-row">
+    <div class="stat-card tse"><div class="stat-value">82</div><div class="stat-label">총 인원 (명)</div></div>
+    <div class="stat-card"><div class="stat-value">77</div><div class="stat-label">정규직</div></div>
+    <div class="stat-card"><div class="stat-value">5</div><div class="stat-label">파견</div></div>
+    <div class="stat-card tse"><div class="stat-value">29</div><div class="stat-label">Disclosure Supervisors</div></div>
+  </div>
+
+  <h3 class="subsection-title">2.1 조직도</h3>
+  <div class="org-chart">
+    <div class="org-node highlight">
+      <span class="org-label">TSE Listing Department</span> — 총 <span class="org-count">82명</span><br>
+      Director 1명 / Section Director 1명
+    </div>
+    <div class="org-tree">
+      <div class="org-node"><span class="org-label">Planning Group</span> <span class="org-count">10명</span> — 상장규칙 전반 기획</div>
+      <div class="org-node"><span class="org-label">Listed Company Support Group</span> <span class="org-count">4명</span> — 상장기업 IR활동 지원</div>
+      <div class="org-node"><span class="org-label">Administration Group</span> <span class="org-count">12명</span> — 상장주식수 관리, 수수료 청구</div>
+      <div class="org-node highlight" style="margin-top:12px;">
+        <span class="org-label">Corporate Disclosure Office</span> — <span class="org-count">55명</span> (Office장 1명)
+      </div>
+      <div class="org-tree">
+        <div class="org-node"><span class="org-label">Planning & Coordination Group</span> <span class="org-count">22명</span><br>적시공시 규칙 기획 / 감리·상폐종목 지정 <strong>공표</strong></div>
+        <div class="org-node"><span class="org-label">LC Services Group 1</span> (Prime) <span class="org-count">12명</span></div>
+        <div class="org-node"><span class="org-label">LC Services Group 2</span> (Standard) <span class="org-count">13명</span></div>
+        <div class="org-node"><span class="org-label">LC Services Group 3</span> (Growth) <span class="org-count">7명</span></div>
+      </div>
+    </div>
+  </div>
+  <div class="note info">Disclosure Supervisors (공시감독관): LC Services Group 1~3 소속, 총 29명. TDnet을 통한 적시공시 접수·확인·공표의 실무 주체.</div>
+</div>
+
+<!-- ===== 3 ===== -->
+<div class="section" id="s3">
+  <h2 class="section-title">3. JPX-R 조직 및 인력 구성</h2>
+  <div class="note source">출처: JPX-R_Annual_Report_2025_E.pdf pp.4, 46</div>
+
+  <table>
+    <thead><tr><th>항목</th><th>내용</th></tr></thead>
+    <tbody>
+      <tr><td>정식 명칭</td><td>Japan Exchange Regulation</td></tr>
+      <tr><td>대표</td><td>President: Nakajima Junichi</td></tr>
+      <tr><td>설립일</td><td>2007년 10월 17일</td></tr>
+      <tr><td>자본금</td><td>30억엔</td></tr>
+      <tr><td>최고 의사결정기구</td><td>Board of Governors (독립 governor 과반수)</td></tr>
+      <tr><td>그룹 전체 임직원</td><td>1,368명 (2024.11 서베이 기준)</td></tr>
+    </tbody>
+  </table>
+
+  <h3 class="subsection-title">부서별 역할</h3>
+  <div class="org-chart">
+    <div class="org-node jpxr-hl">
+      <span class="org-label" style="color:var(--jpxr-color)">Japan Exchange Regulation (JPX-R)</span><br>
+      Board of Governors (독립 governor 과반수) / President: Nakajima Junichi
+    </div>
+    <div class="org-tree" style="border-left-color:var(--jpxr-color);">
+      <div class="org-node"><span class="org-label">Listing Examination Dept</span> (상장심사부) — 신규상장 심사</div>
+      <div class="org-node"><span class="org-label">Listed Company Compliance Dept</span> (상장회사 컴플라이언스부)<br>적시공시 적정성 심사 / 기업행동규범 / 상폐심사 / 징계 결정</div>
+      <div class="org-node"><span class="org-label">Trading Participants Exam & Inspection Dept</span> (거래참가자 검사부)</div>
+      <div class="org-node"><span class="org-label">Market Surveillance & Compliance Dept</span> (시장감시부)<br>내부자거래·시세조종 감시 / COMLEC 운영</div>
+      <div class="org-node"><span class="org-label">General Administration Dept</span> (총무부)</div>
+    </div>
+  </div>
+</div>
+
+<!-- ===== 4 ===== -->
+<div class="section" id="s4">
+  <h2 class="section-title">4. JPX-R 상장·공시 관련 업무 인원</h2>
+  <div class="note source">출처: E_20250130_1.pdf pp.20–21, pp.31–32</div>
+  <p style="margin:12px 0">TSE Disclosure Supervisors로부터 미공개정보를 수령하는 <strong>정보수령자 등록인원</strong>:</p>
+
+  <table>
+    <thead><tr><th>부서</th><th class="center">변경 전</th><th class="center">변경 후 (2025.1~)</th><th>비고</th></tr></thead>
+    <tbody>
+      <tr><td>TSE Equities Dept</td><td class="center">18명</td><td class="center">15명</td><td>매매정지 등 시장운영 목적</td></tr>
+      <tr class="tbl-highlight"><td><strong>JPX-R Listed Co. Compliance Dept</strong></td><td class="center"><strong>25명</strong></td><td class="center"><strong>7명</strong></td><td>변경 전: 부장 제외 전원 → 부서 총인원 26명+</td></tr>
+      <tr><td>JPX-R Listing Examination Dept</td><td class="center">12명</td><td class="center">7명</td><td>최근 상장기업 공시 확인 목적</td></tr>
+      <tr><td>JPX-R Market Surveillance Dept</td><td class="center">5명</td><td class="center">5명</td><td>변경 없음</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<!-- ===== 5 ===== -->
+<div class="section" id="s5">
+  <h2 class="section-title">5. TSE Listing Department와 JPX-R의 역할 분담</h2>
+  <div class="note source">출처: JPX-R_Annual_Report_2025_E.pdf pp.6–8, pp.15–17; E_20250130_1.pdf pp.16–21</div>
+
+  <h3 class="subsection-title">핵심 원칙: 판단주체와 조치주체의 분리</h3>
+  <div class="card">
+    <p style="margin-bottom:10px"><strong>판단주체</strong> = 심사·검토를 수행하고 조치를 <strong>결정</strong>하는 기관<br>
+    <strong>조치주체</strong> = 판단주체의 결정에 따라 <strong>공표·집행</strong>하는 기관</p>
+    <div class="note info" style="margin:0">
+      <strong>핵심 원문:</strong> "JPX-R independently conducts neutral inspections and <strong>makes decisions</strong> on approvals, disciplinary actions, and other measures <strong>under the name of the exchanges</strong> based on the results of these inspections." — Annual Report p.7
+    </div>
+  </div>
+
+  <h3 class="subsection-title">역할 비교 — 판단주체 기준</h3>
+  <table>
+    <thead><tr><th>구분</th><th class="center">판단주체</th><th class="center">조치주체</th><th>비고</th></tr></thead>
+    <tbody>
+      <tr><td>공시 접수·처리</td><td class="center"><span class="badge tse">TSE</span></td><td class="center"><span class="badge tse">TSE</span></td><td>Disclosure Supervisors가 TDnet 통해 수행</td></tr>
+      <tr><td>공시 규칙 기획·제정</td><td class="center"><span class="badge tse">TSE</span></td><td class="center"><span class="badge tse">TSE</span></td><td>Planning Group / P&C Group</td></tr>
+      <tr><td>상장심사 (IPO)</td><td class="center"><span class="badge jpxr">JPX-R</span></td><td class="center"><span class="badge tse">TSE 명의</span></td><td>Listing Exam Dept 독립 심사</td></tr>
+      <tr><td>감리종목 지정</td><td class="center"><span class="badge jpxr">JPX-R</span></td><td class="center"><span class="badge tse">TSE</span></td><td>JPX-R 심사 후 TSE가 공표</td></tr>
+      <tr><td>특별주의시장종목 지정</td><td class="center"><span class="badge jpxr">JPX-R</span></td><td class="center"><span class="badge tse">TSE 명의</span></td><td>Listed Co. Compliance Dept 결정</td></tr>
+      <tr><td>상장폐지 (정량/정성)</td><td class="center"><span class="badge jpxr">JPX-R</span></td><td class="center"><span class="badge tse">TSE 명의</span></td><td>Listed Co. Compliance Dept 심사</td></tr>
+      <tr><td>거래참가자 징계</td><td class="center"><span class="badge jpxr">JPX-R</span></td><td class="center"><span class="badge tse">TSE/OSE</span></td><td>Disciplinary Committee 자문 후</td></tr>
+      <tr><td>경고 (상장기업/거래참가자)</td><td class="center"><span class="badge jpxr">JPX-R</span></td><td class="center"><span class="badge jpxr">JPX-R</span></td><td>판단·조치 모두 JPX-R</td></tr>
+      <tr><td>매매정지</td><td class="center"><span class="badge tse">TSE</span></td><td class="center"><span class="badge tse">TSE</span></td><td>Equities Dept 자체 판단·집행</td></tr>
+      <tr><td>불공정거래 감시</td><td class="center"><span class="badge jpxr">JPX-R</span></td><td class="center"><span class="badge jpxr">JPX-R→SESC</span></td><td>Market Surveillance Dept 전담</td></tr>
+    </tbody>
+  </table>
+
+  <h3 class="subsection-title">독립성 확보 장치</h3>
+  <table>
+    <thead><tr><th>장치</th><th>내용</th><th>출처</th></tr></thead>
+    <tbody>
+      <tr><td>Board of Governors</td><td>독립 governor 과반수로 구성</td><td>Annual Report p.7</td></tr>
+      <tr><td>법적 분리</td><td>금상법에 의거한 독립 법인 설립</td><td>Annual Report p.6</td></tr>
+      <tr><td>독립적 의사결정</td><td>JPX-R이 독립적으로 심사·판단, 거래소 명의로 집행</td><td>Annual Report p.7</td></tr>
+      <tr><td>정기 평가</td><td>Board of Governors가 JPX-R 실효성 정기 평가 수행</td><td>Annual Report p.8</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<!-- ===== 6 ===== -->
+<div class="section" id="s6">
+  <h2 class="section-title">6. 전체 시장조치 — 판단주체·조치주체 종합표</h2>
+  <div class="note source">범례: <strong>판단주체</strong> = 조치를 결정하는 기관 / <strong>조치주체</strong> = 공표·집행하는 기관</div>
+
+  <h3 class="subsection-title">6.1 상장기업에 대한 조치</h3>
+  <table>
+    <thead><tr><th>조치</th><th class="center">판단주체</th><th class="center">조치주체</th><th class="center">FY2024</th></tr></thead>
+    <tbody>
+      <tr><td>감리종목 지정 (Securities Under Supervision)</td><td class="center"><span class="badge jpxr">JPX-R</span></td><td class="center"><span class="badge tse">TSE 공표</span></td><td class="center">—</td></tr>
+      <tr><td>특별주의시장종목 지정 (Security on Special Alert)</td><td class="center"><span class="badge jpxr">JPX-R</span></td><td class="center"><span class="badge tse">TSE 명의</span></td><td class="center">4건</td></tr>
+      <tr><td>개선보고서 징구 (Improvement Report)</td><td class="center"><span class="badge jpxr">JPX-R</span></td><td class="center"><span class="badge tse">TSE 명의</span></td><td class="center">7건</td></tr>
+      <tr><td>상장계약위약금 부과 (Violation Penalty)</td><td class="center"><span class="badge jpxr">JPX-R</span></td><td class="center"><span class="badge tse">TSE 명의</span></td><td class="center">5건</td></tr>
+      <tr><td>공표조치 (Public Announcement)</td><td class="center"><span class="badge jpxr">JPX-R</span></td><td class="center"><span class="badge tse">TSE 명의</span></td><td class="center">7건</td></tr>
+      <tr><td>상폐 — 정량기준 기타 (감사의견 미표명 등)</td><td class="center"><span class="badge jpxr">JPX-R</span></td><td class="center"><span class="badge tse">TSE 명의</span></td><td class="center">106건(심사)</td></tr>
+      <tr><td>상폐 — 정성기준 (허위기재, 규칙위반)</td><td class="center"><span class="badge jpxr">JPX-R</span></td><td class="center"><span class="badge tse">TSE 명의</span></td><td class="center">1건(심사)</td></tr>
+      <tr><td>경고 — 상장기업 대상 (시장감시 기반)</td><td class="center"><span class="badge jpxr">JPX-R</span></td><td class="center"><span class="badge jpxr">JPX-R</span></td><td class="center">2건</td></tr>
+      <tr><td>내부체계 재검토 요청</td><td class="center"><span class="badge jpxr">JPX-R</span></td><td class="center"><span class="badge jpxr">JPX-R</span></td><td class="center">5건</td></tr>
+      <tr><td>특정거래 설명 (상장기업 대상)</td><td class="center"><span class="badge jpxr">JPX-R</span></td><td class="center"><span class="badge jpxr">JPX-R</span></td><td class="center">12건</td></tr>
+    </tbody>
+  </table>
+
+  <h3 class="subsection-title">6.2 거래참가자(증권사 등)에 대한 조치</h3>
+  <table>
+    <thead><tr><th>조치</th><th class="center">판단주체</th><th class="center">조치주체</th><th class="center">FY2024</th></tr></thead>
+    <tbody>
+      <tr><td>과징금 (Fine)</td><td class="center"><span class="badge jpxr">JPX-R + DC</span></td><td class="center"><span class="badge tse">TSE/OSE</span></td><td class="center">3건</td></tr>
+      <tr><td>견책 (Censure)</td><td class="center"><span class="badge jpxr">JPX-R + DC</span></td><td class="center"><span class="badge tse">TSE/OSE</span></td><td class="center">3건</td></tr>
+      <tr><td>매매정지/제한 (Suspension)</td><td class="center"><span class="badge jpxr">JPX-R + DC</span></td><td class="center"><span class="badge tse">TSE/OSE</span></td><td class="center">1건</td></tr>
+      <tr><td>권고 (Recommendation)</td><td class="center"><span class="badge jpxr">JPX-R</span></td><td class="center"><span class="badge tse">TSE</span></td><td class="center">1건</td></tr>
+      <tr><td>경고 — Governor/부장/검사관 수준</td><td class="center"><span class="badge jpxr">JPX-R</span></td><td class="center"><span class="badge jpxr">JPX-R</span></td><td class="center">13건</td></tr>
+      <tr><td>요청 (Request)</td><td class="center"><span class="badge jpxr">JPX-R</span></td><td class="center"><span class="badge jpxr">JPX-R</span></td><td class="center">7건</td></tr>
+      <tr><td>특정거래 설명 (거래참가자 대상)</td><td class="center"><span class="badge jpxr">JPX-R</span></td><td class="center"><span class="badge jpxr">JPX-R</span></td><td class="center">299건</td></tr>
+    </tbody>
+  </table>
+  <p style="font-size:0.82rem;color:var(--text-secondary);">DC = Disciplinary Committee (징계위원회)</p>
+
+  <h3 class="subsection-title">6.3 즉시적 시장운영 조치 (TSE가 판단·조치 모두 수행)</h3>
+  <table>
+    <thead><tr><th>조치</th><th class="center">판단주체</th><th class="center">조치주체</th><th class="center">JPX-R 관여</th></tr></thead>
+    <tbody>
+      <tr><td>매매정지 (Trading Halt)</td><td class="center"><span class="badge tse">TSE Equities</span></td><td class="center"><span class="badge tse">TSE</span></td><td class="center">✗</td></tr>
+      <tr><td>증거금거래 종목 선정</td><td class="center"><span class="badge tse">TSE Equities</span></td><td class="center"><span class="badge tse">TSE</span></td><td class="center">✗</td></tr>
+      <tr><td>실시간 매매 감시</td><td class="center"><span class="badge tse">TSE Equities</span></td><td class="center"><span class="badge tse">TSE</span></td><td class="center">✗</td></tr>
+      <tr><td>종목정보 업데이트</td><td class="center"><span class="badge tse">TSE Equities</span></td><td class="center"><span class="badge tse">TSE</span></td><td class="center">✗</td></tr>
+    </tbody>
+  </table>
+
+  <h3 class="subsection-title">6.4 판단주체별 요약</h3>
+  <table>
+    <thead><tr><th class="center">판단주체</th><th>해당 조치 유형</th></tr></thead>
+    <tbody>
+      <tr><td class="center"><span class="badge jpxr">JPX-R</span><br>(+ TSE 명의 집행)</td><td>감리종목·상폐종목 지정, 특별주의시장종목, 개선보고서, 위약금, 공표조치, 상장폐지, 거래참가자 징계, 신규상장 심사</td></tr>
+      <tr><td class="center"><span class="badge jpxr">JPX-R</span><br>(자체 집행)</td><td>경고, 요청, 내부체계 재검토 요청, 특정거래 설명, SESC 보고</td></tr>
+      <tr><td class="center"><span class="badge tse">TSE</span><br>(자체 집행)</td><td>매매정지, 증거금거래 종목 선정, 실시간 매매 감시, 종목정보 업데이트, 공시 접수·처리, 공시 규칙 기획</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<!-- ===== 7 ===== -->
+<div class="section" id="s7">
+  <h2 class="section-title">7. 감사의견 미표명 (Disclaimer of Opinion) 처리 절차</h2>
+  <div class="note source">출처: Securities Listing Regulations (2025.12.8) Rule 501, 503, 601, 608<br>
+    규정 원문: <a href="https://www.jpx.co.jp/english/rules-participants/rules/regulations/index.html" target="_blank">JPX Rules & Regulations</a></div>
+
+  <h3 class="subsection-title">7.1 감리종목(Securities Under Supervision)의 두 가지 서브카테고리</h3>
+  <table>
+    <thead><tr><th>구분</th><th class="center">Grace Period (猶予期間入り)</th><th class="center">Under Confirmation (確認中)</th></tr></thead>
+    <tbody>
+      <tr><td><strong>트리거</strong></td><td>정량적 상장유지기준 미달<br>(주주수, 유통주식 시가총액 등)</td><td>감사의견 미표명/부적정,<br>유가증권보고서 미제출 등</td></tr>
+      <tr class="tbl-highlight"><td><strong>Improvement Period</strong></td><td class="center"><strong>있음</strong> (원칙 1년)</td><td class="center"><strong>없음</strong> — 바로 지정</td></tr>
+      <tr><td><strong>성격</strong></td><td>개선 기회 부여 → 기한 내 충족 시 해제</td><td>상폐 해당 여부 확인 중 → 확인되면 정리종목→상폐</td></tr>
+      <tr><td><strong>근거 조항</strong></td><td>Rule 501, Rule 601(1)</td><td>Rule 601(7)(8) 등</td></tr>
+    </tbody>
+  </table>
+
+  <h3 class="subsection-title">7.2 TSE 트랙 vs JPX-R 트랙</h3>
+  <div class="tracks">
+    <div class="track tse">
+      <div class="track-header">TSE 행정 트랙</div>
+      <div class="track-sub">Improvement Period <strong>없이</strong> 바로 지정</div>
+      <div class="track-flow">
+        <div class="flow-box start">감사의견 미표명 발생</div>
+        <div class="flow-arrow down">▼</div>
+        <div class="flow-box process">監理銘柄（確認中）지정<br><small>Securities Under Supervision<br>(Under Confirmation)</small></div>
+        <div class="flow-label">Improvement Period 없이 바로 지정 (Rule 608)</div>
+        <div class="flow-arrow down">▼</div>
+        <div class="flow-box decision">JPX-R 심사 결과에 따라</div>
+        <div style="display:flex;gap:12px;width:100%;">
+          <div class="flow-box success" style="flex:1">해소 → 지정 해제</div>
+          <div class="flow-box end" style="flex:1">확정 → 정리종목 → 상폐</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="track jpxr">
+      <div class="track-header">JPX-R 심사 트랙</div>
+      <div class="track-sub">두 가지 경로</div>
+      <div class="track-flow">
+        <div class="flow-box start">감사의견 미표명 발생</div>
+        <div class="flow-arrow down">▼</div>
+        <div class="flow-box alert"><strong>경로 ①</strong> Rule 503<br>내부관리체계 개선 크게 필요 시<br>→ 특별주의시장종목 지정<br><small>(개선 기회 부여)</small></div>
+        <div class="flow-label">Written Confirmation 제출 등</div>
+        <div style="display:flex;gap:12px;width:100%;">
+          <div class="flow-box success" style="flex:1">개선 완료 → 해제</div>
+          <div class="flow-box end" style="flex:1">불가 → Rule 601(9) → 상폐</div>
+        </div>
+        <div style="margin-top:12px;width:100%;border-top:1px dashed #ba68c8;padding-top:12px;">
+          <div class="flow-box end" style="width:100%"><strong>경로 ②</strong> Rule 601(8)<br>"시장 질서 유지 명백히 곤란" 시<br>→ 즉시 상장폐지<br><small>(극히 예외적)</small></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <h3 class="subsection-title">7.3 정량기준 미달과의 비교</h3>
+  <table>
+    <thead><tr><th></th><th>정량기준 미달 (주주수 등)</th><th>감사의견 미표명</th></tr></thead>
+    <tbody>
+      <tr><td><strong>TSE 행정조치</strong></td><td>監理銘柄（猶予期間入り）</td><td>監理銘柄（確認中）</td></tr>
+      <tr class="tbl-highlight"><td><strong>Improvement Period</strong></td><td><strong>있음</strong> (원칙 1년)</td><td><strong>없음</strong> — 바로 지정</td></tr>
+      <tr><td><strong>이후 JPX-R 심사</strong></td><td>유예기간 만료 후 심사</td><td>지정 즉시 심사 진행</td></tr>
+      <tr><td><strong>근거</strong></td><td>Rule 501, Rule 601(1)</td><td>Rule 601(7)(8), Rule 503</td></tr>
+    </tbody>
+  </table>
+
+  <h3 class="subsection-title">7.4 FY2024 상폐심사 실적</h3>
+  <table>
+    <thead><tr><th>심사 유형</th><th class="center">판단주체</th><th class="center">FY2024</th><th class="center">전년 대비</th></tr></thead>
+    <tbody>
+      <tr><td>Quantitative — 상장유지기준 미달</td><td class="center"><span class="badge jpxr">JPX-R</span></td><td class="center">0건</td><td class="center">±0</td></tr>
+      <tr class="tbl-highlight"><td><strong>Quantitative — 기타</strong> (감사의견 미표명 등)</td><td class="center"><span class="badge jpxr">JPX-R</span></td><td class="center"><strong>106건</strong></td><td class="center">+2</td></tr>
+      <tr><td>Qualitative</td><td class="center"><span class="badge jpxr">JPX-R</span></td><td class="center">1건</td><td class="center">-2</td></tr>
+      <tr><td>Substantial Surviving Company</td><td class="center"><span class="badge jpxr">JPX-R</span></td><td class="center">88건</td><td class="center">+29</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<!-- ===== 8 ===== -->
+<div class="section" id="s8">
+  <h2 class="section-title">8. 내부자거래 사건과 정보관리 체계 개편</h2>
+  <div class="note source">출처: E_20250130_1.pdf 전체 (특히 Chapter 2–4)</div>
+
+  <h3 class="subsection-title">8.1 사건 개요</h3>
+  <ul class="bullet">
+    <li>2024년 9월, TSE Listing Department Corporate Disclosure Office 소속 직원이 SESC로부터 <strong>내부자거래 혐의</strong>로 수사</li>
+    <li>공개매수(TOB) 관련 미공개정보 3건(Lawson, Riso Kyoiku, JASTEC)을 가족(생부)에게 전달</li>
+    <li>2024년 12월 23일, SESC가 동경지검에 형사고발, 해당 직원 해고</li>
+  </ul>
+
+  <h3 class="subsection-title">8.2 원인 분석</h3>
+  <table>
+    <thead><tr><th>문제점</th><th>내용</th></tr></thead>
+    <tbody>
+      <tr><td>부서 내 과도한 공유</td><td>팀 내 전원, 그룹 내 전원, 부서 내 전원이 미공개정보에 접근 가능</td></tr>
+      <tr><td>공유폴더 무제한 접근</td><td>각종 요약문서가 Listing Dept 전체 공유폴더에 저장, 접근 제한 없음</td></tr>
+      <tr><td>외부 부서 광범위 공유</td><td>Equities 18명, Listed Co. Compliance 25명, Listing Exam 12명, Mkt Surv. 5명</td></tr>
+      <tr><td><strong>근본 원인</strong></td><td><strong>"직원이 내부자거래 규정을 위반할 가능성"을 현실적 리스크로 인식하지 않았음</strong></td></tr>
+    </tbody>
+  </table>
+
+  <h3 class="subsection-title">8.3 재발방지 조치 (2025년 1월~)</h3>
+  <table>
+    <thead><tr><th>조치</th><th class="center">변경 전</th><th class="center">변경 후</th></tr></thead>
+    <tbody>
+      <tr><td>팀 내 공유 범위</td><td>팀 전원 + 부서 전체 열람</td><td><strong>담당 팀 + 매니저만</strong></td></tr>
+      <tr><td>Planning & Coordination Group</td><td>전 부원에게 무조건 공유</td><td><strong>케이스별 지정 인원 + 매니저만</strong></td></tr>
+      <tr><td>Equities Dept 수령자</td><td class="center">18명</td><td class="center"><strong>15명</strong></td></tr>
+      <tr class="tbl-highlight"><td>Listed Co. Compliance 수령자</td><td class="center">25명</td><td class="center"><strong>7명</strong></td></tr>
+      <tr><td>Listing Examination 수령자</td><td class="center">12명</td><td class="center"><strong>7명</strong></td></tr>
+      <tr><td>Market Surveillance 수령자</td><td class="center">5명</td><td class="center">5명 (변경 없음)</td></tr>
+      <tr><td>공유범위 변경 절차</td><td>규정 없음</td><td><strong>Listing Dept Director 승인 필요</strong></td></tr>
+      <tr><td>3부서 공유 문서</td><td>전원 접근 가능</td><td><strong>폐지</strong></td></tr>
+    </tbody>
+  </table>
+</div>
+
+<!-- ===== 9 ===== -->
+<div class="section" id="s9">
+  <h2 class="section-title">9. 원본 자료 레퍼런스 가이드</h2>
+
+  <h3 class="subsection-title">9.1 E_20250130_1.pdf — 독립이사 조사위원회 보고서</h3>
+  <table>
+    <thead><tr><th>섹션</th><th>페이지</th><th>핵심 내용</th><th>추가 조사 활용</th></tr></thead>
+    <tbody>
+      <tr><td>Chapter 1</td><td>pp.1–5</td><td>조사위원회 설립 배경, 구성, 조사방법</td><td>위원 구성, 법무자문 비용</td></tr>
+      <tr class="tbl-highlight"><td><strong>Chapter 2.3</strong></td><td><strong>pp.10–21</strong></td><td><strong>TSE Listing Dept 조직·인력·정보관리 체계 상세</strong></td><td><strong>조직도, 인원수, 정보공유 범위의 1차 출처</strong></td></tr>
+      <tr><td>Chapter 3</td><td>pp.18–24</td><td>사건 원인 분석 (정보관리, 가치관, 내규, 교육)</td><td>구조적 문제점의 근본 원인</td></tr>
+      <tr><td>Chapter 4</td><td>pp.25–36</td><td>재발방지 조치 및 위원회 평가</td><td>정보공유 범위 축소 전후 비교</td></tr>
+    </tbody>
+  </table>
+
+  <h3 class="subsection-title">9.2 JPX-R_Annual_Report_2025_E.pdf — JPX-R 연차보고서</h3>
+  <table>
+    <thead><tr><th>섹션</th><th>페이지</th><th>핵심 내용</th><th>추가 조사 활용</th></tr></thead>
+    <tbody>
+      <tr><td>I. Overview</td><td>pp.3–8</td><td>JPX-R 조직구조, 법적 지위, 특징</td><td>자율규제기관 설립 근거</td></tr>
+      <tr class="tbl-highlight"><td><strong>III.2 Listed Co. Compliance</strong></td><td><strong>pp.15–22</strong></td><td><strong>상장유지 심사, 징계, Special Alert 사례</strong></td><td><strong>FY2024 심사건수, 5개 사례 상세</strong></td></tr>
+      <tr><td>III.3 Trading Participants</td><td>pp.23–30</td><td>거래참가자 검사·감독</td><td>검사 24건, 징계 사례</td></tr>
+      <tr><td>III.4 Market Surveillance</td><td>pp.31–35</td><td>불공정거래 감시</td><td>조사 2,958건, 심사 113건</td></tr>
+      <tr><td>Company Profile</td><td>p.46</td><td>JPX-R 기본정보, 연혁</td><td>설립일, 자본금</td></tr>
+    </tbody>
+  </table>
+
+  <h3 class="subsection-title">9.3 외부 참고 자료 (공식 웹사이트)</h3>
+  <table>
+    <thead><tr><th>주제</th><th>URL</th></tr></thead>
+    <tbody>
+      <tr><td>JPX-R 개요</td><td><a href="https://www.jpx.co.jp/english/regulation/outline/about/index.html" target="_blank">jpx.co.jp/english/regulation/outline/about/</a></td></tr>
+      <tr><td>상장심사</td><td><a href="https://www.jpx.co.jp/english/regulation/listing/eligibility/index.html" target="_blank">jpx.co.jp/english/regulation/listing/eligibility/</a></td></tr>
+      <tr><td>상장유지 컴플라이언스</td><td><a href="https://www.jpx.co.jp/english/regulation/listing/compliance/index.html" target="_blank">jpx.co.jp/english/regulation/listing/compliance/</a></td></tr>
+      <tr><td>거래참가자 검사</td><td><a href="https://www.jpx.co.jp/english/regulation/maintaining/outline/index.html" target="_blank">jpx.co.jp/english/regulation/maintaining/outline/</a></td></tr>
+      <tr><td>Securities Listing Regulations</td><td><a href="https://www.jpx.co.jp/english/rules-participants/rules/regulations/index.html" target="_blank">jpx.co.jp/english/rules-participants/rules/regulations/</a></td></tr>
+    </tbody>
+  </table>
+
+  <h3 class="subsection-title">부록: 용어 대조표</h3>
+  <details>
+    <summary>영문 — 일본어 — 한국어 용어 대조표 (클릭하여 펼치기)</summary>
+    <div class="detail-body">
+      <table>
+        <thead><tr><th>영문</th><th>일본어</th><th>한국어</th></tr></thead>
+        <tbody>
+          <tr><td>Securities Under Supervision</td><td>監理銘柄</td><td>감리종목</td></tr>
+          <tr><td>Securities to Be Delisted</td><td>整理銘柄</td><td>정리종목 (상폐예정)</td></tr>
+          <tr><td>Securities on Special Alert</td><td>特設注意市場銘柄</td><td>특별주의시장종목</td></tr>
+          <tr><td>Timely Disclosure</td><td>適時開示</td><td>적시공시</td></tr>
+          <tr><td>Disclosure Supervisor</td><td>開示担当者</td><td>공시감독관</td></tr>
+          <tr><td>Listing Agreement Violation Penalty</td><td>上場契約違約金</td><td>상장계약위약금</td></tr>
+          <tr><td>Improvement Report</td><td>改善報告書</td><td>개선보고서</td></tr>
+          <tr><td>Public Announcement Measure</td><td>公表措置</td><td>공표조치</td></tr>
+          <tr><td>Delisting Criteria</td><td>上場廃止基準</td><td>상장폐지기준</td></tr>
+          <tr><td>Code of Corporate Conduct</td><td>企業行動規範</td><td>기업행동규범</td></tr>
+          <tr><td>TDnet</td><td>適時開示情報伝達システム</td><td>적시공시정보전달시스템</td></tr>
+          <tr><td>SESC</td><td>証券取引等監視委員会</td><td>증권거래등감시위원회</td></tr>
+          <tr><td>COMLEC</td><td>コンプライアンス学習センター</td><td>컴플라이언스학습센터</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
+
+</div><!-- container -->
+
+<!-- FOOTER -->
+<div class="report-footer">
+  <strong>본 문서는</strong> E_20250130_1.pdf, JPX-R_Annual_Report_2025_E.pdf, Securities Listing Regulations (2025.12.8)의 영문 번역본을 기반으로 작성되었습니다.<br>
+  원문(일본어)과 차이가 있을 경우 일본어 원문이 우선합니다.<br><br>
+  <strong>수정 이력:</strong><br>
+  • JPX-R 법적 지위: "재단법인" → <strong>"사단법인(membership association)"</strong>으로 정정 (Annual Report 원문 기준)<br>
+  • Securities Under Supervision 판단주체: <strong>JPX-R이 심사·판단</strong>, TSE는 공표(publication)만 담당으로 명확화<br>
+  • 감사의견 미표명: TSE 행정 트랙에서 <strong>Improvement Period 없이 바로 確認中으로 지정</strong>됨을 명시<br>
+  • Section 7에 Securities Listing Regulations <strong>Rule 501, 503, 601, 608</strong> 조문 근거 추가
+</div>
+
+</body>
+</html>'''
+
+with open(r'c:\Users\Peter\Desktop\temp\JPX_JPX-R_TSE_조직및역할분석.html', 'w', encoding='utf-8') as f:
+    f.write(html)
+
+print('Saved: JPX_JPX-R_TSE_조직및역할분석.html')
