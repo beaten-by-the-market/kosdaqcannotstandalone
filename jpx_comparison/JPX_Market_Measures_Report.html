@@ -516,6 +516,27 @@
     margin-right: 4px;
   }
 
+  /* Horizontal tree org chart (left → right) */
+  .htree { display:flex; align-items:center; gap:0; }
+  .htree-node { border:2px solid var(--border); border-radius:8px; padding:8px 14px; font-size:0.82rem; line-height:1.35; background:#fff; white-space:nowrap; flex-shrink:0; }
+  .htree-node.root { border-color:var(--tse-color); background:#e3f2fd; }
+  .htree-node.office { border-color:var(--tse-color); background:#e3f2fd; }
+  .htree-node.head { border-color:#90a4ae; background:#f5f7fa; font-size:0.78rem; }
+  .htree-node .olabel { font-weight:600; color:var(--primary); }
+  .htree-node .ocount { font-weight:700; color:var(--tse-color); }
+  .htree-node .osub { font-size:0.75rem; color:var(--text-secondary); margin-top:2px; white-space:normal; }
+  .htree-hconn { width:20px; height:2px; background:var(--border); flex-shrink:0; }
+  .htree-children { display:flex; flex-direction:column; gap:0; position:relative; padding-left:20px; }
+  .htree-children::before { content:''; position:absolute; left:0; top:0; bottom:0; width:2px; background:var(--border); }
+  .htree-row { display:flex; align-items:center; position:relative; padding:5px 0; }
+  .htree-row::before { content:''; position:absolute; left:-20px; top:50%; width:20px; height:2px; background:var(--border); }
+  .htree-teams { display:flex; gap:4px; margin-left:8px; }
+  .htree-team { border:1.5px solid var(--border); border-radius:5px; padding:2px 7px; font-size:0.72rem; background:#fafbfc; }
+  .omarket { display:inline-block; padding:1px 8px; border-radius:10px; font-size:0.72rem; font-weight:600; margin-left:4px; }
+  .omarket.prime { background:#e8eaf6; color:#283593; }
+  .omarket.standard { background:#e0f2f1; color:#00695c; }
+  .omarket.growth { background:#fce4ec; color:#ad1457; }
+
   /* KRX comparison note */
   .note.compare {
     background: #f3e5f5;
@@ -594,7 +615,7 @@
         </div>
         <div style="border:1px solid #ffb74d; border-radius:8px; overflow:hidden; width:100%;">
           <div style="background:#e65100; color:#fff; padding:7px 14px; font-size:0.85rem; font-weight:600;">Securities Under Supervision</div>
-          <div style="background:#263238; color:#cfd8dc; padding:8px 14px; font-size:0.82rem; line-height:1.5;">감리종목</div>
+          <div style="background:#263238; color:#cfd8dc; padding:8px 14px; font-size:0.82rem; line-height:1.5;">Securities Under Supervision</div>
         </div>
         <div class="flow-arrow down">&#9660;</div>
         <div style="border:1px solid #ef9a9a; border-radius:8px; overflow:hidden; width:100%;">
@@ -704,7 +725,7 @@
   </div>
 
   <!-- 2.2 Under Supervision -->
-  <h3 class="subsection-title">2.2 Securities Under Supervision (감리종목) &mdash; 37종목</h3>
+  <h3 class="subsection-title">2.2 Securities Under Supervision (Securities Under Supervision) &mdash; 37종목</h3>
 
   <div class="card">
     <table>
@@ -721,7 +742,7 @@
       </tbody>
     </table>
 
-    <div class="note info">직행 34건은 회사가 TDnet에 공시한 <strong>당일 즉시</strong> TSE가 감리종목으로 지정 (시차 0일).</div>
+    <div class="note info">직행 34건은 회사가 TDnet에 공시한 <strong>당일 즉시</strong> TSE가 Securities Under Supervision으로 지정 (시차 0일).</div>
 
     <details>
       <summary>Improvement Period 경유 3종목</summary>
@@ -994,7 +1015,7 @@
 
   <h3 class="subsection-title">4.3 핵심 시사점</h3>
   <ul class="insights">
-    <li><strong>TSE 트랙의 대부분은 Going Private</strong> &mdash; 감리종목 37건 중 34건(92%)이 기업의 자발적 상장폐지(MBO: 경영진 매수 / TOB: 공개매수). 수치 기준 미달로 인한 감리종목은 3건(8%)에 불과.</li>
+    <li><strong>TSE 트랙의 대부분은 Going Private</strong> &mdash; Securities Under Supervision 37건 중 34건(92%)이 기업의 자발적 상장폐지(MBO: 경영진 매수 / TOB: 공개매수). 수치 기준 미달로 인한 Securities Under Supervision은 3건(8%)에 불과.</li>
     <li><strong>Improvement Period의 92%가 유동성 기준</strong> &mdash; 113종목 중 Liquidity 104종목(92%), Financial(순자산) 6종목(5%)에 불과. 유통시총 미달 60건이 최다. 2022년 시장구분 재편 이후 유통성 기준 강화의 영향.</li>
     <li><strong>JPX-R 트랙의 핵심은 허위공시</strong> &mdash; 개선보고서 23건 전건, 공표조치 17건 중 14건(82%)이 허위공시 사유.</li>
     <li><strong>동시 다중 조치</strong> &mdash; TOSHIN HOLDINGS(9444)는 공표조치 + 위약금 + 개선보고서 + 특별경고가 모두 부과된 사례.</li>
@@ -1003,77 +1024,129 @@
 
 <!-- ===== 5. TSE Listing Dept 업무부하 분석 ===== -->
 <div class="section">
-  <h2 class="section-title">5. TSE Listing Dept 업무부하 분석</h2>
+  <h2 class="section-title">5. TSE Listing Dept(공시부) 업무부하 분석</h2>
   <div class="meta-bar" style="margin-bottom:20px;">
-    <div class="meta-item" style="background:#f5f7fa; border-color:var(--border); color:var(--text);"><strong>인원 출처</strong>&nbsp; E_20250130_1.pdf pp.16&ndash;18 (기준일: 2024.10.1)</div>
+    <div class="meta-item" style="background:#f5f7fa; border-color:var(--border); color:var(--text);"><strong>인원 출처</strong>&nbsp; <a href="pdfs/jpx_official/E_20250130_1.pdf">E_20250130_1.pdf</a> pp.16&ndash;18 (기준일: 2024.10.1)</div>
     <div class="meta-item" style="background:#f5f7fa; border-color:var(--border); color:var(--text);"><strong>업무량 출처</strong>&nbsp; JPX 웹사이트 데이터 (기준일: 2026.03.23)</div>
   </div>
 
   <!-- 5.1 담당 조직과 인원 -->
   <h3 class="subsection-title">5.1 담당 조직과 인원</h3>
-  <p style="margin-bottom:14px;">TSE Listing Department는 총 82명으로, 업무 성격에 따라 <strong>4개 기능 단위</strong>로 분산되어 있다.</p>
+  <p style="margin-bottom:14px;">TSE Listing Department(공시부)는 총 82명으로, 업무 성격에 따라 <strong>4개 기능 단위</strong>로 분산되어 있다.</p>
 
-  <div class="org-chart">
-    <!-- Top level -->
-    <div class="org-node" style="border-color:var(--primary); background:#f5f7fb;">
-      <span class="org-label">TSE Listing Department</span> &mdash; 총 <span class="org-count">82명</span>
-    </div>
-    <div class="org-tree">
-      <!-- Director -->
-      <div class="org-node" style="margin-top:8px; background:#fafafa;">
-        <span class="org-label">Listing Department Director</span> (<span class="org-count">1명</span>) + <span class="org-label">Section Director</span> (<span class="org-count">1명</span>)
+  <div class="org-chart" style="padding:24px 20px;">
+    <div class="htree">
+      <div class="htree-node root">
+        <span class="olabel">Listing Dept.(공시부)</span><br>
+        <span class="ocount">82명</span>
       </div>
+      <div class="htree-hconn"></div>
+      <div class="htree-node head">Director (1)</div>
+      <div class="htree-hconn"></div>
 
-      <!-- 직할 3개 그룹 -->
-      <div class="org-node" style="margin-top:8px;">
-        <span class="org-label">직할 3개 그룹</span> (<span class="org-count">26명</span>)
-      </div>
-      <div class="org-tree">
-        <div style="display:grid; grid-template-columns:1fr 1fr 1fr; gap:8px; margin-top:8px;">
-          <div class="org-node" style="font-size:0.82rem;">
-            <span class="org-label">Planning Group</span><br>(<span class="org-count">10명</span>)<br>
-            <small style="color:var(--text-secondary);">&bull; 상장규칙 전반 기획</small>
-          </div>
-          <div class="org-node" style="font-size:0.82rem;">
-            <span class="org-label">Listed Company Support Group</span><br>(<span class="org-count">4명</span>)<br>
-            <small style="color:var(--text-secondary);">&bull; 상장기업 IR활동 지원<br>&bull; 공시 교육</small>
-          </div>
-          <div class="org-node" style="font-size:0.82rem;">
-            <span class="org-label">Administration Group</span><br>(<span class="org-count">12명</span>)<br>
-            <small style="color:var(--text-secondary);">&bull; 추가상장&middot;변경상장 등 상장주식수 관리<br>&bull; 상장수수료 청구</small>
-          </div>
-        </div>
-      </div>
+      <div class="htree-children">
 
-      <!-- Corporate Disclosure Office -->
-      <div class="org-node" style="margin-top:12px; border-color:#42a5f5;">
-        <span class="org-label">Corporate Disclosure Office</span> (<span class="org-count">55명</span>) &mdash; Office장 (<span class="org-count">1명</span>)
-      </div>
-      <div class="org-tree" style="border-left-color:#42a5f5;">
-        <div class="org-node highlight" style="margin-top:8px;">
-          <span class="org-label">Planning &amp; Coordination Group</span> (<span class="org-count">22명</span>) &#9664; <strong>TSE 트랙 담당</strong><br>
-          <small style="color:var(--text-secondary);">
-            &bull; 적시공시 규칙 기획<br>
-            &bull; Improvement Period 목록 관리&middot;갱신<br>
-            &bull; 감리종목(Under Supervision) 지정&middot;공표<br>
-            &bull; 상폐종목(To Be Delisted) 지정&middot;공표
-          </small>
-        </div>
-        <div style="display:grid; grid-template-columns:1fr 1fr 1fr; gap:8px; margin-top:8px;">
-          <div class="org-node" style="font-size:0.82rem;">
-            <span class="org-label">LC Services Group 1</span><br>Prime (<span class="org-count">12명</span>)
-          </div>
-          <div class="org-node" style="font-size:0.82rem;">
-            <span class="org-label">LC Services Group 2</span><br>Standard (<span class="org-count">13명</span>)
-          </div>
-          <div class="org-node" style="font-size:0.82rem;">
-            <span class="org-label">LC Services Group 3</span><br>Growth (<span class="org-count">7명</span>)
+        <div class="htree-row">
+          <div class="htree-node">
+            <span class="olabel">Planning Group</span> <span class="ocount">10명</span>
+            <div class="osub">상장관리·공시 규정 전반 기획</div>
           </div>
         </div>
-        <div style="text-align:center; font-size:0.8rem; color:var(--text-secondary); margin-top:6px;">
-          공시 접수&middot;검토&middot;승인&middot;배포 (Disclosure Supervisors 29명)
+
+        <div class="htree-row">
+          <div class="htree-node">
+            <span class="olabel">Administration Group</span> <span class="ocount">12명</span>
+            <div class="osub">상장주식수 관리·수수료</div>
+          </div>
         </div>
-      </div>
+
+        <div class="htree-row">
+          <div class="htree-node">
+            <span class="olabel">Listed Company Support Group</span> <span class="ocount">4명</span>
+            <div class="osub">IR활동·거버넌스 지원</div>
+          </div>
+        </div>
+
+        <div class="htree-row">
+          <div style="display:flex; align-items:center; gap:0;">
+            <div class="htree-node office">
+              <span class="olabel">Corporate Disclosure Office</span><br>
+              <span class="ocount">55명</span>
+            </div>
+            <div class="htree-hconn"></div>
+            <div class="htree-node head">Head of CDO (1)</div>
+            <div class="htree-hconn"></div>
+
+            <div class="htree-children">
+
+              <div class="htree-row">
+                <div class="htree-node">
+                  <span class="olabel">Planning &amp; Coordination Group</span> <span class="ocount">22명</span>
+                  <div class="osub">
+                    수시공시 규정 기획 · LCS 1~3 지원·조율<br>
+                    <strong>Securities Under Supervision 시장조치·공표 · 상폐종목 시장조치·공표</strong>
+                  </div>
+                </div>
+              </div>
+
+              <div class="htree-row">
+                <div style="display:flex; align-items:center; gap:0;">
+                  <div class="htree-node" style="border-left:4px solid #283593;">
+                    <span class="olabel">LCS Group 1</span> <span class="ocount">12명</span>
+                    <span class="omarket prime">mainly Prime</span>
+                  </div>
+                  <div class="htree-hconn" style="width:12px;"></div>
+                  <div class="htree-node head">Head (1)</div>
+                  <div class="htree-hconn" style="width:12px;"></div>
+                  <div class="htree-teams">
+                    <div class="htree-team">A <b>4</b></div>
+                    <div class="htree-team">B <b>3</b></div>
+                    <div class="htree-team">C <b>4</b></div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="htree-row">
+                <div style="display:flex; align-items:center; gap:0;">
+                  <div class="htree-node" style="border-left:4px solid #00695c;">
+                    <span class="olabel">LCS Group 2</span> <span class="ocount">13명</span>
+                    <span class="omarket standard">mainly Standard</span>
+                  </div>
+                  <div class="htree-hconn" style="width:12px;"></div>
+                  <div class="htree-node head">Head (1)</div>
+                  <div class="htree-hconn" style="width:12px;"></div>
+                  <div class="htree-teams">
+                    <div class="htree-team">A <b>4</b></div>
+                    <div class="htree-team">B <b>4</b></div>
+                    <div class="htree-team">C <b>4</b></div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="htree-row">
+                <div style="display:flex; align-items:center; gap:0;">
+                  <div class="htree-node" style="border-left:4px solid #ad1457;">
+                    <span class="olabel">LCS Group 3</span> <span class="ocount">7명</span>
+                    <span class="omarket growth">mainly Growth</span>
+                  </div>
+                  <div class="htree-hconn" style="width:12px;"></div>
+                  <div class="htree-node head">Head (1)</div>
+                  <div class="htree-hconn" style="width:12px;"></div>
+                  <div class="htree-teams">
+                    <div class="htree-team">A <b>3</b></div>
+                    <div class="htree-team">B <b>3</b></div>
+                  </div>
+                </div>
+              </div>
+
+            </div><!-- CDO children -->
+          </div>
+        </div><!-- CDO row -->
+
+      </div><!-- L1 children -->
+    </div><!-- htree -->
+    <div style="text-align:right; font-size:0.78rem; color:var(--text-secondary); margin-top:8px;">
+      LCS Group 1~3: Disclosure Supervisors(공시심사역) 29명 포함
     </div>
   </div>
 
@@ -1085,23 +1158,23 @@
     <table>
       <thead><tr><th>KRX 공시부 업무</th><th>JPX 담당</th><th class="num">JPX 인원</th><th>비고</th></tr></thead>
       <tbody>
-        <tr><td>일상 공시 검토&middot;승인&middot;배포</td><td>TSE LC Services Group 1~3</td><td class="num">32명</td><td>Disclosure Supervisors 29명 포함</td></tr>
+        <tr><td>일상 공시 검토&middot;승인&middot;배포</td><td>TSE LCS Group 1~3</td><td class="num">32명</td><td>Disclosure Supervisors 29명 포함</td></tr>
         <tr><td>상장사 대상 공시 교육, IR 지원</td><td>TSE Listed Company Support Group</td><td class="num">4명</td><td>직할 그룹 소속</td></tr>
         <tr><td>추가상장&middot;변경상장 (상장주식수 관리)</td><td>TSE Administration Group</td><td class="num">12명</td><td>직할 그룹 소속</td></tr>
         <tr><td>상장유지기준(정량) 미달 &rarr; 개선기간 관리</td><td rowspan="2">TSE Planning &amp; Coordination Group</td><td rowspan="2" class="num">22명 내</td><td>Improvement Period 엑셀 갱신</td></tr>
         <tr><td>관리종목 지정, 상장폐지 사유 해당여부 검토 (정량 기준)</td><td>기업행위, 감사의견 등 규칙 기반</td></tr>
         <tr style="background:#f3e5f5;"><td>공시지연&middot;불이행&middot;변경에 대한 심사, 벌점 부여</td><td rowspan="2"><strong>JPX-R</strong> Listed Co. Compliance Dept</td><td rowspan="2" class="num">26명+ <sup>※</sup></td><td>TSE가 아닌 JPX-R 소관</td></tr>
-        <tr style="background:#f3e5f5;"><td>상폐 해당여부 심사 (정량 기준: 감사의견 미표명 등)</td><td>감리종목 지정 &lsquo;후&rsquo; 상폐 확정 심사</td></tr>
+        <tr style="background:#f3e5f5;"><td>상폐 해당여부 심사 (정량 기준: 감사의견 미표명 등)</td><td>Securities Under Supervision 지정 &lsquo;후&rsquo; 상폐 확정 심사</td></tr>
       </tbody>
     </table>
     <div class="note" style="font-size:0.8rem; margin-top:8px;">
-      <strong>※</strong> JPX-R Listed Co. Compliance Dept 26명+는 조사보고서(<code>E_20250130_1.pdf</code> p.20)상 변경 전 미공개정보 수령 등록인원 25명(부장 제외 전 부원) + 부장 1명에서 역산한 <strong>최소 추정치</strong>. 실제 인원은 이보다 많을 수 있음.
+      <strong>※</strong> JPX-R Listed Co. Compliance Dept 26명+는 조사보고서(<a href="pdfs/jpx_official/E_20250130_1.pdf"><code>E_20250130_1.pdf</code></a> p.20)상 변경 전 미공개정보 수령 등록인원 25명(부장 제외 전 부원) + 부장 1명에서 역산한 <strong>최소 추정치</strong>. 실제 인원은 이보다 많을 수 있음.
     </div>
     <div class="note compare">
-      <strong>핵심 차이:</strong>
+      <strong>차이:</strong>
       <ul style="margin:8px 0 0 16px; padding:0; list-style:disc;">
         <li>KRX는 공시부가 공시 접수&middot;검토에서 정량 기준 <strong>상장폐지 사유 발생 검토&middot;해당여부 검토&middot;개선기간 부여</strong>, 공시 위반에 대한 <strong>심사&middot;벌점 부여</strong>까지 일괄 수행한다.</li>
-        <li>TSE는 이 업무가 분리: ① 공시 접수&middot;검토는 LC Services Group, ② 위반 심사&middot;벌점&middot;상폐 확정 판단은 <strong>JPX-R</strong>. TSE Listing Dept는 감리종목 지정 등 <strong>행정 공표만</strong> 수행하고 심사&middot;판단 업무는 갖고 있지 않다.</li>
+        <li>TSE는 이 업무가 분리: ① 공시 접수&middot;검토는 LC Services Group, ② 위반 심사&middot;벌점&middot;상폐 확정 판단은 <strong>JPX-R</strong>. TSE Listing Dept는 Securities Under Supervision 지정 등 <strong>행정 공표만</strong> 수행하고 심사&middot;판단 업무는 갖고 있지 않다.</li>
       </ul>
     </div>
   </div>
@@ -1145,7 +1218,7 @@
       <thead><tr><th>항목</th><th>내용</th></tr></thead>
       <tbody>
         <tr><td><strong>현재 종목 수</strong></td><td>37종목</td></tr>
-        <tr><td><strong>트리거</strong></td><td>기업이 TDnet에 Corporate Action 공시 &rarr; <strong>당일 즉시</strong> 감리종목 지정</td></tr>
+        <tr><td><strong>트리거</strong></td><td>기업이 TDnet에 Corporate Action 공시 &rarr; <strong>당일 즉시</strong> Securities Under Supervision 지정</td></tr>
         <tr><td><strong>월간 발생 빈도</strong></td><td>2025.6~2026.3 기준 월 0~15건 (2026.2월에 15건으로 피크)</td></tr>
         <tr><td><strong>산출물</strong></td><td>종목별 TSE Urgent Notice PDF 1건</td></tr>
         <tr><td><strong>업무 내용</strong></td><td>공시 확인 &rarr; 상폐기준 해당 여부 판단 &rarr; PDF 작성&middot;공표</td></tr>
@@ -1176,7 +1249,7 @@
       </div>
     </div>
 
-    <div class="note">2026년 2월의 15건 집중은 MBO/TOB 붐 시기와 일치. 다만 Corporate Actions 기반 지정은 <strong>정형화된 PDF 템플릿</strong> 사용 (공시 내용 확인 후 코드&middot;종목명&middot;사유를 삽입하는 수준).</div>
+    <div class="note">2026년 2월의 15건 집중은 MBO/TOB 붐 시기와 일치. Corporate Actions 기반 지정은 공시 내용 확인 후 코드&middot;종목명&middot;사유를 기재하여 공표하는 수준.</div>
   </div>
 
   <!-- (C) To Be Delisted -->
@@ -1199,9 +1272,9 @@
     <table>
       <thead><tr><th>평가 항목</th><th>분석</th></tr></thead>
       <tbody>
-        <tr><td><strong>업무 분산</strong></td><td>KRX 공시부에 집중된 업무가 TSE에서는 <strong>4개 단위</strong>로 분산: 공시 접수(LC Services 32명), 규칙&middot;시장조치(P&amp;C 22명), IR&middot;교육(Support 4명), 주식수 관리(Admin 12명). 또한 심사&middot;징계는 <strong>JPX-R</strong>(26명+)이 별도 수행.</td></tr>
+        <tr><td><strong>업무 분산</strong></td><td>KRX 공시부에 집중된 업무가 TSE에서는 <strong>4개 단위</strong>로 분산: 공시 접수(LC Services 32명), 규칙&middot;시장조치(P&amp;C 22명), IR&middot;교육(Support 4명), 주식수 관리(Admin 12명). 또한 심사&middot;제재는 <strong>JPX-R</strong>(26명+)이 별도 수행.</td></tr>
         <tr><td><strong>예측 가능성</strong></td><td>Improvement Period는 end date가 수개월~1년 전부터 확정되어 있어 <strong>업무량 예측 가능</strong>. 3월 결산 집중은 연간 반복 패턴이므로 사전 대비 가능.</td></tr>
-        <tr><td><strong>즉시 대응 부하</strong></td><td>Under Supervision 지정은 공시 당일 즉시이나, Corporate Actions은 <strong>정형 템플릿 처리</strong>이며 판단 재량이 적음. 월 최대 15건(2026.2) 수준.</td></tr>
+        <tr><td><strong>즉시 대응 부하</strong></td><td>Under Supervision 지정은 공시 당일 즉시이나, Corporate Actions은 규칙 기반 처리이며 판단 재량이 적음. 월 최대 15건(2026.2) 수준.</td></tr>
         <tr><td><strong>심사 부하 부재</strong></td><td>공시 위반 심사, 벌점 부여, 상폐 확정 판단, 위약금 부과 등 <strong>재량적 판단이 필요한 심사 업무는 전부 JPX-R 소관</strong>. TSE P&amp;C Group은 JPX-R의 심사 결과를 받아 공표만 수행.</td></tr>
         <tr><td><strong>인원 대비 업무량</strong></td><td>P&amp;C Group 22명이 113종목 목록 관리 + 월 수 건의 감리/상폐 지정 PDF 처리. 규칙 기획 업무를 감안해도 <strong>현재 수준에서 과부하 징후는 낮음</strong>.</td></tr>
         <tr><td><strong>참고: JPX-R 대비</strong></td><td>JPX-R Listed Company Compliance Dept(26명+)는 FY2024 상폐심사 106건 + Special Alert 4건 + 개선보고서 7건 등 <strong>비정형 심층 심사</strong>를 수행. TSE의 정형적 행정 처리와 성격이 근본적으로 다름.</td></tr>
@@ -1216,9 +1289,9 @@
     <p style="margin-bottom:12px;">TSE Listing Dept의 시장조치 업무는 다음 특성으로 인해 <strong>현 인원 체제에서 과부하 없이 처리 가능한 수준</strong>으로 판단된다:</p>
     <ul class="insights" style="margin:0;">
       <li><strong>업무 분산 구조</strong> &mdash; KRX가 공시부 단일 부서에서 수행하는 업무가 TSE에서는 Listing Dept 내 4개 그룹(82명) + JPX-R(26명+)에 분산. 특히 <strong>심사&middot;판단 업무가 JPX-R로 완전 분리</strong>되어 있어, TSE에는 규칙 기반 행정 처리만 남음.</li>
-      <li><strong>정형화</strong> &mdash; Improvement Period는 엑셀 갱신, Under Supervision/To Be Delisted는 템플릿 PDF &mdash; 모두 재량적 판단이 최소화된 규칙 기반 처리</li>
+      <li><strong>규칙 기반</strong> &mdash; Improvement Period는 엑셀 갱신, Under Supervision/To Be Delisted는 PDF 공표 &mdash; 모두 재량적 판단이 최소화된 규칙 기반 처리</li>
       <li><strong>예측 가능</strong> &mdash; end date가 사전 확정되어 있어 업무량 예측&middot;사전 대비 가능</li>
-      <li><strong>즉시 대응의 단순성</strong> &mdash; Corporate Actions 공시 &rarr; 감리종목 지정은 당일 즉시이나, 공시 내용 확인 후 정형 PDF 작성이므로 건당 소요 시간이 짧음</li>
+      <li><strong>즉시 대응의 단순성</strong> &mdash; Corporate Actions 공시 &rarr; Securities Under Supervision 지정은 당일 즉시이나, 공시 내용 확인 후 규칙 기반으로 처리하므로 건당 소요 시간이 짧음</li>
       <li><strong>심사 부하 제로</strong> &mdash; 공시 위반 여부 판단, 조치 수준 결정, 상폐 확정 심사 등 전문적 심사는 JPX-R이 전담하므로, TSE Listing Dept에는 심사에 따른 업무 부하가 발생하지 않음</li>
     </ul>
   </div>
@@ -1228,11 +1301,14 @@
 
 <!-- FOOTER -->
 <div class="report-footer">
-  <strong>참고 자료</strong><br>
-  JPX_JPX-R_TSE_조직및역할분석.md &mdash; 조직&middot;역할 분담 분석 &nbsp;|&nbsp;
-  JPX_Consolidated_Report_v3.csv &mdash; 전체 228건 상세 데이터 &nbsp;|&nbsp;
-  pdfs/ &mdash; 개별 조치 PDF 116건 &nbsp;|&nbsp;
-  Companies_ImprovementPeriod_EN_260318.xlsx &mdash; Improvement Period 원본 엑셀
+  <strong>1차 출처 (JPX 웹사이트)</strong><br>
+  <a href="https://www.jpx.co.jp/english/listing/market-alerts/" target="_blank">JPX Market Alerts</a> &mdash; 전체 시장조치 원본 페이지 &nbsp;|&nbsp;
+  <a href="pdfs/improvement_period/Companies_ImprovementPeriod_EN_260318.xlsx">Companies_ImprovementPeriod_EN_260318.xlsx</a> &mdash; <a href="https://www.jpx.co.jp/english/listing/market-alerts/improvement-period/index.html" target="_blank">Improvement Period</a> 원본 엑셀 (2026.03.18 다운로드) &nbsp;|&nbsp;
+  <a href="pdfs/">pdfs/</a> &mdash; 개별 조치 PDF 116건 (<a href="pdfs/SOURCES.md">출처 매핑</a>)<br><br>
+  <strong>2차 자료 (가공/분석)</strong><br>
+  <a href="JPX_JPX-R_TSE_조직및역할분석.html">JPX_JPX-R_TSE_조직및역할분석</a> &mdash; 조직&middot;역할 분담 분석 &nbsp;|&nbsp;
+  <a href="data/JPX_Consolidated_Report_v3.csv">JPX_Consolidated_Report_v3.csv</a> &mdash; 전체 228건 통합 데이터<br><br>
+  <strong>전체 출처 목록:</strong> <a href="SOURCES.md">SOURCES.md</a>
 </div>
 
 </body>
