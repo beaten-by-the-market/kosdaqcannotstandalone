@@ -1,0 +1,2625 @@
+(Reference Translation) 
+ 
+ 
+DISCLAIMER: This translation may be used for reference purposes only. This English version is not an official translation of the original 
+Japanese version. In cases where any differences occur between the English version and the original Japanese version, the Japanese version 
+shall prevail. This translation is subject to change without notice. Tokyo Stock Exchange, Inc., Japan Exchange Regulation, Japan Exchange 
+Group, Inc., and/or their affiliates shall individually or jointly accept no responsibility or liability for damage or loss caused by any error, 
+inaccuracy, misunderstanding, or changes with regard to this translation. 
+1
+Guidelines concerning Listing Examination, etc. 
+(as of December 8, 2025) 
+Tokyo Stock Exchange, Inc. 
+ 
+I. General Provisions 
+ 
+(Purpose, etc.) 
+1.  These guidelines shall prescribe necessary matters concerning listing examination, etc. 
+pursuant to the Securities Listing Regulations (hereinafter referred to as the 
+"Regulations"). 
+ 
+2.  At the time of carrying out listing examination, etc., listing examination, etc. concerning 
+listing eligibility of initial listing applicants, etc. shall be carried out based on these 
+guidelines, fully considering that the market should be operated so as to ensure stable 
+trading in the market, that is, fair price formation and maintenance of appropriate 
+transactions, and investor protection, that is, the protection of investors' rights and 
+interests. 
+ 
+(Meanings of Terminology) 
+3.  The meanings of the terminology pertaining to listing, etc. of securities that will be used 
+in these guidelines shall be as specified in the Regulations and the Enforcement Rules for 
+Securities Listing Regulations (hereinafter referred to the "Enforcement Rules"). 
+ 
+ 
+II. Initial Listing Examination of Stocks, etc. [Standard Market] 
+ 
+(Listing Examination Pertaining to Application for Initial Listing on Standard 
+Market) 
+1.  Listing examination of a stock, etc. for which an initial listing application is made for the 
+Standard Market as prescribed in Rule 207, Paragraph 1 of the Regulations shall be 
+carried out pursuant to the provisions of this II.  In this case, if such initial listing 
+applicant is a foreign company, listing examinations shall be carried out in consideration 
+of the legal system, and practices and customs, etc. of the home country, etc. for such 
+initial listing applicant. 
+ 
+(Corporate Continuity and Profitability)  
+2. Listing examinations concerning items specified in Rule 207, Paragraph 1, Item (1) of the 
+Regulations shall be carried out from viewpoints including those referred to in the 
+following (1) to (3): 
+(1)  The business plan of corporate group of an initial listing applicant is appropriately 
+drawn up in light of its business model, business environment, risk factors, etc.; 
+(2)  The corporate group of an initial listing applicant is reasonably expected to be able to 
+(Reference Translation) 
+ 
+ 
+DISCLAIMER: This translation may be used for reference purposes only. This English version is not an official translation of the original 
+Japanese version. In cases where any differences occur between the English version and the original Japanese version, the Japanese version 
+shall prevail. This translation is subject to change without notice. Tokyo Stock Exchange, Inc., Japan Exchange Regulation, Japan Exchange 
+Group, Inc., and/or their affiliates shall individually or jointly accept no responsibility or liability for damage or loss caused by any error, 
+inaccuracy, misunderstanding, or changes with regard to this translation. 
+2
+maintain a stable profit in the future; 
+(3)  Management activities (meaning business activities, and investment activities and 
+financial activities; the same shall apply hereinafter) of the corporate group of an 
+initial listing applicant are recognized to be able to be carried out stably and 
+continuously in light of matters including those referred to in the following a. to d.: 
+a.  Business activities of the corporate group of an initial listing applicant are in a 
+state referred to in the following (a) and (b): 
+(a)  Business activities are able to be conducted stably and continuously in light of 
+purchases, production and sales, actual results of transactions with customers 
+and suppliers, characteristics and demand trends for manufactured products 
+and services, and the state of performance of any other business (excluding the 
+viewpoint of the structure of the corporate group); and 
+(b)  The structure of the corporate group is no serious obstacle to continuous 
+business activities; 
+b.  Investment activities such as capital investment and business investment, etc. of 
+the corporate group of an initial listing applicant do not hinder continuous 
+management activities in light of the trend and future outlook, etc. of the state of 
+investment; 
+c.  Financial activities such as fundraising, etc. of the corporate group of an initial 
+listing applicant do not hinder continuous management activities in light of the 
+trend and future outlook, etc. of the state of financial affairs; and 
+d.  Concerning the matters which become the premise of the main business activities 
+of the corporate group of an initial listing applicant (meaning permission, 
+authorization, license, or registration pertaining to main businesses or 
+manufactured goods and commodities or selling agent agreements or production 
+entrustment agreements; the same shall apply hereinafter), there are no obstacles to 
+the continuous business activities. 
+ 
+(Soundness of Corporate Management) 
+3. Listing examination concerning the items specified in Rule 207, Paragraph 1, Item (2) of 
+the Regulations shall be carried out from viewpoints including those referred to in the 
+following (1) to (3): 
+(1)  The corporate group of an initial listing applicant is recognized not to give or receive 
+profits wrongfully through a trading act (including indirect trading acts and free 
+supply of services and its reception; the same shall apply hereinafter) or any other 
+management activities with relevant parties and other specific entities, in light of 
+matters including those referred to in the following a. and b.: 
+a.  Where a transaction has taken place between the corporate group of an initial 
+listing applicant and its relevant parties (meaning relevant parties referenced in 
+Rule 8, Paragraph 17 of the Financial Statements, etc. Rules; the same shall apply 
+hereinafter in II through IV) or any other specific entities, and such transaction has 
+rationality of continuing the transaction and reasonability of trading terms 
+(Reference Translation) 
+ 
+ 
+DISCLAIMER: This translation may be used for reference purposes only. This English version is not an official translation of the original 
+Japanese version. In cases where any differences occur between the English version and the original Japanese version, the Japanese version 
+shall prevail. This translation is subject to change without notice. Tokyo Stock Exchange, Inc., Japan Exchange Regulation, Japan Exchange 
+Group, Inc., and/or their affiliates shall individually or jointly accept no responsibility or liability for damage or loss caused by any error, 
+inaccuracy, misunderstanding, or changes with regard to this translation. 
+3
+including trading prices; and 
+b.  Benefits of the corporate group of an initial listing applicant are not lost 
+wrongfully because relevant parties and any other specific entities of the corporate 
+group of an initial listing applicant give priority to their own benefits;  
+(2)  The mutual relationship of relatives of officers (including board members, 
+accounting advisors (where an accounting advisor is a corporation, including its 
+employees who should carry out its office duties; the same shall apply hereinafter.), 
+auditors, or executive officers (including governors and inspectors and any other 
+entities corresponding to these); the same shall apply hereinafter.) of an initial listing 
+applicant, its composition, actual working situation or the state of concurrent posts as 
+officers and employees, etc. with any other company, etc. are recognized not to 
+impair the fair, faithful and full execution of duties or the implementation of effective 
+auditing as officers of such initial listing applicant. In this case, if a spouse, a blood 
+relative within the second degree of kinship, or a relative by affinity within the same 
+degree of kinship of a board member, an accounting advisor, an executive officer of 
+an initial listing applicant, or a person equivalent thereto takes a position as an 
+auditor, an audit and supervisory committee member, a member of an audit 
+committee, or any other positions equivalent thereto, it shall be deemed to impair the 
+implementation of an effective auditing; and 
+ (3)  Where an initial listing applicant has a parent company, etc. (excluding cases where 
+such applicant is expected to cease to own the parent company, etc. by the end of the 
+first business year ending after the listing), management activities of the corporate 
+group of an initial listing applicant are recognized to be carried out independently 
+from such parent company, etc. in light of matters including those referred to in the 
+following a. to c.:  
+a.  In light of the relationship between the business line of the corporate group of an 
+initial listing applicant and that of the corporate group of the parent company, etc. 
+(excluding the corporate group of an initial listing applicant; the same shall apply 
+hereinafter.), the state of business adjustment made by the corporate group of the 
+parent company, etc. and its possibility and any other matters, an initial listing 
+applicant is not recognized to be substantially a business division of such parent 
+company, etc.; 
+b.  The corporate group of an initial listing applicant or that of a parent company, etc. 
+does not coerce or induce transaction which become disadvantageous to such 
+parent company, etc. or the corporate groups of such initial listing applicant such 
+as transactions under markedly different terms from those of normal transactions 
+(meaning a current market price, for example; the same shall apply hereinafter.); 
+and 
+c.  The state of receiving seconded persons of the corporate group of an initial listing 
+applicant is recognized not to excessively depend on the parent company, etc. and 
+not to hinder continuous management activities.        
+ 
+(Reference Translation) 
+ 
+ 
+DISCLAIMER: This translation may be used for reference purposes only. This English version is not an official translation of the original 
+Japanese version. In cases where any differences occur between the English version and the original Japanese version, the Japanese version 
+shall prevail. This translation is subject to change without notice. Tokyo Stock Exchange, Inc., Japan Exchange Regulation, Japan Exchange 
+Group, Inc., and/or their affiliates shall individually or jointly accept no responsibility or liability for damage or loss caused by any error, 
+inaccuracy, misunderstanding, or changes with regard to this translation. 
+4
+ 
+(Effectiveness of Corporate Governance and Internal Management System) 
+4.  Listing examination concerning the items prescribed in Rule 207, Paragraph 1, Item (3) 
+of the Regulations shall be carried out from viewpoints including those referred to in the 
+following (1) to (5): 
+(1)  The system to ensure the appropriate execution of duties of officers of the corporate 
+group of an initial listing applicant is recognized to be appropriately prepared and 
+operated in light of matters including those referred to in the following a. and b.: 
+a.  An initial listing applicant has an organizational structure and an officer 
+composition which is able to effectively implement checks and balances as well as 
+auditing concerning the execution of duties of officers of the corporate group of an 
+initial listing applicant. A listing examination in such a case shall be conducted in 
+consideration of the state of compliance with matters prescribed in the provisions 
+of Rules 436-2 through 439 of the Regulations; and  
+b.  In the corporate group of an initial listing applicant, checks and balances as well 
+as auditing with regard to the execution of duties by officers for the purpose of the 
+continuous and efficient management of the corporation are implemented, 
+functioning effectively. 
+(2)  The internal management system is deemed to be appropriately developed and 
+operated so that an initial listing applicant and its corporate group carry out effective 
+management activities in light of matters including those referred to in the following 
+a. and b.: 
+a.  A necessary managerial and administrative system (including various internal 
+rules; the same shall apply hereinafter.) is properly developed and appropriately 
+operated 
+to 
+ensure 
+efficiency 
+of 
+management 
+activities 
+and 
+internal 
+check-and-balance functions of the corporate group of an initial listing applicant; 
+and 
+b.  An internal auditing system of the corporate group of an initial listing applicant is 
+prepared and operated appropriately; 
+(3)  Necessary personnel are deemed to be secured in order to carry out stable and 
+continuous execution of management activities of the corporate group of an initial 
+listing applicant and to maintain its appropriate internal management system;  
+(4)  The corporate group of an initial listing applicant adopts accounting treatment 
+standards adaptable to its actual condition, and a necessary accounting system is 
+deemed to be developed and operated appropriately; and 
+(5)  It is deemed that an effective system to comply with laws and regulations, etc. 
+concerning management activities in the corporate group of an initial listing applicant 
+is prepared and operated appropriately, and that no material breach of laws and 
+regulations has recently been made, and no act which is likely to become a material 
+breach of laws and regulations in the future is being carried out.  
+ 
+ 
+(Reference Translation) 
+ 
+ 
+DISCLAIMER: This translation may be used for reference purposes only. This English version is not an official translation of the original 
+Japanese version. In cases where any differences occur between the English version and the original Japanese version, the Japanese version 
+shall prevail. This translation is subject to change without notice. Tokyo Stock Exchange, Inc., Japan Exchange Regulation, Japan Exchange 
+Group, Inc., and/or their affiliates shall individually or jointly accept no responsibility or liability for damage or loss caused by any error, 
+inaccuracy, misunderstanding, or changes with regard to this translation. 
+5
+(Appropriateness of Disclosure of Corporate Information, etc.) 
+5.  Listing examination concerning the items specified in Rule 207, Paragraph 1, Item (4) 
+of the Regulations shall be carried out from viewpoints including those referred to in 
+the following (1) to (5): 
+(1)  The corporate group of an initial listing applicant is deemed to be able to properly 
+manage corporate information of facts, etc. which will have a material effect on 
+management and to disclose it to investors in a timely and appropriate manner. 
+Moreover, its system for the preemptive prevention of insider trading, etc. is deemed 
+to be developed and operated appropriately; 
+(2)  Documents pertaining to disclosure of corporate information, out of the initial listing 
+application documents, are deemed to be prepared in compliance with laws and 
+regulations, etc., and contain the following items referred to in the following a. and 
+b. : 
+a.  The financial condition and financial results of an initial listing applicant and its 
+corporate group, and matters which may have an important effect on investment 
+decisions of investors such as important matters, etc. concerning officers, major 
+shareholders, affiliated companies, etc.; and 
+b.  Items referred to in the following (a) to (d) pertaining to the matters which are the 
+premises of main business activities of the corporate group of an initial listing 
+applicant: 
+(a)  Details of the matters which are the premises of the main business activities of 
+the corporate group of an initial listing applicant; 
+(b)  Where the validity period of permission and authorization, etc. and any other 
+time limit is specified by laws and regulations or contract, etc., such time limit; 
+(c)  Where cancellation, rescission, and any other event of permission and 
+authorization, etc. are stipulated in laws and regulations or contract, etc., such 
+event; and 
+(d)  The effect that there is no factor which hinders their continuity concerning the 
+matters which are the premises of the main business activities of the corporate 
+group of an initial listing applicant, and if there is such factor, the fact that it will 
+have a material effect on business activities; 
+(3)  The corporate group of an initial listing applicant does not make distorted 
+information disclosure on the actual state of the corporate group of the initial listing 
+applicant by carrying out a trading act with its relevant party or any other specific 
+entity or adjusting share ownership ratios, etc.; 
+(4)  Where an initial listing applicant has a parent company, etc. (excluding cases where 
+the applicant is expected not to have a parent company, etc. by the end of the first 
+business year ending after the listing), any one of the following a. or b. shall be met 
+on the condition that disclosure of such parent company, etc. is valid: 
+a.  A stock, etc. issued by a parent company, etc. of an initial listing applicant (where 
+there are multiple parent companies, etc., a company which is deemed to have the 
+greatest influence on the initial listing applicant, or where their influence is deemed 
+(Reference Translation) 
+ 
+ 
+DISCLAIMER: This translation may be used for reference purposes only. This English version is not an official translation of the original 
+Japanese version. In cases where any differences occur between the English version and the original Japanese version, the Japanese version 
+shall prevail. This translation is subject to change without notice. Tokyo Stock Exchange, Inc., Japan Exchange Regulation, Japan Exchange 
+Group, Inc., and/or their affiliates shall individually or jointly accept no responsibility or liability for damage or loss caused by any error, 
+inaccuracy, misunderstanding, or changes with regard to this translation. 
+6
+to be the same, it means one of such companies; the same shall apply hereinafter in 
+these a. and b.) is listed on a domestic financial instruments exchange (including 
+where a stock, etc. issued by such parent company, etc. is listed or continuously 
+traded on a foreign financial instruments exchange, etc., and the state of disclosure 
+on corporate affairs in a country in which such parent company, etc. or such foreign 
+financial instruments exchange, etc. is located is not deemed to conspicuously lack 
+investor protection); and  
+b.  An initial listing applicant can appropriately grasp company information such as facts 
+concerning the parent company, etc. which has a material effect on its management 
+(excluding a parent company, etc. which falls under the preceding a.), and the initial 
+listing applicant pledges in writing that such parent company, etc. agrees to its 
+disclosure of company information which has a material effect on its management, 
+out of such company information concerning the parent company, etc., to investors in 
+an appropriate manner; and 
+(5)  Where an initial listing applicant is a foreign company, accounting standards adopted 
+by the initial listing applicant are deemed to be appropriate from the viewpoint of the 
+protection of investors. 
+ 
+(Viewpoints of Public Interest or Investor Protection) 
+6.  Listing examination concerning the items prescribed in Rule 207, Paragraph 1, Item (5) 
+of the Regulations shall be carried out from viewpoints including those referred to in the 
+following (1) to (6):  
+(1)  The contents of the rights of shareholders or holders of a foreign stock depositary 
+receipt, etc. and the state of their exercise are deemed appropriate from the 
+viewpoints of the public interest or the protection of investors, due to the matters 
+referred to in the following a. and b.: 
+a.  The contents of the rights of shareholders or holders of a foreign stock depositary 
+receipt, etc. and exercise thereof are not unreasonably restricted; and 
+b.  Where an initial listing applicant has introduced a takeover response policy, the 
+initial listing applicant complies with the matters referred to in each item of the 
+Rule 440 of the Regulations; 
+(2)  The corporate group of an initial listing applicant does not have an ongoing lawsuit 
+or dispute, etc. which may have a material effect on management activities and 
+business results; 
+(3)  The corporate group of an initial listing applicant is deemed to have developed an 
+internal system to prevent criminal and extremist elements from being involved in 
+management activities, and make efforts to prevent such involvement, and their 
+actual state is deemed to be appropriate from the viewpoint of the public interest or 
+the protection of investors; 
+(4)  Where domestic stocks pertaining to an initial listing application are shares without 
+voting rights (limited to cases where no initial listing application is made for an 
+issue(s) other than such domestic stocks) or shares with a small number of voting 
+(Reference Translation) 
+ 
+ 
+DISCLAIMER: This translation may be used for reference purposes only. This English version is not an official translation of the original 
+Japanese version. In cases where any differences occur between the English version and the original Japanese version, the Japanese version 
+shall prevail. This translation is subject to change without notice. Tokyo Stock Exchange, Inc., Japan Exchange Regulation, Japan Exchange 
+Group, Inc., and/or their affiliates shall individually or jointly accept no responsibility or liability for damage or loss caused by any error, 
+inaccuracy, misunderstanding, or changes with regard to this translation. 
+7
+rights (meaning those referred to in Item (10), Sub-item b. of Rule 205 of the 
+Regulations), all of the following a. to h. shall be met: 
+a.  It shall be deemed that a condition where a specific individual who has shares, etc. 
+with a large number of voting rights (see Note below) may continue to be involved 
+in management needs to be secured, etc., from a viewpoint of common interests of 
+shareholders, and that the scheme is not unduly beneficial to shareholders with a 
+large number of shares, etc., but appropriate. In this case, the judgment whether it 
+is appropriate or not shall be made in line with needs of the following items 
+referred to in the following (a) to (c) and other items; 
+(Note) This means shares with voting rights or a large number of voting rights in 
+cases of non-voting shares being issued, (meaning shares with voting 
+rights other than those with a small number of voting rights; the same 
+shall apply hereinafter); the same shall apply hereinafter. 
+(a) If such judgment is no longer necessary, the scheme of shares without voting 
+rights or those with a small number of voting rights is likely to be dissolved; 
+(b) If a company is controlled with an extremely small ratio of capital contribution, 
+the articles of incorporation, etc. appropriately stipulate that a scheme of shares 
+without voting rights or a small number of voting rights is expected to be 
+dissolved; and 
+(c) Where domestic stocks pertaining to the initial listing application are shares with 
+a small number of voting rights, the articles of incorporation, etc. appropriately 
+stipulate that, as a general rule, shares with a large number of voting rights shall 
+be converted to shares with a small number of voting rights when they are 
+transferred, etc. 
+b.  It shall be deemed that the main purpose of using shares with a large number of 
+voting rights is not to secure positions of directors, etc. of the initial listing 
+applicant or not to use such shares for resisting takeover; 
+c.  It shall be deemed that the purpose, necessity, and scheme of using shares with a 
+large number of voting rights, etc., are appropriately described in the initial listing 
+application documents pertaining to details of disclosed corporate information; 
+d. Where a shareholder of a stock, etc. with a large number of voting rights is not a 
+director, etc. of the initial listing applicant, the following (a) and (b) shall be met; 
+(a) Where it is deemed that the purpose or policy of exercise of voting rights of a 
+shareholder with shares with a large number of voting rights is not clearly 
+inappropriate in light of necessity of such exercise, and shall be appropriately 
+described in the initial listing application documents pertaining to details of 
+disclosed corporate information; and 
+(b) Where a corporate group of an initial listing applicant has, as a general rule, no 
+relationships with a shareholder with a large number of voting rights (limited to 
+cases where such shareholder is a parent company, etc. of the initial listing 
+applicant) of shares, etc. in terms of business, personnel, and transactions. 
+e. Where conflicts of interest arise between shareholders of different classes, 
+(Reference Translation) 
+ 
+ 
+DISCLAIMER: This translation may be used for reference purposes only. This English version is not an official translation of the original 
+Japanese version. In cases where any differences occur between the English version and the original Japanese version, the Japanese version 
+shall prevail. This translation is subject to change without notice. Tokyo Stock Exchange, Inc., Japan Exchange Regulation, Japan Exchange 
+Group, Inc., and/or their affiliates shall individually or jointly accept no responsibility or liability for damage or loss caused by any error, 
+inaccuracy, misunderstanding, or changes with regard to this translation. 
+8
+protection measures are deemed to be able to be taken so that shareholders of a 
+domestic stock pertaining to such initial listing application do not unreasonably 
+suffer damage; 
+f. When an issuer of a domestic stock pertaining to the initial listing application 
+performs business transactions with any of entities referred to in the following (a) to 
+(c) (see Note below), it shall be deemed that a measure to protect minority 
+shareholders is likely to be available; 
+(Note) This includes, out of business transactions between the issuer and any of 
+the entities referred to in such (a) to (c) that perform such business 
+transactions on behalf of a third party, those in which any of such 
+entities has a material impact on the issuer. 
+(a)  A parent company; 
+(b)  A controlling shareholder (excluding a parent company) and his/her close 
+relatives; and 
+(c)  A company, etc. whose majority of voting rights are held by any of the entity 
+referred to in the preceding (b) for its own account and a subsidiary of such 
+company, etc. 
+g. Where such domestic stocks pertaining to the initial listing application have 
+preference on surplus dividend, as a general rule, expected income in two years 
+from the end of the base business year (meaning the most recent business year for 
+which financial statements, etc. are presented in the financial information section 
+of an "Annual Securities Report for Initial Listing Application (Part I)"; the same 
+shall apply hereinafter in II. through IV.) and an amount that can be distributed as 
+dividend at the end of the base business year is deemed good, the issuer of such 
+domestic stocks is likely to earn income enough for the distribution of surplus 
+dividend pertaining to such domestic stocks; and 
+h. Benefits of shareholders and investors are deemed to be highly unlikely to be 
+infringed; 
+(5)  Where domestic stocks pertaining to an initial listing application are shares without 
+voting rights (limited to the case where an initial listing application is made for an 
+issue(s) other than such domestic stocks), each of the following a. to e. shall be met: 
+a. The articles of incorporation, etc. appropriately stipulate that if a company falls under 
+situations in which it is controlled with an extremely small ratio of capital 
+contribution, a scheme of shares without voting rights is dissolved; 
+b. Where conflicts of interest arise among shareholders with different classes of shares, 
+it is deemed that a protection measure can be taken so that interests of shareholders of 
+the domestic stocks pertaining to such initial listing application will not be unduly 
+harmed; 
+c. When an issuer of a domestic stock pertaining to the initial listing application 
+performs business transactions with any of entities referred to in the following (a) to 
+(c) (see Note below), it shall be deemed that a measure to protect minority 
+shareholders is likely to be available; 
+(Reference Translation) 
+ 
+ 
+DISCLAIMER: This translation may be used for reference purposes only. This English version is not an official translation of the original 
+Japanese version. In cases where any differences occur between the English version and the original Japanese version, the Japanese version 
+shall prevail. This translation is subject to change without notice. Tokyo Stock Exchange, Inc., Japan Exchange Regulation, Japan Exchange 
+Group, Inc., and/or their affiliates shall individually or jointly accept no responsibility or liability for damage or loss caused by any error, 
+inaccuracy, misunderstanding, or changes with regard to this translation. 
+9
+(Note) This includes, out of business transactions between the issuer and any of 
+the entities referred to in such (a) to (c) that perform such business 
+transactions on behalf of a third party, those in which any of such 
+entities has a material impact on the issuer. 
+(a)  A parent company; 
+(b)  A controlling shareholder (excluding a parent company) and his/her close 
+relatives; and 
+(c)  A company, etc. whose majority of voting rights are held by any of the entity 
+referred to in the preceding (b) for its own account and a subsidiary of such 
+company, etc. 
+d. Where such domestic stocks pertaining to the initial listing application have 
+preference on surplus dividend, as a general rule, expected income in two years from 
+the end of the base business year and an amount that can be distributed as dividend at 
+the end of the base business year is deemed good, the issuer of such domestic stocks 
+is likely to earn income enough for the distribution of surplus dividend pertaining to 
+such domestic stocks; and 
+e. Where it is deemed that interests of shareholders and investors are not highly likely to 
+be harmed; and 
+(6) Otherwise, it is deemed appropriate from the viewpoint of the public interest or the 
+protection of investors. 
+ 
+(Special Exceptions to Foreign Companies) 
+7.  Where an initial listing applicant is a foreign company, and the main market of a foreign 
+stock, etc. issued by such initial listing applicant is other than the Exchange and, 
+furthermore, where the Exchange deems it appropriate in light of listing of securities, 
+timely disclosure of the issuer of listed securities, delisting, the state of the development 
+and operation of the legal system and rules concerning listed securities in such main 
+market, they shall be treated as appropriate for all or part of the examination as 
+prescribed in the above 2. through the preceding 6. 
+ 
+(Listing Examination for Companies Established by Spin-off Type Company Split of 
+Listed Companies) 
+8.  Where an initial listing applicant is a company established by a  spin-off type company 
+split of a listed company, listing examination concerning the business to be inherited 
+due to the company split and the plan, etc. of the company split shall be carried out, 
+notwithstanding the provisions of the above 2. through the preceding 7, but pursuant to 
+the provisions of the above 2. through the preceding 7, where an initial listing 
+application is made before said company split. 
+ 
+ 
+III. Initial Listing Examination of Stocks, etc. [Prime Market] 
+(Listing Examination Pertaining to Initial Listing Application to Prime Market) 
+(Reference Translation) 
+ 
+ 
+DISCLAIMER: This translation may be used for reference purposes only. This English version is not an official translation of the original 
+Japanese version. In cases where any differences occur between the English version and the original Japanese version, the Japanese version 
+shall prevail. This translation is subject to change without notice. Tokyo Stock Exchange, Inc., Japan Exchange Regulation, Japan Exchange 
+Group, Inc., and/or their affiliates shall individually or jointly accept no responsibility or liability for damage or loss caused by any error, 
+inaccuracy, misunderstanding, or changes with regard to this translation. 
+10 
+1.  Listing examinations of a stock, etc. for which an initial listing application is made for 
+the Prime Market as prescribed in Rule 213, Paragraph 1 of the Regulations shall be 
+carried out as prescribed in this III. In this case, where such initial listing applicant is a 
+foreign company, listing examinations shall be carried out in consideration of the legal 
+systems and practices and customs, etc. in the home country, etc. of such initial listing 
+applicant. 
+ 
+(Corporate Continuity and Profitability)  
+2. Listing examinations concerning items specified in Rule 213, Paragraph 1, Item (1) of the 
+Regulations shall be carried out from viewpoints including those referred to in the 
+following (1) to (3): 
+(1)  The business plan of corporate group of an initial listing applicant is appropriately 
+drawn up in light of its business model, business environment, risk factors, etc.; 
+(2)  The corporate group of an initial listing applicant is reasonably expected to be able to 
+maintain a stable profit in the future; and 
+(3)  Management activities of the corporate group of an initial listing applicant are 
+recognized to be able to be carried out stably and continuously in light of matters 
+including those referred to in the following a. to d.: 
+a.  Business activities of the corporate group of an initial listing applicant are in a 
+state referred to in the following (a) and (b): 
+(a)  Business activities are able to be conducted stably and continuously in light of 
+purchases, production and sales, actual results of transactions with customers 
+and suppliers, characteristics and demand trends for manufactured products 
+and services, and the state of performance of any other business (excluding the 
+viewpoint of the structure of the corporate group); and 
+(b)  The structure of the corporate group is no serious obstacle to continuous 
+business activities; 
+b.  Investment activities such as capital investment and business investment, etc. of 
+the corporate group of an initial listing applicant do not hinder continuous 
+management activities in light of the trend and future outlook, etc. of the state of 
+investment; 
+c.  Financial activities such as fundraising, etc. of the corporate group of an initial 
+listing applicant do not hinder continuous management activities in light of the 
+trend and future outlook, etc. of the state of financial affairs; and 
+d.  Concerning the matters which become the premise of the main business activities 
+of the corporate group of an initial listing applicant, there are no obstacles to the 
+continuous business activities. 
+ 
+(Soundness of Corporate Management) 
+3. Listing examination concerning the items specified in Rule 213, Paragraph 1, Item (2) of 
+the Regulations shall be carried out from viewpoints including those referred to in the 
+following (1) to (3): 
+(Reference Translation) 
+ 
+ 
+DISCLAIMER: This translation may be used for reference purposes only. This English version is not an official translation of the original 
+Japanese version. In cases where any differences occur between the English version and the original Japanese version, the Japanese version 
+shall prevail. This translation is subject to change without notice. Tokyo Stock Exchange, Inc., Japan Exchange Regulation, Japan Exchange 
+Group, Inc., and/or their affiliates shall individually or jointly accept no responsibility or liability for damage or loss caused by any error, 
+inaccuracy, misunderstanding, or changes with regard to this translation. 
+11 
+(1)  The corporate group of an initial listing applicant is recognized not to give or receive 
+profits wrongfully through a trading act or any other management activities with 
+relevant parties and other specific entities, in light of matters including those referred 
+to in the following a. and b.: 
+a.  Where a transaction has taken place between the corporate group of an initial 
+listing applicant and its relevant parties or any other specific entities, and such 
+transaction has rationality of continuing the transaction and reasonability of trading 
+terms including trading prices; and 
+b.  Benefits of the corporate group of an initial listing applicant are not lost 
+wrongfully because relevant parties and any other specific entities of the corporate 
+group of an initial listing applicant give priority to their own benefits; 
+(2)  The mutual relationship of relatives of officers of an initial listing applicant, its 
+composition, actual working situation or the state of concurrent posts as officers and 
+employees, etc. with any other company, etc. are recognized not to impair the fair, 
+faithful and full execution of duties or the implementation of effective auditing as 
+officers of such initial listing applicant. In this case, if a spouse, a blood relative 
+within the second degree of kinship, or a relative by affinity within the same degree 
+of kinship of a board member, an accounting advisor, an executive officer of an initial 
+listing applicant, or a person equivalent thereto takes a position as an auditor, an audit 
+and supervisory committee member, a member of an audit committee, or any other 
+positions equivalent thereto, it shall be deemed to impair the implementation of an 
+effective auditing; and 
+(3)  Where an initial listing applicant has a parent company, etc. (excluding cases where 
+such applicant is expected to cease to own the parent company, etc. by the end of the 
+first business year ending after the listing.), management activities of the corporate 
+group of an initial listing applicant are recognized to be carried out independently 
+from such parent company, etc. in light of matters including those referred to in the 
+following a. to c.: 
+a.  In light of the relationship between the business line of the corporate group of an 
+initial listing applicant and that of the corporate group of the parent company, etc., 
+the state of business adjustment made by the corporate group of the parent 
+company, etc. and its possibility and any other matters, an initial listing applicant is 
+not recognized to be substantially a business division of such parent company, etc.; 
+b.  The corporate group of an initial listing applicant or that of a parent company, etc. 
+does not coerce or induce transaction which become disadvantageous to such 
+parent company, etc. or the corporate groups of such initial listing applicant such 
+as transactions under markedly different terms from those of normal transactions; 
+and 
+c.  The state of receiving seconded persons of the corporate group of an initial listing 
+applicant is recognized not to excessively depend on the parent company, etc. and 
+not to hinder continuous management activities. 
+ 
+(Reference Translation) 
+ 
+ 
+DISCLAIMER: This translation may be used for reference purposes only. This English version is not an official translation of the original 
+Japanese version. In cases where any differences occur between the English version and the original Japanese version, the Japanese version 
+shall prevail. This translation is subject to change without notice. Tokyo Stock Exchange, Inc., Japan Exchange Regulation, Japan Exchange 
+Group, Inc., and/or their affiliates shall individually or jointly accept no responsibility or liability for damage or loss caused by any error, 
+inaccuracy, misunderstanding, or changes with regard to this translation. 
+12 
+(Effectiveness of Corporate Governance and Internal Management System) 
+4.  Listing examination concerning the items prescribed in Rule 213, Paragraph 1, Item (3) 
+of the Regulations shall be carried out from viewpoints including those referred to in the 
+following (1) to (5): 
+(1)  The system to ensure the appropriate execution of duties of officers of the corporate 
+group of an initial listing applicant is recognized to be appropriately prepared and 
+operated in light of matters including those referred to in the following a. and b.: 
+a.  An initial listing applicant has an organizational structure and an officer 
+composition which is able to effectively implement checks and balances as well as 
+auditing concerning the execution of duties of officers of the corporate group of an 
+initial listing applicant. A listing examination in such a case shall be conducted in 
+consideration of the state of compliance with matters prescribed in the provisions 
+of Rules 436-2 through 439 of the Regulations; and 
+b.  In the corporate group of an initial listing applicant, checks and balances as well 
+as auditing with regard to the execution of duties of officers for the purpose of the 
+continuous and efficient management of the corporation are implemented and 
+function effectively. 
+(2)  The internal management system is deemed to be appropriately developed and 
+operated so that an initial listing applicant and its corporate group carry out effective 
+management activities in light of matters including those referred to in the following 
+a. and b.: 
+a.  A necessary managerial and administrative system is properly developed and 
+appropriately operated to ensure efficiency of management activities and internal 
+check-and-balance functions of the corporate group of an initial listing applicant; 
+and 
+b.  An internal auditing system of the corporate group of an initial listing applicant is 
+prepared and operated appropriately; 
+(3)  Necessary personnel are deemed to be secured in order to carry out stable and 
+continuous execution of management activities of the corporate group of an initial 
+listing applicant and to maintain its appropriate internal management system; 
+(4)  The corporate group of an initial listing applicant adopts accounting treatment 
+standards adaptable to its actual condition, and a necessary accounting system is 
+deemed to be developed and operated appropriately; and 
+(5)  It is deemed that an effective system to comply with laws and regulations, etc. 
+concerning management activities in the corporate group of an initial listing applicant 
+is prepared and operated appropriately, and that no material breach of laws and 
+regulations has recently been made, and no act which is likely to become a material 
+breach of laws and regulations in the future is being carried out. 
+ 
+(Appropriateness of Disclosure of Corporate Information, etc.) 
+5.  Listing examination concerning the items specified in Rule 213, Paragraph 1, Item (4) 
+of the Regulations shall be carried out from viewpoints including those referred to in 
+(Reference Translation) 
+ 
+ 
+DISCLAIMER: This translation may be used for reference purposes only. This English version is not an official translation of the original 
+Japanese version. In cases where any differences occur between the English version and the original Japanese version, the Japanese version 
+shall prevail. This translation is subject to change without notice. Tokyo Stock Exchange, Inc., Japan Exchange Regulation, Japan Exchange 
+Group, Inc., and/or their affiliates shall individually or jointly accept no responsibility or liability for damage or loss caused by any error, 
+inaccuracy, misunderstanding, or changes with regard to this translation. 
+13 
+the following (1) to (5): 
+(1)  The corporate group of an initial listing applicant is deemed to be able to properly 
+manage corporate information of facts, etc. which will have a material effect on 
+management and to disclose it to investors in a timely and appropriate manner. 
+Moreover, its system for the preemptive prevention of insider trading, etc. is deemed 
+to be developed and operated appropriately; 
+(2)  Documents pertaining to disclosure of corporate information, out of the initial listing 
+application documents, are deemed to be prepared in compliance with laws and 
+regulations, etc., and contain the following items referred to in the following a. and 
+b.: 
+a.  The financial condition and financial results of an initial listing applicant and its 
+corporate group, and matters which may have an important effect on investment 
+decisions of investors such as important matters, etc. concerning officers, major 
+shareholders, affiliated companies, etc. (in cases where the corporate group of an 
+initial applicant is likely to not record reasonable amount of profit temporarily due 
+to investment activities to improve corporate value over the medium to long term, 
+including matters pertaining to said investment activities); and 
+b.  Items referred to in the following (a) to (d) pertaining to the matters which are the 
+premises of main business activities of the corporate group of an initial listing 
+applicant: 
+(a)  Details of the matters which are the premises of the main business activities of 
+the corporate group of an initial listing applicant; 
+(b)  Where the validity period of permission and authorization, etc. and any other 
+time limit is specified by laws and regulations or contract, etc., such time limit; 
+(c)  Where cancellation, rescission, and any other event of permission and 
+authorization, etc. are stipulated in laws and regulations or contract, etc., such 
+event; and 
+(d)  The effect that there is no factor which hinders their continuity concerning the 
+matters which are the premises of the main business activities of the corporate 
+group of an initial listing applicant, and if there is such factor, the fact that it will 
+have a material effect on business activities; 
+(3)  The corporate group of an initial listing applicant does not make distorted 
+information disclosure on the actual state of the corporate group of the initial listing 
+applicant by carrying out a trading act with its relevant party or any other specific 
+entity or adjusting share ownership ratios, etc.; 
+(4)  Where an initial listing applicant has a parent company, etc. (excluding cases where 
+it is expected not to have a parent company, etc. by the end of the first business year 
+ending after the listing), any one of the following a. or b. shall be met on the 
+condition that disclosure of such parent company, etc. is valid: 
+a.  A stock, etc. issued by a parent company, etc. of an initial listing applicant (where 
+there are multiple parent companies, etc., a company which is deemed to have the 
+greatest influence on the initial listing applicant, or where their influence is deemed 
+(Reference Translation) 
+ 
+ 
+DISCLAIMER: This translation may be used for reference purposes only. This English version is not an official translation of the original 
+Japanese version. In cases where any differences occur between the English version and the original Japanese version, the Japanese version 
+shall prevail. This translation is subject to change without notice. Tokyo Stock Exchange, Inc., Japan Exchange Regulation, Japan Exchange 
+Group, Inc., and/or their affiliates shall individually or jointly accept no responsibility or liability for damage or loss caused by any error, 
+inaccuracy, misunderstanding, or changes with regard to this translation. 
+14 
+to be the same, it means one of such companies; the same shall apply hereinafter in 
+these a. and b.) is listed on a domestic financial instruments exchange (including 
+where a stock, etc. issued by such parent company, etc. is listed or continuously 
+traded on a foreign financial instruments exchange, etc., and the state of disclosure 
+on corporate affairs in a country in which such parent company, etc. or such foreign 
+financial instruments exchange, etc. is located is not deemed to conspicuously lack 
+investor protection); and 
+b. An initial listing applicant can appropriately grasp company information such as 
+facts concerning the parent company, etc. which has a material effect on its 
+management (excluding a parent company, etc. which falls under the preceding a.), 
+and the initial listing applicant pledges in writing that such parent company, etc. 
+agrees to its disclosure of company information which has a material effect on its 
+management, out of such company information concerning the parent company, etc., 
+to investors in an appropriate manner; and 
+(5)  Where an initial listing applicant is a foreign company, accounting standards adopted 
+by the initial listing applicant are deemed to be appropriate from the viewpoint of the 
+protection of investors. 
+ 
+(Viewpoints of Public Interest or Investor Protection) 
+6.  Listing examination concerning the items prescribed in Rule 213, Paragraph 1, Item (5) 
+of the Regulations shall be carried out from viewpoints including those referred to in the 
+following (1) to (6): 
+(1)  The contents of the rights of shareholders or holders of a foreign stock depositary 
+receipt, etc. and the state of their exercise are deemed appropriate from the 
+viewpoints of the public interest or the protection of investors, due to the matters 
+referred to in the following a. and b.: 
+a.  The contents of the rights of shareholders or holders of a foreign stock depositary 
+receipt, etc. and exercise thereof are not unreasonably restricted; and 
+b.  Where an initial listing applicant has introduced a takeover response policy, the 
+initial listing applicant complies with the matters referred to in each item of the 
+Rule 440 of the Regulations; 
+(2)  The corporate group of an initial listing applicant does not have an ongoing lawsuit 
+or dispute, etc. which may have a material effect on management activities and 
+business results; 
+(3)  The corporate group of an initial listing applicant is deemed to have developed an 
+internal system to prevent criminal and extremist elements from being involved in 
+management activities, and make efforts to prevent such involvement, and their 
+actual state is deemed to be appropriate from the viewpoint of the public interest or 
+the protection of investors; 
+(4)  Where domestic stocks pertaining to initial listing applications are shares without 
+voting rights (limited to cases where no initial listing application is made for an 
+issue(s) other than such domestic stocks) or shares with a small number of voting 
+(Reference Translation) 
+ 
+ 
+DISCLAIMER: This translation may be used for reference purposes only. This English version is not an official translation of the original 
+Japanese version. In cases where any differences occur between the English version and the original Japanese version, the Japanese version 
+shall prevail. This translation is subject to change without notice. Tokyo Stock Exchange, Inc., Japan Exchange Regulation, Japan Exchange 
+Group, Inc., and/or their affiliates shall individually or jointly accept no responsibility or liability for damage or loss caused by any error, 
+inaccuracy, misunderstanding, or changes with regard to this translation. 
+15 
+rights, all of the following a. to h. shall be met: 
+a.  It shall be deemed that a condition where a specific individual who has shares, etc. 
+with a large number of voting rights may continue to be involved in management 
+needs to be secured, etc., from a viewpoint of common interests of shareholders, 
+and that the scheme is not unduly beneficial to shareholders with a large number of 
+shares, etc., but appropriate. In this case, the judgment whether it is appropriate or 
+not shall be made in line with needs of the following items referred to in the 
+following (a) to (c) and other items; 
+(a) If such judgment is no longer necessary, the scheme of shares without voting 
+rights or those with a small number of voting rights is likely to be dissolved; 
+(b) If a company is controlled with an extremely small ratio of capital contribution, 
+the articles of incorporation, etc. appropriately stipulate that a scheme of shares 
+without voting rights or a small number of voting rights is expected to be 
+dissolved; and 
+(c) Where domestic stocks pertaining to the initial listing application are shares with 
+a small number of voting rights, the articles of incorporation, etc. appropriately 
+stipulate that, as a general rule, shares with a large number of voting rights shall 
+be converted to shares with a small number of voting rights when they are 
+transferred, etc. 
+b.  It shall be deemed that the main purpose of using shares with a large number of 
+voting rights is not to secure positions of directors, etc. of the initial listing 
+applicant or not to use such shares for resisting takeover; 
+c.  It shall be deemed that the purpose, necessity, and scheme of using shares with a 
+large number of voting rights, etc., are appropriately described in the initial listing 
+application documents pertaining to details of disclosed corporate information; 
+d. Where a shareholder of a stock, etc. with a large number of voting rights is not a 
+director, etc. of the initial listing applicant, the following (a) and (b) shall be met; 
+(a) Where it is deemed that the purpose or policy of exercise of voting rights of a 
+shareholder with shares with a large number of voting rights is not clearly 
+inappropriate in light of necessity of such exercise, and shall be appropriately 
+described in the initial listing application documents pertaining to details of 
+disclosed corporate information; and 
+(b) Where a corporate group of an initial listing applicant has, as a general rule, no 
+relationships with a shareholder with a large number of voting rights (limited to 
+cases where such shareholder is a parent company, etc. of the initial listing 
+applicant) of shares, etc. in terms of business, personnel, and transactions. 
+e. Where conflicts of interest arise between shareholders of different classes, 
+protection measures are deemed to be able to be taken so that shareholders of a 
+domestic stock pertaining to such initial listing application do not unreasonably 
+suffer damage; 
+f. When an issuer of a domestic stock pertaining to the initial listing application 
+performs business transactions with any of entities referred to in the following (a) to 
+(Reference Translation) 
+ 
+ 
+DISCLAIMER: This translation may be used for reference purposes only. This English version is not an official translation of the original 
+Japanese version. In cases where any differences occur between the English version and the original Japanese version, the Japanese version 
+shall prevail. This translation is subject to change without notice. Tokyo Stock Exchange, Inc., Japan Exchange Regulation, Japan Exchange 
+Group, Inc., and/or their affiliates shall individually or jointly accept no responsibility or liability for damage or loss caused by any error, 
+inaccuracy, misunderstanding, or changes with regard to this translation. 
+16 
+(c) (see Note below), it shall be deemed that a measure to protect minority 
+shareholders is likely to be available; 
+(Note) This includes, out of business transactions between the issuer and any of 
+the entities referred to in such (a) to (c) that perform such business 
+transactions on behalf of a third party, those in which any of such 
+entities has a material impact on the issuer. 
+(a)  A parent company; 
+(b)  A controlling shareholder (excluding a parent company) and his/her close 
+relatives; and 
+(c)  A company, etc. whose majority of voting rights are held by any of the entity 
+referred to in the preceding (b) for its own account and a subsidiary of such 
+company, etc. 
+g. Where such domestic stocks pertaining to the initial listing application have 
+preference on surplus dividend, as a general rule, expected income in two years 
+from the end of the base business year and an amount that can be distributed as 
+dividend at the end of the base business year is deemed good, the issuer of such 
+domestic stocks is likely to earn income enough for the distribution of surplus 
+dividend pertaining to such domestic stocks; and 
+h. Benefits of shareholders and investors are deemed to be highly unlikely to be 
+infringed; 
+(5)  Where domestic stocks pertaining to an initial listing application are shares without 
+voting rights (limited to the case where an initial listing application is made for an 
+issue(s) other than such domestic stocks), each of the following a. to e. shall be met: 
+a. The articles of incorporation, etc. appropriately stipulate that if a company falls under 
+situations in which it is controlled with an extremely small ratio of capital 
+contribution, a scheme of shares without voting rights is dissolved; 
+b. Where conflicts of interest arise among shareholders with different classes of shares, 
+it is deemed that a protection measure can be taken so that interests of shareholders of 
+the domestic stocks pertaining to such initial listing application will not be unduly 
+harmed; 
+c. When an issuer of a domestic stock pertaining to the initial listing application 
+performs business transactions with any of entities referred to in the following (a) to 
+(c) (see Note below), it shall be deemed that a measure to protect minority 
+shareholders is likely to be available; 
+(Note) This includes, out of business transactions between the issuer and any of 
+the entities referred to in such (a) to (c) that perform such business 
+transactions on behalf of a third party, those in which any of such 
+entities has a material impact on the issuer. 
+(a)  A parent company; 
+(b)  A controlling shareholder (excluding a parent company) and his/her close 
+relatives; and 
+(c)  A company, etc. whose majority of voting rights are held by any of the entity 
+(Reference Translation) 
+ 
+ 
+DISCLAIMER: This translation may be used for reference purposes only. This English version is not an official translation of the original 
+Japanese version. In cases where any differences occur between the English version and the original Japanese version, the Japanese version 
+shall prevail. This translation is subject to change without notice. Tokyo Stock Exchange, Inc., Japan Exchange Regulation, Japan Exchange 
+Group, Inc., and/or their affiliates shall individually or jointly accept no responsibility or liability for damage or loss caused by any error, 
+inaccuracy, misunderstanding, or changes with regard to this translation. 
+17 
+referred to in the preceding (b) for its own account and a subsidiary of such 
+company, etc. 
+d. Where such domestic stocks pertaining to the initial listing application have 
+preference on surplus dividend, as a general rule, expected income in two years from 
+the end of the base business year and an amount that can be distributed as dividend at 
+the end of the base business year is deemed good, the issuer of such domestic stocks 
+is likely to earn income enough for the distribution of surplus dividend pertaining to 
+such domestic stocks; and 
+e. Where it is deemed that interests of shareholders and investors are not highly likely to 
+be harmed; and 
+(6) Otherwise, it is deemed appropriate from the viewpoint of the public interest or the 
+protection of investors. 
+ 
+(Special Exceptions to Foreign Companies) 
+7.  Where an initial listing applicant is a foreign company, and the main market of a foreign 
+stock, etc. issued by such initial listing applicant is other than the Exchange and, 
+furthermore, where the Exchange deems it appropriate in light of listing of securities, 
+timely disclosure of the issuer of listed securities, delisting, the state of the development 
+and operation of the legal system and rules concerning listed securities in such main 
+market, they shall be treated as appropriate for all or part of the examination as 
+prescribed in the above 2. through the preceding 6. 
+ 
+(Listing Examination for Companies Established by Spin-off Type Company Split of 
+Listed Companies) 
+8. Where an initial listing applicant is a company established by a  spin-off type company 
+split of a listed company, listing examination concerning the business to be inherited due 
+to the company split and the plan, etc. of the company split shall be carried out, 
+notwithstanding the provisions of the above 2. through the preceding 7, but pursuant to 
+the provisions of the above 2. through the preceding 7, where an initial listing 
+application is made before said company split. 
+ 
+ 
+IV. Initial Listing Examination of Stocks, etc. [Growth Market] 
+ 
+(Listing Examination Pertaining to Initial Listing Application to Growth Market) 
+1.  Listing examinations of a stock, etc. for which an initial listing application is made for 
+Growth Market as prescribed in Rule 219, Paragraph 1 of the Regulations shall be carried 
+out as prescribed in this IV. In this case, where such initial listing applicant is a foreign 
+company, listing examinations shall be carried out in consideration of the legal systems 
+and practices and customs, etc. in the home country, etc. of such initial listing applicant. 
+ 
+(Appropriateness of Disclosure of Corporate Information, Risk Information, etc.)   
+(Reference Translation) 
+ 
+ 
+DISCLAIMER: This translation may be used for reference purposes only. This English version is not an official translation of the original 
+Japanese version. In cases where any differences occur between the English version and the original Japanese version, the Japanese version 
+shall prevail. This translation is subject to change without notice. Tokyo Stock Exchange, Inc., Japan Exchange Regulation, Japan Exchange 
+Group, Inc., and/or their affiliates shall individually or jointly accept no responsibility or liability for damage or loss caused by any error, 
+inaccuracy, misunderstanding, or changes with regard to this translation. 
+18 
+2.  Listing examination of the matters as prescribed in Rule 219, Paragraph 1, Item (1) of 
+the Regulations shall be carried out from viewpoints including those referred to in the 
+following (1) to (6): 
+(1)  The corporate group of an initial listing applicant is deemed to be able to properly 
+manage corporate information of facts, etc. which will have a material effect on 
+management and to disclose it to investors in a timely and appropriate manner. 
+Moreover, its system for the preemptive prevention of insider trading, etc. is deemed 
+to be developed and operated appropriately; 
+(2)  Documents pertaining to disclosure of corporate information, out of initial listing 
+application documents, are deemed to be prepared in compliance with laws and 
+regulations, and appropriately contain the matters referred to in the following a. to d.  
+in consideration of the state of the business line and the business condition of an 
+initial listing applicant and its corporate group:  
+a.  Useful matters for investment decisions of investors such as analysis and 
+explanation pertaining to the state of financial condition, financial results & receipt 
+and disbursement of funds, the state of the related companies, the state of R&D 
+activities, the state of major shareholders, the state of officers & employees, 
+dividend policy, purposes of funds raised for capital increase through a public 
+offering with respect to an initial listing applicant and its corporate group; 
+b.  Matters that should be considered as a risk factor of an initial listing applicant, 
+when investors make investment decisions, such as the small number of years in 
+business operations, the state of the occurrence of cumulative losses or business 
+losses, dependence on a specific officer, the state of competition for business with 
+other companies, uncertainties of markets and technologies, and the state of 
+support for the purpose of the administration of business from a specific entity, etc., 
+concerning an initial listing applicant; 
+c.  Useful matters for investment decisions of investors with respect to business plans 
+and matters related to high growth potential of an initial listing applicant and its 
+corporate group; and 
+d.  Matters referred to in the following (a) to (d) with respect to matters which are the 
+premises of the main business activities of an initial listing applicant and its 
+corporate group:  
+(a)  Details of the matters which are the premises of the main business activities of 
+an initial listing applicant and its corporate group; 
+(b)  Where the validity period of permission and authorization, etc. and any other 
+time limit is specified by laws and regulations or a contract, etc., such time 
+limit; 
+(c)  Where cancellation, rescission, and any other event of permission and 
+authorization, etc. are stipulated by laws and regulations or a contract, etc., 
+such fact; and 
+(d)  The effect that there is no factor which hinders their continuity concerning the 
+matters which are the premises of the main business activities of the corporate 
+(Reference Translation) 
+ 
+ 
+DISCLAIMER: This translation may be used for reference purposes only. This English version is not an official translation of the original 
+Japanese version. In cases where any differences occur between the English version and the original Japanese version, the Japanese version 
+shall prevail. This translation is subject to change without notice. Tokyo Stock Exchange, Inc., Japan Exchange Regulation, Japan Exchange 
+Group, Inc., and/or their affiliates shall individually or jointly accept no responsibility or liability for damage or loss caused by any error, 
+inaccuracy, misunderstanding, or changes with regard to this translation. 
+19 
+group of an initial listing applicant, and if there is such factor, the effect that it 
+will have a material effect on business activities;  
+(3)  The corporate group of an initial listing applicant does not make distorted 
+information disclosure on the actual state of the corporate group of the initial listing 
+applicant by carrying out a trading act with its relevant party or any other specific 
+entity or adjusting share ownership ratios, etc.; 
+(4)  Where an initial listing applicant has a parent company, etc. (excluding cases where 
+it will cease to have a parent company, etc. by the end of the first business year 
+ending after the listing), any one of the following a. or b. shall be met on the premise 
+that disclosure of such parent company, etc. is valid; provided, however, that the 
+same shall not apply to cases where the business relationship between the initial 
+listing applicant and such parent company, etc. is weak and, in addition, it is clear 
+that the ownership of the stock of the initial listing applicant by such parent company, 
+etc. is for the purpose of encouraging investment, not for the substantial control of 
+business activities of the initial listing applicant: 
+a.  A stock, etc. issued by a parent company, etc. of an initial listing applicant (where 
+there are multiple parent companies, etc., a company which is deemed to have the 
+greatest influence on the initial listing applicant, or where their influence is 
+deemed to be the same, one of such companies; the same shall apply hereinafter in 
+these a. and b.) is listed on a domestic financial instruments exchange (including 
+cases where a stock, etc. issued by such parent company, etc. is listed or 
+continuously traded on such foreign financial instruments exchange, etc., and, the 
+state of disclosure of corporate information in a country in which such parent 
+company, etc. or such foreign financial instruments exchange, etc. is located is not 
+deemed to conspicuously lack investor protection); and  
+b.  An initial listing applicant can appropriately understand company information 
+such as facts concerning the parent company, etc. which has a material effect on its 
+management (excluding a parent company, etc. which falls under the preceding a.), 
+and the initial listing applicant pledges in writing that such parent company, etc. 
+agrees to its disclosure of company information which has a material effect on its 
+management, out of such company information concerning the parent company, 
+etc., to investors in an appropriate manner. 
+(5)  Where an initial listing company is a foreign company, the accounting system 
+adopted by the initial listing company shall be deemed appropriate from the 
+viewpoint of investor protection; 
+(6)  Where an initial listing company is a foreign company, and a stock, etc. pertaining to 
+such initial listing applicant is not listed or continuously traded on a foreign financial 
+instruments exchange, etc., and the initial listing application is made only to the 
+Exchange, the "Annual Securities Report for Initial Listing Application (Part I)" shall 
+contain matters referred to in the following a. and b.: 
+a.  Matters referred to in the following (a) and (b) for a period from the day which 
+falls one year prior to the end date of the base business year to a day immediately 
+(Reference Translation) 
+ 
+ 
+DISCLAIMER: This translation may be used for reference purposes only. This English version is not an official translation of the original 
+Japanese version. In cases where any differences occur between the English version and the original Japanese version, the Japanese version 
+shall prevail. This translation is subject to change without notice. Tokyo Stock Exchange, Inc., Japan Exchange Regulation, Japan Exchange 
+Group, Inc., and/or their affiliates shall individually or jointly accept no responsibility or liability for damage or loss caused by any error, 
+inaccuracy, misunderstanding, or changes with regard to this translation. 
+20 
+prior to the listing date: 
+(a)  The state of new stock issues, or issues of subscription warrants or subscription 
+warrant securities by the method other than allocation to shareholders; and 
+(b)  The state of change in the ownership of the shares pertaining to a stock, etc. by 
+an entity with special interest, etc. (meaning an entity as prescribed in i) and ii) 
+of Item (31) of Paragraph 1 of Article 2 of the Cabinet Office Ordinance on 
+Disclosure);  
+b.  Where a holder of a stock, a subscription warrant or a subscription warrant 
+security has made an arrangement concerning the holding of such securities for a 
+certain period after listing with an initial listing applicant or with a financial 
+instruments broker-dealer which enters into the principal underwriting agreement 
+with an initial listing applicant, such details. 
+ 
+(Soundness of Corporate Management) 
+3.  Listing examination concerning the matters as prescribed in Rule 219, Paragraph 1, Item 
+(2) of the Regulations shall be carried out from viewpoints including those referred to in 
+the following (1) to (3): 
+(1)  The corporate group of an initial listing applicant is recognized, as a general rule, not 
+to give or enjoy profit wrongfully through a trading act or any other management 
+activities with relevant parties or other specific entities, for the reason of the matters 
+referred to in the following a. and b.: 
+a.  Where a transaction has occurred between the corporate group of an initial listing 
+applicant and its relevant parties or any other specific entities, and such transaction 
+has rationality of continuing the transaction, and trading terms including trading 
+prices are clearly not disadvantageous to the corporate group of an initial listing 
+applicant; and 
+b.  Benefits of the corporate group of an initial listing applicant are not  lost 
+wrongfully because relevant parties and any other specific entities of the corporate 
+group of an initial listing applicant give priority to their own benefits; 
+(2)  The mutual relationship of relatives of officers of an initial listing applicant, its 
+composition, actual situation of providing services or the state of concurrent posts as 
+officers and employees, etc. with any other company, etc. are recognized not to 
+impair the fair, faithful and full execution of duties or the implementation of effective 
+auditing as officers of such initial listing applicant. In this case, if a spouse, a blood 
+relative within the second degree of kinship, or a relative by affinity within the same 
+degree of kinship of a board member, an accounting advisor, an executive officer of 
+an initial listing applicant, or a person equivalent thereto takes a position as an 
+auditor, an audit and supervisory committee member, a member of an audit 
+committee, or any other positions equivalent thereto, it shall be deemed to impair the 
+implementation of an effective auditing; 
+ (3)  Where an initial listing applicant has a parent company, etc. (excluding cases where 
+such applicant is expected to cease to have the parent company, etc. by the end of the 
+(Reference Translation) 
+ 
+ 
+DISCLAIMER: This translation may be used for reference purposes only. This English version is not an official translation of the original 
+Japanese version. In cases where any differences occur between the English version and the original Japanese version, the Japanese version 
+shall prevail. This translation is subject to change without notice. Tokyo Stock Exchange, Inc., Japan Exchange Regulation, Japan Exchange 
+Group, Inc., and/or their affiliates shall individually or jointly accept no responsibility or liability for damage or loss caused by any error, 
+inaccuracy, misunderstanding, or changes with regard to this translation. 
+21 
+first business year ending after the listing), management activities of the corporate 
+group of an initial listing applicant are recognized to have independence from such 
+parent company, etc. for the reason of the matters referred to in the following a. to c. 
+or any other matters:  
+a.  In light of the relationship between the business line of the corporate group of an 
+initial listing applicant and that of the corporate group of the parent company, etc., 
+the state of business adjustment made by the corporate group of the parent 
+company, etc. and its possibility and any other matters, an initial listing applicant is 
+not recognized to be substantially a business division of such parent company, etc.; 
+b.  The corporate group of an initial listing applicant or that of a parent company, etc., 
+as a general rule, does not coerce or induce a trading act which becomes 
+disadvantageous to such parent company, etc. or the corporate group of such initial 
+listing applicant, such as transactions under markedly different terms from those of 
+normal transactions in principle; and 
+c.  The state of receiving seconded persons of the corporate group of an initial listing 
+applicant is recognized not to excessively depend on the parent company, etc. and 
+not hinder continuing management activities.    
+ 
+(Effectiveness of Corporate Governance of Enterprises and Internal Management 
+System) 
+4.  Listing examination concerning the matters as prescribed in Rule 219, Paragraph 1, Item 
+(3) of the Regulations shall be carried out from viewpoints including those referred to in 
+the following (1) to (5): 
+(1)  The system to ensure the appropriate execution of duties of officers of the corporate 
+group of an initial listing applicant is recognized to be reasonably developed and 
+appropriately operated in light of matters including those referred to in the 
+following a. and b.: 
+a.  An initial listing applicant has an organizational plan and an officer composition 
+which is able to effectively conduct checking and auditing concerning the 
+execution of duties of officers of the corporate group of an initial listing applicant. 
+A listing examination in such a case shall be conducted in consideration of the 
+state of compliance with matters prescribed in the provisions of Rules 436-2 
+through 439 of the Regulations; and  
+b.  Checking and auditing the execution of duties of officers for efficient 
+management is carried out and functions effectively in the corporate group of an 
+initial listing applicant; 
+(2)  The internal management system is recognized to be reasonably developed and 
+appropriately operated for an initial listing applicant and its corporate group to carry 
+out effective management activities for the reason of the matters referred to in the 
+following a. and b.: 
+a.  A necessary managerial and administrative body is properly developed and 
+appropriately operated to ensure efficiency of management activities and internal 
+(Reference Translation) 
+ 
+ 
+DISCLAIMER: This translation may be used for reference purposes only. This English version is not an official translation of the original 
+Japanese version. In cases where any differences occur between the English version and the original Japanese version, the Japanese version 
+shall prevail. This translation is subject to change without notice. Tokyo Stock Exchange, Inc., Japan Exchange Regulation, Japan Exchange 
+Group, Inc., and/or their affiliates shall individually or jointly accept no responsibility or liability for damage or loss caused by any error, 
+inaccuracy, misunderstanding, or changes with regard to this translation. 
+22 
+check-and-balance functions of the corporate group of an initial listing applicant; 
+and 
+b.  An internal auditing system of the corporate group of an initial listing applicant is 
+reasonably developed and appropriately operated; 
+(3)  Necessary personnel are recognized to be competent to carry out stable and 
+continuing execution of management activities of the corporate group of an initial 
+listing applicant and to maintain its internal management system;  
+(4)  The corporate group of an initial listing applicant adopts accounting treatment 
+standards adaptable to its actual situation and, in addition, a necessary accounting 
+body is recognized as being prepared and operated appropriately; and 
+(5)  It is recognized that an effective system to comply with laws and regulations, etc. 
+concerning management activities in the corporate group of an initial listing applicant 
+is prepared and operated appropriately, and that no material breach of laws and 
+regulations has recently been made, and no act which is likely to become a material 
+breach of laws and regulations in the future is being carried out. 
+ 
+(Reasonability of Business Plan) 
+5.  Listing examinations on matters specified in Rule 219, Paragraph 1, Item (4) of the 
+Regulations shall be conducted in consideration of such viewpoints as referenced in the 
+following (1) and (2). 
+(1)  The business plan of corporate group of an initial listing applicant is appropriately 
+drawn up in light of its business model, business environment, risk factors, etc.; and 
+(2)  The operating base necessary for executing the business plan of the business group 
+of the initial listing applicant is deemed to have been developed or that there is 
+reasonable expectation that such operating base will be developed. 
+ 
+(Viewpoints of Public Interest or Protection of Investors) 
+6.  Listing examination concerning the matters as prescribed in Rule 219, Paragraph 1, Item 
+(5) of the Regulations shall be carried out from viewpoints including those referred to in 
+the following (1) to (7):  
+(1)  The contents of the rights of shareholders or holders of foreign stock depositary 
+receipts, etc. and the state of their exercise are deemed appropriate from the 
+viewpoints of the public interest or the protection of investors, in light of matters 
+including those referred to in the following a. and b.: 
+a.  The contents of the rights of shareholders or holders of foreign stock depositary 
+receipts, etc. and their exercise are not unreasonably restricted; and 
+b.  Where an initial listing applicant has introduced a takeover response policy, the 
+initial listing applicant complies with the matters referred to in each item of Rule 
+440 of the Regulations; 
+(2)  The corporate group of an initial listing applicant does not have an ongoing lawsuit 
+or dispute, etc. which would have a material effect on management activities and 
+business performance; 
+(Reference Translation) 
+ 
+ 
+DISCLAIMER: This translation may be used for reference purposes only. This English version is not an official translation of the original 
+Japanese version. In cases where any differences occur between the English version and the original Japanese version, the Japanese version 
+shall prevail. This translation is subject to change without notice. Tokyo Stock Exchange, Inc., Japan Exchange Regulation, Japan Exchange 
+Group, Inc., and/or their affiliates shall individually or jointly accept no responsibility or liability for damage or loss caused by any error, 
+inaccuracy, misunderstanding, or changes with regard to this translation. 
+23 
+(3)  Concerning the matters which are the premises of the main business activities of the 
+corporate group of an initial listing applicant, there is no factor which hinders their 
+continuity; 
+(4)  The corporate group of an initial listing applicant is recognized to develop an internal 
+system to prevent criminal and extremist elements from being involved in 
+management activities, and making efforts to prevent such involvement and their 
+actual state is recognized as appropriate from the viewpoints of the public interest or 
+the protection of investors; 
+(5)  Domestic stocks pertaining to an initial listing applicant are shares without voting 
+rights (limited to cases where no initial listing application is made for an issue(s) 
+other than such domestic stocks) or shares with a small number of voting rights, all of 
+the following a. to h. shall be met: 
+a.  It shall be deemed that a condition where a specific individual who has shares, etc. 
+with a large number of voting rights may continue to be involved in management 
+needs to be secured, etc., from a viewpoint of common interests of shareholders, 
+and that the scheme is not unduly beneficial to shareholders with a large number of 
+shares, etc., but appropriate. In this case, the judgment whether it is appropriate or 
+not shall be made in line with needs of the following items referred to in the 
+following (a) to (c) and other items; 
+(a) If such judgment is no longer necessary, the scheme of shares without voting 
+rights or those with a small number of voting rights is likely to be dissolved; 
+(b) If a company is controlled with an extremely small ratio of capital contribution, 
+the articles of incorporation, etc. appropriately stipulate that a scheme of shares 
+without voting rights or a small number of voting rights is expected to be 
+dissolved; and 
+(c) Where domestic stocks pertaining to the initial listing application are shares with 
+a small number of voting rights, the articles of incorporation, etc. appropriately 
+stipulate that, as a general rule, shares with a large number of voting rights shall 
+be converted to shares with a small number of voting rights when they are 
+transferred, etc. 
+b.  It shall be deemed that the main purpose of using shares with a large number of 
+voting rights is not to secure positions of directors, etc. of the initial listing 
+applicant or not to use such shares for resisting takeover; 
+c.  It shall be deemed that the purpose, necessity, and scheme of using shares with a 
+large number of voting rights, etc., are appropriately described in the initial listing 
+application documents pertaining to details of disclosed corporate information; 
+d. Where a shareholder of a stock, etc. with a large number of voting rights is not a 
+director, etc. of the initial listing applicant, the following (a) and (b) shall be met; 
+(a) Where it is deemed that the purpose or policy of exercise of voting rights of a 
+shareholder with shares with a large number of voting rights is not clearly 
+inappropriate in light of necessity of such exercise, and shall be appropriately 
+described in the initial listing application documents pertaining to details of 
+(Reference Translation) 
+ 
+ 
+DISCLAIMER: This translation may be used for reference purposes only. This English version is not an official translation of the original 
+Japanese version. In cases where any differences occur between the English version and the original Japanese version, the Japanese version 
+shall prevail. This translation is subject to change without notice. Tokyo Stock Exchange, Inc., Japan Exchange Regulation, Japan Exchange 
+Group, Inc., and/or their affiliates shall individually or jointly accept no responsibility or liability for damage or loss caused by any error, 
+inaccuracy, misunderstanding, or changes with regard to this translation. 
+24 
+disclosed corporate information; and 
+(b) Where a corporate group of an initial listing applicant has, as a general rule, no 
+relationships with a shareholder with a large number of voting rights (limited to 
+cases where such shareholder is a parent company, etc. of the initial listing 
+applicant) of shares, etc. in terms of business, personnel, and transactions. 
+e.  Where conflicts of interest arise between shareholders of different classes, 
+protection measures are deemed to be able to be taken so that shareholders of a 
+domestic stock pertaining to such initial listing applicant are not unreasonably 
+damaged; 
+f.  When an issuer of a domestic stock pertaining to the initial listing application 
+performs business transactions with any of entities referred to in the following (a) 
+to (c) (see Note below), it shall be deemed that a measure to protect minority 
+shareholders is likely to be available; 
+(Note) This includes, out of business transactions between the issuer and any of 
+the entities referred to in such (a) to (c) that perform such business 
+transactions on behalf of a third party, those in which any of such 
+entities has a material impact on the issuer. 
+(a)  A parent company; 
+(b)  The controlling shareholders (excluding a parent company) and their close 
+relatives; and 
+(c)  A company, etc. whose majority of voting rights are held by any of the entity 
+referred to in the preceding (b) for its own account and a subsidiary of such 
+company, etc. 
+g.  Where such domestic stocks pertaining to the initial listing application have 
+preference on surplus dividend, as a general rule, expected income in two years 
+from the end of the base business year and an amount that can be distributed as 
+dividend at the end of the base business year is deemed good, the issuer of such 
+domestic stocks is likely to earn income enough for the distribution of surplus 
+dividend pertaining to such domestic stocks; and 
+h.  Benefits of shareholders and investors are deemed to be highly unlikely to be 
+infringed; and 
+(6) Where domestic stocks pertaining to initial listing applications are shares without 
+voting rights (limited to the case where an initial listing application is made for an 
+issue(s) other than such domestic stocks), each of the following a. to e. shall be met: 
+a. The articles of incorporation, etc. appropriately stipulate that if a company falls under 
+situations in which it is controlled with an extremely small ratio of capital 
+contribution, a scheme of shares without voting rights is dissolved; 
+b. Where conflicts of interest arise among shareholders with different classes of shares, 
+it is deemed that a protection measure can be taken so that interests of 
+shareholders of the domestic stocks pertaining to such initial listing application 
+will not be unduly harmed; 
+c. When an issuer of a domestic stock pertaining to the initial listing application 
+(Reference Translation) 
+ 
+ 
+DISCLAIMER: This translation may be used for reference purposes only. This English version is not an official translation of the original 
+Japanese version. In cases where any differences occur between the English version and the original Japanese version, the Japanese version 
+shall prevail. This translation is subject to change without notice. Tokyo Stock Exchange, Inc., Japan Exchange Regulation, Japan Exchange 
+Group, Inc., and/or their affiliates shall individually or jointly accept no responsibility or liability for damage or loss caused by any error, 
+inaccuracy, misunderstanding, or changes with regard to this translation. 
+25 
+performs business transactions with any of entities referred to in the following (a) 
+to (c) (see Note below), it shall be deemed that a measure to protect minority 
+shareholders is likely to be available; 
+(Note) This includes, out of business transactions between the issuer and any of 
+the entities referred to in such (a) to (c) that perform such business 
+transactions on behalf of a third party, those in which any of such entities 
+has a material impact on the issuer. 
+(a)  A parent company; 
+(b)  A controlling shareholder (excluding a parent company) and his/her close 
+relatives; and 
+(c)  A company, etc. whose majority of voting rights are held by any of the entity 
+referred to in the preceding (b) for its own account and a subsidiary of such 
+company, etc. 
+d. Where such domestic stock pertaining to the initial listing application has preference 
+on surplus dividend, as a general rule, expected income in two years from the end 
+of the base business year and an amount that can be distributed as dividend at the 
+end of the base business year is deemed good, the issuer of such domestic stock is 
+likely to earn income enough for the distribution of surplus dividend pertaining to 
+such domestic stock; and 
+e. Where it is deemed that interests of shareholders and investors are not highly likely 
+to be harmed; and 
+(7) Otherwise, it is deemed appropriate from the viewpoint of the public interest or the 
+protection of investors. 
+ 
+(Special Exceptions to Foreign Companies) 
+7.  Where an initial listing applicant is a foreign company, and the main market of a foreign 
+stock, etc. issued by such initial listing applicant is other than the Exchange and, 
+furthermore, where the Exchange deems it appropriate in light of listing of securities, 
+timely disclosure of the issuer of listed securities, delisting, the state of the development 
+and operation of the legal system and rules concerning listed securities in such main 
+market, they shall be treated as appropriate for all or part of the examination as 
+prescribed in the above 2. through the preceding 6. 
+ 
+(Listing Examination of Companies Established Due To Spin-off Type Company Split 
+of Listed Companies) 
+8.  Notwithstanding the provisions of 2. to the preceding 7., where an initial listing 
+applicant is a company established due to a spin-off type company split of a listed 
+company, listing examination concerning business inherited due to the company split 
+and a plan of the company split, etc. shall be carried out as prescribed in 2. to the 
+preceding 7, where initial listing application is made before said company split. 
+ 
+ 
+(Reference Translation) 
+ 
+ 
+DISCLAIMER: This translation may be used for reference purposes only. This English version is not an official translation of the original 
+Japanese version. In cases where any differences occur between the English version and the original Japanese version, the Japanese version 
+shall prevail. This translation is subject to change without notice. Tokyo Stock Exchange, Inc., Japan Exchange Regulation, Japan Exchange 
+Group, Inc., and/or their affiliates shall individually or jointly accept no responsibility or liability for damage or loss caused by any error, 
+inaccuracy, misunderstanding, or changes with regard to this translation. 
+26 
+V. Listing Examination of Non-Voting Shares Issued by Listed Companies 
+ 
+(Listing Examination of Shares without Voting Rights Issued by Listed Companies) 
+Listing examination concerning the matters that the Exchange deemed necessary from the 
+viewpoint of the public interest or the protection of investors as prescribed in Rule 302-2, 
+Paragraph 1 of the Regulations shall be conducted regardless of any other issue for which 
+an initial listing is made as specified in the following (1) through (3) in accordance with 
+the classification of the listed companies referred to in the same (1) through (3): 
+(1) Listed companies on the Standard Market - To be carried out pursuant to the 
+provisions of II 6. (5);  
+(2) Listed companies on the Prime Market - To be carried out pursuant to the provisions 
+of III 6. (5); and 
+(3)  Listed companies on the Growth Market - To be carried out pursuant to the 
+provisions of IV 6. (6); 
+ 
+ 
+VI Listing Examination of Subscription Warrant Securities Issued by Listed 
+Companies 
+ 
+(Viewpoints of Public Interest or Investor Protection) 
+Listing examination on the matters specified in Rule 304, Paragraph 1, Item (4) of the 
+Regulations shall be carried out from viewpoints including those referred to in the following 
+(1) to (3): 
+(1) A listing applicant shall not fall under any of the following a. through e. (excluding the 
+case of commitment type prescribed in Rule 304, Paragraph 1, Item (2) of the 
+Regulations); 
+a. Where listed stocks, etc. of a listed company that is an issuer of subscription warrant 
+securities are designated as Securities Under Supervision pursuant to the provisions 
+of Rule 608 of the Regulations or where they are designated as Securities to Be 
+Delisted pursuant to the provisions of Rule 609 of the Regulations; 
+b. Where listed stocks, etc. of a listed company that is an issuer of subscription warrant 
+securities fall under any of the following (a) through (r); 
+(a) Where falling within the period specified by the Enforcement Rules prescribed 
+in Rule 501, Paragraph 3 or Rule 502, Paragraph 3 of the Regulations  
+(b) Where falling within the period specified in Rule 601, Paragraph 1, Item (5), 
+Sub-item a. or b. of the Regulations (including cases pursuant to the provisions 
+of Rule 602, Paragraph 1, Item (5) or Paragraph 2, Item (3) of the Regulations); 
+or 
+(c) Where they are designated as Securities on Special Alert pursuant to the 
+provisions of Rule 503, Paragraph 1 of the Regulations. 
+c. Where subscription warrant securities are issued after the procedure specified in Rule 
+304, Paragraph 1, Item (2), Sub-item b. of the Regulations has been carried out, and 
+(Reference Translation) 
+ 
+ 
+DISCLAIMER: This translation may be used for reference purposes only. This English version is not an official translation of the original 
+Japanese version. In cases where any differences occur between the English version and the original Japanese version, the Japanese version 
+shall prevail. This translation is subject to change without notice. Tokyo Stock Exchange, Inc., Japan Exchange Regulation, Japan Exchange 
+Group, Inc., and/or their affiliates shall individually or jointly accept no responsibility or liability for damage or loss caused by any error, 
+inaccuracy, misunderstanding, or changes with regard to this translation. 
+27 
+it is deemed that an abusive procedure to confirm the intent has been carried out by a 
+board member  that is a major shareholder or a controlling shareholder of a listed 
+company that is an issuer of other subscription warrant securities, such as cases 
+referred to in the following (a) or (b),; 
+(a) Regarding the purpose of using fund raised by a listed company as a result of 
+exercise of warrants of subscription warrant securities, where a consent of a 
+majority of shareholders (limited to entities who have indicated their intention), 
+excluding board members that are major shareholders or controlling 
+shareholders, deemed to have special interests, has not been given; or 
+(b) Where a consent of a majority of shareholders (limited to entities who have 
+indicated their intention), excluding board members that are major shareholders 
+or controlling shareholders, who do not indicate their intention to maintain 
+shareholding ratio by exercising warrants of subscription warrant securities 
+allotted has not been given 
+d. Where it is deemed substantially the same as cases where the business performance 
+or financial status of a listed company that is an issuer of subscription warrant 
+securities falls under any of Sub-item a. or b. of Rule 304, Paragraph 1, Item (3) of 
+the Regulations 
+e. Where it is deemed equivalent to the state prescribed in the above a. through d. 
+(2) Where restricting exercise of warrants of subscription warrant securities, such restriction 
+is deemed necessary and suitable; and 
+(3) Otherwise, it is deemed appropriate from the viewpoint of the public interest or the 
+protection of investors. 
+ 
+ 
+ VII. Examination for Segment Transfers 
+ 
+(Examination for Segment Transfers, etc.) 
+ Examination for segment transfers shall be carried out as specified in the following (1) to 
+(4).  
+(1) Examination for transfers to the Standard Market as prescribed in Rule 308, Paragraph 1 
+shall be carried out in accordance with II. In this case, if the Exchange deems it 
+appropriate in light of factors such as the relevant company's corporate governance, 
+internal management system, and history of corporate disclosure, the Exchange may 
+consider that said company has passed all or part of the examination equivalent to the 
+examinations specified in II. 2. through 6. 
+(2) Examination for transfers to the Prime Market as prescribed in Rule 308, Paragraph 2 
+shall be carried out in accordance with III. In this case, where there is no significant 
+change in the business content, corporate governance, and internal management systems, 
+etc. from those at the time of initial listing on the Standard Market or the Growth Market, 
+in consideration of such situation, the Exchange may carry out examination based on 
+corporate continuity and profitability as well as the record of disclosure, etc. of business 
+(Reference Translation) 
+ 
+ 
+DISCLAIMER: This translation may be used for reference purposes only. This English version is not an official translation of the original 
+Japanese version. In cases where any differences occur between the English version and the original Japanese version, the Japanese version 
+shall prevail. This translation is subject to change without notice. Tokyo Stock Exchange, Inc., Japan Exchange Regulation, Japan Exchange 
+Group, Inc., and/or their affiliates shall individually or jointly accept no responsibility or liability for damage or loss caused by any error, 
+inaccuracy, misunderstanding, or changes with regard to this translation. 
+28 
+content, etc. after listing. 
+(3) Examination for transfers to the Growth Market as prescribed in Rule 308, Paragraph 3 
+of the Regulations shall be carried out in accordance with IV. In this case, where there is 
+no significant change in the business content, corporate governance, and internal 
+management systems, etc. from those at the time of initial listing on the Standard Market 
+or the Prime Market, the Exchange may, in consideration of such situation, carry out 
+examination mainly on the rationality of business plans and the record of disclosure of 
+the business content, etc. after listing. 
+(4) With regard to examination from (1) to (3), where the stock of a listed company has been 
+designated as a Security on Special Alert pursuant to the provisions of Rule 503, 
+Paragraph 1 of the Regulations or a listed company has been requested to submit an 
+Improvement Report pursuant to the provisions of Rule 504, Paragraph 1 or Paragraph 
+2 of the Regulations (including cases where it is applied mutatis mutandis in Rule 505, 
+Paragraph 7 of the Regulation) or Rule 505, Paragraph 6 of the Regulations within last 
+five (5) years ( the "last" is calculated backward counting from the day of application 
+for a segment transfer), the Exchange shall conduct the examination whether or not 
+improvement measures, formulated in response to those, have been adequately 
+implemented 
+ 
+ 
+VIII. Initial Listing Examination of Preferred Stocks, etc. 
+ 
+(Listing Examination Pertaining to Initial Listing Application of Preferred Stocks, 
+etc.) 
+1.  Listing examination of preferred stocks, etc. as prescribed in Rule 805, Paragraph 1 of 
+the Regulations shall be carried out pursuant to the provisions of this VIII. 
+ 
+(Profitability) 
+2.  Listing examination of matters as prescribed in Rule 805, Paragraph 1, Item (1) of the 
+Regulations shall be carried out from that estimated profits for the following two (2) 
+years from the end date of the base business year (meaning the most recent business 
+year for which financial statements, etc. are presented in the financial information 
+section of an "Annual Securities Report for Initial Listing Application") and a 
+distributable amount as of the end date of the base business year are deemed to be good, 
+and from other viewpoints.  
+ 
+(Appropriateness of Disclosure of Corporate Affairs, etc.) 
+3.  Listing examination of matters as prescribed in Rule 805, Paragraph 1, Item (2) shall be 
+carried out from viewpoints including those referred to in the following (1) and (2): 
+(1)  An "Annual Securities Report for Initial Listing Application" has been prepared in 
+accordance with laws and regulations, etc., and it is deemed to appropriately contain 
+the matters which may have a material effect on investment decisions of investors 
+(Reference Translation) 
+ 
+ 
+DISCLAIMER: This translation may be used for reference purposes only. This English version is not an official translation of the original 
+Japanese version. In cases where any differences occur between the English version and the original Japanese version, the Japanese version 
+shall prevail. This translation is subject to change without notice. Tokyo Stock Exchange, Inc., Japan Exchange Regulation, Japan Exchange 
+Group, Inc., and/or their affiliates shall individually or jointly accept no responsibility or liability for damage or loss caused by any error, 
+inaccuracy, misunderstanding, or changes with regard to this translation. 
+29 
+such as important matters concerning details of a stock, etc., dividend policies, an 
+issuer of a preferred stock, etc. and the financial condition and financial results of the 
+corporate group, and officers, major shareholders & related companies, etc. (where 
+there is a provision prescribing to the effect that an issuer may acquire, including the 
+policy of such acquisition, and where it is a subsidiary-linked dividend stock, 
+including important matters concerning the financial condition and financial results 
+of the subject subsidiary and its corporate group); and 
+(2)  In cases of an application for initial listing pertaining to a subsidiary-linked dividend 
+stock, the issuer is deemed to be able to manage company information such as facts, 
+etc. pertaining to the subject subsidiary which has a remarkable effect on investment 
+decisions on such subsidiary-linked dividend stock and to disclose such company 
+information timely and appropriately. 
+ 
+(Viewpoints of Public Interest or Protection of Investors) 
+4.  Listing examination of matters is prescribed in Rule 805, Paragraph 1, Item (3) of the 
+Regulations shall be carried out from viewpoints including those referred to in the 
+following (1) and (2): 
+(1)  Where a preferred stock, etc. pertaining to an initial listing application is a preferred 
+stock without a right to receive residual dividends, all of the matters referred to in the 
+following a. through c. shall be met: 
+a.  Where conflicts of interest arise between shareholders of different classes, 
+protection measures are deemed to be able to be taken so that shareholders of a 
+preferred stock, etc. pertaining to such initial listing applicant are not unreasonably 
+damaged; 
+b. When an issuer of a preferred stock, etc. stock pertaining to the initial listing 
+application performs business transactions with any of entities referred to in the 
+following (a) to (c) (see Note below), it shall be deemed that a measure to protect 
+minority shareholders is likely to be available; 
+(Note) This includes, out of business transactions between the issuer and any of 
+the entities referred to in such (a) to (c) that perform such business 
+transactions on behalf of a third party, those in which any of such 
+entities has a material impact on the issuer. 
+(a)  A parent company; 
+(b)  The controlling shareholders (excluding a parent company) and their close 
+relatives; and 
+(c)  A company, etc. whose majority of voting rights are held by any of the entity 
+referred to in the preceding (b) for its own account and a subsidiary of such 
+company, etc., and 
+c.  Otherwise, benefits of shareholders and investors are deemed to be highly unlikely 
+to be infringed; and 
+(2)  Otherwise, it is deemed appropriate from the viewpoint of the public interest or the 
+protection of investors. 
+(Reference Translation) 
+ 
+ 
+DISCLAIMER: This translation may be used for reference purposes only. This English version is not an official translation of the original 
+Japanese version. In cases where any differences occur between the English version and the original Japanese version, the Japanese version 
+shall prevail. This translation is subject to change without notice. Tokyo Stock Exchange, Inc., Japan Exchange Regulation, Japan Exchange 
+Group, Inc., and/or their affiliates shall individually or jointly accept no responsibility or liability for damage or loss caused by any error, 
+inaccuracy, misunderstanding, or changes with regard to this translation. 
+30 
+ 
+ 
+IX. Initial Listing Examination of Senior Securities  
+ 
+(Listing Examination Pertaining to Initial Listing Application of Senior Securities) 
+1.  Listing examination of senior securities as prescribed in Rule 817, Paragraph 1 of the 
+Regulations shall be carried out pursuant to the provisions of this IX. 
+ 
+ (Issuers of Senior Securities) 
+2.  Listing examination of matters as prescribed in Rule 817, Paragraph 1, Item (1) of the 
+Regulations shall be carried out from viewpoints including those referred to in the 
+following (1) to (4): 
+(1)  The issuer of a senior security is established to raise funds for such subject parent 
+company solely by such parent corporation, and such subject parent company shall 
+remain the subject parent corporation of the issuer of such senior security for a 
+period until such senior security is redeemed; 
+(2)  The issuer of such senior security issues such senior security based on instruction or 
+decision of the subject parent company, and carries out investment in securities 
+issued by such subject parent company (including securities issued by a subsidiary 
+corporation as prescribed in (4) and any other securities deemed appropriate by the 
+Exchange), and does not substantially carry out business activities; 
+(3)  The subject parent company reasonably guarantees profit distribution money, 
+redemption money and amount of payment at the time of liquidation pertaining to 
+such senior security; and 
+(4)  Where the subject parent company establishes its subsidiary corporation other than 
+the issuer of such senior security for the purpose of issuing such senior security, 
+such subsidiary corporation shall meet the criteria referred to in (1) to the preceding 
+(3). 
+ 
+(Viewpoints of Public Interest or Protection of Investors) 
+3.  Listing examination shall be carried out concerning the matters deemed necessary from 
+the viewpoint of the public interest or the protection of investors. 
+ 
+X. Initial Listing Examination of Preferred Equity Investment Securities 
+ 
+(Listing Examination Pertaining to Initial Listing Application of Preferred Equity 
+Investment Securities) 
+1.  Listing examination of preferred equity investment securities as prescribed in Rule 831, 
+Paragraph 1 of the Regulations shall be carried out pursuant to the provisions of this X. 
+ 
+(Corporate Continuity and Profitability)  
+2. Listing examinations concerning items specified in Rule 831, Paragraph 1, Item (1) of the 
+(Reference Translation) 
+ 
+ 
+DISCLAIMER: This translation may be used for reference purposes only. This English version is not an official translation of the original 
+Japanese version. In cases where any differences occur between the English version and the original Japanese version, the Japanese version 
+shall prevail. This translation is subject to change without notice. Tokyo Stock Exchange, Inc., Japan Exchange Regulation, Japan Exchange 
+Group, Inc., and/or their affiliates shall individually or jointly accept no responsibility or liability for damage or loss caused by any error, 
+inaccuracy, misunderstanding, or changes with regard to this translation. 
+31 
+Regulations shall be carried out from viewpoints including those referred to in the 
+following (1) to (3): 
+(1)  The business plan of a corporate group who applies for initial listing of preferred 
+equity investment securities (hereinafter "preferred equity investment securities 
+initial listing applicant") is appropriately drawn up in light of its business model, 
+business environment, risk factors, etc.; 
+(2)  The corporate group of a preferred equity investment securities initial listing 
+applicant is reasonably expected to be able to maintain a stable profit in the future; 
+and 
+(3)  Management activities of the corporate group of a preferred equity investment 
+securities initial listing applicant are recognized to be able to be carried out stably 
+and continuously in light of matters including those referred to in the following a. to 
+d.: 
+a.  Business activities of the corporate group of a preferred equity investment 
+securities initial listing applicant are in a state where business activities are able to 
+be conducted stably and continuously in light of purchases, production and sales, 
+actual results of transactions with customers and suppliers, characteristics and 
+demand trends for manufactured products and services, and the state of 
+performance of any other business; 
+b.  Investment activities such as capital investment and business investment, etc. of 
+the corporate group of a preferred equity investment securities initial listing 
+applicant do not hinder continuous management activities in light of the trend and 
+future outlook, etc. of the state of investment; 
+c.  Financial activities such as fundraising, etc. of the corporate group of a preferred 
+equity investment securities initial listing applicant do not hinder continuous 
+management activities in light of the trend and future outlook, etc. of the state of 
+financial affairs; and 
+d.  Concerning the matters which become the premise of the main business activities 
+of the corporate group of a preferred equity investment securities initial listing 
+applicant, there are no obstacles to the continuous business activities. 
+ 
+(Soundness of Corporate Management) 
+3. Listing examination concerning the items specified in Rule 831, Paragraph 1, Item (2) of 
+the Regulations shall be carried out from viewpoints including those referred to in the 
+following (1) to (3): 
+(1)  The corporate group of a preferred equity investment securities initial listing 
+applicant is recognized not to give or receive profits wrongfully through a trading act 
+or any other management activities with relevant parties and other specific entities, in 
+light of matters including those referred to in the following a. and b.: 
+a.  Where a transaction has taken place between the corporate group of a preferred 
+equity investment securities initial listing applicant and its relevant parties or any 
+other specific entities, and such transaction has rationality of continuing the 
+(Reference Translation) 
+ 
+ 
+DISCLAIMER: This translation may be used for reference purposes only. This English version is not an official translation of the original 
+Japanese version. In cases where any differences occur between the English version and the original Japanese version, the Japanese version 
+shall prevail. This translation is subject to change without notice. Tokyo Stock Exchange, Inc., Japan Exchange Regulation, Japan Exchange 
+Group, Inc., and/or their affiliates shall individually or jointly accept no responsibility or liability for damage or loss caused by any error, 
+inaccuracy, misunderstanding, or changes with regard to this translation. 
+32 
+transaction and reasonability of trading terms including trading prices; and 
+b.  Benefits of the corporate group of a preferred equity investment securities initial 
+listing applicant are not lost wrongfully because relevant parties and any other 
+specific entities of the corporate group of an initial listing applicant give priority to 
+their own benefits; 
+(2)  The mutual relationship of relatives of officers of a preferred equity investment 
+securities initial listing applicant, its composition, actual working situation or the 
+state of concurrent posts as officers and employees, etc. with any other company, etc. 
+are recognized not to impair the fair, faithful and full execution of duties or the 
+implementation of effective auditing as officers of such preferred equity investment 
+securities initial listing applicant. In this case, if a spouse, a blood relative within the 
+second degree of kinship, or a relative by affinity within the same degree of kinship 
+of an officer of a preferred equity investment securities initial listing applicant 
+equivalent to a board member, an accounting advisor, or an executive officer takes a 
+position as an auditor, an audit and supervisory committee member, a member of an 
+audit committee, or any other positions equivalent thereto, it shall be deemed to 
+impair the implementation of an effective auditing; and 
+ (3)  Where a preferred equity investment securities initial listing applicant has a parent 
+company, etc. (excluding cases where such applicant is expected to cease to own the 
+parent company, etc. by the end the first business year ending after the listing.), 
+management activities of the corporate group of a preferred equity investment 
+securities initial listing applicant are recognized to be carried out independently from 
+such parent company, etc. in light of matters including those referred to in the 
+following a. to c.: 
+a.  In light of the relationship between the business line of the corporate group of a 
+preferred equity investment securities initial listing applicant and that of the 
+corporate group of the parent company, etc. (excluding the corporate group of a 
+preferred equity investment securities initial listing applicant; the shame shall 
+apply hereinafter in this X), the state of business adjustment made by the corporate 
+group of the parent company, etc. and its possibility and any other matters, a 
+preferred equity investment securities initial listing applicant is not recognized to 
+be substantially a business division of such parent company, etc.; 
+b.  The corporate group of a preferred equity investment securities initial listing 
+applicant or that of a parent company, etc. does not coerce or induce transaction 
+which become disadvantageous to such parent company, etc. or the corporate 
+groups of such preferred equity investment securities initial listing applicant such 
+as transactions under markedly different terms from those of normal transactions; 
+and 
+c.  The state of receiving seconded persons of the corporate group of a preferred 
+equity investment securities initial listing applicant is recognized not to 
+excessively depend on the parent company, etc. and not to hinder continuous 
+management activities. 
+(Reference Translation) 
+ 
+ 
+DISCLAIMER: This translation may be used for reference purposes only. This English version is not an official translation of the original 
+Japanese version. In cases where any differences occur between the English version and the original Japanese version, the Japanese version 
+shall prevail. This translation is subject to change without notice. Tokyo Stock Exchange, Inc., Japan Exchange Regulation, Japan Exchange 
+Group, Inc., and/or their affiliates shall individually or jointly accept no responsibility or liability for damage or loss caused by any error, 
+inaccuracy, misunderstanding, or changes with regard to this translation. 
+33 
+ 
+(Effectiveness of Corporate Governance and Internal Management System) 
+4.  Listing examination concerning the items prescribed in Rule 831, Paragraph 1, Item (3) 
+of the Regulations shall be carried out from viewpoints including those referred to in the 
+following (1) to (5): 
+(1)  The system to ensure the appropriate execution of duties of officers of the corporate 
+group of a preferred equity investment securities initial listing applicant is recognized 
+to be appropriately prepared and operated in light of matters including those referred 
+to in the following a. and b.: 
+a.  A preferred equity investment securities initial listing applicant has an 
+organizational structure and an officer composition which is able to effectively 
+implement checks and balances as well as auditing concerning the execution of 
+duties of officers of the corporate group of a preferred equity investment securities 
+initial listing applicant. A listing examination in such a case shall be conducted in 
+consideration of the state of compliance with matters prescribed in the provisions 
+of Rules 436-2 through 439 of the Regulations; and 
+b.  In the corporate group of a preferred equity investment securities initial listing 
+applicant, checks and balances as well as auditing with regard to the execution of 
+duties of officers for the purpose of the continuous and efficient management of 
+the corporation are implemented and function effectively. 
+(2)  The internal management system is deemed to be appropriately developed and 
+operated so that a preferred equity investment securities initial listing applicant and 
+its corporate group carry out effective management activities in light of matters 
+including those referred to in the following a. and b.: 
+a.  A necessary managerial and administrative system is properly developed and 
+appropriately operated to ensure efficiency of management activities and internal 
+check-and-balance functions of the corporate group of a preferred equity 
+investment securities initial listing applicant; and 
+b.  An internal auditing system of the corporate group of a preferred equity 
+investment securities initial listing applicant is prepared and operated 
+appropriately; 
+(3)  Necessary personnel are deemed to be secured in order to carry out stable and 
+continuous execution of management activities of the corporate group of a preferred 
+equity investment securities initial listing applicant and to maintain its appropriate 
+internal management system; 
+(4)  The corporate group of a preferred equity investment securities initial listing 
+applicant adopts accounting treatment standards adaptable to its actual condition, and 
+a necessary accounting system is deemed to be developed and operated appropriately; 
+and 
+(5)  It is deemed that an effective system to comply with laws and regulations, etc. 
+concerning management activities in the corporate group of a preferred equity 
+investment securities initial listing applicant is prepared and operated appropriately, 
+(Reference Translation) 
+ 
+ 
+DISCLAIMER: This translation may be used for reference purposes only. This English version is not an official translation of the original 
+Japanese version. In cases where any differences occur between the English version and the original Japanese version, the Japanese version 
+shall prevail. This translation is subject to change without notice. Tokyo Stock Exchange, Inc., Japan Exchange Regulation, Japan Exchange 
+Group, Inc., and/or their affiliates shall individually or jointly accept no responsibility or liability for damage or loss caused by any error, 
+inaccuracy, misunderstanding, or changes with regard to this translation. 
+34 
+and that no material breach of laws and regulations has recently been made, and no 
+act which is likely to become a material breach of laws and regulations in the future 
+is being carried out. 
+ 
+(Appropriateness of Disclosure of Corporate Information, etc.) 
+5.  Listing examination concerning the items specified in Rule 831, Paragraph 1, Item (4) 
+of the Regulations shall be carried out from viewpoints including those referred to in 
+the following (1) to (4): 
+(1)  The corporate group of a preferred equity investment securities initial listing 
+applicant is deemed to be able to properly manage corporate information of facts, etc. 
+which will have a material effect on management and to disclose it to investors in a 
+timely and appropriate manner. Moreover, its system for the preemptive prevention 
+of insider trading, etc. is deemed to be developed and operated appropriately; 
+(2)  Documents pertaining to disclosure of corporate information, out of the initial listing 
+application documents, are deemed to be prepared in compliance with laws and 
+regulations, etc., and contain the following items referred to in the following a. and 
+b. : 
+a.  The financial condition and financial results of a preferred equity investment 
+securities initial listing applicant and its corporate group, and matters which may 
+have an important effect on investment decisions of investors with respect to 
+important matters, etc. concerning officers, major shareholders, affiliated 
+companies, etc.; and 
+b.  Items referred to in the following (a) to (d) pertaining to the matters which are the 
+premises of main business activities of the corporate group of a preferred equity 
+investment securities initial listing applicant: 
+(a)  Details of the matters which are the premises of the main business activities of 
+the corporate group of a preferred equity investment securities initial listing 
+applicant; 
+(b)  Where the validity period of permission and authorization, etc. and any other 
+time limit is specified by laws and regulations or contract, etc., such time limit; 
+(c)  Where cancellation, rescission, and any other event of permission and 
+authorization, etc. are stipulated in laws and regulations or contract, etc., such 
+event; and 
+(d)  The effect that there is no factor which hinders their continuity concerning the 
+matters which are the premises of the main business activities of the corporate 
+group of a preferred equity investment securities initial listing applicant, and if 
+there is such factor, the fact that it will have a material effect on business 
+activities; 
+(3)  The corporate group of a preferred equity investment securities initial listing 
+applicant does not make distorted information disclosure on the actual state of the 
+corporate group of the preferred equity investment securities initial listing applicant 
+by carrying out a trading act with its relevant party or any other specific entity or 
+(Reference Translation) 
+ 
+ 
+DISCLAIMER: This translation may be used for reference purposes only. This English version is not an official translation of the original 
+Japanese version. In cases where any differences occur between the English version and the original Japanese version, the Japanese version 
+shall prevail. This translation is subject to change without notice. Tokyo Stock Exchange, Inc., Japan Exchange Regulation, Japan Exchange 
+Group, Inc., and/or their affiliates shall individually or jointly accept no responsibility or liability for damage or loss caused by any error, 
+inaccuracy, misunderstanding, or changes with regard to this translation. 
+35 
+adjusting share ownership ratios, etc.; 
+(4)  Where a preferred equity investment securities initial listing applicant has a parent 
+company, etc. (excluding where it will cease to have a parent company, etc. by the 
+end of the first business year ending after the listing), any one of the following a. or b. 
+shall be met on the condition that disclosure of such parent company, etc. is valid: 
+a.  A stock, etc. issued by a parent company, etc. of a preferred equity investment 
+securities initial listing applicant (where there are multiple parent companies, etc., a 
+company which is deemed to have the greatest influence on the preferred equity 
+investment securities initial listing applicant, or where their influence is deemed to 
+be the same, it means one of such companies; the same shall apply hereinafter in 
+these a. and b.) is listed on a domestic financial instruments exchange (including 
+where a stock, etc. issued by such parent company, etc. is listed or continuously 
+traded on such foreign financial instruments exchange, etc., and the state of 
+disclosure on corporate affairs in a country in which such parent company, etc. or 
+such foreign financial instruments exchange, etc. is located is not deemed to  
+conspicuously lack investor protection); and 
+b.  A preferred equity investment securities initial listing applicant can appropriately 
+grasp company information such as facts concerning the parent company, etc. which 
+has a material effect on its management (excluding a parent company, etc. which falls 
+under the preceding a.), and the preferred equity investment securities initial listing 
+applicant pledges in writing that such parent company, etc. agrees to its disclosure of 
+company information which has a material effect on its management, out of such 
+company information concerning the parent company, etc., to investors in an 
+appropriate manner. 
+ 
+(Viewpoints of Public Interest or Investor Protection) 
+6.  Listing examination concerning the items prescribed in Rule 831, Paragraph 1, Item (5) 
+of the Regulations shall be carried out from viewpoints including those referred to in the 
+following (1) to (4): 
+(1)  The contents of the rights of preferred equity investors and the state of their exercise 
+are deemed appropriate from the viewpoints of the public interest or the protection of 
+investors, due to the matters referred to in the following a. and b.: 
+a.  The contents of the rights of preferred equity investors and exercise thereof are not 
+unreasonably restricted; and 
+b.  Where a preferred equity investment securities initial listing applicant has 
+introduced a takeover response policy, the preferred equity investment securities 
+initial listing applicant complies with the matters referred to in each item of the 
+Rule 440 of the Regulations; 
+(2)  The corporate group of a preferred equity investment securities initial listing 
+applicant does not have an ongoing lawsuit or dispute, etc. which may have a 
+material effect on management activities and business results; 
+(3)  The corporate group of a preferred equity investment securities initial listing 
+(Reference Translation) 
+ 
+ 
+DISCLAIMER: This translation may be used for reference purposes only. This English version is not an official translation of the original 
+Japanese version. In cases where any differences occur between the English version and the original Japanese version, the Japanese version 
+shall prevail. This translation is subject to change without notice. Tokyo Stock Exchange, Inc., Japan Exchange Regulation, Japan Exchange 
+Group, Inc., and/or their affiliates shall individually or jointly accept no responsibility or liability for damage or loss caused by any error, 
+inaccuracy, misunderstanding, or changes with regard to this translation. 
+36 
+applicant is deemed to have developed an internal system to prevent criminal and 
+extremist elements from being involved in management activities, and make efforts 
+to prevent such involvement, and their actual state is deemed to be appropriate from 
+the viewpoint of the public interest or the protection of investors; and 
+(4)  Otherwise, it is deemed appropriate from the viewpoint of the public interest or the 
+protection of investors. 
+ 
+(Listing Examination for Companies Established by Spin-off Type Company Split of 
+Listed Companies) 
+7.  Provisions of II.8 shall be applied to mutatis mutandis to initial listing application for 
+preferred equity investment securities. 
+ 
+ 
+XI. Initial Listing Examination of ETN Trust Beneficiary Certificate 
+ 
+(Listing Examination Pertaining to Application for Initial Listing of ETN Trust 
+Beneficiary Certificate) 
+1. Examination of matters as prescribed in Rule 945, Paragraph 1, Item (3), Sub-item b. of 
+the Regulations shall be carried out pursuant to the provisions of this XI. 
+ 
+(Computation Method of Indicators) 
+2. Examination of matters as prescribed in Rule 1104, Paragraph 1, Item (2), Sub-item d. (a) 
+i. of the Regulations pursuant to the provisions of Rule 945, Paragraph 1, Item (3), 
+Sub-item b. (a) of the Regulations shall be carried out from viewpoints including those 
+referred to in the following (1) and (2). 
+  (1) The fact that there is only small room for fluctuation of the value of an indicator at an 
+arbitrary discretion of the computation entity, etc. of an indicator, and transparency of 
+the method of computation of an indicator is deemed to be high for investors; and 
+  (2) The fact that the method of computation of an indicator is not deemed to lack fairness 
+from the viewpoint of the protection of investors. 
+ 
+(Composite Level of Prices of Many Issues) 
+3.  Examination of matters as prescribed in Rule 1104, Paragraph 1, Item (2), Sub-item d. 
+(a) ii. of the Regulations pursuant to the provisions of Rule 945, Paragraph 1, Item (3), 
+Sub-item b. (a) of the Regulations shall be carried out by examining from the viewpoint 
+that fluctuations of prices of individual component issues do not have a major effect on 
+the value of an indicator on the basis of the number of component issues and the weight 
+of the top ranking component issues in the indicator and other viewpoints. 
+ 
+(Criteria and Method of Alteration of Component Issues of Indicator) 
+4.  Examination of matters as prescribed in Rule 1104, Paragraph 1, Item (2), Sub-item d. 
+(a) iii. of the Regulations pursuant to the provisions of Rule 945, Paragraph 1, Item (3), 
+(Reference Translation) 
+ 
+ 
+DISCLAIMER: This translation may be used for reference purposes only. This English version is not an official translation of the original 
+Japanese version. In cases where any differences occur between the English version and the original Japanese version, the Japanese version 
+shall prevail. This translation is subject to change without notice. Tokyo Stock Exchange, Inc., Japan Exchange Regulation, Japan Exchange 
+Group, Inc., and/or their affiliates shall individually or jointly accept no responsibility or liability for damage or loss caused by any error, 
+inaccuracy, misunderstanding, or changes with regard to this translation. 
+37 
+Sub-item b. (a) of the Regulations shall be carried out by examining from the viewpoint 
+of the protection of investors that criteria and method of changing component issues of 
+an indicator are not deemed to lack fairness and other viewpoints. 
+ 
+(Publication of Indicators and Their Method of Computation) 
+5.  Examination of matters as prescribed in Rule 1104, Paragraph 1, Item (2), Sub-item d. 
+(a) iv. of the Regulations pursuant to the provisions of Rule 945, Paragraph 1, Item (3), 
+Sub-item b. (a) of the Regulations shall be carried out from viewpoints including those 
+referred to in the following (1) and (2): 
+(1)  The summary of indicators and their computation method is publicized continuously 
+by a method where it is easily available; and 
+(2)  Indicators shall be publicized promptly after computation. 
+ 
+(Publication of Component Issues) 
+6.  Examination of matters as prescribed in Rule 1104, Paragraph 1, Item (2), Sub-item d. 
+(a) v. of the Regulations pursuant to Rule 945, Paragraph 1, Item (3), Sub-item b. (a) of 
+the Regulations shall be carried out by examining from the viewpoint that component 
+issues (if they may change, including the criteria and method) of indicators are 
+continuously publicized by a method where they are easily available. 
+ 
+(Application to Leveraged/Inverse Indicators) 
+7.  Examination of matters as prescribed in Rule 1104, Paragraph 1, Item (2), Sub-item d. 
+(a) i. and iv. and Sub-item d. (b) ii. of the same paragraph of the Regulations pursuant to 
+Rule 945, Paragraph 1, Item (3), Sub-item b. (b) shall be carried out pursuant to the 
+provisions of 2. through 5. 
+ 
+ 
+XII. Examination Pertaining to Application for Initial Listing of ETFs 
+ 
+(Listing Examination Pertaining to Application for Initial Listing of ETFs) 
+1.  Examination of matters as prescribed in Rule 1104, Paragraph 1, Item (2), Sub-items d. 
+and d.-4 of the Regulations, as well as Rule 1104-2, Item (2), g., Items (4) and (5) of the 
+Regulations shall be carried out pursuant to the provisions of this XII (excluding cases 
+pursuant to the provisions of Rule 945, Paragraph 1, Item (3), Sub-item b. of the 
+Regulations).  
+ 
+(Computation Method of Indicators) 
+2.  Examination of matters as prescribed in Rule 1104, Paragraph 1, Item (2), Sub-item d. 
+(a) i. of the Regulations shall be carried out from viewpoints including those referred to 
+in the following (1) and (2): 
+(1)  The fact that there is only small room for fluctuation of the value of an indicator at 
+an arbitrary discretion of the computation entity, etc. of an indicator, and 
+(Reference Translation) 
+ 
+ 
+DISCLAIMER: This translation may be used for reference purposes only. This English version is not an official translation of the original 
+Japanese version. In cases where any differences occur between the English version and the original Japanese version, the Japanese version 
+shall prevail. This translation is subject to change without notice. Tokyo Stock Exchange, Inc., Japan Exchange Regulation, Japan Exchange 
+Group, Inc., and/or their affiliates shall individually or jointly accept no responsibility or liability for damage or loss caused by any error, 
+inaccuracy, misunderstanding, or changes with regard to this translation. 
+38 
+transparency of the method of computation of an indicator is deemed to be high for 
+investors; and 
+(2)  The fact that the method of computation of an indicator is not deemed to lack 
+fairness from the viewpoint of the protection of investors. 
+ 
+(Composite Level of Prices of Many Issues) 
+3.  Examination of matters as prescribed in Rule 1104, Item (1), Sub-item d. (a) ii. of the 
+Regulations shall be carried out by examining from the viewpoint that fluctuations of 
+prices of individual component issues do not have a major effect on the value of an 
+indicator on the basis of the number of component issues and the weight of the upper 
+component issues in the indicator and other viewpoints. 
+ 
+(Criteria and Method of Alteration of Component Issues of Indicator) 
+4.  Examination of matters as prescribed in Rule 1104, Paragraph 1, Item (2), Sub-item d. 
+(a) iii. of the Regulations shall be carried out by examining from the viewpoint of the 
+protection of investors that criteria and method of changing component issues of an 
+indicator are not deemed to lack fairness and other viewpoints. 
+ 
+(Publication of Indicators and Their Method of Computation) 
+5.  Examination of the matters as prescribed in (d) under Rule 1104, Paragraph 1 Item (2), 
+Sub-item d. (a) iv. of the Regulations shall be carried out by examining from the 
+viewpoints referenced in (1) and (2) and other viewpoints: 
+(1)  The summary of indicators and their computation method is publicized continuously 
+by a method where it is easily available; and 
+(2)  Indicators shall be publicized promptly after computation. 
+ 
+(Publication of Component Issues) 
+6.  Examination of matters as prescribed in Rule 1104, Paragraph 1, Item (2), Sub-item d. 
+(a) v. of the Regulations shall be carried out by examining from the viewpoint that 
+component issues (if they may change, including the criteria and method) of indicators 
+are continuously publicized by a method where they are easily available. 
+ 
+(Smooth Trading of Component Issues) 
+7.  Examination of matters as prescribed in Rule 1104, Paragraph 1, Item (2), Sub-item d. 
+(a) vi. of the Regulations shall be carried out by examining from the viewpoint that 
+trading in securities or commodities whose trading is necessary to be carried out 
+smoothly for the purpose that the rate of fluctuation of net assets per unit conforms to 
+the rate of fluctuation of an indicator is estimated to be carried out smoothly in the light 
+of the actual situation of trading, and other viewpoints. 
+ 
+(Smooth Transactions Relating to Derivatives Trading or Commodity Investment, etc. 
+Trading) 
+(Reference Translation) 
+ 
+ 
+DISCLAIMER: This translation may be used for reference purposes only. This English version is not an official translation of the original 
+Japanese version. In cases where any differences occur between the English version and the original Japanese version, the Japanese version 
+shall prevail. This translation is subject to change without notice. Tokyo Stock Exchange, Inc., Japan Exchange Regulation, Japan Exchange 
+Group, Inc., and/or their affiliates shall individually or jointly accept no responsibility or liability for damage or loss caused by any error, 
+inaccuracy, misunderstanding, or changes with regard to this translation. 
+39 
+8.  Examination of matters prescribed in Rule 1104, Paragraph 1, Item (2), Sub-item d (a) 
+vii. of the Regulations shall be carried out from such viewpoints as whether it is expected 
+that transactions are conducted smoothly in the light of actual situations of transactions 
+with regard to rights pertaining to derivatives transactions prescribed in Article 2, 
+Paragraph 20 of the Act or rights pertaining to commodity investment, etc. transactions 
+which need to be traded smoothly in the light of the purpose of making the fluctuation 
+ratio of the net asset amount per unit correspond to the fluctuation ratio of the indicator. 
+ 
+(Application to Leveraged/Inverse Indicators) 
+9.  Examination of matters as prescribed in Rule 1104, Paragraph 1, Item (2), Sub-item d. 
+(a) i., iv., and vii., and Sub-item d. (b) ii. of the same paragraph of the Regulations 
+pursuant to Rule 1104, Paragraph 1, Item (2), Sub-item d. (b) i. shall be carried out 
+pursuant to the provisions of 2. through 6., and 8. 
+ 
+(Credit Risk) 
+10.  Examination on matters prescribed by Rule 1104, Paragraph 1, Item (2), Sub-item d-4 
+of the Regulations and Rule 1104-2, Item (2), Sub-item g. of the Regulations shall be 
+carried out from the viewpoints referenced in the following (1) and (2) as well as other 
+viewpoints. 
+(1)  In light of matters referenced in the following a. through d., it is deemed that there 
+are no specific circumstances which are likely to disturb continuation of fund 
+management after listing; provided, however, that in cases where the counterparty is 
+a foreign corporation, the Exchange shall take into account legal systems, etc. in the 
+home country, etc. of the foreign corporation. 
+a.  No note as to any issue of the going concern assumption is included in the most 
+recent financial statements, etc. or interim financial statements, etc. which are 
+prepared by a counterparty 
+b.  An "unqualified opinion", an opinion stating that "the interim financial statements, 
+etc. provide useful information" or "unqualified conclusion" issued by a certified 
+public accountant, etc. are included in an audit report, interim audit report, or 
+interim review report attached to the most recent financial statements, etc. or 
+interim financial statements, etc. which are prepared by a counterparty, or a 
+"qualified opinion with exceptions" or a "qualified conclusion with exception" 
+issued by a certified public accountant, etc. are included in an audit report, interim 
+audit report or interim review report due only to matters regarding comparative 
+information. 
+c.  A counterparty is not in the state of liabilities in excess of assets at the end of the 
+most recent business year or consolidated accounting year, or interim accounting 
+period or interim consolidated accounting period. 
+d.  No other specific factors which are likely to disturb continuous asset management 
+exist. 
+(2)  Based on matters referenced in the following a. through e., it is deemed that the 
+(Reference Translation) 
+ 
+ 
+DISCLAIMER: This translation may be used for reference purposes only. This English version is not an official translation of the original 
+Japanese version. In cases where any differences occur between the English version and the original Japanese version, the Japanese version 
+shall prevail. This translation is subject to change without notice. Tokyo Stock Exchange, Inc., Japan Exchange Regulation, Japan Exchange 
+Group, Inc., and/or their affiliates shall individually or jointly accept no responsibility or liability for damage or loss caused by any error, 
+inaccuracy, misunderstanding, or changes with regard to this translation. 
+40 
+management company has developed management systems for credit standing, etc. of 
+a counterparty, etc. (meaning an issuer of incorporated securities, counterparty to a 
+contract pertaining to incorporated claims, or guarantor pertaining to such 
+incorporated securities or incorporated claims (limited to cases where a guarantor 
+exists.); the same shall apply hereinafter.) and other appropriate systems. 
+a.  The management company has developed appropriate criteria for selecting a 
+counterparty, etc. 
+b.  Details of rights of a security issued for the purpose of achieving investment 
+performance linked to a specified indicator or details of rights pertaining to a 
+contract are appropriate in the context of their selection criteria. 
+c.  The management company has appropriately developed management systems for 
+financial situation, etc. of a counterparty, etc. 
+d.  The management company has developed measures to reduce the likelihood of 
+impairment of investment trust assets, etc. in the case where it has become clear 
+that the financial situation, etc. of the counterparty, etc. has severely deteriorated. 
+e.  In cases where the management company or its relevant party disseminates 
+information on a counterparty, etc., contents of said information and the 
+dissemination method shall be appropriate. 
+ 
+(Appropriateness of Disclosure) 
+11. Examination on matters prescribed by Rule 1104-2, Item (4) of the Regulations shall be 
+carried out from viewpoints including those referred to in the following (1) and (2): 
+(1)  That initial listing application documents pertaining to disclosure of information on a 
+domestic actively managed ETF appropriately contain matters which could have a 
+material impact on investors' investment decisions; and 
+(2)  That the management company of the issue for which an initial listing application is 
+made is capable of disclosing information on facts that materially affect the 
+management of the investment trust assets, or other such information, in a timely and 
+appropriate manner. 
+ 
+(Soundness of Management of Investment Trust Assets) 
+12. Examination on matters prescribed by Rule 1104-2, Item (5) of the Regulations shall be 
+carried out from viewpoints including those referred to in the following (1) through (3): 
+(1)  That the management company of the issue for which the initial listing application is 
+made has in place appropriate systems to ensure that the management of investment 
+trust assets does not harm the interests of the beneficiaries of said issue; 
+(2)  That it can be deemed that the management company of the issue for which the 
+initial listing application is made has adequately developed and is appropriately 
+operating an internal management system to ensure effective management of 
+investment trust assets; 
+(3)  That it can be deemed that the management company of the issue for which the 
+initial listing application is made has appropriately developed and is appropriately 
+(Reference Translation) 
+ 
+ 
+DISCLAIMER: This translation may be used for reference purposes only. This English version is not an official translation of the original 
+Japanese version. In cases where any differences occur between the English version and the original Japanese version, the Japanese version 
+shall prevail. This translation is subject to change without notice. Tokyo Stock Exchange, Inc., Japan Exchange Regulation, Japan Exchange 
+Group, Inc., and/or their affiliates shall individually or jointly accept no responsibility or liability for damage or loss caused by any error, 
+inaccuracy, misunderstanding, or changes with regard to this translation. 
+41 
+operating an effective system for compliance with laws, regulations, and other rules 
+regarding management of investment trust assets. 
+ 
+(Examination on Management Companies Pertaining to Listed Domestic Actively 
+Managed ETFs) 
+13. Regarding examinations on matters specified in Rule 1104-2, Items (4) and (5) of the 
+Regulations, if the management company of an issue for which an initial listing 
+application is made has received listing approval for another domestic actively managed 
+ETF within the last three years ("last years" are counted back from the date of the new 
+application), the Exchange may check the documents submitted in relation to the new 
+application, and if it deems that there has been no significant change in the management 
+system or other aspects of the management company since the previous listing 
+application, it may conduct its examination focusing on the aspects that have changed 
+since last time. 
+ 
+XIII. Initial Listing Examination of Real Estate Investment Trust Securities 
+ 
+(Listing Examination Pertaining to Initial Listing Application of Real Estate 
+Investment Trust Securities) 
+1.  Listing examination of real estate investment trust securities as prescribed in Rule 1206, 
+Paragraph 1 of the Regulations shall be carried out pursuant to the provisions of this 
+XIII. 
+ 
+(Appropriateness of Disclosure) 
+2.  Listing examination concerning the matters as prescribed in Rule 1206, Paragraph 1, 
+Item (1) of the Regulations shall be carried out from viewpoints including those 
+referred to in the following (1) and (2): 
+(1)  Documents pertaining to disclosure of information concerning real estate investment 
+trust securities, out of the initial listing application documents, shall appropriately 
+contain the matters which may have a material effect on investment decisions of 
+investors; and 
+(2)  An entity who has applied for initial listing of a real estate investment trust security 
+shall have a system to conduct timely and appropriate disclosure of information of 
+facts, etc. which will have a material effect on asset management, etc. Moreover, its 
+system and framework for the preemptive prevention of insider trading, etc. is 
+deemed to be developed and operated appropriately. 
+ 
+(Soundness of Asset Management, etc.) 
+3.  Listing examination concerning the matters as prescribed in Rule 1206, Paragraph 1, 
+Item (2) of the Regulations shall be carried out from viewpoints including those 
+referred to in the following (1) to (4): 
+(1)  An entity who has applied for initial listing of a real estate investment trust security 
+(Reference Translation) 
+ 
+ 
+DISCLAIMER: This translation may be used for reference purposes only. This English version is not an official translation of the original 
+Japanese version. In cases where any differences occur between the English version and the original Japanese version, the Japanese version 
+shall prevail. This translation is subject to change without notice. Tokyo Stock Exchange, Inc., Japan Exchange Regulation, Japan Exchange 
+Group, Inc., and/or their affiliates shall individually or jointly accept no responsibility or liability for damage or loss caused by any error, 
+inaccuracy, misunderstanding, or changes with regard to this translation. 
+42 
+has developed an appropriate system at the time of asset management, etc. in order 
+not to damage benefits of investors or beneficiaries of an initial listing application 
+security;  
+(2)  An entity who has applied for initial listing of a real estate investment trust security 
+is recognized not to give or enjoy profit wrongfully through a trading act with the 
+corporate group of a sponsor (meaning an entity who is involved in acquisition of 
+managed assets and other management of assets, etc. pertaining to a security for 
+which an initial listing application is made as a leading position, who are investors of 
+a security for which an initial listing application is made, shareholders of investment 
+management companies and other parties concerned pertaining to a security for 
+which an initial listing application is made; the same shall apply hereinafter.) in light 
+of matters including those referred to in the following a. and b.: 
+a.  Where a transaction between an entity who has applied for initial listing of a real 
+estate investment trust security and the corporate group of a sponsor has occurred, 
+such transaction has rationality of continuing the transaction and reasonability of 
+trading terms including trading prices; and 
+b.  Benefits of the investors and beneficiaries of an initial listing application security 
+are not possibly lost wrongfully because the corporate group of a sponsor gives 
+priority to their own benefits; 
+(3)  The internal management system is recognized to be reasonably developed and   
+operated in light of matters including those referred to in the following a. and b. so 
+that an entity who has applied for initial listing of a real estate investment trust 
+security can efficiently carry out asset management, etc.: 
+a.  A necessary managerial and administrative body is developed and operated 
+appropriately to secure the efficiency of management activities and the internal 
+checking functions of the corporate group of an initial listing applicant; and 
+b.  An internal auditing system of the corporate group of an initial listing applicant is 
+developed and operated appropriately; and 
+(4)  An effective system to comply with laws and regulations, etc. is recognized to be 
+developed and operated appropriately to carry out management activities in the 
+corporate group of an initial listing applicant. 
+ 
+(Continuity of Profits or Distribution of Money) 
+4.  Listing examination concerning matters as prescribed in Rule 1206, Paragraph 1, Item 
+(3) of the Regulations shall be carried out from the viewpoint that distribution of money 
+of the fund pertaining to such security is expected to be made by continuously owning 
+real estates, etc. which are producing or are expected to produce rent business income, 
+out of management assets, etc. (including real estates, etc. which are expected to be 
+acquired within three (3) months after listing, where documents as prescribed in Rule 
+1206, Paragraph 2 of the Enforcement Rules are submitted), and other viewpoints. 
+ 
+(Viewpoints of Public Interest or Investor Protection) 
+(Reference Translation) 
+ 
+ 
+DISCLAIMER: This translation may be used for reference purposes only. This English version is not an official translation of the original 
+Japanese version. In cases where any differences occur between the English version and the original Japanese version, the Japanese version 
+shall prevail. This translation is subject to change without notice. Tokyo Stock Exchange, Inc., Japan Exchange Regulation, Japan Exchange 
+Group, Inc., and/or their affiliates shall individually or jointly accept no responsibility or liability for damage or loss caused by any error, 
+inaccuracy, misunderstanding, or changes with regard to this translation. 
+43 
+5.  Listing examination concerning the matters as prescribed in Rule 1206, Paragraph 1, 
+Item (4) of the Regulations shall be carried out from viewpoints including those 
+referred to in the following (1) and (2): 
+(1)  The corporate group of an initial listing applicant of a real estate investment trust 
+security is recognized to prepare an internal system to prevent criminal and extremist 
+elements from being involved in management activities, and make efforts to prevent 
+such involvement and their actual state is recognized as appropriate from the 
+viewpoints of the public interest or the protection of investors; and 
+(2)  Otherwise, it is deemed appropriate from the viewpoints of the public interest or the 
+protection of investors. 
+ 
+ 
+X IV. Listing Examination of New Investment Unit Subscription Warrant Securities 
+Issued by Investment Corporations pertaining to Listed Real Estate Investment 
+Trust Securities 
+ 
+(Viewpoints of Public Interest or Investor Protection) 
+Listing examination on the matters specified in Rule 1211, Paragraph 1, Item (4) of the 
+Regulations shall be carried out from viewpoints including those referred to in the following 
+(1) to (3): 
+(1) A listing applicant shall not fall under any of the following a. through d. (excluding 
+commitment type cases prescribed in Rule 1211, Paragraph 1, Item (2) of the 
+Regulations); 
+a. Where listed real estate investment trust securities of an investment corporation that 
+is an issuer of new investment unit subscription warrant securities are designated as 
+Securities Under Supervision pursuant to the provisions of Rule 1221 of the 
+Regulations or where they are designated as Securities to Be Delisted pursuant to the 
+provisions of Rule 1222 of the Regulations; 
+b. Where listed real estate investment trust securities of an investment corporation that 
+is an issuer of new investment unit subscription warrant securities fall under any of 
+the following (a) through (e); 
+(a) They fall within the period specified in Rule 1218, Paragraph 2, Item (1) of the 
+Regulations; 
+(b) They fall within the period specified in Rule 1218, Paragraph 2, Item (2) of the 
+Regulations; 
+(c) They fall within the period specified in Rule 1218, Paragraph 2, Item (3) of the 
+Regulations; 
+(d) They fall within the period specified in Rule 1218, Paragraph 2, Item (4) of the 
+Regulations; or 
+(e) They fall within the period specified in Rule 1218, Paragraph 2, Item (5) of the 
+Regulations. 
+c. Where it is deemed substantially the same as cases where the investment 
+(Reference Translation) 
+ 
+ 
+DISCLAIMER: This translation may be used for reference purposes only. This English version is not an official translation of the original 
+Japanese version. In cases where any differences occur between the English version and the original Japanese version, the Japanese version 
+shall prevail. This translation is subject to change without notice. Tokyo Stock Exchange, Inc., Japan Exchange Regulation, Japan Exchange 
+Group, Inc., and/or their affiliates shall individually or jointly accept no responsibility or liability for damage or loss caused by any error, 
+inaccuracy, misunderstanding, or changes with regard to this translation. 
+44 
+performance or financial status of an investment corporation that is an issuer of new 
+investment unit subscription warrant securities falls under any of the following 
+Sub-item a. or b. of Rule 1211, Paragraph 1, Item (3) of the Regulations; or 
+d. Where they are deemed to be in an equivalent state to those prescribed in the above a. 
+through c. 
+(2) Where restricting exercise of warrants of new investment unit subscription warrant 
+securities, such restriction shall be deemed necessary and suitable; and 
+(3) Otherwise, it is deemed appropriate from the viewpoint of the public interest or the 
+protection of investors. 
+ 
+ 
+XV. Initial Listing Examinations of Venture Funds 
+ 
+ (Listing Examination Pertaining to Application for Initial Listing of Venture 
+Funds) 
+1. Listing examination of venture funds specified in Rule 1306, Paragraph 1 of the 
+Regulations shall be conducted as prescribed in this X V. 
+ 
+ (Appropriateness of Valuation of Unlisted Stocks, etc.) 
+2.  Listing examination on matters specified in Rule 1306, Paragraph 1, Item (1) of 
+the Regulations shall be conducted from viewpoints including those referred to in 
+the following (1) through (3): 
+・ (1) In order to disclose matters prescribed in Rule 1312, Paragraph 6, Item (5) 
+of the regulations, the valuation of unlisted stocks, etc. and assets related to 
+unlisted stocks, etc. which are assets under management is conducted in 
+accordance with the method prescribed in Article 14 of the Investment Trust 
+Accounting Rules. However, this does not apply to unlisted stocks, etc. and 
+assets related to unlisted stocks, etc. that are not valued using said method, but 
+for which the valuation is entrusted to an unlisted stocks, etc. rating institution. 
+ 
+(2) In the case of the proviso in the preceding Item, the rating agency for unlisted 
+stocks, etc. prescribed in the preceding item is deemed to be in a state where 
+its independence is ensured from the applicant for initial listing of the venture 
+fund, in comprehensive consideration of capital, human, transactional and 
+other relationships. 
+(3) In the case of the proviso of Item (1), the rating agency for unlisted stocks, etc. 
+prescribed in Item (1) is deemed to be in a state where its internal structure 
+allows it to appropriately conduct valuation in light of the matters referred to 
+in the following a. through c.: 
+a. As a general rule, it has been established as a rating agency for at least three 
+(3) years by the end of the base business period (meaning the most recent 
+business period for which financial statements, etc. are presented in the 
+(Reference Translation) 
+ 
+ 
+DISCLAIMER: This translation may be used for reference purposes only. This English version is not an official translation of the original 
+Japanese version. In cases where any differences occur between the English version and the original Japanese version, the Japanese version 
+shall prevail. This translation is subject to change without notice. Tokyo Stock Exchange, Inc., Japan Exchange Regulation, Japan Exchange 
+Group, Inc., and/or their affiliates shall individually or jointly accept no responsibility or liability for damage or loss caused by any error, 
+inaccuracy, misunderstanding, or changes with regard to this translation. 
+45 
+financial information section of an annual securities report, etc. for a venture 
+fund-issuing investment corporation); 
+b. The rating agency has secured the necessary staff to conduct work pertaining 
+to issuing ratings; and 
+c. The rating agency has a record of issuing ratings. 
+ 
+ (Appropriateness of Disclosure) 
+3.  Listing examination on matters specified in Rule 1306, Paragraph 1, Item (2) of 
+the Regulations shall be conducted from viewpoints including those referred to in 
+the following (1) and (2): 
+ (1) Documents pertaining to disclosure of information concerning venture funds, 
+out of the initial listing application documents, shall appropriately contain 
+matters which may have a material impact on investment decisions of 
+investors; and 
+ (2) A venture fund initial listing applicant shall have a system to conduct timely 
+and appropriate disclosure of information of facts, etc. which will have a 
+material impact on asset management, etc. In addition, the system for 
+prevention of insider trading, etc. is deemed to be developed and operated 
+appropriately.  
+ 
+(Soundness of Asset Management, etc.) 
+4.  Listing examination concerning the matters specified in Rule 1306, Paragraph 1, Item 
+(3) of the Regulations shall be carried out from viewpoints including those referred to in 
+the following (1) to (4): 
+(1)  A venture fund initial listing applicant has developed an appropriate system for asset 
+management, etc. in order not to damage interests of investors of an initial listing 
+application issue; 
+(2)  A venture fund initial listing applicant is deemed not to give or enjoy profit 
+wrongfully through trading acts or other asset managements, etc. with the corporate 
+group of a sponsor in light of matters including those referred to in the following a. 
+and b.: 
+a. Where there are transactions between a venture fund initial listing applicant and the 
+corporate group of a sponsor, such transactions have rationality of continuing the 
+transaction and appropriateness of the transaction terms including trading prices; 
+and 
+b. Interests of investors of an initial listing application issue are not possibly damaged 
+unfairly due to the corporate group of a sponsor giving priority to their own 
+interests. 
+(3)  The internal management system is deemed to be developed and operate 
+appropriately in light of matters including those referred to in the following a. and b. 
+so that a venture fund initial listing applicant can efficiently carry out asset 
+management, etc.: 
+(Reference Translation) 
+ 
+ 
+DISCLAIMER: This translation may be used for reference purposes only. This English version is not an official translation of the original 
+Japanese version. In cases where any differences occur between the English version and the original Japanese version, the Japanese version 
+shall prevail. This translation is subject to change without notice. Tokyo Stock Exchange, Inc., Japan Exchange Regulation, Japan Exchange 
+Group, Inc., and/or their affiliates shall individually or jointly accept no responsibility or liability for damage or loss caused by any error, 
+inaccuracy, misunderstanding, or changes with regard to this translation. 
+46 
+a. A necessary managerial and administrative body is developed and operates 
+appropriately to secure the efficiency of management activities and the internal 
+checking functions of the corporate group of a venture fund initial listing applicant; 
+and 
+b. An internal audit system of the corporate group of a venture fund initial listing 
+applicant is developed and operates appropriately. 
+(4)  An effective system to comply with laws and regulations, etc. is deemed to have 
+been developed and operates appropriately for a venture fund initial listing applicant 
+to carry out asset management, etc. 
+ 
+ (Viewpoints of Public Interest or Investor Protection) 
+5.  Listing examination on matters specified in Rule 1306, Paragraph 1, Item (4) of 
+the Regulations shall be conducted from viewpoints including those referred to in 
+the following (1) and (2): 
+ (1) The corporate group of a venture fund initial listing applicant has developed 
+an internal structure to prevent anti-social forces from intervening in corporate 
+activities and is making efforts to prevent such intervention, and such efforts 
+are deemed appropriate in light of the public interest or investor protection; and 
+ (2) Otherwise, it is deemed appropriate from the viewpoint of the public interest or 
+the protection of investors. 
+ 
+X VI. Listing Examination of New Investment Unit Subscription Warrant 
+Securities Issued by Investment Corporations Pertaining to Listed Venture 
+Funds 
+ 
+(Viewpoints of Public Interest or Investor Protection)  
+Listing examination on the matters specified in Rule 1310-2, Paragraph 1, Item (4) of 
+the Regulations shall be carried out from viewpoints including those referred to in the 
+following (1) to (3):  
+(1) A listing applicant shall not fall under any of the following a. through d. 
+(excluding commitment type cases prescribed in Rule 1310-2, Paragraph 1, 
+Item (2) of the Regulations);  
+a. Where listed venture funds of an investment corporation that is an issuer of 
+new investment unit subscription warrant securities are designated as 
+Securities Under Supervision pursuant to the provisions of Rule 1321 of 
+the Regulations or where they are designated as Securities to Be Delisted 
+pursuant to the provisions of Rule 1322 of the Regulations;  
+b. Where listed venture funds of an investment corporation that is an issuer of 
+new investment unit subscription warrant securities fall under any of the 
+following (a) and (b); 
+(a) They fall within the period specified in Rule 1318, Paragraph 2, Item 
+(1) of the Regulations; or 
+(Reference Translation) 
+ 
+ 
+DISCLAIMER: This translation may be used for reference purposes only. This English version is not an official translation of the original 
+Japanese version. In cases where any differences occur between the English version and the original Japanese version, the Japanese version 
+shall prevail. This translation is subject to change without notice. Tokyo Stock Exchange, Inc., Japan Exchange Regulation, Japan Exchange 
+Group, Inc., and/or their affiliates shall individually or jointly accept no responsibility or liability for damage or loss caused by any error, 
+inaccuracy, misunderstanding, or changes with regard to this translation. 
+47 
+(b) They fall within the period specified in Rule 1318, Paragraph 2, Item 
+(8) of the Regulations.  
+c. Where it is deemed substantially the same as cases where the investment 
+performance or financial status of an investment corporation that is an 
+issuer of new investment unit subscription warrant securities falls under 
+any of the following Sub-item a. or b. of Rule 1310-2, Paragraph 1, Item 
+(3) of the Regulations; or  
+d. Where they are deemed to be in an equivalent state to those prescribed in 
+the above a. through c.  
+(2) Where restricting exercise of warrants of new investment unit subscription 
+warrant securities, such restriction shall be deemed necessary and suitable; 
+and  
+(3) Otherwise, it is deemed appropriate from the viewpoint of the public interest 
+or the protection of investors. 
+ 
+X VII. Initial Listing Examinations of Country Funds 
+ 
+ (Listing Examination Pertaining to Application for Initial Listing of Country 
+Funds) 
+1.  Listing examination on country funds specified in Rule 1406, Paragraph 1 of the 
+Regulations shall be conducted as prescribed in this X VII. 
+ 
+ (Appropriateness of Disclosure) 
+2.  Listing examination on matters specified in Rule 1406, Paragraph 1, Item (1) of 
+the Regulations shall be conducted from viewpoints including those referred to in 
+the following (1) to (3): 
+ (1) Documents pertaining to disclosure of investment information, out of the 
+initial listing application documents, have been prepared in accordance with 
+laws and regulations, etc., and shall clearly describe matters which may have a 
+material impact on investment decisions of investors such as legal systems of 
+the home country, etc., the financial condition and financial results of the 
+applicant for initial listing of a country fund, and officers and large investors, 
+etc.; and 
+ (2) The applicant for initial listing of a country fund has an accounting structure 
+that is deemed to be established and operated appropriately; and 
+ (3) The applicant for initial listing of a country fund shall be able to manage 
+corporate information such as information of facts, etc. which will have a 
+material impact on management, etc. and conduct timely and appropriate 
+disclosure. 
+ 
+ (Viewpoints of Public Interest or Investor Protection) 
+3.  Listing examination on matters specified in Rule 1406, Paragraph 1, Item (2) of 
+(Reference Translation) 
+ 
+ 
+DISCLAIMER: This translation may be used for reference purposes only. This English version is not an official translation of the original 
+Japanese version. In cases where any differences occur between the English version and the original Japanese version, the Japanese version 
+shall prevail. This translation is subject to change without notice. Tokyo Stock Exchange, Inc., Japan Exchange Regulation, Japan Exchange 
+Group, Inc., and/or their affiliates shall individually or jointly accept no responsibility or liability for damage or loss caused by any error, 
+inaccuracy, misunderstanding, or changes with regard to this translation. 
+48 
+the Regulations shall be conducted from viewpoints including those referred to in 
+the following (1) to (6): 
+ (1) The corporate group of an applicant for initial listing of a country fund has 
+developed an internal structure to prevent anti-social forces from intervening in 
+corporate activities and is making efforts to prevent such intervention, and such 
+efforts are deemed appropriate in light of the public interest or investor 
+protection;  
+ (2) The contents of the rights of investors and the state of their exercise are not unfairly 
+restricted; 
+ (3) An applicant for initial listing of a country fund is expected to manage the 
+assets of the fund based on its basic policy on asset management, etc.; 
+ (4) The asset management company of the country fund pertaining to an initial 
+listing application has, as a general rule, been established as an asset 
+management company for at least three (3) years by the end of the base 
+business period (meaning the most recent business period for which financial 
+statements, etc. are presented in the financial information section of an annual 
+securities report, etc. for a country fund issuing investment corporation; the 
+same shall apply in the following item) and has a record of investment 
+management pertaining to foreign securities. In this case, even where at least 
+three (3) years have not elapsed since establishment, it shall suffice for its 
+parent company to satisfy these conditions; 
+ (5) An entity which is entrusted to handle administrative work of the investment 
+corporation issuing the country fund pertaining to an initial listing application 
+has, as a general rule, been established as an entity to handle administrative 
+work for at least three (3) years by the end of the base business period  and 
+has a record of performance of entrusted administrative work pertaining to 
+foreign investment corporations, etc. In this case, even where at least three (3) 
+years have not elapsed since establishment, it shall suffice for its parent 
+company to satisfy these conditions; and 
+(6) Otherwise, it is deemed appropriate from the viewpoint of the public interest 
+or the protection of investors. 
+ 
+ 
+X VIII. Initial Listing Examinations of Infrastructure Funds 
+ 
+(Listing Examination Pertaining to Application for Initial Listing of Infrastructure 
+Funds) 
+1.  Listing examination on infrastructure funds specified in Rule 1506, Paragraph 1 of the 
+Regulations shall be conducted as prescribed in this X VIII. 
+ 
+(Appropriateness of Disclosure) 
+2.  Listing examination on matters specified in Rule 1506, Paragraph 1, Item (1) of the 
+(Reference Translation) 
+ 
+ 
+DISCLAIMER: This translation may be used for reference purposes only. This English version is not an official translation of the original 
+Japanese version. In cases where any differences occur between the English version and the original Japanese version, the Japanese version 
+shall prevail. This translation is subject to change without notice. Tokyo Stock Exchange, Inc., Japan Exchange Regulation, Japan Exchange 
+Group, Inc., and/or their affiliates shall individually or jointly accept no responsibility or liability for damage or loss caused by any error, 
+inaccuracy, misunderstanding, or changes with regard to this translation. 
+49 
+Regulations shall be conducted from viewpoints including those referred to in the 
+following (1) and (2): 
+(1) Documents pertaining to disclosure of information regarding infrastructure funds, 
+out of the initial listing application documents, shall clearly describe matters which 
+may have a material impact on investment decisions of investors; and 
+(2) The applicant for initial listing of an infrastructure fund shall be able to timely 
+disclose material information etc., which may have a significant impact on asset 
+investment, etc. Moreover, its system for the preemptive prevention of insider trading, 
+etc. is deemed to be developed and operated appropriately. 
+ 
+(Soundness of Asset Management, etc.) 
+3.  Listing examination concerning the matters specified in Rule 1506, Paragraph 1, Item 
+(2) of the Regulations shall be carried out from viewpoints including those referred to in 
+the following (1) to (4): 
+(1)  An entity who has applied for initial listing of an infrastructure fund has developed 
+an appropriate system for asset management, etc. in order not to damage interests of 
+investors or beneficiaries of an initial listing application issue; 
+(2)  An entity who has applied for initial listing of an infrastructure fund is deemed not 
+to give or enjoy profit wrongfully through trading acts or other asset managements, 
+etc. with the corporate group of a sponsor in light of matters including those referred 
+to in the following a. and b.: 
+a. Where a transaction between an entity who has applied for initial listing of an 
+infrastructure fund and the corporate group of a sponsor has occurred, such 
+transaction has rationality of continuing the transaction and reasonability of trading 
+terms including trading prices; and 
+b. Interests of investors and beneficiaries of an initial listing application issue are not 
+possibly damaged unfairly due to the corporate group of a sponsor giving priority to 
+their own interests. 
+(3)  The internal management system is deemed to be appropriately developed and   
+operated in light of matters including those referred to in the following a. and b. so 
+that an entity who has applied for initial listing can efficiently carry out asset 
+management, etc.: 
+a. A necessary managerial and administrative body is developed and operated 
+appropriately to secure the efficiency of management activities and the internal 
+checking functions of the corporate group of an initial listing applicant of an 
+infrastructure fund; and 
+b. An internal audit system of the corporate group of an initial listing applicant of an 
+infrastructure fund is developed and operated appropriately. 
+(4)  An effective system to comply with laws and regulations, etc. is deemed to have 
+been developed and operated appropriately for an initial listing applicant of an 
+infrastructure fund to carry out asset management, etc.. 
+ 
+(Reference Translation) 
+ 
+ 
+DISCLAIMER: This translation may be used for reference purposes only. This English version is not an official translation of the original 
+Japanese version. In cases where any differences occur between the English version and the original Japanese version, the Japanese version 
+shall prevail. This translation is subject to change without notice. Tokyo Stock Exchange, Inc., Japan Exchange Regulation, Japan Exchange 
+Group, Inc., and/or their affiliates shall individually or jointly accept no responsibility or liability for damage or loss caused by any error, 
+inaccuracy, misunderstanding, or changes with regard to this translation. 
+50 
+(Continuity of Profits or Distribution of Money) 
+4.  Listing examination concerning matters specified in Rule 1506, Paragraph 1, Item (3) of 
+the Regulations shall be carried out from the viewpoint that distribution of money or 
+profit of the fund pertaining to such issue is expected to be continuously conducted via 
+owning infrastructure funds, etc. which are producing or are expected to produce rent 
+business income, out of assets under management, etc. (including, in cases where 
+documents prescribed in Rule 1506, Paragraph 2 of the Enforcement Rules are 
+submitted, infrastructure funds, etc. which are expected to be acquired within three (3) 
+months of listing), and other viewpoints. 
+ 
+(Viewpoints of Public Interest or Investor Protection) 
+5.  Listing examination concerning matters specified in Rule 1506, Paragraph 1, Item (4) of 
+the Regulations shall be carried out from viewpoints including those referred to in the 
+following (1) and (2): 
+(1) The corporate group of an initial listing applicant of an infrastructure fund is deemed 
+to develop internal systems to prevent criminal and extremist elements from being 
+involved in management activities, and make efforts to prevent such involvement, and 
+their actual state is deemed appropriate from the viewpoints of the public interest or 
+investor protection; and 
+(2) Otherwise, it is deemed appropriate from the viewpoint of the public interest or the 
+protection of investors. 
+ 
+ 
+X IX. Listing Examinations of New Investment Unit Subscription Warrant 
+Securities Issued by Investment Corporation pertaining to Listing Domestic 
+Infrastructure Fund 
+ 
+(Viewpoints of Public Interest or Investor Protection) 
+Listing examination on the matters specified in Rule 1511, Paragraph 1, Item (4) of the 
+Regulations shall be carried out from viewpoints including those referred to in the following 
+(1) to (3): 
+(1)  A listing applicant shall not fall under any of the following a. through d. (excluding 
+the case of commitment type prescribed in Rule 1511, Paragraph 1, Item (2) of the 
+Regulations); 
+a. Where a listed domestic infrastructure funds of an investment corporation that is an 
+issuer of new investment unit subscription warrant securities are designated as 
+Securities Under Supervision pursuant to the provisions of Rule 1524 of the 
+Regulations or Securities to Be Delisted pursuant to the provisions of Rule 1525 of 
+the Regulations; 
+b. Where a listed domestic infrastructure fund of an investment corporation that is an 
+issuer of new investment unit subscription warrant securities fall under any of the 
+following (a) through (f); 
+(Reference Translation) 
+ 
+ 
+DISCLAIMER: This translation may be used for reference purposes only. This English version is not an official translation of the original 
+Japanese version. In cases where any differences occur between the English version and the original Japanese version, the Japanese version 
+shall prevail. This translation is subject to change without notice. Tokyo Stock Exchange, Inc., Japan Exchange Regulation, Japan Exchange 
+Group, Inc., and/or their affiliates shall individually or jointly accept no responsibility or liability for damage or loss caused by any error, 
+inaccuracy, misunderstanding, or changes with regard to this translation. 
+51 
+(a) Where falling within the period specified in Rule 1520, Paragraph 2, Item (1), 
+Sub-item a. of the Regulations; 
+(b) Where falling within the period specified in Rule 1520, Paragraph 2, Item (1), 
+Sub-item b. of the Regulations; 
+(c) Where falling within the period specified in Rule 1520, Paragraph 2, Item (1), 
+Sub-item c. of the Regulations; 
+(d) Where falling within the period specified in Rule 1520, Paragraph 2, Item (1), 
+Sub-item d. of the Regulations; 
+(e) Where falling within the period specified in Rule 1520, Paragraph 2, Item (1), 
+Sub-item e. of the Regulations; or 
+(f) Where falling within the period specified in Rule 1520, Paragraph 2, Item (1), 
+Sub-item n. of the Regulations. 
+c. Where deemed essentially equivalent to cases where asset management results and 
+financial conditions of an investment corporation that is an issuer of new investment 
+unit subscription warrant securities fall under either Rule 1511, Paragraph 1, Item (3), 
+Sub-items a. or b. of the Regulations; and 
+d. Where falling under any other situation equivalent to those prescribed in Sub-item a. 
+through the preceding Sub-item c. 
+(2) Where exercise of rights of new investment unit subscription warrant securities is 
+restricted, such restriction is deemed necessary and appropriate; and 
+(3) Otherwise, it is deemed appropriate from the viewpoint of the public interest or the 
+protection of investors. 
+ 
+Supplementary Provision 
+The revised rules shall be implemented on March 13, 2023. 
+ 
+Supplementary Provision 
+The revised rules shall be implemented on June 13, 2023. 
+ 
+Supplementary Provision 
+1. The revised rules shall be implemented on January 15, 2024. 
+2. The provisions of the revised VII (1) shall apply to entities that will file an application 
+for a segment transfer on and after the implementation day of the revised rules. 
+ 
+Supplementary Provisions 
+1. These revisions shall take effect on April 1, 2024. 
+2. Prior rules shall continue to govern the application of the provisions of XII. 10. before 
+the revision pertaining to quarterly securities reports prescribed in Article 24-4-7, 
+Paragraph 1 of the Act before the amendment pursuant to the Act Partially Amending 
+the Financial Instruments and Exchange Act (Act No. 79 of 2023, hereinafter referred 
+to as the "Amendment Act") (including those submitted pursuant to the provisions of 
+Article 2, Paragraph 1 of the supplementary provisions of the Amendment Act). 
+ 
+Supplementary Provisions 
+These revisions shall take effect on February 28, 2025. 
+ 
+(Reference Translation) 
+ 
+ 
+DISCLAIMER: This translation may be used for reference purposes only. This English version is not an official translation of the original 
+Japanese version. In cases where any differences occur between the English version and the original Japanese version, the Japanese version 
+shall prevail. This translation is subject to change without notice. Tokyo Stock Exchange, Inc., Japan Exchange Regulation, Japan Exchange 
+Group, Inc., and/or their affiliates shall individually or jointly accept no responsibility or liability for damage or loss caused by any error, 
+inaccuracy, misunderstanding, or changes with regard to this translation. 
+52 
+Supplementary Provisions 
+These revisions shall take effect on December 8, 2025. 
+ 

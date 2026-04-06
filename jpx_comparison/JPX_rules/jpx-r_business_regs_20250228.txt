@@ -1,0 +1,1019 @@
+ 
+(Reference Translation) 
+ 
+ 
+DISCLAIMER: This translation may be used for reference 
+purposes only. This English version is not an official translation of 
+the original Japanese document. In cases where any differences occur between the English version and the original Japanese version, the 
+Japanese version shall prevail. This translation is subject to change without notice. Japan Exchange Regulation, Tokyo Stock Exchange, 
+Inc., Osaka Exchange, Inc., Japan Exchange Group, Inc., and/or their affiliates shall individually or jointly accept no responsibility or 
+liability for damage or loss caused by any error, inaccuracy, misunderstanding, or changes with regard to this translation. 
+1 
+Business Regulations 
+(as of  February 28, 2025) 
+ 
+Japan Exchange Regulation 
+ 
+Contents 
+Chapter 1  General Provisions 
+Chapter 2  Examination of Trading Participant Qualifications  
+Chapter 3  Inspections on Trading Participants  
+Chapter 4  Surveillance of Securities Trading, etc. 
+Chapter 5  Decision on Details of Disciplinary Actions and Other Measures against Trading 
+Participants 
+Chapter 6  Examination with respect to New Listing of Financial Instruments, etc.  
+Chapter 7  Examination, etc. concerning Disclosure by Issuers of Listed Securities of 
+Information on such Issuers 
+    Section 1  Examination concerning Disclosure by Issuers of Listed Securities of 
+Information on such Issuers 
+Section 2  Decision on Details of Measures Such As Regulatory Actions against  
+Issuers of Listed Securities 
+Chapter 8  Examination with respect to Delisting of Financial Instruments, etc.  
+Chapter 9  Miscellaneous Rules 
+Supplementary Provisions 
+ 
+Chapter 1 
+General Provisions 
+ 
+Rule 1. Purpose 
+These Rules shall prescribe necessary matters concerning the execution of the self-regulatory 
+operations that Japan Exchange Regulation (hereinafter referred to as "JPX-R") carries out 
+based on entrustment by the entrusting financial instruments exchanges pursuant to the 
+provisions of Article 39, Paragraph 1 of the Articles of Incorporation.  
+ 
+Rule 2. Definitions 
+In these Rules, the term listed in each of the following items shall mean as prescribed in each 
+such Item. 
+(1) An entrusting financial instruments exchange shall mean the financial instruments 
+exchange that has entrusted its self-regulatory operations to JPX-R. 
+ 
+(Reference Translation) 
+ 
+ 
+DISCLAIMER: This translation may be used for reference 
+purposes only. This English version is not an official translation of 
+the original Japanese document. In cases where any differences occur between the English version and the original Japanese version, the 
+Japanese version shall prevail. This translation is subject to change without notice. Japan Exchange Regulation, Tokyo Stock Exchange, 
+Inc., Osaka Exchange, Inc., Japan Exchange Group, Inc., and/or their affiliates shall individually or jointly accept no responsibility or 
+liability for damage or loss caused by any error, inaccuracy, misunderstanding, or changes with regard to this translation. 
+2 
+(2) Financial instruments, etc. shall mean financial instruments or options. 
+(3) A Trading Participant shall mean the Trading Participant of the entrusting financial 
+instruments exchange. 
+(4) A listed security shall mean a security listed on the market of the entrusting financial 
+instruments exchange. 
+(5) Securities trading, etc. shall mean securities trading and market transactions of 
+derivatives. 
+(6) New listing, etc. shall mean new listing of financial instruments, etc. (excluding the 
+new listing of financial instruments, etc. for specified market transactions of derivatives 
+(meaning market transactions of derivatives where underlying stocks of financial 
+instruments, etc. are specified under the Business Regulations and other rules of the 
+entrusting financial instruments exchanges; the same shall apply hereinafter), change in 
+the market segments of listed securities and removal of a grace period with respect to 
+an inappropriate merger, etc. 
+(7) Inspections shall mean inspections on Trading Participants as prescribed in Chapter 3. 
+2. In addition to the definitions prescribed in the preceding paragraph, the definitions of the 
+terms used in these Rules shall be as prescribed in laws and regulations, the Business 
+Regulations and other rules of the entrusting financial instruments exchange, except as 
+otherwise provided by provisions of these Rules. 
+ 
+Rule 3. Self-regulatory Operations, etc. Carried Out by JPX-R 
+JPX-R shall carry out the self-regulatory operations enumerated in each of the following 
+items based on entrustment of the entrusting financial instruments exchange. 
+(1) Examination on qualifications of Trading Participants 
+(2) Inspections on Trading Participants 
+(3) Market surveillance on securities trading, etc. 
+(4) Decision on details of disciplinary actions and other measures against Trading 
+Participants 
+(5) Examination with respect to new listing of financial instruments, etc. 
+(6) Examination with respect to delisting of financial instruments, etc. (excluding delisting 
+of financial instruments, etc. for specified market transactions of derivatives) 
+(7) Examination on information disclosure by an issuer of listed securities about such issuer 
+and decision on details of measures such as a regulatory action against an issuer of listed 
+securities 
+(8) Development, amendment or abolishment of rules of the entrusting financial 
+instruments exchange concerning execution of the operations listed in each of the 
+ 
+(Reference Translation) 
+ 
+ 
+DISCLAIMER: This translation may be used for reference 
+purposes only. This English version is not an official translation of 
+the original Japanese document. In cases where any differences occur between the English version and the original Japanese version, the 
+Japanese version shall prevail. This translation is subject to change without notice. Japan Exchange Regulation, Tokyo Stock Exchange, 
+Inc., Osaka Exchange, Inc., Japan Exchange Group, Inc., and/or their affiliates shall individually or jointly accept no responsibility or 
+liability for damage or loss caused by any error, inaccuracy, misunderstanding, or changes with regard to this translation. 
+3 
+preceding items (excluding criteria for listing and delisting of financial instruments, etc. 
+and criteria for granting Trading Participant qualifications) 
+(9) Preparation of a summary of agendas for general shareholders meetings of the 
+entrusting financial instruments exchange with respect to amendment to the Articles of 
+Incorporation of the entrusting financial instruments exchange concerning execution of 
+the operations listed in Item (1) through Item (7) (excluding amendment to the Articles 
+of Incorporation with respect to criteria for listing and delisting of financial instruments, 
+etc. and criteria for granting Trading Participant qualifications) 
+ 
+Rule 4. Basic Policy for Executing Self-regulatory Operations 
+JPX-R shall carry out self-regulatory operations rigidly and appropriately from a fair and 
+neutral standpoint in accordance with these Rules in addition to laws and regulations, the 
+Articles of Incorporation, and the Business Regulations and other rules of the entrusting 
+financial instruments exchange. 
+ 
+Rule 5. Entrustment Agreement 
+1. JPX-R shall enter into an entrustment agreement with the entrusting financial instruments 
+exchange to carry out self-regulatory operations. 
+2. The entrustment agreement shall prescribe the matters listed in each of the following items 
+and other matters necessary to secure appropriate execution of the self-regulatory 
+operations of JPX-R. 
+(1) Details of the entrusted self-regulatory operations 
+(2) Provision of records and materials necessary for execution of self-regulatory operations 
+(3) Confidentiality obligations 
+(4) Method for calculating operation entrustment commissions 
+(5) Causes for termination of the entrustment agreement 
+ 
+Rule 6. Prohibition of Re-entrustment 
+1. JPX-R shall not re-entrust the self-regulatory operations entrusted by the entrusting 
+financial instruments exchange to another entity; provided, however, that this shall not 
+apply to cases where specified operations (meaning specified operations prescribed by 
+Article 85, Paragraph 4 of the Financial Instruments and Exchange Act (Act No. 25 of 
+1948; hereinafter referred to as the "Act"); the same shall apply hereinafter) are entrusted 
+to another entity with the agreement of the entrusting financial instruments exchange. 
+2. If JPX-R entrusts specified operations to another entity based on the provisions of the 
+proviso to the preceding paragraph, it shall take the measures enumerated in the following 
+items and any other necessary measures to ensure the proper execution of the specified 
+ 
+(Reference Translation) 
+ 
+ 
+DISCLAIMER: This translation may be used for reference 
+purposes only. This English version is not an official translation of 
+the original Japanese document. In cases where any differences occur between the English version and the original Japanese version, the 
+Japanese version shall prevail. This translation is subject to change without notice. Japan Exchange Regulation, Tokyo Stock Exchange, 
+Inc., Osaka Exchange, Inc., Japan Exchange Group, Inc., and/or their affiliates shall individually or jointly accept no responsibility or 
+liability for damage or loss caused by any error, inaccuracy, misunderstanding, or changes with regard to this translation. 
+4 
+operations in accordance with the provisions of Article 7-3 applied mutatis mutandis 
+pursuant to Article 32-2 of the Cabinet Office Ordinance on Financial Instruments 
+Exchanges, etc. (Cabinet Office Ordinance No. 54 of 2007). 
+ (1) JPX-R shall carry out the necessary investigations on the state of execution of operations, 
+the management system, the financial condition and other matters of the entity to which 
+it is to entrust the specified operations, and carry out examination of whether the 
+specified operations can be executed in a proper, just, and efficient manner. 
+ (2) JPX-R shall enter into an agreement with the entity to which it entrusts the specified 
+operations (hereinafter referred to as the "entrustee"), which specifies the obligations of 
+the entrustee pertaining to information management, the reasons for terminating 
+entrustment, and any other necessary matters to ensure the proper execution of the 
+specified operations. 
+(3) In order to confirm the state of execution of the specified operations, the management 
+system, and the financial condition of the entrustee, JPX-R shall request the entrustee to 
+submit reports or materials on such matters, or carry out on-site inspections of books, 
+documents, or other objects of the entrustee. 
+ 
+Rule 7. Confidentiality Obligation 
+JPX-R shall not use information that has become known to it in relation to self-regulatory 
+operations for any other purpose than to use for such self-regulatory operations. 
+ 
+Chapter 2 
+Examination of Trading Participant Qualifications 
+ 
+Rule 8. Examination for Approving Trading Qualifications Obtainment 
+1. JPX-R shall carry out examination, based on the criteria prescribed by the entrusting 
+financial instruments exchange, if an entity who wishes to obtain trading qualifications 
+for the entrusting financial instruments exchange (hereinafter referred to as a "trading 
+qualification obtaining applicant") makes an application for obtaining a trading 
+qualification to the entrusting financial instruments exchange. 
+2. JPX-R shall request a trading qualification obtaining applicant to submit reports or 
+materials which are referential with regard to operations or assets of the trading 
+qualification obtaining applicant, or shall cause employees of JPX-R to inspect the state 
+of operations or assets or books, documents or any other article of such trading 
+qualification obtaining applicant, if JPX-R deems it necessary for the examination in the 
+preceding paragraph. 
+ 
+(Reference Translation) 
+ 
+ 
+DISCLAIMER: This translation may be used for reference 
+purposes only. This English version is not an official translation of 
+the original Japanese document. In cases where any differences occur between the English version and the original Japanese version, the 
+Japanese version shall prevail. This translation is subject to change without notice. Japan Exchange Regulation, Tokyo Stock Exchange, 
+Inc., Osaka Exchange, Inc., Japan Exchange Group, Inc., and/or their affiliates shall individually or jointly accept no responsibility or 
+liability for damage or loss caused by any error, inaccuracy, misunderstanding, or changes with regard to this translation. 
+5 
+3. Where the result of the examination in Paragraph 1 is decided, JPX-R shall notify the 
+entrusting financial instruments exchange of said decision without delay. 
+ 
+Rule 9. Examination with respect to Approval of Mergers, etc. of Trading Participants 
+1. Where a Trading Participant applies for approval to the entrusting financial instruments 
+exchange in the cases set out in each of the following items, JPX-R shall carry out 
+examination on the basis of the criteria set forth by the entrusting financial instruments 
+exchange.  
+(1) Where a Trading Participant intends to pass on part of a business to another company 
+as a result of a merger or company split (in the case of a registered financial institution, 
+this shall mean the registered financial institution operations; the same shall apply 
+hereinafter in this item), to succeed the whole or part of a business from another 
+company as a result of a company split, or to transfer part of a business to or acquire the 
+whole or part of a business from another company. 
+(2) Where a Remote Trading Participant intends to register a financial instruments business. 
+(3) Where a Trading Participant that is a financial instruments business operator intends to 
+obtain permission for an exchange trading business. 
+(4) Where a Commodity Futures, etc. Trading Participant intends to change its Commodity 
+Futures, etc. Trading Participant type. 
+2. The provisions of Paragraph 2 of the preceding rule shall be applied mutatis mutandis to 
+the examination in the preceding paragraph. 
+3. Where any act of the Trading Participant prescribed in the same paragraph is deemed 
+inappropriate in the light of the administration of the market of the entrusting financial 
+instruments exchange in the examination in Paragraph 1, JPX-R shall conduct a hearing 
+with such Trading Participant and shall decide that it is not appropriate for the entrusting 
+financial instruments exchange to approve of such act. In this case, where the Trading 
+Participant submits a written statement, the hearing may be replaced by such submission. 
+4. Where the Trading Participant does not comply with the hearing in the preceding 
+paragraph without any adequate reason, JPX-R may carry out the decision in the same 
+paragraph without carrying out a hearing. 
+5. Where the result of the examination in Paragraph 1 is decided, JPX-R shall notify the 
+entrusting financial instruments exchange of said decision without delay. 
+6. Where the entrusting financial instruments exchange does not give approval to the act 
+prescribed in Paragraph 1 and the Trading Participant files an objection with the 
+entrusting financial instruments exchange on the basis of the decision in Paragraph 3, 
+JPX-R shall hold a meeting of the Board of Governors without delay. 
+ 
+(Reference Translation) 
+ 
+ 
+DISCLAIMER: This translation may be used for reference 
+purposes only. This English version is not an official translation of 
+the original Japanese document. In cases where any differences occur between the English version and the original Japanese version, the 
+Japanese version shall prevail. This translation is subject to change without notice. Japan Exchange Regulation, Tokyo Stock Exchange, 
+Inc., Osaka Exchange, Inc., Japan Exchange Group, Inc., and/or their affiliates shall individually or jointly accept no responsibility or 
+liability for damage or loss caused by any error, inaccuracy, misunderstanding, or changes with regard to this translation. 
+6 
+7. Where it is deemed appropriate to change or cancel the decision in Paragraph 3 in the 
+meeting of the Board of Governors specified in the preceding paragraph, the decision 
+shall be changed or cancelled immediately. 
+8. Where the change or cancellation in the preceding paragraph is made, JPX-R shall notify 
+the entrusting financial instruments exchange of that fact immediately. 
+ 
+Chapter 3 
+Inspections on Trading Participants 
+ 
+Rule 10. Purpose of Inspection on Trading Participants 
+1. JPX-R shall consider inspections and carry out measures against the Trading Participant 
+on the basis of the result pursuant to the provisions set forth by JPX-R. 
+2. Inspection in the preceding paragraph shall be aimed at carrying out a survey on the state 
+of observation of laws and regulations or disciplinary actions of administrative agencies 
+under laws and regulations or the Articles of Incorporation, Business Regulations, 
+Brokerage Agreement Standards and any other rules or disciplinary actions based on these 
+or just and equitable principles of trade (hereinafter referred to as "Laws, etc.") and the 
+state of operations or assets with respect to the Trading Participant, and JPX-R shall carry 
+out necessary measures on the basis of the results of such survey, thus securing the trust 
+and cooperation of Trading Participants for the public interest and the protection of 
+investors.  
+ 
+Rule 11. Issuing Warning, etc. 
+1. Where an act of the Trading Participant violates, or is deemed to be likely to violate, Laws, 
+etc. as a result of the inspection, JPX-R shall caution such Trading Participant excluding 
+a case where disciplinary actions as prescribed in Rule 20, Paragraph 1 are executed. 
+2. Where JPX-R cautions the Trading Participant pursuant to the provisions prescribed in the 
+preceding paragraph, JPX-R shall require such Trading Participant to report its 
+improvement measures, etc. in writing, when it deems this necessary.  
+ 
+Rule 12. Requests, etc. 
+1. Where the state of operations or assets of the Trading Participant are deemed to be 
+inappropriate or are likely to become inappropriate in consideration of market operation 
+of the entrusting financial instruments exchange as a result of the inspection, JPX-R shall 
+require such Trading Participant to carry out necessary measures to improve such 
+circumstances, excluding cases where recommendation as prescribed in Rule 22, 
+Paragraph 1 is made. 
+ 
+(Reference Translation) 
+ 
+ 
+DISCLAIMER: This translation may be used for reference 
+purposes only. This English version is not an official translation of 
+the original Japanese document. In cases where any differences occur between the English version and the original Japanese version, the 
+Japanese version shall prevail. This translation is subject to change without notice. Japan Exchange Regulation, Tokyo Stock Exchange, 
+Inc., Osaka Exchange, Inc., Japan Exchange Group, Inc., and/or their affiliates shall individually or jointly accept no responsibility or 
+liability for damage or loss caused by any error, inaccuracy, misunderstanding, or changes with regard to this translation. 
+7 
+2. Where a request prescribed in the preceding paragraph is made, JPX-R shall require such 
+Trading Participant to report its improvement measures, etc. in writing, when it deems 
+this necessary. 
+ 
+Chapter 4 
+Surveillance of Securities Trading, etc. 
+ 
+Rule 13. Purpose of Examination of Securities Trading, etc. 
+The purpose of examination of securities trading, etc. to be carried out by JPX-R is to 
+discover an act in violation of laws and regulations or disciplinary actions of administrative 
+agencies or the Articles of Incorporation, Business Regulations, Brokerage Agreement 
+Standards and any other rules or disciplinary actions on the basis of these, or an act which 
+violates the just and equitable principles of trade (hereinafter referred to as "Violating Acts") 
+and acts which are likely to fall under Violating Acts, and shall simultaneously carry out 
+necessary measures against Trading Participants, etc. involved in these acts, thus preventing 
+Violating Acts and acts which are likely to fall under Violating Acts, securing the trust of the 
+entrusting financial instruments exchange and Trading Participants, etc., and being 
+conducive to the public interest and the protection of investors, concerning securities trading, 
+etc. in the market of the entrusting financial instruments exchange. 
+ 
+Rule 14. Transactions for Examination 
+JPX-R shall carry out examination of securities trading, etc. listed in each of the following 
+items. 
+(1) Transactions in stocks, contract month transactions, contract day transactions, or the 
+movements of the prices or turnovers of which are not ordinary 
+(2) Transactions, etc. of stocks where an important fact concerning operations, etc. as 
+prescribed in Article 166, Paragraph 1 of the Act with respect to the issuer of listed 
+securities and a fact relating to a public offer prescribed in Article 167, Paragraph 3 of 
+the Act (hereinafter referred to as "Material Facts, etc.") are publicly announced 
+(3) Other securities trading, etc. that JPX-R deems it necessary to carry out examination 
+ 
+Rule 15. Examination Items 
+Examination of securities trading, etc. listed in each of the Items in the preceding rule shall 
+be carried with respect to necessary items, out of the items listed in each of the following 
+items and other items. 
+(1) State of movements of prices and turnovers 
+(2) State of sale or purchase of Trading Participants 
+ 
+(Reference Translation) 
+ 
+ 
+DISCLAIMER: This translation may be used for reference 
+purposes only. This English version is not an official translation of 
+the original Japanese document. In cases where any differences occur between the English version and the original Japanese version, the 
+Japanese version shall prevail. This translation is subject to change without notice. Japan Exchange Regulation, Tokyo Stock Exchange, 
+Inc., Osaka Exchange, Inc., Japan Exchange Group, Inc., and/or their affiliates shall individually or jointly accept no responsibility or 
+liability for damage or loss caused by any error, inaccuracy, misunderstanding, or changes with regard to this translation. 
+8 
+(3) Matters concerning the entrustment and the state of the entrustment of a sale or a 
+purchase by such entrustor 
+(4) Details of Material Facts, etc. and matters concerning its public announcement 
+(5) State of transactions, etc. of a Trading Participant that is a managing underwriter for the 
+issuer of listed securities 
+ 
+Rule 16. Request for Materials, etc. for Examination 
+1. Where JPX-R deems it necessary to carry out examination of securities trading, etc. 
+referred to in any item of Rule 14, JPX-R shall require a Trading Participant to present or 
+allow inspection of its books, documents and other articles, or submit materials or explain 
+the facts, as well as prepare. written documents stating the details of such explanation, 
+etc. 
+2. Where JPX-R deems it necessary to carry out examination of securities trading, etc. 
+referred to in any item of Rule 14 on an issuer of listed securities, JPX-R shall inquire 
+into the developments, etc. from the occurrence of corporate information to the public 
+announcement by the issuer of the listed security, where JPX-R deems it necessary to 
+carry out a survey in order to secure fairness of securities trading, etc., and shall require 
+the same to submit materials deemed necessary for such examination or explain the facts, 
+as well as prepare written documents stating the details of such explanation. 
+3. Where JPX-R deems it necessary to carry out examination of securities trading, etc. 
+referred to in any item of Rule 14 on a person conducting low latency trading prescribed 
+in Article 2, Paragraph 41 of the Act, JPX-R shall request the person conducting low 
+latency trading to submit materials deemed necessary for such examination or explain the 
+facts, as well as prepare written documents stating the details of such explanation. 
+ 
+Rule 17. Issuing Warnings to Trading Participants, etc. 
+1. Where an act of a Trading Participant is deemed to be an act in violation or an act which 
+is likely to fall under an act in violation as a result of the examination of securities trading, 
+etc., JPX-R shall issue warnings to such Trading Participant, where it deems it necessary. 
+2. JPX-R shall require such Trading Participant to report improvement measures, etc. by 
+written documents, where JPX-R issues warnings pursuant to the provisions prescribed 
+in the preceding paragraph and deems it necessary. 
+ 
+Rule 18. Issuing Warnings to Issuers of Listed Securities, etc. 
+1. JPX-R shall issue warnings to an issuer of listed securities, where it deems that the act of 
+such issuer of the listed security is an act in violation of laws and regulations or an act 
+which is likely to fall under that in violation of laws and regulations or where it concludes 
+ 
+(Reference Translation) 
+ 
+ 
+DISCLAIMER: This translation may be used for reference 
+purposes only. This English version is not an official translation of 
+the original Japanese document. In cases where any differences occur between the English version and the original Japanese version, the 
+Japanese version shall prevail. This translation is subject to change without notice. Japan Exchange Regulation, Tokyo Stock Exchange, 
+Inc., Osaka Exchange, Inc., Japan Exchange Group, Inc., and/or their affiliates shall individually or jointly accept no responsibility or 
+liability for damage or loss caused by any error, inaccuracy, misunderstanding, or changes with regard to this translation. 
+9 
+that the internal system for the prevention of unfair trading with respect to corporate 
+information is not adequate and deems it necessary, as a result of the examination of 
+securities trading, etc. 
+2. JPX-R shall require the issuer of such listed security to report improvement measures, etc. 
+by written documents, where it draws the violation to its attention pursuant to the 
+provisions of the preceding paragraph and deems it necessary. 
+ 
+Rule 18-2. Request for Re-inspection to Issuer of Listed Securities, etc. 
+1. JPX-R shall request an issuer of listed securities to re-inspect such issuer's internal systems 
+for preventing unfair trading that pertain to its company information, concerning 
+securities  trading, etc. in the market of an entrusting financial instruments exchange, in 
+cases where the administrative agency has recommended order of surcharge payment, 
+made accusation or taken other measures because an act of a board member, executive 
+officer, agent, employee, or any other worker of such issuer of the listed securities 
+(including an asset management company of such issuer in cases where such issuer is a 
+listed investment corporation, etc. prescribed in Article 163, Paragraph 1 of the Act; the 
+same shall apply hereinafter in this rule) falls, or is suspected of falling, under transactions 
+prohibited pursuant to the provisions of Article 166, Paragraph 1, or Article 167, 
+Paragraph 1 of the Act or an act prohibited pursuant to the provisions of Article 167-2 
+(hereinafter referred to as "insider trading, etc.") and where JPX-R deems it necessary. 
+2. In cases where JPX-R requested re-inspection pursuant to the provisions of the preceding 
+paragraph and the issuer of the listed securities deems, as a result of such re-inspection, 
+that no problem is found in its internal systems, JPX-R shall request such issuer to report 
+such fact and its reason in writing. Or, where JPX-R requested such re-inspection and 
+such issuer deems that there is a problem in its internal systems, JPX-R shall request such 
+issuer to report improvement measures, etc. in writing. 
+3. The provisions of Paragraph 1 shall apply mutatis mutandis when JPX-R finds it necessary 
+as a result of the examination of securities trading, etc. in cases where JPX-R deems that 
+an act of a board member, executive officer, agent, employee, or any other worker of an 
+issuer of listed securities or its subsidiary is likely to fall under insider trading, etc. 
+ 
+Rule 19. Securities under Supervision 
+1. Where a person, who has purchased and amassed a considerable number of stocks, etc. 
+issued by the issuer of share certificates of a specified stock, has submitted a large 
+shareholding report (excluding cases where such person who has purchased and amassed 
+the shares has already submitted an amendment report on the fact that the ratio of the 
+share certificates, etc. held has fallen to 5% or below), and the movement of the price or 
+ 
+(Reference Translation) 
+ 
+ 
+DISCLAIMER: This translation may be used for reference 
+purposes only. This English version is not an official translation of 
+the original Japanese document. In cases where any differences occur between the English version and the original Japanese version, the 
+Japanese version shall prevail. This translation is subject to change without notice. Japan Exchange Regulation, Tokyo Stock Exchange, 
+Inc., Osaka Exchange, Inc., Japan Exchange Group, Inc., and/or their affiliates shall individually or jointly accept no responsibility or 
+liability for damage or loss caused by any error, inaccuracy, misunderstanding, or changes with regard to this translation. 
+10 
+any other transaction state, etc. of share certificates, etc. of such stock is extremely 
+unusual, JPX-R shall decide that it is appropriate for the entrusting financial instruments 
+exchange to designate the stock as Securities under Supervision. 
+2. JPX-R shall require a Trading Participant to report on transaction details, etc. on the 
+Securities Under Supervision as prescribed by JPX-R. 
+3. JPX-R shall decide that it is appropriate for the entrusting financial instruments exchange 
+to cancel the designation of Securities Under Supervision when JPX-R so specifies.  
+4. Where JPX-R has made decisions defined in Paragraph 1 or the preceding paragraph, it 
+shall notify the entrusting financial instruments exchange of said decisions without delay. 
+ 
+Chapter 5 
+Decision on Details of Disciplinary Actions and 
+Other Measures against Trading Participants 
+ 
+Rule 20. Decision of Details of Disciplinary Actions against Trading Participants 
+1. Where JPX-R deems that a matter which is the subject of a disciplinary action to be carried 
+out against a Trading Participant has come to fall under a matter prescribed by the 
+entrusting financial instruments exchange and JPX-R deems it necessary, JPX-R shall 
+carry out a hearing with such Trading Participant and decide details of the disciplinary 
+actions that the entrusting financial instruments exchange should undertake. 
+2. Where details of the disciplinary actions are fixed or a decision that no disciplinary actions 
+will be undertaken is made pursuant to the provisions of the preceding paragraph and 
+JPX-R deems it necessary, JPX-R shall decide that it is appropriate for the entrusting 
+financial instruments exchange to require such Trading Participant to submit a report as 
+prescribed by the entrusting financial instruments exchange.  
+3. JPX-R shall decide whether or not it should make a decision as prescribed in Paragraph 1 
+or issue warning as prescribed in Rule 11 or 17, regardless of intention or negligence of 
+officers or employees of such Trading Participant, its extent and any other circumstances. 
+4. Where JPX-R has made decisions defined in Paragraph 1 or 2, it shall notify the entrusting 
+financial instruments exchange of said decisions without delay. 
+ 
+Rule 21. Decision, etc. of Details of Measures of Trading Participants 
+1. Where JPX-R deems that a matter which is the subject of disciplinary actions to be 
+imposed against a Trading Participant has come to fall under a matter prescribed by the 
+entrusting financial instruments exchange and JPX-R deems it necessary, JPX-R shall 
+carry out a hearing with such Trading Participant and decide details of the measure that 
+the entrusting financial instruments exchange should undertake. 
+ 
+(Reference Translation) 
+ 
+ 
+DISCLAIMER: This translation may be used for reference 
+purposes only. This English version is not an official translation of 
+the original Japanese document. In cases where any differences occur between the English version and the original Japanese version, the 
+Japanese version shall prevail. This translation is subject to change without notice. Japan Exchange Regulation, Tokyo Stock Exchange, 
+Inc., Osaka Exchange, Inc., Japan Exchange Group, Inc., and/or their affiliates shall individually or jointly accept no responsibility or 
+liability for damage or loss caused by any error, inaccuracy, misunderstanding, or changes with regard to this translation. 
+11 
+2. Where a Trading Participant applies to the entrusting financial instruments exchange for 
+cancellation of disciplinary actions such as suspension of securities trading, etc. pursuant 
+to the provisions prescribed by the entrusting financial instruments exchange, JPX-R shall 
+decide whether or not it is appropriate for the entrusting financial instruments exchange 
+to approve it.   
+3. Where a Trading Participant receives disciplinary actions of suspension of securities 
+trading, etc. (excluding brokerage for clearing of securities, etc.) or suspension of 
+entrustment of brokerage for clearing of securities, etc. without a period given, and cannot 
+receive approval as prescribed in the preceding paragraph within a year from the day on 
+which such disciplinary actions are received, JPX-R shall decide whether or not the 
+entrusting financial instruments exchange should cancel the trading qualifications of such 
+Trading Participant pursuant to the decision of a meeting of the Board of Governors, 
+where it deems this necessary. 
+4. Where JPX-R has made decisions defined in the preceding three paragraphs, it shall notify 
+the entrusting financial instruments exchange of said decisions without delay. 
+ 
+Rule 22. Decision of Recommendation to Trading Participants 
+1. Where JPX-R deems the state of the operations or assets of a Trading Participant to be 
+inappropriate in the light of the administration of the market of the entrusting financial 
+instruments exchange, JPX-R shall decide that it is appropriate for the entrusting financial 
+instruments exchange to recommend the Trading Participant to carry out an appropriate 
+measure (where it deems it particularly necessary to issue an alert to investors, including 
+that it is appropriate to give notification to each Trading Participant and make a public 
+announcement). 
+2. Where a decision in the preceding paragraph is made, JPX-R shall decide that it is 
+appropriate for the entrusting financial instruments exchange to require such Trading 
+Participant to submit a report as prescribed by the entrusting financial instruments 
+exchange, where it deems this appropriate.  
+3. JPX-R shall decide whether or not it should carry out the decision in Paragraph 1 and the 
+request pursuant to the provisions of Rule 12, comprehensively taking into account the 
+state of the internal administrative system and other circumstances of such Trading 
+Participant.   
+4. Where JPX-R has made decisions defined in Paragraph 1 or 2, it shall notify the entrusting 
+financial instruments exchange of said decisions without delay.   
+ 
+Rule 23. Decision of Request to Change Co-operative Relationship or Control 
+Relationship with Officers of Trading Participants or Others 
+ 
+(Reference Translation) 
+ 
+ 
+DISCLAIMER: This translation may be used for reference 
+purposes only. This English version is not an official translation of 
+the original Japanese document. In cases where any differences occur between the English version and the original Japanese version, the 
+Japanese version shall prevail. This translation is subject to change without notice. Japan Exchange Regulation, Tokyo Stock Exchange, 
+Inc., Osaka Exchange, Inc., Japan Exchange Group, Inc., and/or their affiliates shall individually or jointly accept no responsibility or 
+liability for damage or loss caused by any error, inaccuracy, misunderstanding, or changes with regard to this translation. 
+12 
+1. Where JPX-R deems the co-operative relationship or the control relationship with officers 
+of a Trading Participant or others inappropriate in the light of the market operation of the 
+entrusting financial instruments exchange, JPX-R shall decide whether or not it is 
+appropriate for the entrusting financial instruments exchange to require to change it, after 
+carrying out a hearing with such Trading Participant. 
+2. Where JPX-R has made a decision defined in the preceding paragraph, it shall notify the 
+entrusting financial instruments exchange of said decision without delay. 
+ 
+Rule 24. Investigation of Trading Participants 
+The provisions of Rule 8, Paragraph 2 shall be applied mutatis mutandis to decision in 
+Paragraphs 1 and 2 of Rule 20, Paragraph 1 through Paragraph 3 of Rule 21, Paragraphs 1 
+and 2 of Rule 22, Paragraph 1 of the preceding rule, and investigations on a Trading 
+Participant to be carried out by JPX-R deeming this necessary to secure fairness of securities 
+trading, etc. in the market of the entrusting financial instruments exchange.  
+ 
+Rule 25. Filing Objections, etc. 
+The provisions in the latter part of Paragraphs 3 and 4 of Rule 9 shall be applied mutatis 
+mutandis to hearings in Paragraph 1 of Rule 20, Paragraph 1 of Rule 21 and Paragraph 1 of 
+Rule 23, and provisions in Paragraph 6 through Paragraph 8 of Rule 9 shall be applied to 
+decision in Paragraphs 1 and 2 of Rule 20, Paragraph 1 through Paragraph 3 of Rule 21 and 
+Paragraph 1 of Rule 23, respectively. 
+ 
+Chapter 6 
+Examination with respect to New Listing of Financial Instruments, etc. 
+  
+Rule 26. Examination with respect to New Listing of Financial Instruments, etc. 
+1. JPX-R shall conduct examination of whether or not financial instruments, etc., which the 
+entrusting financial instruments exchange entrusts to it, will meet the criteria concerning 
+new listing, etc. as prescribed by the entrusting financial instruments exchange. 
+2. JPX-R shall require an entity who applies for new listing, etc. on the market of the 
+entrusting financial instruments exchange to present or allow inspections of books, 
+documents, and any other article deemed necessary for the examination in the preceding 
+paragraph, and to submit materials or explain facts and prepare written documents stating 
+details of such explanation, etc. 
+3. Where the result of the examination in Paragraph 1 is decided, JPX-R shall notify the 
+entrusting financial instruments exchange of said decision without delay. 
+ 
+ 
+(Reference Translation) 
+ 
+ 
+DISCLAIMER: This translation may be used for reference 
+purposes only. This English version is not an official translation of 
+the original Japanese document. In cases where any differences occur between the English version and the original Japanese version, the 
+Japanese version shall prevail. This translation is subject to change without notice. Japan Exchange Regulation, Tokyo Stock Exchange, 
+Inc., Osaka Exchange, Inc., Japan Exchange Group, Inc., and/or their affiliates shall individually or jointly accept no responsibility or 
+liability for damage or loss caused by any error, inaccuracy, misunderstanding, or changes with regard to this translation. 
+13 
+Chapter 7 
+Examination, etc. concerning Disclosure by Issuers of 
+Listed Securities of Information on such Issuers 
+ 
+Section 1 
+Examination concerning Disclosure by Issuers of 
+Listed Securities of Information on such Issuers 
+ 
+Rule 27. Purpose of Disclosure Examination 
+Examination concerning disclosure of information on an issuer (including an entity who 
+makes submission and disclosure, etc. of documents, etc. on the basis of the rules of the 
+entrusting financial instruments exchanges; the same shall apply hereinafter in this and the 
+next chapters) made by said issuer of listed securities (hereinafter referred to as "Disclosure 
+Examination") shall be made to carry out a survey on the state of disclosure of corporate 
+information to be made as prescribed by the entrusting financial instruments exchange, and 
+take necessary measures such as regulatory actions in accordance with the results of such 
+survey, thereby securing the appropriateness of disclosure of corporate information, making 
+securities trading, etc. in the exchange financial instruments market fair and smooth, and 
+contributing to the public interest and the protection of investors.  
+ 
+Rule 28. Subject of Disclosure Examination 
+JPX-R shall conduct Disclosure Examination concerning the items listed in each of the 
+following items with respect to disclosure deemed to have a material effect on investment 
+decision or any other disclosure deemed necessary as the subject by JPX-R, out of the 
+disclosure of information made by an issuer of listed securities with respect to such issuer. 
+(1) The relationship between the timing when such issuer discloses such information and 
+the timing when such issuer makes decision on such information or recognizes such 
+information 
+(2) Inconsistency between information disclosed by such issuer and information disclosed 
+in the Extraordinary Report or any other legal disclosure documents submitted by such 
+issuer 
+(3) Appropriateness of details of information disclosed by such issuer 
+(4) Other information deemed necessary by JPX-R 
+ 
+Rule 29. Request for Materials, etc. for Disclosure Examination 
+ 
+(Reference Translation) 
+ 
+ 
+DISCLAIMER: This translation may be used for reference 
+purposes only. This English version is not an official translation of 
+the original Japanese document. In cases where any differences occur between the English version and the original Japanese version, the 
+Japanese version shall prevail. This translation is subject to change without notice. Japan Exchange Regulation, Tokyo Stock Exchange, 
+Inc., Osaka Exchange, Inc., Japan Exchange Group, Inc., and/or their affiliates shall individually or jointly accept no responsibility or 
+liability for damage or loss caused by any error, inaccuracy, misunderstanding, or changes with regard to this translation. 
+14 
+JPX-R shall require the issuer of listed securities to summit materials deemed necessary for 
+the examination in the preceding rule or explain facts and prepare written documents stating 
+details of such explanation. 
+ 
+Section 2 
+Decision on Details of Measures Such As Regulatory Actions 
+against Issuers of Listed Securities 
+ 
+Rule 30. Designation and De-designation as Securities on Special Alert  
+1. Where an issuer of listed securities falls under cases referred to in each of the following 
+items and JPX-R deems that improvement is highly necessary to the internal management 
+system, etc. of said issuer, JPX-R shall decide that it is appropriate for the entrusting 
+financial instruments exchange to designate said listed security as a Security on Special 
+Alert. 
+(1) Where JPX-R deems that the issuer of the listed security does not fall under criteria 
+concerning delisting of financial instruments, etc. prescribed by the entrusting financial 
+instruments exchange (limited to criteria concerning breach of listing agreement, etc. 
+(excluding cases where the issuer of the listed security has committed a material breach 
+of matters in the written oath concerning an application for new listing or market 
+segment transfer), criteria concerning damage to sound transactions with a controlling 
+shareholder, criteria concerning involvement of anti-social forces, and other criteria 
+concerning the public interest and the protection of investors), after previously deeming 
+that it is likely to fall under such criteria 
+(2) Where the company falls under any of the following a. through c. 
+a. Where the company has made false statements in annual securities reports, etc. 
+b. Where a certified public accountant, etc. states an "adverse opinion" or "disclaimer 
+of opinion" in the audit report attached to financial statements, etc., an "opinion that 
+interim financial statements, etc. do not contain useful information" or "disclaimer 
+of opinion" in the interim audit report attached to interim financial statements, etc., 
+or an "adverse conclusion" or "disclaimer of conclusion" in the interim review 
+report. However, this shall not apply in cases of "disclaimer of opinion" and 
+"disclaimer of conclusion" which are due to reasons not attributable to the issuer of 
+the listed security, such as natural disasters. 
+c.  Where an interim review report is attached to quarterly financial statements, etc. as 
+specified by the entrusting financial instruments exchange, and said interim review 
+report contains a statement of "adverse conclusion" or "disclaimer of conclusion" 
+by the certified public accountant, etc. However, this excludes cases of "disclaimer 
+ 
+(Reference Translation) 
+ 
+ 
+DISCLAIMER: This translation may be used for reference 
+purposes only. This English version is not an official translation of 
+the original Japanese document. In cases where any differences occur between the English version and the original Japanese version, the 
+Japanese version shall prevail. This translation is subject to change without notice. Japan Exchange Regulation, Tokyo Stock Exchange, 
+Inc., Osaka Exchange, Inc., Japan Exchange Group, Inc., and/or their affiliates shall individually or jointly accept no responsibility or 
+liability for damage or loss caused by any error, inaccuracy, misunderstanding, or changes with regard to this translation. 
+15 
+of conclusion" which are due to reasons not attributable to the issuer of the listed 
+security, such as natural disasters. 
+(3) Where JPX-R deems that the company has violated the provisions concerning timely 
+disclosure of corporate information, etc. as prescribed by the entrusting financial 
+instruments exchange  
+(4) Where JPX-R deems that the company has violated provisions concerning matters 
+specified by the entrusting financial instruments exchange as matters to be observed 
+within its code of conduct concerning corporate behavior (these matters are hereinafter 
+referred to as the "code of corporate conduct") 
+(5) Where the issuer of the listed security has submitted an improvement report as 
+stipulated by the entrusting financial instruments exchange (limited to cases referred to 
+in the following a. or b.), and JPX-R deems that no improvement can be recognized in 
+the implementation and operation of the improvement measures 
+a. Where JPX-R deems that the issuer has violated provisions concerning timely 
+disclosure of corporate information, etc. as prescribed by the entrusting financial 
+instruments exchange 
+b. Where JPX-R deems that the issuer has violated provisions concerning the code of 
+corporate conduct 
+2. JPX-R shall conduct examination based on the contents of a written document regarding 
+the status of the internal management system and related matters that the issuer of the 
+listed security which has been designated as a Security on Special Alert will submit 
+promptly after one year from said designation (hereinafter referred to as the "Written 
+Confirmation of Internal Management System"). Based on results of said examination, 
+JPX-R shall decide that it is appropriate that the entrusting financial instruments exchange 
+handles said listed security as specified by each of the following items in accordance with 
+the classifications referred to in said items. 
+(1) Where JPX-R deems that the company's internal management system, etc. is adequately 
+developed and implemented (excluding cases falling under b. of the next item) 
+    De-designation as a Security on Special Alert 
+(2) Where the company falls under the following a. or b. 
+a. Where JPX-R deems that the company's internal management system, etc. is 
+adequately developed, but does not deem it to be adequately implemented 
+b. Where JPX-R deems that the company's internal management system, etc. is 
+adequately developed and implemented, but the company falls under the following 
+(a) or (b) 
+ 
+(Reference Translation) 
+ 
+ 
+DISCLAIMER: This translation may be used for reference 
+purposes only. This English version is not an official translation of 
+the original Japanese document. In cases where any differences occur between the English version and the original Japanese version, the 
+Japanese version shall prevail. This translation is subject to change without notice. Japan Exchange Regulation, Tokyo Stock Exchange, 
+Inc., Osaka Exchange, Inc., Japan Exchange Group, Inc., and/or their affiliates shall individually or jointly accept no responsibility or 
+liability for damage or loss caused by any error, inaccuracy, misunderstanding, or changes with regard to this translation. 
+16 
+(a) Where the company meets criteria specified by the entrusting financial 
+instruments exchange for cases where a company's business continuity and 
+profitability are not ensured  
+(b) Where the company does not meet the continued listing criteria specified by the 
+entrusting financial instruments exchange, and is in the improvement period 
+specified by said exchange or otherwise meets criteria specified by said 
+exchange for cases where a company is likely to not meet said continued listing 
+criteria 
+Extension of designation as a Security on Special Alert 
+3. JPX-R shall conduct an examination based on the details of the Written Confirmation of 
+Internal Management System that the issuer of the listed security whose designation as a 
+Security on Special Alert has been extended based on the results of the examination 
+defined in the preceding paragraph (limited to cases falling under Item 2, a. of the same 
+paragraph) will resubmit within three months counting from the last day of the business 
+year containing the day of the decision on said extension (if the period between the day 
+of the decision on said extension and the last day of the business year is less than three 
+months, the following business year). Based on the results of the examination, JPX-R 
+shall decide that it is appropriate to handle the listed security as specified by each of the 
+following items, according to the classifications referred to in said items. 
+(1) Where JPX-R deems that the company's internal management system, etc. is adequately 
+developed and implemented (excluding cases falling under the next item) 
+    De-designation as a Security on Special Alert 
+(2) Where JPX-R deems that the company's internal management system, etc. is adequately 
+developed and implemented, but the company falls under the following a. or b. 
+a. Where the company meets criteria specified by the entrusting financial instruments 
+exchange for cases where a company's business continuity and profitability are not 
+ensured 
+b. Where the company does not meet the continued listing criteria specified by the 
+entrusting financial instruments exchange, and is in the improvement period 
+specified by said exchange or otherwise meets criteria specified by said exchange 
+for cases where a company is likely to not meet said continued listing criteria 
+   Extension of designation as a Security on Special Alert 
+4. JPX-R shall conduct an examination based on the contents of the Written Confirmation of 
+Internal Management System that the issuer of a listed security whose designation as a 
+Security on Special Alert has been extended based on results of the examinations defined 
+in the preceding two paragraphs or the next paragraph (excluding cases falling under 
+Paragraph 2, Item 2, a.) will resubmit within three months from the last day of the business 
+ 
+(Reference Translation) 
+ 
+ 
+DISCLAIMER: This translation may be used for reference 
+purposes only. This English version is not an official translation of 
+the original Japanese document. In cases where any differences occur between the English version and the original Japanese version, the 
+Japanese version shall prevail. This translation is subject to change without notice. Japan Exchange Regulation, Tokyo Stock Exchange, 
+Inc., Osaka Exchange, Inc., Japan Exchange Group, Inc., and/or their affiliates shall individually or jointly accept no responsibility or 
+liability for damage or loss caused by any error, inaccuracy, misunderstanding, or changes with regard to this translation. 
+17 
+year containing the day of decision on said extension (if the period between the day of 
+said decision and said last day is less than three months, the following business year). 
+5. Based on the results of the examination defined in the preceding paragraph, JPX-R shall 
+decide that it is appropriate to handle listed securities as specified in each of the following 
+items in accordance with the classifications of examination referred to in said items. In 
+this case, said classifications shall be as specified by the entrusting financial instruments 
+exchange. 
+(1) First and Second Examinations 
+a. Where JPX-R deems that the company's internal management system, etc. is 
+adequately developed and implemented (excluding cases falling under the next 
+item) 
+De-designation as a Security on Special Alert. 
+b. Where the company's internal management system, etc. is deemed to be adequately 
+developed and implemented, but the company falls under the following (a) or (b) 
+(a) Where the company meets criteria specified by the entrusting financial 
+instruments exchange for cases where a company's business continuity and 
+profitability are not ensured 
+(b) Where the company does not meet the continued listing criteria specified by the 
+entrusting financial instruments exchange, and is in the improvement period 
+specified by said exchange or otherwise meets criteria specified by said 
+exchange for cases where a company is likely to not meet the continued listing 
+criteria 
+Extension of the designation as a Security on Special Alert 
+  (2) Third Examination 
+If JPX-R deems that the company's internal management system, etc. is adequately 
+developed and implemented, the company's security shall be de-designated as a 
+Security on Special Alert. 
+6. Where JPX-R has made any decision defined in Paragraphs 1 through 3 and the preceding 
+paragraph, it shall notify the entrusting financial instruments exchange of said decisions 
+without delay.  
+ 
+Rule 31. Request for Improvement Report 
+1. Where an issuer of listed securities falls under cases referred to in each of the following 
+items and JPX-R deems the improvement is highly necessary, JPX-R shall decide that it 
+is appropriate for the entrusting financial instruments exchange to require such issuer to 
+submit a report stating its developments and improvement measures. 
+ 
+(Reference Translation) 
+ 
+ 
+DISCLAIMER: This translation may be used for reference 
+purposes only. This English version is not an official translation of 
+the original Japanese document. In cases where any differences occur between the English version and the original Japanese version, the 
+Japanese version shall prevail. This translation is subject to change without notice. Japan Exchange Regulation, Tokyo Stock Exchange, 
+Inc., Osaka Exchange, Inc., Japan Exchange Group, Inc., and/or their affiliates shall individually or jointly accept no responsibility or 
+liability for damage or loss caused by any error, inaccuracy, misunderstanding, or changes with regard to this translation. 
+18 
+(1) Where it is deemed that the issuer has violated the provisions concerning timely 
+disclosure of corporate information, etc., which are prescribed by the entrusting 
+financial instruments exchange 
+(2) Where it is deemed that the issuer has violated the provisions concerning the code of 
+corporate conduct 
+2. Where an issuer of listed securities does not appropriately make submission, etc. of 
+documents pursuant to the provisions set forth by the entrusting financial instruments 
+exchange and JPX-R deems that there is strong need for improvement, JPX-R shall 
+require such issuer of the entrusting financial instruments exchange to submit a report 
+stating its particulars and improvement measures.  
+3. Where JPX-R deems details of the report submitted pursuant to the provision of the 
+preceding two paragraphs to be apparently inadequate, JPX-R shall decide that it is 
+appropriate for the entrusting financial instruments exchange to require such issuer to 
+change it and re-submit such report.  
+4. Where an issuer of listed securities does not appropriately make an affirmation and submit 
+documents, etc. in cases where new shares are allotted to a third party pursuant to the 
+provisions set forth by the entrusting financial instruments exchange and JPX-R deems 
+improvement is highly necessary, JPX-R shall decide that it is appropriate for the 
+entrusting financial instruments exchange to require such issuer to submit a report stating 
+its progress and improvement measures (including whether or not it is necessary to make 
+such report available for public inspection). 
+5. Where JPX-R has made decisions defined in each of the preceding paragraphs, it shall 
+notify the entrusting financial instruments exchange of said decisions without delay. 
+ 
+Rule 32. Public Announcement Measure 
+1. Where an issuer of listed securities falls under each of the following items and JPX-R 
+deems it necessary, JPX-R shall decide that it is appropriate for the entrusting financial 
+instruments exchange to make public announcement of such fact. 
+(1) Where it is deemed that the issuer has violated the provisions concerning timely 
+disclosure of corporate information, etc, which are prescribed by the entrusting 
+financial instruments exchange 
+(2) Where it is deemed that the issuer has violated the provision regarding the number of 
+shares constituting one unit specified by the entrusting financial instruments exchange 
+(3) Where it is deemed that the issuer has violated the provisions pertaining to the 
+submission of a plan to meet the continued listing criteria specified by the entrusting 
+financial instruments exchange 
+ 
+(Reference Translation) 
+ 
+ 
+DISCLAIMER: This translation may be used for reference 
+purposes only. This English version is not an official translation of 
+the original Japanese document. In cases where any differences occur between the English version and the original Japanese version, the 
+Japanese version shall prevail. This translation is subject to change without notice. Japan Exchange Regulation, Tokyo Stock Exchange, 
+Inc., Osaka Exchange, Inc., Japan Exchange Group, Inc., and/or their affiliates shall individually or jointly accept no responsibility or 
+liability for damage or loss caused by any error, inaccuracy, misunderstanding, or changes with regard to this translation. 
+19 
+(4) Where it is deemed that the issuer has violated the provisions concerning the code of 
+corporate conduct 
+(5) Where the issuer has violated the provisions of Articles 331, 335, 337, or 400 of the 
+Companies Act 
+2. Where JPX-R has made decisions defined in the preceding paragraph, it shall notify the 
+entrusting financial instruments exchange of said decisions without delay. 
+ 
+Rule 33. Imposition of Listing Agreement Violation Penalty 
+1. In the event that an issuer of listed securities falls under cases referred to in each of the 
+following items and JPX-R deems that such violation has damaged shareholders' and 
+investors' confidence in the market of the entrusting financial instruments exchange, JPX-
+R shall decide that it is appropriate that the entrusting financial instruments exchange 
+require the said issuer to pay a listing agreement violation penalty. 
+(1) Where it is deemed that the issuer has violated the provisions concerning timely 
+disclosure of corporate information, etc, which are prescribed by the entrusting 
+financial instruments exchange 
+(2) Where it is deemed that the issuer has violated the provisions concerning the code of 
+corporate conduct 
+(3) Where, in addition to cases in the preceding two paragraphs, it is deemed that the 
+issuer of the listed security has violated rules prescribed by the entrusting financial 
+instruments exchange 
+2. Where JPX-R has made decisions defined in the preceding paragraph, it shall notify the 
+entrusting financial instruments exchange of said decisions without delay. 
+ 
+Rule 34.  Request for Materials, etc. for Examination Pertaining to Measures such as 
+Regulatory Actions Against an Issuer of a Listed Security 
+1. JPX-R shall request the issuer of a listed security to submit materials, or provide 
+explanations and prepare written documents containing these explanations regarding a 
+particular issue, that JPX-R deems necessary for examinations under the provisions of 
+Rule 30 through the preceding rule. 
+2. Where JPX-R deems it necessary for examination under the provisions of Rule 30 through 
+the preceding rule to request certified public accountants, etc. who perform (i) audit 
+certifications, etc. for financial statements, etc. or interim financial statements, etc. or (ii) 
+interim reviews for quarterly financial statements, etc. prescribed by the entrusting 
+financial instruments exchange (including those who have previously been said certified 
+public accountants, etc.) to provide explanations or other information regarding a 
+ 
+(Reference Translation) 
+ 
+ 
+DISCLAIMER: This translation may be used for reference 
+purposes only. This English version is not an official translation of 
+the original Japanese document. In cases where any differences occur between the English version and the original Japanese version, the 
+Japanese version shall prevail. This translation is subject to change without notice. Japan Exchange Regulation, Tokyo Stock Exchange, 
+Inc., Osaka Exchange, Inc., Japan Exchange Group, Inc., and/or their affiliates shall individually or jointly accept no responsibility or 
+liability for damage or loss caused by any error, inaccuracy, misunderstanding, or changes with regard to this translation. 
+20 
+particular issue, JPX-R shall request the issuer of the listed security to cooperate with 
+JPX-R in this process. 
+ 
+Chapter 8 
+Examination with respect to Delisting of Financial Instruments, etc. 
+ 
+Rule 35. Examination with respect to Delisting of Financial Instruments, etc. 
+1. JPX-R shall carry out examination as to whether or not financial instruments, etc. listed 
+on the market of the entrusting financial instruments exchange fall under the criteria 
+concerning delisting of financial instruments, etc. as set forth by the entrusting financial 
+instruments exchange. 
+2. JPX-R shall require an issuer of listed securities to submit materials deemed necessary for 
+the examination referred to in the preceding paragraph or explain facts and prepare written 
+documents stating the details of such explanation. 
+3. Where JPX-R deems it necessary for the examination prescribed in Paragraph 1 to require 
+certified public accountants, etc. who perform (i) audit certifications, etc. of financial 
+statements, etc. or (ii) interim financial statements, etc. or interim reviews of quarterly 
+financial statements, etc. prescribed by the entrusting financial instruments exchange 
+(including those who used to be such certified public accountants, etc.) to provide 
+explanations or other information regarding a particular issue, JPX-R shall request the 
+issuer of the listed security to cooperate in this process.  
+4. Where the result of the examination as in Paragraph 1 is decided, JPX-R shall notify the 
+entrusting financial instruments exchange of that fact without delay. 
+ 
+Rule 36. Designation of Listed Security as Security Under Supervision 
+1. Where JPX-R deems that a listed security is likely to fall under the criteria concerning 
+delisting of the listed security prescribed by the entrusting financial instruments exchange, 
+it shall decide that it is appropriate for the entrusting financial instruments exchange to 
+designate such listed security as a Security Under Supervision. 
+2. Where JPX-R has made a decision defined in the preceding paragraph, it shall notify the 
+entrusting financial instruments exchange of said decision without delay. 
+ 
+ 
+Chapter 9 
+Miscellaneous Rules 
+ 
+Rule 37. Public Announcement 
+ 
+(Reference Translation) 
+ 
+ 
+DISCLAIMER: This translation may be used for reference 
+purposes only. This English version is not an official translation of 
+the original Japanese document. In cases where any differences occur between the English version and the original Japanese version, the 
+Japanese version shall prevail. This translation is subject to change without notice. Japan Exchange Regulation, Tokyo Stock Exchange, 
+Inc., Osaka Exchange, Inc., Japan Exchange Group, Inc., and/or their affiliates shall individually or jointly accept no responsibility or 
+liability for damage or loss caused by any error, inaccuracy, misunderstanding, or changes with regard to this translation. 
+21 
+JPX-R shall publicly announce the state of execution of its operations every year. 
+ 
+Rule 38. Application to Brokerage for Clearing of Securities, etc. 
+These Rules shall be applied to brokerage for clearing of securities, etc. with respect to 
+securities trading, etc. by deeming a Trading Participant who entrusts clearing of securities, 
+etc. as a party who carries out such securities trading, etc. 
+ 
+Rule 39. Authority of Revision 
+Amendment to these Rules shall be made by resolution of the Board of Governors; provided, 
+however, that this shall not apply to cases where details of the amendment are of minor 
+significance.  
+ 
+Rule 40. Decision of Necessary Matters 
+JPX-R may prescribe rules concerning necessary handling with respect to the execution of 
+the self-regulatory operations which it carries out based on entrustment by the entrusting 
+financial instruments exchange, in addition to the matters prescribed in these Rules, when it 
+is necessary to do so.  
+ 
+ 
+Supplementary Provisions 
+ 
+1.  These revisions shall take effect on January 15, 2024. 
+2.  Listed securities which are designated as Securities on Alert as of the day before the day 
+on which the revised rules will be implemented (hereinafter referred to as the 
+"implementation date") will be deemed as designated as Securities on Special Alert as of 
+the implementation date. 
+3.  With respect to listed securities which were designated as Securities on Special Alert 
+before the implementation date, the provisions then in force remain applicable. 
+ 
+Supplementary Provisions 
+ 
+1.   These revisions shall take effect on April 1, 2024. 
+2.   Prior rules shall continue to govern the application of the provisions of pre-revision Rule 
+30, Paragraph 1, Item 2 and Rule 35, Paragraph 3 pertaining to quarterly securities reports 
+prescribed in Article 24-4-7, Paragraph 1 of the Act before the amendment pursuant to 
+the Act Partially Amending the Financial Instruments and Exchange Act (Act No. 79 of 
+2023, hereinafter referred to as the "Amendment Act") (including those submitted 
+ 
+(Reference Translation) 
+ 
+ 
+DISCLAIMER: This translation may be used for reference 
+purposes only. This English version is not an official translation of 
+the original Japanese document. In cases where any differences occur between the English version and the original Japanese version, the 
+Japanese version shall prevail. This translation is subject to change without notice. Japan Exchange Regulation, Tokyo Stock Exchange, 
+Inc., Osaka Exchange, Inc., Japan Exchange Group, Inc., and/or their affiliates shall individually or jointly accept no responsibility or 
+liability for damage or loss caused by any error, inaccuracy, misunderstanding, or changes with regard to this translation. 
+22 
+pursuant to the provisions of Article 2, Paragraph 1 of the supplementary provisions of 
+the Amendment Act). 
+ 
+Supplementary Provisions 
+ 
+These revisions shall take effect on February 17, 2025. 
+ 
+Supplementary Provisions 
+ 
+These revisions shall take effect on February 28, 2025. 

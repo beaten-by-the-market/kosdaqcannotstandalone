@@ -1,0 +1,492 @@
+ 
+(Reference Translation) 
+ 
+ 
+DISCLAIMER: This translation may be used for reference purposes only. This English version is not an official translation of 
+the original Japanese document. In cases where any differences occur between the English version and the original Japanese 
+version, the Japanese version shall prevail. This translation is subject to change without notice. Tokyo Stock Exchange, Inc., 
+Japan Exchange Regulation, Japan Exchange Group, Inc., and/or their affiliates shall individually or jointly accept no 
+responsibility or liability for damage or loss caused by any error, inaccuracy, misunderstanding, or changes with regard to this 
+translation.  
+1
+Guidelines concerning Listed Company Compliance, etc. 
+(as of April 1, 2025) 
+Tokyo Stock Exchange, Inc. 
+ 
+I. General Provisions 
+ 
+(Purpose, etc.) 
+1. These guidelines shall prescribe the items necessary for listed company compliance, etc. 
+pursuant to the Securities Listing Regulations (hereinafter referred to as the "Regulations"). 
+2. As a general rule, business related to listed company compliance, etc. shall be executed in 
+accordance with these guidelines. The Exchange shall make efforts to conduct appropriate 
+business operations as the individual case demands while maintaining a sufficient 
+awareness of the fact that financial instrument exchange markets should facilitate fair and 
+smooth securities trading and carry out operations to ensure that investors are protected. 
+ 
+(Definitions) 
+3. The definitions of terms related to securities listing, etc. used in these guidelines shall be as 
+defined by the Regulations and the Enforcement Rules for the Securities Listing 
+Regulations (hereinafter referred to as the "Enforcement Rules").  
+ 
+ 
+II. Examination Related to the Disclosure of Corporate Information 
+ 
+(Ensuring Appropriate Disclosure of Corporate Information) 
+1. Examinations related to the disclosure of corporate information pursuant to the provisions 
+of Chapter 4, Section 2 of the Regulations (hereinafter referred to as "disclosure 
+examination") shall be carried out with the goal of ensuring that listing companies disclose 
+corporate information appropriately wherever the Exchange deems that an examination is 
+necessary and appropriate for the said goal. 
+2. Disclosure examinations shall be carried out in light of the following (1) to (5) concerning 
+disclosure of material corporate information: 
+(1) Whether or not the timing of disclosure is appropriate; 
+(2) Whether or not the details of disclosed information are false; 
+(3) Whether or not disclosed information lacks information deemed important for 
+investment decisions; 
+(4) Whether or not disclosed information gives rise to misunderstandings for investment 
+decisions; and 
+(5) Whether or not disclosed information lacks appropriateness of disclosure. 
+ 
+ 
+III. Examination Pertaining to Ensuring Effectiveness 
+ 
+(Designation as Security on Special Alert, etc.) 
+1. Designation as Security on Special Alert pursuant to the provisions of Rule 503, Paragraph 
+1 of the Regulations in the cases referred to in the following (1) to (5) shall be made in 
+ 
+(Reference Translation) 
+ 
+ 
+DISCLAIMER: This translation may be used for reference purposes only. This English version is not an official translation of 
+the original Japanese document. In cases where any differences occur between the English version and the original Japanese 
+version, the Japanese version shall prevail. This translation is subject to change without notice. Tokyo Stock Exchange, Inc., 
+Japan Exchange Regulation, Japan Exchange Group, Inc., and/or their affiliates shall individually or jointly accept no 
+responsibility or liability for damage or loss caused by any error, inaccuracy, misunderstanding, or changes with regard to this 
+translation.  
+2
+comprehensive consideration of the matters prescribed in such (1) to (5) and any other 
+circumstances: 
+(1) A case referred to in Rule 503, Paragraph 1, Item 1 of the Regulations 
+   The details, the background, the cause, and the actual state of affairs relating to the    
+event that the Exchange deems likely to fall under Rule 601, Paragraph 1, Item 6 or Item 
+10 a. of the Regulations (excluding cases where a listed company has committed a material 
+breach as to matters taken on oath in the Written Oath submitted pursuant to the provisions 
+of Rule 204, Paragraph 1 of the Regulations, Rule 210, Paragraph 1 of the Regulations, 
+Rule 216, Paragraph 1 of the Regulations, Rule 301, Paragraph 3 of the Regulations or 
+Rule 306, Paragraph 4 of the Regulations (including cases where those provisions apply 
+mutatis mutandis pursuant to Rule 310, Paragraph 2 of the Regulations or Rule 603, 
+Paragraph 4 of the Regulations), or, Item 19 or Item 20 of the same paragraph (including 
+cases based on Rules 602, Paragraph 1, Item 5 of the Regulations or Paragraph 2, Item 3 of 
+the same rule); 
+(2) A case referred to in Rule 503, Paragraph 1, Item 2 of the Regulations 
+Matters prescribed in the following a. and b.; 
+a. The period, amount of money, actual state, and impact on stock prices pertaining to 
+false statements or adverse opinion, etc., in annual securities reports, etc. 
+b. The act, involvement of company-related parties, and development and 
+administration of internal management system that are causes of false statements 
+or adverse opinion, etc., in annual securities reports, etc., 
+(3) A case referred to in Rule 503, Paragraph 1, Item 3 of the Regulations 
+Matters prescribed in the following a. to c.; 
+a. The importance of information timely disclosed for investment decisions 
+b. The background, cause, and circumstances of a listed company that violated the 
+provisions of Chapter 4, Section 2 of the Regulations 
+c. State of compliance in the past with the provisions of Chapter 4, Section 2 of the 
+Regulations 
+(4) A case referred to in Rule 503, Paragraph 1, Item 4 of the Regulations 
+Matters prescribed in the following a. and b.; 
+a. The background, cause, and circumstances of a listed company that violated the 
+provisions of Chapter 4, Section 4, Sub-section 1 of the Regulations; and 
+b. Past state of compliance with the provisions of Chapter 4, Section 4, Sub-section 1 
+of the Regulations 
+(5) A case referred to in Rule 503, Paragraph 1, Item 5 of the Regulations 
+Matters prescribed in the following a and b; 
+a. The details, the background, the cause, and the actual state of affairs relating to the  
+  event on which the Exchange requests submission of an improvement report  
+  pursuant to the provisions of Rule 504, Paragraph 1 or 2 of the Regulations     
+(including cases where those provisions apply mutatis mutandis pursuant to Rule 505, 
+Paragraph 7 of the Regulations), or Rule 505, Paragraph 6 of the Regulations; and 
+   b. The state of implementation and operation of improvement measures described in 
+an improvement report submitted pursuant to the provisions of Rule 504, Paragraph 
+3 of the Regulations (including cases where those provisions apply mutatis 
+mutandis pursuant to Rule 505, Paragraph 7 of the Regulations) 
+ 
+(Reference Translation) 
+ 
+ 
+DISCLAIMER: This translation may be used for reference purposes only. This English version is not an official translation of 
+the original Japanese document. In cases where any differences occur between the English version and the original Japanese 
+version, the Japanese version shall prevail. This translation is subject to change without notice. Tokyo Stock Exchange, Inc., 
+Japan Exchange Regulation, Japan Exchange Group, Inc., and/or their affiliates shall individually or jointly accept no 
+responsibility or liability for damage or loss caused by any error, inaccuracy, misunderstanding, or changes with regard to this 
+translation.  
+3
+2. Examination of an internal management system, etc. as prescribed in Rule 503, Paragraphs 
+3, 6, and 10 of the Regulations shall be made in comprehensive consideration of the 
+matters equivalent to the provisions of II 3., II 4., II 5., III 3., III 4., III 5., IV 2., IV 3., or 
+IV 4. of the Guidelines Concerning Listing Examination, etc. (including the state of 
+compliance with the provisions of Part 2, Chapter 4 of the Regulations after designation as 
+Securities on Special Alert and the state of development and operation of the system to 
+ensure said compliance) and any other circumstances: 
+ 
+(Request for Improvement Report) 
+3. Decision on whether or not to request an improvement report pursuant to the provisions of 
+Rule 504, Paragraph 1 of the Regulations in the cases referred to in the following (1) and 
+(2) shall be made in comprehensive consideration of the matters prescribed in the said 
+cases and any other circumstances:  
+(1) A case referred to in Rule 504, Paragraph 1, Item 1 of the Regulations 
+a. Materiality of information made public as timely disclosure, etc., as information 
+relating to investment decisions; 
+b. The background, the cause, and the actual state of affairs relating to said violation of 
+the provisions of Chapter 4, Section 2 by a listed company; and 
+c. The state of past compliance, etc. with the provisions of Chapter 4, Section 2. 
+(2) A case referred to in Rule 504, Paragraph 1, Item 2 of the Regulations 
+a. The background, the cause, and the actual state of affairs relating to said violation 
+of the provisions of Chapter 4, Section 4, Sub-section 1 by a listed company; and 
+b. The state of past compliance, etc. with the provisions of Chapter 4, Section 4, 
+Sub-section 1. 
+ 
+(Measures against Violation of Timely Disclosure Obligations) 
+4. In the case of a violation by a listed company of the provisions of Chapter 4, Section 2 of 
+the Regulations, a decision on disclosure pursuant to the provisions of Rule 508, Paragraph 
+1 of the Regulations, as well as a decision on whether or not to impose the listing 
+agreement violation penalty pursuant to the provisions of Rule 509 of the Regulations, 
+shall be made in comprehensive consideration of the matters referred to in the following 
+(1) to (3) and any other circumstances. 
+(1) Materiality of information made public as timely disclosure, etc., as information 
+relating to investment decisions; 
+(2) The background, the cause, and the actual state of affairs relating to said violation of 
+the provisions of Chapter 4, Section 2 by a listed company; and 
+(3) The state of implementation measures such as a regulatory action taken by the 
+Exchange in response to said violation. 
+ 
+(Measures against Violation of Code of Corporate Conduct) 
+5. In the case of a violation by a listed company of the provisions of Chapter 4, Section 4, 
+Sub-section 1 of the Regulations, decisions on public announcement pursuant to the 
+provisions of Rule 508, Paragraph 1 of the Regulations, as well as decisions on whether or 
+not to impose a listing agreement violation penalty pursuant to the provisions of Rule 509 
+of the Regulations, shall be made in comprehensive consideration of (i) the matters 
+ 
+(Reference Translation) 
+ 
+ 
+DISCLAIMER: This translation may be used for reference purposes only. This English version is not an official translation of 
+the original Japanese document. In cases where any differences occur between the English version and the original Japanese 
+version, the Japanese version shall prevail. This translation is subject to change without notice. Tokyo Stock Exchange, Inc., 
+Japan Exchange Regulation, Japan Exchange Group, Inc., and/or their affiliates shall individually or jointly accept no 
+responsibility or liability for damage or loss caused by any error, inaccuracy, misunderstanding, or changes with regard to this 
+translation.  
+4
+prescribed in the classifications referred to in the following (1) to (8) and (ii) the details, 
+the background, the cause, and the actual state of affairs relating to said violation, as well 
+as the state of implementation of measures such as a regulatory action taken by the 
+Exchange in response to said violation and any other circumstances. 
+(1) The provisions of Rule 432 of the Regulations 
+   The state of implementation and contents of the proceedings taken prescribed in the 
+provisions of each item of Rule 432 of the Regulations; 
+(2) The provisions of Rule 433 of the Regulations 
+The ratio of stock split, etc., the investment unit after completing stock split, etc. and 
+any other circumstances regarding the stock split, etc.; 
+(3) The provisions of Rule 434 of the Regulations 
+     The exercise terms, the quantity to be issued, the scale of dilution, the contents of the 
+measures taken in relation to the monthly exercise quantities with regard to MSCB, 
+etc.; 
+(3)-2 The provisions of Rule 436-2 of the Regulations 
+     The status of a person(s) who is reported to the Exchange as being an independent 
+director(s)/auditor(s) by the issuer of a listed domestic stock pursuant to the provisions 
+of Rule 436-2 of the Enforcement Rules when such person falls under any of the 
+following a. to d.; 
+     a.  A person for which said company is a major client or an executive of an entity for 
+which said company is a major client, or a person who is a major client of said 
+company or an executive of an entity which is a major client of said company; 
+ ; 
+     b.  A consultant, accounting professional or legal professional who receives a large 
+amount of money or other assets from said company, in addition to their 
+remuneration as a director or company auditor (if the entity receiving said assets is 
+an organization such as a corporation or partnership, a person who belongs to said 
+entity); 
+     c.  A person who recently fell under the above a. or b.; 
+     c-2. A person who fell under the following (a) or (b) at any time during the ten (10) 
+years before assuming the position of independent director/auditor;  
+(a) An executive of the parent company of said company (including non-executive 
+directors, and, if an outside company auditor is designated as an independent 
+director/auditor, including company auditors); or 
+ 
+ (b) An executive of a sister company of said company. 
+d.  A close relative of a person referred to in any of the following (a) to (f) (excluding 
+those deemed as unimportant persons); 
+(a) A person referred to in the preceding a. through c-2.; 
+(b) An accounting advisor of said company (limited to cases where an outside 
+company auditor has been designated as an independent director/auditor, and 
+including employees designated to perform the accounting advisor's duties if the 
+accounting advisor is a corporation; the same shall apply hereinafter); 
+(c) An executive of a subsidiary of said company (including, in cases where an 
+outside company auditor is designated as an independent director/auditor, 
+directors or accounting advisors who are not executives); 
+ 
+(Reference Translation) 
+ 
+ 
+DISCLAIMER: This translation may be used for reference purposes only. This English version is not an official translation of 
+the original Japanese document. In cases where any differences occur between the English version and the original Japanese 
+version, the Japanese version shall prevail. This translation is subject to change without notice. Tokyo Stock Exchange, Inc., 
+Japan Exchange Regulation, Japan Exchange Group, Inc., and/or their affiliates shall individually or jointly accept no 
+responsibility or liability for damage or loss caused by any error, inaccuracy, misunderstanding, or changes with regard to this 
+translation.  
+5
+(d) An executive of the parent company of said company (including non-executive 
+directors, or, in cases where an outside company auditor is designated as an 
+independent director/auditor, including company auditors); 
+(e) An executive of  a sister company of said company; or 
+(f) A person who recently fell under (b) or (c) or was recently an executive of said 
+company (in cases where an outside company auditor is designated as an 
+independent director/auditor, including non-executive directors).  
+ (3)-3 The provisions of Rule 436-4 of the Regulations 
+The status of English disclosure prescribed in Rule 436-4 of the Regulations 
+ (3)-4 The provisions of Rule 439 of the Regulations 
+The state of development and state of operation of the necessary system and structure 
+for ensuring the appropriateness of company business and business of a corporate group 
+comprising said company and its subsidiaries, and the state of damage to investor 
+confidence in the financial instruments market; 
+ (4) The provisions of Rule 440 of the Regulations 
+The contents of takeover response policies and the state of their disclosure; 
+(5) The provisions of Rule 441 of the Regulations 
+   The state of disclosure of measures to ensure fairness and prevent a conflict of interest 
+described in disclosure regarding public announcement of opinions in relation to a 
+takeover bid or presentation of such opinions to shareholders as defined in Rule 441 of 
+the Regulations; 
+(6) The provisions of Rule 442 of the Regulations 
+   The state of development of the information management system required for the 
+prevention of insider trading; 
+(7) The provisions of Rule 443 of the Regulations 
+The state of development of the internal system for the prevention of involvement of 
+anti-social forces; and 
+(8) The provisions of Rule 444 of the Regulations 
+The state where the function of the secondary market or shareholder rights are 
+undermined. 
+ 
+ 
+IV. Examination Pertaining to Delisting 
+ 
+(Inappropriate Mergers, etc.) 
+1. Examination of whether or not a listed company is a substantial surviving company as 
+prescribed in Rule 601, Paragraph 1, Item 5 of the Regulations shall be made in 
+comprehensive consideration of matters referred to in the following (1) to (5) concerning 
+said listed company (including its corporate group except in (3) and (4)): 
+(1) Operating results and financial condition; 
+(2) Composition of the management and organization of the business administration 
+(including the locations of business offices); 
+(3) Composition of shareholders; 
+(4) Trade name or corporate name; and 
+(5) Other matters deemed to have potent influence on such listed company. 
+ 
+(Reference Translation) 
+ 
+ 
+DISCLAIMER: This translation may be used for reference purposes only. This English version is not an official translation of 
+the original Japanese document. In cases where any differences occur between the English version and the original Japanese 
+version, the Japanese version shall prevail. This translation is subject to change without notice. Tokyo Stock Exchange, Inc., 
+Japan Exchange Regulation, Japan Exchange Group, Inc., and/or their affiliates shall individually or jointly accept no 
+responsibility or liability for damage or loss caused by any error, inaccuracy, misunderstanding, or changes with regard to this 
+translation.  
+6
+ 
+(Undermining of Soundness of Transactions with Controlling Shareholder) 
+2. Examination of whether or not a transaction falls under a case where the Exchange deems 
+that the soundness of the transaction with the controlling shareholder is severely 
+undermined as prescribed in Rule 601, Paragraph 1, Item 6 of the Regulations shall be 
+carried out, where the Exchange deems necessary and appropriate in light of investor 
+protection, in comprehensive consideration of the reasonability of the transaction with the 
+controlling shareholder as prescribed in Rule 601, Paragraph 6, Item 3 of the Enforcement 
+Rules  and the appropriateness of the transaction terms, and any other circumstances. 
+ 
+ 
+(False Statement or Adverse Opinion, etc.) 
+3. Examination of whether it is clearly difficult to maintain order in the market is difficult if 
+the listed company is delisted immediately as prescribed in Rule 601, Paragraph 1, Item 8 
+of the Regulations shall be carried out in comprehensive consideration of false statements 
+or the period, amount of money, actual state, and impact on stock prices concerning 
+adverse opinion, etc. in annual securities reports, etc. 
+ 
+(Security on Special Alert , etc.) 
+4. Examination referred to in the following (1) through (4) as prescribed in Rule 601, 
+Paragraph 1, Item 9 of the Regulations shall be carried out in comprehensive consideration 
+of matters prescribed in said (1) through (4) and other circumstances. 
+(1) Examination of whether the internal management system, etc. is unlikely to be 
+adequately developed and whether it is unlikely to be adequately implemented as 
+prescribed in Rule 601, Paragraph 1, Item 9, a. of the Regulations 
+Level of investigation into the fact, presence of a policy to consider preventive 
+measures, and actual state of disclosure of such matters and feasibility of the policy 
+(2) Examination of whether the internal management system, etc. is no longer likely to be 
+adequately developed and whether it is no longer likely to be adequately implemented 
+as prescribed in Rule 601, Paragraph 1, Item 9., b. of the Regulations 
+ 
+Implementation progress of improvement plans, and if a part of improvement plans 
+are not yet implemented, the cause and the actual state of affairs, and whether or not 
+there are specific and effective action plans pertaining to said incomplete part and 
+reasonability of the action plans 
+(3) Examination of whether the internal management system, etc. is not adequately 
+developed and whether it is no longer likely to be adequately implemented as 
+prescribed in Rule 601, Paragraph 1, Item 9, c. and d. of the Regulations 
+Matters specified in III 2. and the preceding (2) 
+(4) Examination of whether the internal management system, etc. is not deemed to be 
+adequately developed and implemented as prescribed in Rule 601, Paragraph 1, Item 9, 
+e., f., and g. of the Regulations 
+Matters specified in III 2. 
+ 
+(Violation of Listing Agreements, etc.)  
+5. Examination of the significance of a violation as prescribed in Rule 601, Paragraph 1, Item 
+ 
+(Reference Translation) 
+ 
+ 
+DISCLAIMER: This translation may be used for reference purposes only. This English version is not an official translation of 
+the original Japanese document. In cases where any differences occur between the English version and the original Japanese 
+version, the Japanese version shall prevail. This translation is subject to change without notice. Tokyo Stock Exchange, Inc., 
+Japan Exchange Regulation, Japan Exchange Group, Inc., and/or their affiliates shall individually or jointly accept no 
+responsibility or liability for damage or loss caused by any error, inaccuracy, misunderstanding, or changes with regard to this 
+translation.  
+7
+10, a. of the Regulations shall be carried out in comprehensive consideration of the details 
+of the violation of the listing agreement, the background and cause of said violation, the 
+state of affairs, and other circumstances related to the violation. 
+ 
+(Breach as to Matters taken on Oath in Written Oath pertaining to Application for 
+Initial Listing, etc.) 
+6. Examination of whether or not a listed company falls under a case where the Exchange 
+deems that an applicant has not met the initial listing criteria, criteria pertaining to listing of 
+new stocks, etc. or criteria pertaining to transfer of market segments prescribed in Rule 601, 
+Paragraph 1, Item 10, b. of the Regulations, or a case where the Exchange deems that 
+examination on whether or not an applicant has met the criteria specified in the 
+enforcement rules is unnecessary shall be carried out in consideration comprehensively of 
+the details of violations against matters taken on oath in the Written Oath, the background 
+of said violation, the cause and the actual state of affairs, and other circumstances. 
+ 
+(Unreasonable Restriction on Shareholders’ Rights)  
+7. Examination of whether or not a listed company falls under a case where the Exchange 
+deems that there is only a small likelihood of infringing interests of shareholders and 
+investors as prescribed in Rule 601, Paragraph 12, Item 3 of the Enforcement Rules shall 
+be carried out in comprehensive consideration of matters referred to in the following (1) to 
+(4) and other conditions: 
+(1) Business purpose of the company; 
+(2) Purpose of issuing class shares with a veto; 
+(3) Details of shareholders and/or investors rights; and 
+(4) Attributes of persons eligible for allotment. 
+8. Examination of whether or not a listed company falls under a case where the Exchange 
+deems that there is only a small likelihood of infringing interests of shareholders and 
+investors as prescribed in Rule 601, Paragraph 12, Item 4 of the Enforcement Rules shall 
+be carried out in comprehensive consideration of matters referred to in the following (1) to 
+(4) and other conditions: 
+(1) Business purpose of the company; 
+(2) Purpose of such alteration; 
+(3) Details of matters with respect to which the exercise of voting rights is restricted; and 
+(4) Conditions for exercising voting rights. 
+9. Examination of whether or not a listed company falls under cases where the Exchange 
+deems that it is highly likely to infringe interests of shareholders and investors as 
+prescribed in Rule 601, Paragraph 12, Item 5 of the Enforcement Rules shall be carried out 
+in comprehensive consideration of matters referred to in the following (1) to (4) and other 
+conditions: 
+(1) Business purpose of the company; 
+(2) Purpose of issuing such shares;  
+(3) Number of shares to be issued and the number of voting rights pertaining to such 
+shares; and 
+(4) Attributes of persons eligible for allotment and their relationship with such listed 
+company. 
+ 
+(Reference Translation) 
+ 
+ 
+DISCLAIMER: This translation may be used for reference purposes only. This English version is not an official translation of 
+the original Japanese document. In cases where any differences occur between the English version and the original Japanese 
+version, the Japanese version shall prevail. This translation is subject to change without notice. Tokyo Stock Exchange, Inc., 
+Japan Exchange Regulation, Japan Exchange Group, Inc., and/or their affiliates shall individually or jointly accept no 
+responsibility or liability for damage or loss caused by any error, inaccuracy, misunderstanding, or changes with regard to this 
+translation.  
+8
+10. 
+Examination of whether or not a listed company falls under cases where the 
+Exchange deems that there is only a small likelihood of infringement of interests of 
+shareholders and investors as prescribed in Rule 601, Paragraph 12, Item 6 of the 
+Enforcement Rules shall be carried out in comprehensive consideration of the purpose of 
+the said third-party allotment, attributes of persons eligible for allotment, the state of 
+implementing procedures pertaining to the alteration in the total number of authorized 
+shares, and other conditions. 
+11.  Examination of whether or not a listed company falls under a case where the Exchange 
+deems that it is highly likely to infringe interests of shareholders and investors as 
+prescribed in Rule 601, Paragraph 12, Item 7 of the Enforcement Rules shall be carried out 
+in comprehensive consideration of matters referred to in the following (1) to (3) and other 
+conditions: 
+(1) Number of shareholders who will lose their voting rights; 
+(2) Purpose of the reverse stock split; and 
+(3) Number of shareholders who are cashed out. 
+ 
+(Involvement of Anti-Social Forces) 
+12.  Examination of whether or not the actual situation of a listed company falls under a case 
+where the Exchange deems to severely damage shareholder and investor confidence in 
+the market of the said Exchange as prescribed in Rule 601, Paragraph 1, Item 19 of the 
+Regulations shall be carried out in comprehensive consideration of; (i) the details of the 
+fact that the company is subject to involvement of anti-social forces; (ii) the background, 
+and the cause of events relating to the said involvement; (iii) the state of development of 
+the internal system for the prevention of involvement of anti-social forces; (iv) the state 
+of the loss of confidence of investors in the financial instruments market; (v) other 
+matters requiring special consideration related to the case, and (vi) other circumstances. 
+ 
+(Public Interest and Protection of Investors) 
+13. Examination of whether or not the Exchange deems that a listed company falls under 
+cases where delisting is appropriate for the public interest and the protection of investors 
+as prescribed in Rule 601, Paragraph 1, Item 20 of the Regulations shall be carried out in 
+comprehensive consideration of the circumstances of how the case has impaired 
+investors’ confidence in the financial instruments market, other matters requiring special 
+consideration related to the case, and any other circumstances. 
+ 
+(Examination on false statements or adverse opinion, etc.) 
+14. In cases where a listed company falls under the provisions of Rule 503, Paragraph 1, Item 
+2, a. or b. of the Regulations, the Exchange shall conduct combined examinations of III 1. 
+(2) as well as IV 3. and 4. (1). 
+ 
+(Examination on violation against written oath pertaining to application at time of initial 
+listing, etc.) 
+15. In cases where a listed company has violated the matters in the Written Oath (meaning a 
+written oath submitted pursuant to the provisions of Rule 204, Paragraph 1 of the 
+Regulations, Rule 210, Paragraph 1 of the Regulations, Rule 216, Paragraph 1 of the 
+ 
+(Reference Translation) 
+ 
+ 
+DISCLAIMER: This translation may be used for reference purposes only. This English version is not an official translation of 
+the original Japanese document. In cases where any differences occur between the English version and the original Japanese 
+version, the Japanese version shall prevail. This translation is subject to change without notice. Tokyo Stock Exchange, Inc., 
+Japan Exchange Regulation, Japan Exchange Group, Inc., and/or their affiliates shall individually or jointly accept no 
+responsibility or liability for damage or loss caused by any error, inaccuracy, misunderstanding, or changes with regard to this 
+translation.  
+9
+Regulations, Rule 301, Paragraph 3 of the Regulations or Rule 306, Paragraph 4 of the 
+Regulations (including cases where those provisions apply mutatis mutandis pursuant to 
+Rule 310, Paragraph 2 of the Regulations or Rule 603, Paragraph 4 of the Regulations ) 
+pertaining to an initial listing application, a listing application of a new stock, etc. or an 
+application for transfer of market segments, the Exchange shall conduct combined 
+examinations of IV 5. and 6. 
+ 
+ 
+V. Remarks 
+ 
+(Provisions Applied Mutatis Mutandis) 
+This guideline shall apply mutatis mutandis to examinations pertaining to the appropriateness 
+of disclosure of corporate information, examinations pertaining to ensuring effectiveness, and 
+examinations pertaining to delisting related to listed preferred stocks, etc., listed senior 
+securities, listed preferred equity investment securities, listed bonds, listed convertible bonds, 
+listed exchangeable corporate bonds, listed ETNs, listed ETFs, listed REITs, listed venture 
+funds, listed country funds, and listed infrastructure funds.  
+ 
+ 
+Supplementary Provision 
+The revised rules shall be implemented on March 13, 2023. 
+ 
+Supplementary Provision 
+The revised rules shall be implemented on January 15, 2024. 
+ 
+Supplementary Provisions 
+These revisions shall take effect on April 1, 2024. 
+ 
+Supplementary Provision 
+The amendment shall be implemented on April 1, 2025. 

@@ -1,0 +1,165 @@
+ 
+(Provisional Reference Translation) 
+ 
+ 
+ 
+DISCLAIMER: This translation may be used for reference purposes only. This English version is not an official translation of the original 
+Japanese document. In cases where any differences occur between the English version and the original Japanese version, the Japanese 
+version shall prevail. This translation is subject to change without notice. Japan Exchange Regulation, Tokyo Stock Exchange, Inc., Osaka 
+Exchange, Inc., Japan Exchange Group, Inc., and/or their affiliates shall individually or jointly accept no responsibility or liability for 
+damage or loss caused by any error, inaccuracy, misunderstanding, or changes with regard to this translation. 
+1
+Enforcement Rules for the Business Regulations 
+ (as of July 16, 2013) 
+ 
+Japan Exchange Regulation 
+ 
+Chapter 1 
+Purpose 
+ 
+Rule 1. Purpose 
+These Rules prescribe matters decided by Japan Exchange Regulation (hereinafter referred 
+to as "JPX-R") in accordance with the Business Regulations (hereinafter referred to as the 
+"Regulations"). 
+ 
+Chapter 2 
+Inspection 
+ 
+Rule 2. Inspection 
+Inspection as prescribed in Rule 10, Paragraph 1 of the Regulations shall be as prescribed 
+in this Chapter. 
+ 
+Rule 3. Inspector 
+Inspection shall be carried out by an inspector appointed by JPX-R from among the 
+employees of JPX-R (hereinafter referred to as an "Inspector"); provided, however, that an 
+assistant may be employed, where JPX-R deems it necessary. 
+ 
+Rule 4. Request of Data, etc. 
+Inspectors shall require an officer or employee of Trading Participants to present or allow 
+perusal of its ledgers, documents and other articles, or submission of data or explanation of 
+facts and preparation, etc. of documents stating details of such explanation that are deemed 
+necessary. 
+ 
+Rule 5. Duties of Inspectors 
+Inspectors must observe the matters listed in each of the following items. 
+(1) All of  the Inspection must be carried out on the basis of facts.  
+(2) Where acknowledging facts, decisions on disposition and representation of opinions 
+are carried out, inspectors must always be fair. 
+ 
+Rule 6. Notice of Inspection Plans 
+JPX-R shall notify Trading Participants in advance of an inspection plan for every fiscal 
+ 
+(Provisional Reference Translation) 
+ 
+ 
+ 
+DISCLAIMER: This translation may be used for reference purposes only. This English version is not an official translation of the original 
+Japanese document. In cases where any differences occur between the English version and the original Japanese version, the Japanese 
+version shall prevail. This translation is subject to change without notice. Japan Exchange Regulation, Tokyo Stock Exchange, Inc., Osaka 
+Exchange, Inc., Japan Exchange Group, Inc., and/or their affiliates shall individually or jointly accept no responsibility or liability for 
+damage or loss caused by any error, inaccuracy, misunderstanding, or changes with regard to this translation. 
+2
+year. 
+ 
+Rule 7. Inspection Method and Timing 
+1. Inspection shall be carried out by visiting the head office, other sales office or the principal 
+office and other office (hereinafter referred to as an "outlet") of a Trading Participant; 
+provided, however, that it shall be carried out by documents submitted by such Trading 
+Participant to JPX-R, where JPX-R deems it necessary. 
+2. JPX-R shall carry out the inspection in the preceding paragraph upon a Trading Participant 
+whenever JPX-R deems it necessary. 
+ 
+Rule 8. Notice of Inspection 
+Where JPX-R carries out inspection by visiting outlets of a Trading Participant, JPX-R 
+shall notify such Trading Participant of the commencement day and the inspection method, 
+the name of the Inspector and any other necessary matters; provided, however, that the 
+same shall not apply where JPX-R deems it unnecessary. 
+ 
+Rule 9. Presentation of Inspector Identification Card  
+An Inspector shall present his or her inspector identification card upon the commencement 
+of inspection work. 
+ 
+Rule 10. Acknowledging Facts 
+Acknowledging facts as prescribed in Rule 5, Item (2) shall be as prescribed in each of the 
+following items. 
+(1) Where an Inspector has acknowledged facts, and where there is a difference in the 
+recognition concerning such fact acknowledgement between said Inspector and the 
+Trading Participant, JPX-R shall receive a written appeal from said Trading 
+Participant.  
+(2) Where JPX-R receives a written appeal as described in the preceding item, it shall 
+carry out proceedings of determining such relationship of fact in a fair manner. 
+(3) Where JPX-R has carried out the proceedings as in the preceding item, it shall 
+require the Trading Participant and the Inspector to submit a report or data which will 
+be references for carrying out a fact finding or a hearing, when necessary. 
+(4) Where JPX-R decides the results of the proceedings in Item (2), it shall notify such 
+Trading Participant of that fact without delay. 
+ 
+Rule 11. Notice of Inspection Results  
+Where inspection is completed, JPX-R shall notify the Trading Participant of the results of 
+the inspection. 
+ 
+ 
+(Provisional Reference Translation) 
+ 
+ 
+ 
+DISCLAIMER: This translation may be used for reference purposes only. This English version is not an official translation of the original 
+Japanese document. In cases where any differences occur between the English version and the original Japanese version, the Japanese 
+version shall prevail. This translation is subject to change without notice. Japan Exchange Regulation, Tokyo Stock Exchange, Inc., Osaka 
+Exchange, Inc., Japan Exchange Group, Inc., and/or their affiliates shall individually or jointly accept no responsibility or liability for 
+damage or loss caused by any error, inaccuracy, misunderstanding, or changes with regard to this translation. 
+3
+Rule 12. Cooperative Inspection, etc. 
+1. JPX-R shall carry out cooperative inspection with Japan Securities Dealers Association or 
+the Financial Futures Association of Japan, where JPX-R deems it necessary.  
+2. Where a Trading Participant is a member or a trading participant of another financial 
+instruments exchange in Japan other than the entrusting financial instruments exchange 
+and JPX-R deems it necessary, JPX-R shall carry out joint inspection with such financial 
+instruments exchange. 
+ 
+Chapter 3 
+Stocks Under Trading Supervision 
+ 
+Rule 13. Report on Transaction Details, etc. Pertaining to Stocks Under Trading 
+Supervision 
+Reports that JPX-R requires a Trading Participant pursuant to the provisions of Rule 19, 
+Paragraph 2 of the Regulations shall be in accordance with each of the following items. 
+(1) JPX-R shall require a report to be submitted in a method prescribed by JPX-R 
+concerning transaction details, etc. for a period deemed necessary by JPX-R before 
+the day on which designation as a stock under trading supervision is made, by Friday 
+(where it falls under a holiday, it shall be moved later. The same shall apply to the 
+next item) in a week following the week of the day on which such report is required 
+by JPX-R.  
+(2) JPX-R shall require a report to be submitted in a method prescribed by JPX-R 
+concerning transaction details, etc. for the period from the day of designation as a 
+stock under trading supervision to when cancellation of the designation under the 
+provisions of the following rule is made, by Friday in the week of the day on which 
+such transaction, etc. is affected.  
+ 
+Rule 14. Removal of Designation of Stock Under Trading Supervision 
+The case that JPX-R prescribes in Rule 19, Paragraph 3 of the Regulations is where an 
+amendment report stating that the holding ratio of the share certificates, etc. has fallen 
+below 5% is submitted by a person, who has purchased and collected a considerable 
+number of share certificates, etc. issued by the issuer of the share certificates of a stock 
+under trading supervision and where JPX-R deems it unnecessary in consideration of the 
+movement of the price and other state of transactions, etc. of the stock under trading 
+supervision. 
+ 
+Supplementary Provisions 
+These Enforcement Rules for the Business Regulations shall be implemented on 
+November 1, 2007. 
+ 
+(Provisional Reference Translation) 
+ 
+ 
+ 
+DISCLAIMER: This translation may be used for reference purposes only. This English version is not an official translation of the original 
+Japanese document. In cases where any differences occur between the English version and the original Japanese version, the Japanese 
+version shall prevail. This translation is subject to change without notice. Japan Exchange Regulation, Tokyo Stock Exchange, Inc., Osaka 
+Exchange, Inc., Japan Exchange Group, Inc., and/or their affiliates shall individually or jointly accept no responsibility or liability for 
+damage or loss caused by any error, inaccuracy, misunderstanding, or changes with regard to this translation. 
+4
+ 
+Supplementary Provisions 
+These revisions shall take effect on July 16, 2013. 
+ 

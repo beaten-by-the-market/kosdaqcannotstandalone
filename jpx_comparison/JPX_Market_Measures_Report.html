@@ -594,11 +594,11 @@
           <div class="flow-label">미충족 시</div>
           <div class="flow-arrow down">&#9660;</div>
         </div>
-        <!-- 우측: 기업행위/감사의견 (직행) -->
+        <!-- 우측: 기업행위 (직행) -->
         <div style="display:flex; flex-direction:column; gap:8px;">
           <div style="border:1px solid #ffcc80; border-radius:8px; overflow:hidden;">
-            <div style="background:#e65100; color:#fff; padding:7px 14px; font-size:0.85rem; font-weight:600;">기업행위 / 감사의견</div>
-            <div style="background:#263238; color:#cfd8dc; padding:8px 14px; font-size:0.82rem; line-height:1.5;">주식병합, TOB, 캐시아웃, 감사의견 미표명 등</div>
+            <div style="background:#e65100; color:#fff; padding:7px 14px; font-size:0.85rem; font-weight:600;">기업행위 (Corporate Actions)</div>
+            <div style="background:#263238; color:#cfd8dc; padding:8px 14px; font-size:0.82rem; line-height:1.5;">주식병합, TOB, 캐시아웃 등</div>
           </div>
           <div class="flow-arrow down">&#9660;</div>
           <div class="flow-label" style="color:#e65100; font-weight:600; font-size:0.82rem; flex:1; display:flex; align-items:center; justify-content:center;">Imp. Period 없이 직행</div>
@@ -614,8 +614,8 @@
           </div>
         </div>
         <div style="border:1px solid #ffb74d; border-radius:8px; overflow:hidden; width:100%;">
-          <div style="background:#e65100; color:#fff; padding:7px 14px; font-size:0.85rem; font-weight:600;">Securities Under Supervision</div>
-          <div style="background:#263238; color:#cfd8dc; padding:8px 14px; font-size:0.82rem; line-height:1.5;">Securities Under Supervision</div>
+          <div style="background:#e65100; color:#fff; padding:7px 14px; font-size:0.85rem; font-weight:600;">감리종목 (Securities Under Supervision)</div>
+          <div style="background:#263238; color:#cfd8dc; padding:8px 14px; font-size:0.82rem; line-height:1.5;">감리종목(확인): TSE 자체 판단 / 감리종목(심사): JPX-R 심사 후 지정</div>
         </div>
         <div class="flow-arrow down">&#9660;</div>
         <div style="border:1px solid #ef9a9a; border-radius:8px; overflow:hidden; width:100%;">
@@ -637,7 +637,7 @@
       <div class="track-flow">
         <div style="border:1px solid #ce93d8; border-radius:8px; overflow:hidden; width:100%;">
           <div style="background:#6a1b9a; color:#fff; padding:7px 14px; font-size:0.85rem; font-weight:600;">위반 발생</div>
-          <div style="background:#263238; color:#cfd8dc; padding:8px 14px; font-size:0.82rem; line-height:1.5;">허위공시, 적시공시 위반, 거버넌스 위반 등</div>
+          <div style="background:#263238; color:#cfd8dc; padding:8px 14px; font-size:0.82rem; line-height:1.5;">허위공시, 감사의견 부적격, 적시공시 위반, 거버넌스 위반, 주주권 부당제한 등</div>
         </div>
         <div class="flow-arrow down">&#9660;</div>
         <div style="border:1px solid #64b5f6; border-radius:8px; overflow:hidden; width:100%;">
@@ -725,7 +725,7 @@
   </div>
 
   <!-- 2.2 Under Supervision -->
-  <h3 class="subsection-title">2.2 Securities Under Supervision (Securities Under Supervision) &mdash; 37종목</h3>
+  <h3 class="subsection-title">2.2 감리종목 (Securities Under Supervision) &mdash; 37종목</h3>
 
   <div class="card">
     <table>
@@ -736,13 +736,14 @@
         <tr class="subtotal"><td></td><td><strong>소계</strong></td><td class="num"><strong>3</strong></td></tr>
         <tr><td rowspan="5"><strong>직행<br>(Imp. Period 없음)</strong></td><td>Corporate Actions</td><td>Reverse Stock Split (주식병합)</td><td class="num">20</td></tr>
         <tr><td>Corporate Actions</td><td>Board Resolution (취득결의)</td><td class="num">14</td></tr>
-        <tr><td>Audit Opinion</td><td>감사의견 미표명/부적정</td><td class="num">0</td></tr>
+        <tr><td>Audit Opinion<br><span style="font-size:0.75rem;color:#6a1b9a;">(JPX-R 심사)</span></td><td>감사의견 미표명/부적정 &rarr; 감리종목(심사)</td><td class="num">0</td></tr>
         <tr><td>기타</td><td>유가증권보고서 미제출, 은행거래 정지 등</td><td class="num">0</td></tr>
         <tr class="subtotal"><td></td><td><strong>소계</strong></td><td class="num"><strong>34</strong></td></tr>
       </tbody>
     </table>
 
-    <div class="note info">직행 34건은 회사가 TDnet에 공시한 <strong>당일 즉시</strong> TSE가 Securities Under Supervision으로 지정 (시차 0일).</div>
+    <div class="note info">Corporate Actions 직행 34건은 회사가 TDnet에 공시한 <strong>당일 즉시</strong> TSE가 감리종목(확인)으로 지정 (시차 0일).<br>
+    Audit Opinion 사유는 <strong>JPX-R이 심사</strong>하여 감리종목(심사)으로 지정하며, 현재 해당 건수는 0건.</div>
 
     <details>
       <summary>Improvement Period 경유 3종목</summary>
@@ -841,7 +842,7 @@
       <div class="flow-col" style="width:100%; max-width:500px;">
         <div style="border:1px solid #ce93d8; border-radius:8px; overflow:hidden; width:100%;">
           <div style="background:#6a1b9a; color:#fff; padding:7px 14px; font-size:0.85rem; font-weight:600;">위반 발생</div>
-          <div style="background:#263238; color:#cfd8dc; padding:8px 14px; font-size:0.82rem;">허위공시, 적시공시 위반, 거버넌스 위반 등</div>
+          <div style="background:#263238; color:#cfd8dc; padding:8px 14px; font-size:0.82rem;">허위공시, 감사의견 부적격, 적시공시 위반, 거버넌스 위반, 주주권 부당제한 등</div>
         </div>
         <div class="flow-arrow down">&#9660;</div>
         <div style="border:1px solid #64b5f6; border-radius:8px; overflow:hidden; width:100%;">
