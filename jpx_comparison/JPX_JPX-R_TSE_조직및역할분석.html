@@ -527,62 +527,48 @@
   <div class="note source">출처: Securities Listing Regulations (2025.12.8) Rule 501, 503, 601, 608<br>
     규정 원문: <a href="https://www.jpx.co.jp/english/rules-participants/rules/regulations/index.html" target="_blank">JPX Rules & Regulations</a></div>
 
-  <h3 class="subsection-title">6.1 Securities Under Supervision의 두 가지 서브카테고리</h3>
+  <h3 class="subsection-title">6.1 감리종목(Securities Under Supervision)의 두 가지 유형</h3>
   <table>
-    <thead><tr><th>구분</th><th class="center">Grace Period (猶予期間入り)</th><th class="center">Under Confirmation (確認中)</th></tr></thead>
+    <thead><tr><th>구분</th><th class="center">감리종목(확인)<br>監理銘柄（確認中）</th><th class="center">감리종목(심사)<br>監理銘柄（審査中）</th></tr></thead>
     <tbody>
-      <tr><td><strong>트리거</strong></td><td>정량적 상장유지기준 미달<br>(주주수, 유통주식 시가총액 등)</td><td>감사의견 미표명/부적정,<br>유가증권보고서 미제출 등</td></tr>
+      <tr><td><strong>판단주체</strong></td><td class="center"><span class="badge tse">TSE</span></td><td class="center"><span class="badge jpxr">JPX-R</span></td></tr>
+      <tr><td><strong>트리거</strong></td><td>정량적 상장유지기준 미달<br>(주주수, 유통주식 시가총액 등),<br>파산/회생절차 우려 등</td><td><strong>감사의견 미표명/부적정</strong>,<br>유가증권보고서 미제출,<br>허위기재, 상장계약위반 등</td></tr>
       <tr class="tbl-highlight"><td><strong>Improvement Period</strong></td><td class="center"><strong>있음</strong> (원칙 1년)</td><td class="center"><strong>없음</strong> — 바로 지정</td></tr>
-      <tr><td><strong>성격</strong></td><td>개선 기회 부여 → 기한 내 충족 시 해제</td><td>상폐 해당 여부 확인 중 → 확인되면 정리종목→상폐</td></tr>
-      <tr><td><strong>근거 조항</strong></td><td>Rule 501, Rule 601(1)</td><td>Rule 601(7)(8) 등</td></tr>
+      <tr><td><strong>성격</strong></td><td>개선 기회 부여 → 기한 내 충족 시 해제</td><td>JPX-R이 상폐 해당 여부를 실질 심사 → 결과에 따라 해제 또는 상폐</td></tr>
+      <tr><td><strong>근거 조항</strong></td><td>Rule 501, Rule 601(1), 시행규칙 Rule 604</td><td>Rule 601(7)(8) 등, 시행규칙 Rule 604</td></tr>
     </tbody>
   </table>
 
-  <h3 class="subsection-title">6.2 TSE 트랙 vs JPX-R 트랙</h3>
-  <div class="tracks">
-    <div class="track tse">
-      <div class="track-header">TSE 행정 트랙</div>
-      <div class="track-sub">Improvement Period <strong>없이</strong> 바로 지정</div>
-      <div class="track-flow">
-        <div class="flow-box start">감사의견 미표명 발생</div>
-        <div class="flow-arrow down">▼</div>
-        <div class="flow-box process">監理銘柄（確認中）지정<br><small>Securities Under Supervision<br>(Under Confirmation)</small></div>
-        <div class="flow-label">Improvement Period 없이 바로 지정 (Rule 608)</div>
-        <div class="flow-arrow down">▼</div>
-        <div class="flow-box decision">JPX-R 심사 결과에 따라</div>
-        <div style="display:flex;gap:12px;width:100%;">
-          <div class="flow-box success" style="flex:1">해소 → 지정 해제</div>
-          <div class="flow-box end" style="flex:1">확정 → 정리종목 → 상폐</div>
-        </div>
-      </div>
-    </div>
+  <h3 class="subsection-title">6.2 감사의견 미표명 발생 시 처리 흐름 (JPX-R 심사 트랙)</h3>
+  <div class="note info">감사의견 미표명/부적정은 <strong>감리종목(심사)</strong>에 해당하며, <strong>JPX-R이 심사·판단</strong>합니다 (시행규칙 Rule 604).<br>
+  정량기준 미달에 의한 감리종목(확인)과 달리 Improvement Period 없이 바로 지정됩니다.</div>
 
-    <div class="track jpxr">
-      <div class="track-header">JPX-R 심사 트랙</div>
-      <div class="track-sub">두 가지 경로</div>
-      <div class="track-flow">
-        <div class="flow-box start">감사의견 미표명 발생</div>
-        <div class="flow-arrow down">▼</div>
-        <div class="flow-box alert"><strong>경로 ①</strong> Rule 503<br>내부관리체계 개선 크게 필요 시<br>→ 특별주의시장종목 지정<br><small>(개선 기회 부여)</small></div>
-        <div class="flow-label">Written Confirmation 제출 등</div>
-        <div style="display:flex;gap:12px;width:100%;">
-          <div class="flow-box success" style="flex:1">개선 완료 → 해제</div>
-          <div class="flow-box end" style="flex:1">불가 → Rule 601(9) → 상폐</div>
-        </div>
-        <div style="margin-top:12px;width:100%;border-top:1px dashed #ba68c8;padding-top:12px;">
-          <div class="flow-box end" style="width:100%"><strong>경로 ②</strong> Rule 601(8)<br>"시장 질서 유지 명백히 곤란" 시<br>→ 즉시 상장폐지<br><small>(극히 예외적)</small></div>
-        </div>
+  <div class="track jpxr" style="max-width:600px; margin:16px auto;">
+    <div class="track-header">감사의견 미표명/부적정 — JPX-R 심사 흐름</div>
+    <div class="track-sub">감리종목(심사) 지정 후 세 가지 경로</div>
+    <div class="track-flow">
+      <div class="flow-box start">감사의견 미표명/부적정 발생</div>
+      <div class="flow-arrow down">▼</div>
+      <div class="flow-box alert">JPX-R이 감리종목(심사) 지정 결정<br><small>監理銘柄（審査中）&mdash; Improvement Period 없이 바로 지정</small></div>
+      <div class="flow-arrow down">▼</div>
+      <div class="flow-box process">JPX-R 실질 심사</div>
+      <div class="flow-arrow down">▼</div>
+      <div style="width:100%; display:grid; grid-template-columns:1fr 1fr 1fr; gap:8px;">
+        <div class="flow-box success"><strong>해소</strong><br><small>지정 해제</small></div>
+        <div class="flow-box alert"><strong>경로 ① Rule 503</strong><br><small>특별주의종목 지정<br>(내부관리체계 개선 필요 시)<br>→ 개선 완료 시 해제<br>→ 불가 시 Rule 601(9) 상폐</small></div>
+        <div class="flow-box end"><strong>경로 ② Rule 601(8)</strong><br><small>"시장 질서 유지 명백히 곤란" 시<br>→ 즉시 상장폐지<br>(극히 예외적)</small></div>
       </div>
     </div>
   </div>
 
   <h3 class="subsection-title">6.3 정량기준 미달과의 비교</h3>
   <table>
-    <thead><tr><th></th><th>정량기준 미달 (주주수 등)</th><th>감사의견 미표명</th></tr></thead>
+    <thead><tr><th></th><th>정량기준 미달 (주주수 등)</th><th>감사의견 미표명/부적정</th></tr></thead>
     <tbody>
-      <tr><td><strong>TSE 행정조치</strong></td><td>監理銘柄（猶予期間入り）</td><td>監理銘柄（確認中）</td></tr>
+      <tr><td><strong>감리종목 유형</strong></td><td>감리종목(확인) 監理銘柄（確認中）</td><td>감리종목(심사) 監理銘柄（審査中）</td></tr>
+      <tr><td><strong>판단주체</strong></td><td class="center"><span class="badge tse">TSE</span></td><td class="center"><span class="badge jpxr">JPX-R</span></td></tr>
       <tr class="tbl-highlight"><td><strong>Improvement Period</strong></td><td><strong>있음</strong> (원칙 1년)</td><td><strong>없음</strong> — 바로 지정</td></tr>
-      <tr><td><strong>이후 JPX-R 심사</strong></td><td>유예기간 만료 후 심사</td><td>지정 즉시 심사 진행</td></tr>
+      <tr><td><strong>심사</strong></td><td>유예기간 만료 후 미달 여부 확인</td><td>JPX-R이 지정 즉시 실질 심사 진행</td></tr>
       <tr><td><strong>근거</strong></td><td>Rule 501, Rule 601(1)</td><td>Rule 601(7)(8), Rule 503</td></tr>
     </tbody>
   </table>
@@ -592,7 +578,7 @@
     <thead><tr><th>심사 유형</th><th class="center">판단주체</th><th class="center">FY2024</th><th class="center">전년 대비</th></tr></thead>
     <tbody>
       <tr><td>Quantitative — 상장유지기준 미달</td><td class="center"><span class="badge jpxr">JPX-R</span></td><td class="center">0건</td><td class="center">±0</td></tr>
-      <tr class="tbl-highlight"><td><strong>Quantitative — 기타</strong> (감사의견 미표명 등)</td><td class="center"><span class="badge jpxr">JPX-R</span></td><td class="center"><strong>106건</strong></td><td class="center">+2</td></tr>
+      <tr class="tbl-highlight"><td><strong>정성기준</strong> (감사의견 부적격, 내부통제 훼손 등)</td><td class="center"><span class="badge jpxr">JPX-R</span></td><td class="center"><strong>106건</strong></td><td class="center">+2</td></tr>
       <tr><td>Qualitative</td><td class="center"><span class="badge jpxr">JPX-R</span></td><td class="center">1건</td><td class="center">-2</td></tr>
       <tr><td>Substantial Surviving Company</td><td class="center"><span class="badge jpxr">JPX-R</span></td><td class="center">88건</td><td class="center">+29</td></tr>
     </tbody>
@@ -719,7 +705,7 @@
   <strong>수정 이력:</strong><br>
   • JPX-R 법적 지위: "재단법인" → <strong>"사단법인(membership association)"</strong>으로 정정 (Annual Report 원문 기준)<br>
   • Securities Under Supervision 판단주체: <strong>JPX-R이 심사·판단</strong>, TSE는 공표(publication)만 담당으로 명확화<br>
-  • 감사의견 미표명: TSE 행정 트랙에서 <strong>Improvement Period 없이 바로 確認中으로 지정</strong>됨을 명시<br>
+  • 감사의견 미표명: <strong>감리종목(심사) / JPX-R 심사 트랙</strong>으로 정정 (시행규칙 Rule 604 기준). Improvement Period 없이 바로 지정<br>
   • Section 7에 Securities Listing Regulations <strong>Rule 501, 503, 601, 608</strong> 조문 근거 추가
 </div>
 
