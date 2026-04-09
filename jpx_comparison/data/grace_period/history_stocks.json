@@ -1,0 +1,52 @@
+{
+  "fetched_date": "2026-04-10",
+  "count": 4,
+  "data": [
+    {
+      "Issue Name": "DAIWA TSUSHIN Co.,Ltd",
+      "Code": "7116",
+      "Market Segment": "Standard",
+      "Removal Announcement Date": "-",
+      "Details": "Due to falling under a case where TSE deems a company has violated the matters under the written oath for application for initial listing, and had not met the initial listing criteria",
+      "Remarks": "*Delisted due to a reverse stock splitï¼2026/3/25ï¼",
+      "File_URL": "/english/listing/market-alerts/grace-period/sjcobq000001oadv-att/sjcobq000001oafg.pdf",
+      "Year": "2025",
+      "File_Path": "data/pdfs/grace_period/7116_DAIWA_TSUSHIN_Co.Ltd.pdf"
+    },
+    {
+      "Issue Name": "SUNWELS Co.,Ltd.",
+      "Code": "9229",
+      "Market Segment": "Prime",
+      "Removal Announcement Date": "-",
+      "Details": "Due to falling under a case where TSE deems a company has violated the matters under the written oath for application for transfer of market segment, and had not met the criteria for segment transfer",
+      "Remarks": "",
+      "File_URL": "/english/listing/market-alerts/grace-period/sjcobq0000017kam-att/sjcobq0000017kc7.pdf",
+      "Year": "2025",
+      "File_Path": "data/pdfs/grace_period/9229_SUNWELS_Co.Ltd..pdf"
+    },
+    {
+      "Issue Name": "SYLA Holdings Co.,Ltd.(Old Trade Name:CUMICA CORPORATION)",
+      "Code": "8887",
+      "Market Segment1": "Standard",
+      "Removal Announcement Date": "-",
+      "Managing Trading Participant2": "",
+      "Details": "Due to falling under a case where TSE deems that a listed company is not a substantial surviving company",
+      "Remarks": "*Expectation of entering a grace period ï¼2024/12/2ï¼*Entering a grace period (2025/5/30)*Change in Trade Nameï¼2025/6/1ï¼",
+      "File_URL": "/english/listing/market-alerts/grace-period/dh3otn000000m2y8-att/dh3otn000000m2zt.pdf",
+      "Year": "2024",
+      "File_Path": "data/pdfs/grace_period/8887_SYLA_Holdings_Co.Ltd.(Old_Trade_NameCUMICA_CORPORATION).pdf"
+    },
+    {
+      "Issue Name": "KANSAI FOOD MARKET LTD.\r\n(Old Trade Name:KANSAI SUPER MARKET LTD.)",
+      "Code": "9919",
+      "Market Segment1": "1st Section",
+      "Removal Announcement Date": "-",
+      "Managing Trading Participant2": "",
+      "Details": "due to falling under a case where TSE deems that a listed company is not a substantial surviving company and the company is likely to enter the grace period",
+      "Remarks": "*Expectation of entering a grace period ï¼2021/8/31ï¼*Change to \"likely grace period\"ï¼2021/11/26ï¼*Entering a grace periodï¼2021/12/14ï¼*Change in Trade Nameï¼2022/2/1ï¼*Market Segment on Apr. 04, 2022:Standard Market*Delistedï¼2024/7/29ï¼",
+      "File_URL": "/english/listing/market-alerts/grace-period/b5b4pj000004aicd-att/b5b4pj000004aidy.pdf",
+      "Year": "2021",
+      "File_Path": "data/pdfs/grace_period/9919_KANSAI_FOOD_MARKET_LTD._(Old_Trade_NameKANSAI_SUPER_MARKET_LTD.).pdf"
+    }
+  ]
+}

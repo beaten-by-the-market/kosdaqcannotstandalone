@@ -1,0 +1,956 @@
+{
+  "fetched_date": "2026-04-10",
+  "count": 72,
+  "data": [
+    {
+      "Section": "Securities Under Supervision (Confirmation)",
+      "Designation Date": "Apr. 08, 2026",
+      "Issue Name": "GFOOT CO.,LTD.",
+      "Code": "2686",
+      "Market Segment": "Standard",
+      "Details": "Due to falling under a case where the board of directors has made a resolution on a reverse stock split with a split ratio at which the number of all the shares owned by shareholders other than a specified party will be less than one share",
+      "Remarks": "",
+      "File_URL": "/english/listing/market-alerts/supervision/vk0khi000001530z-att/vk0khi000001532e.pdf",
+      "File_Path": "data/pdfs/supervision_delisting/2686_GFOOT_CO.LTD..pdf",
+      "Simplified_Details": "Reverse Stock Split (주식병합)"
+    },
+    {
+      "Section": "Securities Under Supervision (Confirmation)",
+      "Designation Date": "Apr. 06, 2026",
+      "Issue Name": "The Global Ltd.",
+      "Code": "3271",
+      "Market Segment": "Standard",
+      "Details": "Due to falling under a case where the board of directors has made a resolution on a reverse stock split with a split ratio at which the number of all the shares owned by shareholders other than a specified party will be less than one share",
+      "Remarks": "",
+      "File_URL": "/english/listing/market-alerts/supervision/vk0khi0000012uek-att/vk0khi0000012ufz.pdf",
+      "File_Path": "data/pdfs/supervision_delisting/3271_The_Global_Ltd..pdf",
+      "Simplified_Details": "Reverse Stock Split (주식병합)"
+    },
+    {
+      "Section": "Securities Under Supervision (Confirmation)",
+      "Designation Date": "Apr. 01, 2026",
+      "Issue Name": "TAIYO HOLDINGS CO.,LTD.",
+      "Code": "4626",
+      "Market Segment": "Prime",
+      "Details": "Due to falling under a case where the board of directors has made a resolution on a reverse stock split with a split ratio at which the number of all the shares owned by shareholders other than a specified party will be less than one share",
+      "Remarks": "",
+      "File_URL": "/english/listing/market-alerts/supervision/vk0khi0000012jhm-att/vk0khi0000012jj1.pdf",
+      "File_Path": "data/pdfs/supervision_delisting/4626_TAIYO_HOLDINGS_CO.LTD..pdf",
+      "Simplified_Details": "Reverse Stock Split (주식병합)"
+    },
+    {
+      "Section": "Securities Under Supervision (Confirmation)",
+      "Designation Date": "Apr. 01, 2026",
+      "Issue Name": "Image Information Inc.",
+      "Code": "3803",
+      "Market Segment": "Growth",
+      "Details": "Because the stock(s) on the list are not likely to meet the continued listing criteria within the improvement period",
+      "Remarks": "Companies with Conformance Plans Exceeding the Deadlineï¼March 31,2027ï¼",
+      "File_URL": "/english/listing/market-alerts/supervision/vk0khi00000109re-att/vk0khi00000109st.pdf",
+      "File_Path": "data/pdfs/supervision_delisting/3803_Image_Information_Inc..pdf",
+      "Refined_Details": [
+        "Market Capitalization"
+      ],
+      "Simplified_Details": "상장유지기준 미달 (개선기간 미충족)"
+    },
+    {
+      "Section": "Securities Under Supervision (Confirmation)",
+      "Designation Date": "Apr. 01, 2026",
+      "Issue Name": "YAMATO Mobility & Mfg. Co.,Ltd.",
+      "Code": "7886",
+      "Market Segment": "Standard",
+      "Details": "Because the stock(s) on the list are not likely to meet the continued listing criteria within the improvement period",
+      "Remarks": "Companies with Conformance Plans Exceeding the Deadlineï¼March 31,2027ï¼",
+      "File_URL": "/english/listing/market-alerts/supervision/vk0khi0000010bx8-att/vk0khi0000010byn.pdf",
+      "File_Path": "data/pdfs/supervision_delisting/7886_YAMATO_Mobility_&_Mfg._Co.Ltd..pdf",
+      "Refined_Details": [
+        "Tradable Share Market Capitalization"
+      ],
+      "Simplified_Details": "상장유지기준 미달 (개선기간 미충족)"
+    },
+    {
+      "Section": "Securities Under Supervision (Confirmation)",
+      "Designation Date": "Apr. 01, 2026",
+      "Issue Name": "FUJITA CORPORATION Co.,Ltd.",
+      "Code": "3370",
+      "Market Segment": "Standard",
+      "Details": "Because the stock(s) on the list are not likely to meet the continued listing criteria within the improvement period",
+      "Remarks": "Companies with Conformance Plans Exceeding the Deadlineï¼March 31,2027ï¼",
+      "File_URL": "/english/listing/market-alerts/supervision/vk0khi0000010b7h-att/vk0khi0000010b8w.pdf",
+      "File_Path": "data/pdfs/supervision_delisting/3370_FUJITA_CORPORATION_Co.Ltd..pdf",
+      "Refined_Details": [
+        "Tradable Share Market Capitalization"
+      ],
+      "Simplified_Details": "상장유지기준 미달 (개선기간 미충족)"
+    },
+    {
+      "Section": "Securities Under Supervision (Confirmation)",
+      "Designation Date": "Apr. 01, 2026",
+      "Issue Name": "RUNSYSTEM CO.,LTD.",
+      "Code": "3326",
+      "Market Segment": "Standard",
+      "Details": "Because the stock(s) on the list are not likely to meet the continued listing criteria within the improvement period",
+      "Remarks": "Companies with Conformance Plans Exceeding the Deadlineï¼March 31,2027ï¼",
+      "File_URL": "/english/listing/market-alerts/supervision/vk0khi0000010b5i-att/vk0khi0000010b6x.pdf",
+      "File_Path": "data/pdfs/supervision_delisting/3326_RUNSYSTEM_CO.LTD..pdf",
+      "Refined_Details": [
+        "Tradable Share Market Capitalization"
+      ],
+      "Simplified_Details": "상장유지기준 미달 (개선기간 미충족)"
+    },
+    {
+      "Section": "Securities Under Supervision (Confirmation)",
+      "Designation Date": "Apr. 01, 2026",
+      "Issue Name": "Polaris Holdings Co.,Ltd.",
+      "Code": "3010",
+      "Market Segment": "Standard",
+      "Details": "Because the stock(s) on the list are not likely to meet the continued listing criteria within the improvement period",
+      "Remarks": "Companies with Conformance Plans Exceeding the Deadlineï¼March 31,2027ï¼",
+      "File_URL": "/english/listing/market-alerts/supervision/vk0khi0000010b3j-att/vk0khi0000010b4y.pdf",
+      "File_Path": "data/pdfs/supervision_delisting/3010_Polaris_Holdings_Co.Ltd..pdf",
+      "Refined_Details": [
+        "Tradable Share Ratio"
+      ],
+      "Simplified_Details": "상장유지기준 미달 (개선기간 미충족)"
+    },
+    {
+      "Section": "Securities Under Supervision (Confirmation)",
+      "Designation Date": "Apr. 01, 2026",
+      "Issue Name": "YUMEMITSUKETAI Co.,Ltd.",
+      "Code": "2673",
+      "Market Segment": "Standard",
+      "Details": "Because the stock(s) on the list are not likely to meet the continued listing criteria within the improvement period",
+      "Remarks": "Companies with Conformance Plans Exceeding the Deadlineï¼March 31,2027ï¼",
+      "File_URL": "/english/listing/market-alerts/supervision/vk0khi0000010axm-att/vk0khi0000010az1.pdf",
+      "File_Path": "data/pdfs/supervision_delisting/2673_YUMEMITSUKETAI_Co.Ltd..pdf",
+      "Refined_Details": [
+        "Tradable Share Market Capitalization"
+      ],
+      "Simplified_Details": "상장유지기준 미달 (개선기간 미충족)"
+    },
+    {
+      "Section": "Securities Under Supervision (Confirmation)",
+      "Designation Date": "Apr. 01, 2026",
+      "Issue Name": "Kyogoku unyu shoji Co.,Ltd.",
+      "Code": "9073",
+      "Market Segment": "Standard",
+      "Details": "Because the stock(s) on the list are not likely to meet the continued listing criteria within the improvement period",
+      "Remarks": "",
+      "File_URL": "/english/listing/market-alerts/supervision/vk0khi0000010c5c-att/vk0khi0000010c6r.pdf",
+      "File_Path": "data/pdfs/supervision_delisting/9073_Kyogoku_unyu_shoji_Co.Ltd..pdf",
+      "Refined_Details": [
+        "Tradable Share Ratio",
+        "Tradable Share Market Capitalization"
+      ],
+      "Simplified_Details": "상장유지기준 미달 (개선기간 미충족)"
+    },
+    {
+      "Section": "Securities Under Supervision (Confirmation)",
+      "Designation Date": "Apr. 01, 2026",
+      "Issue Name": "Bitcoin Japan Corporation",
+      "Code": "8105",
+      "Market Segment": "Standard",
+      "Details": "Because the stock(s) on the list are not likely to meet the continued listing criteria within the improvement period",
+      "Remarks": "",
+      "File_URL": "/english/listing/market-alerts/supervision/vk0khi0000010c38-att/vk0khi0000010c4n.pdf",
+      "File_Path": "data/pdfs/supervision_delisting/8105_Bitcoin_Japan_Corporation.pdf",
+      "Refined_Details": [
+        "Tradable Share Market Capitalization"
+      ],
+      "Simplified_Details": "상장유지기준 미달 (개선기간 미충족)"
+    },
+    {
+      "Section": "Securities Under Supervision (Confirmation)",
+      "Designation Date": "Apr. 01, 2026",
+      "Issue Name": "NEPON Inc.",
+      "Code": "7985",
+      "Market Segment": "Standard",
+      "Details": "Because the stock(s) on the list are not likely to meet the continued listing criteria within the improvement period",
+      "Remarks": "",
+      "File_URL": "/english/listing/market-alerts/supervision/vk0khi0000010c16-att/vk0khi0000010c2l.pdf",
+      "File_Path": "data/pdfs/supervision_delisting/7985_NEPON_Inc..pdf",
+      "Refined_Details": [
+        "Tradable Share Market Capitalization"
+      ],
+      "Simplified_Details": "상장유지기준 미달 (개선기간 미충족)"
+    },
+    {
+      "Section": "Securities Under Supervision (Confirmation)",
+      "Designation Date": "Apr. 01, 2026",
+      "Issue Name": "KOYOSHA INC.",
+      "Code": "7946",
+      "Market Segment": "Standard",
+      "Details": "Because the stock(s) on the list are not likely to meet the continued listing criteria within the improvement period",
+      "Remarks": "",
+      "File_URL": "/english/listing/market-alerts/supervision/vk0khi0000010bz7-att/vk0khi0000010c0m.pdf",
+      "File_Path": "data/pdfs/supervision_delisting/7946_KOYOSHA_INC..pdf",
+      "Refined_Details": [
+        "Number of Shareholders",
+        "Tradable Share Market Capitalization"
+      ],
+      "Simplified_Details": "상장유지기준 미달 (개선기간 미충족)"
+    },
+    {
+      "Section": "Securities Under Supervision (Confirmation)",
+      "Designation Date": "Apr. 01, 2026",
+      "Issue Name": "KAWASE COMPUTER SUPPLIES CO.,LTD.",
+      "Code": "7851",
+      "Market Segment": "Standard",
+      "Details": "Because the stock(s) on the list are not likely to meet the continued listing criteria within the improvement period",
+      "Remarks": "",
+      "File_URL": "/english/listing/market-alerts/supervision/vk0khi0000010bv7-att/vk0khi0000010bwm.pdf",
+      "File_Path": "data/pdfs/supervision_delisting/7851_KAWASE_COMPUTER_SUPPLIES_CO.LTD..pdf",
+      "Refined_Details": [
+        "Tradable Share Market Capitalization"
+      ],
+      "Simplified_Details": "상장유지기준 미달 (개선기간 미충족)"
+    },
+    {
+      "Section": "Securities Under Supervision (Confirmation)",
+      "Designation Date": "Apr. 01, 2026",
+      "Issue Name": "KUBOTEK CORPORATION",
+      "Code": "7709",
+      "Market Segment": "Standard",
+      "Details": "Because the stock(s) on the list are not likely to meet the continued listing criteria within the improvement period",
+      "Remarks": "",
+      "File_URL": "/english/listing/market-alerts/supervision/vk0khi0000010bt6-att/vk0khi0000010bul.pdf",
+      "File_Path": "data/pdfs/supervision_delisting/7709_KUBOTEK_CORPORATION.pdf",
+      "Refined_Details": [
+        "Tradable Share Market Capitalization"
+      ],
+      "Simplified_Details": "상장유지기준 미달 (개선기간 미충족)"
+    },
+    {
+      "Section": "Securities Under Supervision (Confirmation)",
+      "Designation Date": "Apr. 01, 2026",
+      "Issue Name": "Ledax Co.,Ltd.",
+      "Code": "7602",
+      "Market Segment": "Standard",
+      "Details": "Because the stock(s) on the list are not likely to meet the continued listing criteria within the improvement period",
+      "Remarks": "",
+      "File_URL": "/english/listing/market-alerts/supervision/vk0khi0000010br7-att/vk0khi0000010bsm.pdf",
+      "File_Path": "data/pdfs/supervision_delisting/7602_Ledax_Co.Ltd..pdf",
+      "Refined_Details": [
+        "Tradable Share Market Capitalization"
+      ],
+      "Simplified_Details": "상장유지기준 미달 (개선기간 미충족)"
+    },
+    {
+      "Section": "Securities Under Supervision (Confirmation)",
+      "Designation Date": "Apr. 01, 2026",
+      "Issue Name": "Yamadai Corporation",
+      "Code": "7426",
+      "Market Segment": "Standard",
+      "Details": "Because the stock(s) on the list are not likely to meet the continued listing criteria within the improvement period",
+      "Remarks": "",
+      "File_URL": "/english/listing/market-alerts/supervision/vk0khi0000010bp8-att/vk0khi0000010bqn.pdf",
+      "File_Path": "data/pdfs/supervision_delisting/7426_Yamadai_Corporation.pdf",
+      "Refined_Details": [
+        "Tradable Share Market Capitalization"
+      ],
+      "Simplified_Details": "상장유지기준 미달 (개선기간 미충족)"
+    },
+    {
+      "Section": "Securities Under Supervision (Confirmation)",
+      "Designation Date": "Apr. 01, 2026",
+      "Issue Name": "SAKURAI LTD.",
+      "Code": "7255",
+      "Market Segment": "Standard",
+      "Details": "Because the stock(s) on the list are not likely to meet the continued listing criteria within the improvement period",
+      "Remarks": "",
+      "File_URL": "/english/listing/market-alerts/supervision/vk0khi0000010bn9-att/vk0khi0000010boo.pdf",
+      "File_Path": "data/pdfs/supervision_delisting/7255_SAKURAI_LTD..pdf",
+      "Refined_Details": [
+        "Tradable Share Market Capitalization"
+      ],
+      "Simplified_Details": "상장유지기준 미달 (개선기간 미충족)"
+    },
+    {
+      "Section": "Securities Under Supervision (Confirmation)",
+      "Designation Date": "Apr. 01, 2026",
+      "Issue Name": "Unozawa-gumi Iron Works,Limited",
+      "Code": "6396",
+      "Market Segment": "Standard",
+      "Details": "Because the stock(s) on the list are not likely to meet the continued listing criteria within the improvement period",
+      "Remarks": "",
+      "File_URL": "/english/listing/market-alerts/supervision/vk0khi0000010bla-att/vk0khi0000010bmp.pdf",
+      "File_Path": "data/pdfs/supervision_delisting/6396_Unozawa-gumi_Iron_WorksLimited.pdf",
+      "Refined_Details": [
+        "Tradable Share Market Capitalization"
+      ],
+      "Simplified_Details": "상장유지기준 미달 (개선기간 미충족)"
+    },
+    {
+      "Section": "Securities Under Supervision (Confirmation)",
+      "Designation Date": "Apr. 01, 2026",
+      "Issue Name": "YAMAZAKI CO.,LTD.",
+      "Code": "6147",
+      "Market Segment": "Standard",
+      "Details": "Because the stock(s) on the list are not likely to meet the continued listing criteria within the improvement period",
+      "Remarks": "",
+      "File_URL": "/english/listing/market-alerts/supervision/vk0khi0000010bjb-att/vk0khi0000010bkq.pdf",
+      "File_Path": "data/pdfs/supervision_delisting/6147_YAMAZAKI_CO.LTD..pdf",
+      "Refined_Details": [
+        "Tradable Share Market Capitalization"
+      ],
+      "Simplified_Details": "상장유지기준 미달 (개선기간 미충족)"
+    },
+    {
+      "Section": "Securities Under Supervision (Confirmation)",
+      "Designation Date": "Apr. 01, 2026",
+      "Issue Name": "JOHNAN ACADEMIC PREPARATORY INSTITUTE,INC.",
+      "Code": "4720",
+      "Market Segment": "Standard",
+      "Details": "Because the stock(s) on the list are not likely to meet the continued listing criteria within the improvement period",
+      "Remarks": "",
+      "File_URL": "/english/listing/market-alerts/supervision/vk0khi0000010bhc-att/vk0khi0000010bir.pdf",
+      "File_Path": "data/pdfs/supervision_delisting/4720_JOHNAN_ACADEMIC_PREPARATORY_INSTITUTEINC..pdf",
+      "Refined_Details": [
+        "Tradable Share Market Capitalization"
+      ],
+      "Simplified_Details": "상장유지기준 미달 (개선기간 미충족)"
+    },
+    {
+      "Section": "Securities Under Supervision (Confirmation)",
+      "Designation Date": "Apr. 01, 2026",
+      "Issue Name": "Asgent,Inc.",
+      "Code": "4288",
+      "Market Segment": "Standard",
+      "Details": "Because the stock(s) on the list are not likely to meet the continued listing criteria within the improvement period",
+      "Remarks": "",
+      "File_URL": "/english/listing/market-alerts/supervision/vk0khi0000010bfd-att/vk0khi0000010bgs.pdf",
+      "File_Path": "data/pdfs/supervision_delisting/4288_AsgentInc..pdf",
+      "Refined_Details": [
+        "Tradable Share Market Capitalization"
+      ],
+      "Simplified_Details": "상장유지기준 미달 (개선기간 미충족)"
+    },
+    {
+      "Section": "Securities Under Supervision (Confirmation)",
+      "Designation Date": "Apr. 01, 2026",
+      "Issue Name": "Techno Mathematical Co.,Ltd.",
+      "Code": "3787",
+      "Market Segment": "Standard",
+      "Details": "Because the stock(s) on the list are not likely to meet the continued listing criteria within the improvement period",
+      "Remarks": "",
+      "File_URL": "/english/listing/market-alerts/supervision/vk0khi0000010bde-att/vk0khi0000010bet.pdf",
+      "File_Path": "data/pdfs/supervision_delisting/3787_Techno_Mathematical_Co.Ltd..pdf",
+      "Refined_Details": [
+        "Tradable Share Market Capitalization"
+      ],
+      "Simplified_Details": "상장유지기준 미달 (개선기간 미충족)"
+    },
+    {
+      "Section": "Securities Under Supervision (Confirmation)",
+      "Designation Date": "Apr. 01, 2026",
+      "Issue Name": "Kyoritsu Computer & Communication Co.,Ltd.",
+      "Code": "3670",
+      "Market Segment": "Standard",
+      "Details": "Because the stock(s) on the list are not likely to meet the continued listing criteria within the improvement period",
+      "Remarks": "",
+      "File_URL": "/english/listing/market-alerts/supervision/vk0khi0000010bbf-att/vk0khi0000010bcu.pdf",
+      "File_Path": "data/pdfs/supervision_delisting/3670_Kyoritsu_Computer_&_Communication_Co.Ltd..pdf",
+      "Refined_Details": [
+        "Tradable Share Market Capitalization"
+      ],
+      "Simplified_Details": "상장유지기준 미달 (개선기간 미충족)"
+    },
+    {
+      "Section": "Securities Under Supervision (Confirmation)",
+      "Designation Date": "Apr. 01, 2026",
+      "Issue Name": "Sockets Inc.",
+      "Code": "3634",
+      "Market Segment": "Standard",
+      "Details": "Because the stock(s) on the list are not likely to meet the continued listing criteria within the improvement period",
+      "Remarks": "",
+      "File_URL": "/english/listing/market-alerts/supervision/vk0khi0000010b9g-att/vk0khi0000010bav.pdf",
+      "File_Path": "data/pdfs/supervision_delisting/3634_Sockets_Inc..pdf",
+      "Refined_Details": [
+        "Tradable Share Market Capitalization"
+      ],
+      "Simplified_Details": "상장유지기준 미달 (개선기간 미충족)"
+    },
+    {
+      "Section": "Securities Under Supervision (Confirmation)",
+      "Designation Date": "Apr. 01, 2026",
+      "Issue Name": "SATO FOODS INDUSTRIES CO.,LTD.",
+      "Code": "2814",
+      "Market Segment": "Standard",
+      "Details": "Because the stock(s) on the list are not likely to meet the continued listing criteria within the improvement period",
+      "Remarks": "",
+      "File_URL": "/english/listing/market-alerts/supervision/vk0khi0000010b1k-att/vk0khi0000010b2z.pdf",
+      "File_Path": "data/pdfs/supervision_delisting/2814_SATO_FOODS_INDUSTRIES_CO.LTD..pdf",
+      "Refined_Details": [
+        "Tradable Share Ratio"
+      ],
+      "Simplified_Details": "상장유지기준 미달 (개선기간 미충족)"
+    },
+    {
+      "Section": "Securities Under Supervision (Confirmation)",
+      "Designation Date": "Apr. 01, 2026",
+      "Issue Name": "FTGroup CO.,LTD.",
+      "Code": "2763",
+      "Market Segment": "Standard",
+      "Details": "Because the stock(s) on the list are not likely to meet the continued listing criteria within the improvement period",
+      "Remarks": "",
+      "File_URL": "/english/listing/market-alerts/supervision/vk0khi0000010azl-att/vk0khi0000010b10.pdf",
+      "File_Path": "data/pdfs/supervision_delisting/2763_FTGroup_CO.LTD..pdf",
+      "Refined_Details": [
+        "Tradable Share Ratio"
+      ],
+      "Simplified_Details": "상장유지기준 미달 (개선기간 미충족)"
+    },
+    {
+      "Section": "Securities Under Supervision (Confirmation)",
+      "Designation Date": "Mar. 31, 2026",
+      "Issue Name": "V-cube,Inc.",
+      "Code": "3681",
+      "Market Segment": "Prime",
+      "Details": "Due to disclosing up to the statutory submission deadline that it is not expected to be able to submit an annual securities report by such deadline",
+      "Remarks": "",
+      "File_URL": "/english/listing/market-alerts/supervision/vk0khi0000012k6y-att/vk0khi0000012k8d.pdf",
+      "File_Path": "data/pdfs/supervision_delisting/3681_V-cubeInc..pdf",
+      "Simplified_Details": "유가증권보고서 미제출"
+    },
+    {
+      "Section": "Securities Under Supervision (Confirmation)",
+      "Designation Date": "Mar. 31, 2026",
+      "Issue Name": "e'grand Co.,Ltd",
+      "Code": "3294",
+      "Market Segment": "Standard",
+      "Details": "Due to falling under a case where a special controlling shareholder has made an announcement, etc. equivalent to disclosing information regarding a decision that it makes to demand the sale of shares, etc. or a case where the board of directors has made a resolution on a reverse stock split with a split ratio at which the number of all the shares owned by shareholders other than a specified party will be less than one share",
+      "Remarks": "",
+      "File_URL": "/english/listing/market-alerts/supervision/vk0khi0000012ip7-att/vk0khi0000012iqm.pdf",
+      "File_Path": "data/pdfs/supervision_delisting/3294_e'grand_Co.Ltd.pdf",
+      "Simplified_Details": "Reverse Stock Split (주식병합)"
+    },
+    {
+      "Section": "Securities Under Supervision (Confirmation)",
+      "Designation Date": "Mar. 24, 2026",
+      "Issue Name": "Solasto Corporation",
+      "Code": "6197",
+      "Market Segment": "Prime",
+      "Details": "Due to falling under a case where the board of directors has made a resolution on a reverse stock split with a split ratio at which the number of all the shares owned by shareholders other than a specified party will be less than one share",
+      "Remarks": "",
+      "File_URL": "/english/listing/market-alerts/supervision/vk0khi000000xr16-att/vk0khi000000xr2l.pdf",
+      "File_Path": "data/pdfs/supervision_delisting/6197_Solasto_Corporation.pdf",
+      "Simplified_Details": "Reverse Stock Split (주식병합)"
+    },
+    {
+      "Section": "Securities Under Supervision (Confirmation)",
+      "Designation Date": "Mar. 24, 2026",
+      "Issue Name": "Nippon Sheet Glass Company,Limited",
+      "Code": "5202",
+      "Market Segment": "Prime",
+      "Details": "Due to falling under a case where the board of directors has made a resolution on a reverse stock split with a split ratio at which the number of all the shares owned by shareholders other than a specified party will be less than one share",
+      "Remarks": "",
+      "File_URL": "/english/listing/market-alerts/supervision/vk0khi000000xshn-att/vk0khi000000xsj2.pdf",
+      "File_Path": "data/pdfs/supervision_delisting/5202_Nippon_Sheet_Glass_CompanyLimited.pdf",
+      "Simplified_Details": "Reverse Stock Split (주식병합)"
+    },
+    {
+      "Section": "Securities Under Supervision (Confirmation)",
+      "Designation Date": "Mar. 21, 2026",
+      "Issue Name": "Uematsu Shokai Co.,Ltd.",
+      "Code": "9914",
+      "Market Segment": "Standard",
+      "Details": "Because the stock(s) on the list are not likely to meet the continued listing criteria within the improvement period",
+      "Remarks": "",
+      "File_URL": "/english/listing/market-alerts/supervision/vk0khi000000x9xl-att/vk0khi000000x9z0.pdf",
+      "File_Path": "data/pdfs/supervision_delisting/9914_Uematsu_Shokai_Co.Ltd..pdf",
+      "Refined_Details": [
+        "Tradable Share Market Capitalization"
+      ],
+      "Simplified_Details": "상장유지기준 미달 (개선기간 미충족)"
+    },
+    {
+      "Section": "Securities Under Supervision (Confirmation)",
+      "Designation Date": "Mar. 09, 2026",
+      "Issue Name": "SUMIKEN MITSUI ROAD CO., LTD.",
+      "Code": "1776",
+      "Market Segment": "Standard",
+      "Details": "Due to falling under a case where a special controlling shareholder has made an announcement, etc. equivalent to disclosing information regarding a decision that it makes to demand the sale of shares, etc. or a case where the board of directors has made a resolution on a reverse stock split with a split ratio at which the number of all the shares owned by shareholders other than a specified party will be less than one share",
+      "Remarks": "",
+      "File_URL": "/english/listing/market-alerts/supervision/vk0khi000000urz8-att/vk0khi000000us0n.pdf",
+      "File_Path": "data/pdfs/supervision_delisting/1776_SUMIKEN_MITSUI_ROAD_CO._LTD..pdf",
+      "Simplified_Details": "Reverse Stock Split (주식병합)"
+    },
+    {
+      "Section": "Securities Under Supervision (Confirmation)",
+      "Designation Date": "Feb. 25, 2026",
+      "Issue Name": "YOMEISHU SEIZO CO.,LTD.",
+      "Code": "2540",
+      "Market Segment": "Prime",
+      "Details": "Due to falling under a case where the board of directors has made a resolution on a reverse stock split with a split ratio at which the number of all the shares owned by shareholders other than a specified party will be less than one share",
+      "Remarks": "",
+      "File_URL": "/english/listing/market-alerts/supervision/vk0khi000000tymn-att/vk0khi000000tyo2.pdf",
+      "File_Path": "data/pdfs/supervision_delisting/2540_YOMEISHU_SEIZO_CO.LTD..pdf",
+      "Simplified_Details": "Reverse Stock Split (주식병합)"
+    },
+    {
+      "Section": "Securities Under Supervision (Confirmation)",
+      "Designation Date": "Feb. 25, 2026",
+      "Issue Name": "ITOCHU-SHOKUHIN Co.,Ltd.",
+      "Code": "2692",
+      "Market Segment": "Prime",
+      "Details": "Due to falling under a case where a special controlling shareholder has made an announcement, etc. equivalent to disclosing information regarding a decision that it makes to demand the sale of shares, etc. or a case where the board of directors has made a resolution on a reverse stock split with a split ratio at which the number of all the shares owned by shareholders other than a specified party will be less than one share",
+      "Remarks": "",
+      "File_URL": "/english/listing/market-alerts/supervision/vk0khi000000u225-att/vk0khi000000u23k.pdf",
+      "File_Path": "data/pdfs/supervision_delisting/2692_ITOCHU-SHOKUHIN_Co.Ltd..pdf",
+      "Simplified_Details": "Reverse Stock Split (주식병합)"
+    },
+    {
+      "Section": "Securities Under Supervision (Confirmation)",
+      "Designation Date": "Feb. 19, 2026",
+      "Issue Name": "AJIS CO.,LTD.",
+      "Code": "4659",
+      "Market Segment": "Standard",
+      "Details": "Due to falling under a case where the board of directors has made a resolution on a reverse stock split with a split ratio at which the number of all the shares owned by shareholders other than a specified party will be less than one share",
+      "Remarks": "",
+      "File_URL": "/english/listing/market-alerts/supervision/vk0khi000000tqht-att/vk0khi000000tqj8.pdf",
+      "File_Path": "data/pdfs/supervision_delisting/4659_AJIS_CO.LTD..pdf",
+      "Simplified_Details": "Reverse Stock Split (주식병합)"
+    },
+    {
+      "Section": "Securities Under Supervision (Confirmation)",
+      "Designation Date": "Feb. 17, 2026",
+      "Issue Name": "SOFT99corporation",
+      "Code": "4464",
+      "Market Segment": "Standard",
+      "Details": "Due to falling under a case where a special controlling shareholder has made an announcement, etc. equivalent to disclosing information regarding a decision that it makes to demand the sale of shares, etc. or a case where the board of directors has made a resolution on a reverse stock split with a split ratio at which the number of all the shares owned by shareholders other than a specified party will be less than one share",
+      "Remarks": "",
+      "File_URL": "/english/listing/market-alerts/supervision/vk0khi000000tk7w-att/vk0khi000000tk9b.pdf",
+      "File_Path": "data/pdfs/supervision_delisting/4464_SOFT99corporation.pdf",
+      "Simplified_Details": "Reverse Stock Split (주식병합)"
+    },
+    {
+      "Section": "Securities Under Supervision (Confirmation)",
+      "Designation Date": "Feb. 13, 2026",
+      "Issue Name": "INFORICH INC.",
+      "Code": "9338",
+      "Market Segment": "Growth",
+      "Details": "Due to falling under a case where a special controlling shareholder has made an announcement, etc. equivalent to disclosing information regarding a decision that it makes to demand the sale of shares, etc. or a case where the board of directors has made a resolution on a reverse stock split with a split ratio at which the number of all the shares owned by shareholders other than a specified party will be less than one share",
+      "Remarks": "",
+      "File_URL": "/english/listing/market-alerts/supervision/vk0khi000000rcji-att/vk0khi000000rckx.pdf",
+      "File_Path": "data/pdfs/supervision_delisting/9338_INFORICH_INC..pdf",
+      "Simplified_Details": "Reverse Stock Split (주식병합)"
+    },
+    {
+      "Section": "Securities Under Supervision (Confirmation)",
+      "Designation Date": "Feb. 13, 2026",
+      "Issue Name": "WATT MANN CO.,LTD.",
+      "Code": "9927",
+      "Market Segment": "Standard",
+      "Details": "Due to falling under a case where the board of directors has made a resolution on a reverse stock split with a split ratio at which the number of all the shares owned by shareholders other than a specified party will be less than one share",
+      "Remarks": "",
+      "File_URL": "/english/listing/market-alerts/supervision/vk0khi000000r8hu-att/vk0khi000000r8j9.pdf",
+      "File_Path": "data/pdfs/supervision_delisting/9927_WATT_MANN_CO.LTD..pdf",
+      "Simplified_Details": "Reverse Stock Split (주식병합)"
+    },
+    {
+      "Section": "Securities Under Supervision (Confirmation)",
+      "Designation Date": "Feb. 13, 2026",
+      "Issue Name": "TAKARA BIO INC.",
+      "Code": "4974",
+      "Market Segment": "Prime",
+      "Details": "Due to falling under a case where a special controlling shareholder has made an announcement, etc. equivalent to disclosing information regarding a decision that it makes to demand the sale of shares, etc. or a case where the board of directors has made a resolution on a reverse stock split with a split ratio at which the number of all the shares owned by shareholders other than a specified party will be less than one share",
+      "Remarks": "",
+      "File_URL": "/english/listing/market-alerts/supervision/vk0khi000000r7w8-att/vk0khi000000r7xn.pdf",
+      "File_Path": "data/pdfs/supervision_delisting/4974_TAKARA_BIO_INC..pdf",
+      "Simplified_Details": "Reverse Stock Split (주식병합)"
+    },
+    {
+      "Section": "Securities Under Supervision (Confirmation)",
+      "Designation Date": "Feb. 13, 2026",
+      "Issue Name": "Alleanza Holdings Co.,Ltd.",
+      "Code": "3546",
+      "Market Segment": "Prime",
+      "Details": "Due to falling under a case where the board of directors has made a resolution on a reverse stock split with a split ratio at which the number of all the shares owned by shareholders other than a specified party will be less than one share",
+      "Remarks": "",
+      "File_URL": "/english/listing/market-alerts/supervision/vk0khi000000r74q-att/vk0khi000000r765.pdf",
+      "File_Path": "data/pdfs/supervision_delisting/3546_Alleanza_Holdings_Co.Ltd..pdf",
+      "Simplified_Details": "Reverse Stock Split (주식병합)"
+    },
+    {
+      "Section": "Securities Under Supervision (Confirmation)",
+      "Designation Date": "Feb. 10, 2026",
+      "Issue Name": "HEIAN CEREMONY SERVICE CO.,LTD.",
+      "Code": "2344",
+      "Market Segment": "Standard",
+      "Details": "Due to falling under a case where the board of directors has made a resolution on a reverse stock split with a split ratio at which the number of all the shares owned by shareholders other than a specified party will be less than one share",
+      "Remarks": "",
+      "File_URL": "/english/listing/market-alerts/supervision/vk0khi000000gar3-att/vk0khi000000gasl.pdf",
+      "File_Path": "data/pdfs/supervision_delisting/2344_HEIAN_CEREMONY_SERVICE_CO.LTD..pdf",
+      "Simplified_Details": "Reverse Stock Split (주식병합)"
+    },
+    {
+      "Section": "Securities Under Supervision (Confirmation)",
+      "Designation Date": "Feb. 06, 2026",
+      "Issue Name": "KAINOS Laboratories,Inc.",
+      "Code": "4556",
+      "Market Segment": "Standard",
+      "Details": "Due to falling under a case where the board of directors has made a resolution on a reverse stock split with a split ratio at which the number of all the shares owned by shareholders other than a specified party will be less than one share",
+      "Remarks": "",
+      "File_URL": "/english/listing/market-alerts/supervision/vk0khi000000qvwm-att/vk0khi000000qvy1.pdf",
+      "File_Path": "data/pdfs/supervision_delisting/4556_KAINOS_LaboratoriesInc..pdf",
+      "Simplified_Details": "Reverse Stock Split (주식병합)"
+    },
+    {
+      "Section": "Securities Under Supervision (Confirmation)",
+      "Designation Date": "Feb. 05, 2026",
+      "Issue Name": "MCJ Co.,Ltd.",
+      "Code": "6670",
+      "Market Segment": "Standard",
+      "Details": "Due to falling under a case where a special controlling shareholder has made an announcement, etc. equivalent to disclosing information regarding a decision that it makes to demand the sale of shares, etc. or a case where the board of directors has made a resolution on a reverse stock split with a split ratio at which the number of all the shares owned by shareholders other than a specified party will be less than one share",
+      "Remarks": "",
+      "File_URL": "/english/listing/market-alerts/supervision/vk0khi000000qtro-att/vk0khi000000qtt3.pdf",
+      "File_Path": "data/pdfs/supervision_delisting/6670_MCJ_Co.Ltd..pdf",
+      "Simplified_Details": "Reverse Stock Split (주식병합)"
+    },
+    {
+      "Section": "Securities Under Supervision (Confirmation)",
+      "Designation Date": "Feb. 05, 2026",
+      "Issue Name": "SUIDO KIKO KAISHA,LTD.",
+      "Code": "6403",
+      "Market Segment": "Standard",
+      "Details": "Due to falling under a case where the board of directors has made a resolution on a reverse stock split with a split ratio at which the number of all the shares owned by shareholders other than a specified party will be less than one share",
+      "Remarks": "",
+      "File_URL": "/english/listing/market-alerts/supervision/vk0khi000000qth7-att/vk0khi000000qtim.pdf",
+      "File_Path": "data/pdfs/supervision_delisting/6403_SUIDO_KIKO_KAISHALTD..pdf",
+      "Simplified_Details": "Reverse Stock Split (주식병합)"
+    },
+    {
+      "Section": "Securities Under Supervision (Confirmation)",
+      "Designation Date": "Feb. 04, 2026",
+      "Issue Name": "Br.Holdings Corporation",
+      "Code": "1726",
+      "Market Segment": "Prime",
+      "Details": "Due to falling under a case where a special controlling shareholder has made an announcement, etc. equivalent to disclosing information regarding a decision that it makes to demand the sale of shares, etc. or a case where the board of directors has made a resolution on a reverse stock split with a split ratio at which the number of all the shares owned by shareholders other than a specified party will be less than one share",
+      "Remarks": "",
+      "File_URL": "/english/listing/market-alerts/supervision/vk0khi000000qqb8-att/vk0khi000000qqcn.pdf",
+      "File_Path": "data/pdfs/supervision_delisting/1726_Br.Holdings_Corporation.pdf",
+      "Simplified_Details": "Reverse Stock Split (주식병합)"
+    },
+    {
+      "Section": "Securities Under Supervision (Confirmation)",
+      "Designation Date": "Feb. 04, 2026",
+      "Issue Name": "MUTOH HOLDINGS CO.,LTD.",
+      "Code": "7999",
+      "Market Segment": "Standard",
+      "Details": "Due to falling under a case where a special controlling shareholder has made an announcement, etc. equivalent to disclosing information regarding a decision that it makes to demand the sale of shares, etc. or a case where the board of directors has made a resolution on a reverse stock split with a split ratio at which the number of all the shares owned by shareholders other than a specified party will be less than one share",
+      "Remarks": "",
+      "File_URL": "/english/listing/market-alerts/supervision/vk0khi000000qrng-att/vk0khi000000qrov.pdf",
+      "File_Path": "data/pdfs/supervision_delisting/7999_MUTOH_HOLDINGS_CO.LTD..pdf",
+      "Simplified_Details": "Reverse Stock Split (주식병합)"
+    },
+    {
+      "Section": "Securities Under Supervision (Confirmation)",
+      "Designation Date": "Feb. 03, 2026",
+      "Issue Name": "SANKO SANGYO CO.,LTD.",
+      "Code": "7922",
+      "Market Segment": "Standard",
+      "Details": "Due to falling under a case where a special controlling shareholder has made an announcement, etc. equivalent to disclosing information regarding a decision that it makes to demand the sale of shares, etc. or a case where the board of directors has made a resolution on a reverse stock split with a split ratio at which the number of all the shares owned by shareholders other than a specified party will be less than one share",
+      "Remarks": "",
+      "File_URL": "/english/listing/market-alerts/supervision/vk0khi000000qnqr-att/vk0khi000000qns6.pdf",
+      "File_Path": "data/pdfs/supervision_delisting/7922_SANKO_SANGYO_CO.LTD..pdf",
+      "Simplified_Details": "Reverse Stock Split (주식병합)"
+    },
+    {
+      "Section": "Securities Under Supervision (Confirmation)",
+      "Designation Date": "Jan. 14, 2026",
+      "Issue Name": "TOYOTA INDUSTRIES CORPORATION",
+      "Code": "6201",
+      "Market Segment": "Prime",
+      "Details": "Due to falling under a case where the board of directors has made a resolution on a reverse stock split with a split ratio at which the number of all the shares owned by shareholders other than a specified party will be less than one share",
+      "Remarks": "",
+      "File_URL": "/english/listing/market-alerts/supervision/vk0khi000000lf2h-att/vk0khi000000lf3w.pdf",
+      "File_Path": "data/pdfs/supervision_delisting/6201_TOYOTA_INDUSTRIES_CORPORATION.pdf",
+      "Simplified_Details": "Reverse Stock Split (주식병합)"
+    },
+    {
+      "Section": "Securities Under Supervision (Confirmation)",
+      "Designation Date": "Jan. 06, 2026",
+      "Issue Name": "HISAMITSU PHARMACEUTICAL CO.,INC.",
+      "Code": "4530",
+      "Market Segment": "Prime",
+      "Details": "Due to falling under a case where the board of directors has made a resolution on a reverse stock split with a split ratio at which the number of all the shares owned by shareholders other than a specified party will be less than one share",
+      "Remarks": "",
+      "File_URL": "/english/listing/market-alerts/supervision/vk0khi000000kunr-att/vk0khi000000kup6.pdf",
+      "File_Path": "data/pdfs/supervision_delisting/4530_HISAMITSU_PHARMACEUTICAL_CO.INC..pdf",
+      "Simplified_Details": "Reverse Stock Split (주식병합)"
+    },
+    {
+      "Section": "Securities Under Supervision (Confirmation)",
+      "Designation Date": "Dec. 25, 2025",
+      "Issue Name": "Nousouken Corporation",
+      "Code": "3541",
+      "Market Segment": "Growth",
+      "Details": "Due to falling under a case where the board of directors has made a resolution on a reverse stock split with a split ratio at which the number of all the shares owned by shareholders other than a specified party will be less than one share",
+      "Remarks": "",
+      "File_URL": "/english/listing/market-alerts/supervision/vk0khi000000gcfc-att/vk0khi000000gcgr.pdf",
+      "File_Path": "data/pdfs/supervision_delisting/3541_Nousouken_Corporation.pdf",
+      "Simplified_Details": "Reverse Stock Split (주식병합)"
+    },
+    {
+      "Section": "Securities Under Supervision (Confirmation)",
+      "Designation Date": "Dec. 19, 2025",
+      "Issue Name": "SAWAFUJI ELECTRIC CO.,LTD.",
+      "Code": "6901",
+      "Market Segment": "Standard",
+      "Details": "Due to falling under a case where the board of directors has made a resolution on a reverse stock split with a split ratio at which the number of all the shares owned by shareholders other than a specified party will be less than one share",
+      "Remarks": "",
+      "File_URL": "/english/listing/market-alerts/supervision/vk0khi000000duhl-att/vk0khi000000duj0.pdf",
+      "File_Path": "data/pdfs/supervision_delisting/6901_SAWAFUJI_ELECTRIC_CO.LTD..pdf",
+      "Simplified_Details": "Reverse Stock Split (주식병합)"
+    },
+    {
+      "Section": "Securities Under Supervision (Confirmation)",
+      "Designation Date": "Dec. 17, 2025",
+      "Issue Name": "HOGY MEDICAL CO.,LTD.",
+      "Code": "3593",
+      "Market Segment": "Prime",
+      "Details": "Due to falling under a case where a special controlling shareholder has made an announcement, etc. equivalent to disclosing information regarding a decision that it makes to demand the sale of shares, etc. or a case where the board of directors has made a resolution on a reverse stock split with a split ratio at which the number of all the shares owned by shareholders other than a specified party will be less than one share",
+      "Remarks": "",
+      "File_URL": "/english/listing/market-alerts/supervision/vk0khi000000dr39-att/vk0khi000000dr4o.pdf",
+      "File_Path": "data/pdfs/supervision_delisting/3593_HOGY_MEDICAL_CO.LTD..pdf",
+      "Simplified_Details": "Reverse Stock Split (주식병합)"
+    },
+    {
+      "Section": "Securities Under Supervision (Confirmation)",
+      "Designation Date": "Dec. 15, 2025",
+      "Issue Name": "Matsuya R&D Co.,Ltd",
+      "Code": "7317",
+      "Market Segment": "Growth",
+      "Details": "Due to falling under a case where a special controlling shareholder has made an announcement, etc. equivalent to disclosing information regarding a decision that it makes to demand the sale of shares, etc. or a case where the board of directors has made a resolution on a reverse stock split with a split ratio at which the number of all the shares owned by shareholders other than a specified party will be less than one share",
+      "Remarks": "",
+      "File_URL": "/english/listing/market-alerts/supervision/vk0khi000000de4i-att/vk0khi000000de5x.pdf",
+      "File_Path": "data/pdfs/supervision_delisting/7317_Matsuya_R&D_Co.Ltd.pdf",
+      "Simplified_Details": "Reverse Stock Split (주식병합)"
+    },
+    {
+      "Section": "Securities Under Supervision (Confirmation)",
+      "Designation Date": "Dec. 11, 2025",
+      "Issue Name": "RAKSUL INC.",
+      "Code": "4384",
+      "Market Segment": "Prime",
+      "Details": "Due to falling under a case where a special controlling shareholder has made an announcement, etc. equivalent to disclosing information regarding a decision that it makes to demand the sale of shares, etc. or a case where the board of directors has made a resolution on a reverse stock split with a split ratio at which the number of all the shares owned by shareholders other than a specified party will be less than one share",
+      "Remarks": "",
+      "File_URL": "/english/listing/market-alerts/supervision/vk0khi000000dg5u-att/vk0khi000000dg79.pdf",
+      "File_Path": "data/pdfs/supervision_delisting/4384_RAKSUL_INC..pdf",
+      "Simplified_Details": "Reverse Stock Split (주식병합)"
+    },
+    {
+      "Section": "Securities Under Supervision (Confirmation)",
+      "Designation Date": "Nov. 13, 2025",
+      "Issue Name": "MARUWN CORPORATION",
+      "Code": "9067",
+      "Market Segment": "Standard",
+      "Details": "Due to falling under a case where the board of directors has made a resolution on a reverse stock split with a split ratio at which the number of all the shares owned by shareholders other than a specified party will be less than one share",
+      "Remarks": "",
+      "File_URL": "/english/listing/market-alerts/supervision/vk0khi0000003j89-att/vk0khi0000003j9o.pdf",
+      "File_Path": "data/pdfs/supervision_delisting/9067_MARUWN_CORPORATION.pdf",
+      "Simplified_Details": "Reverse Stock Split (주식병합)"
+    },
+    {
+      "Section": "Securities Under Supervision (Confirmation)",
+      "Designation Date": "Sep. 10, 2025",
+      "Issue Name": "MANDOM CORPORATION",
+      "Code": "4917",
+      "Market Segment": "Prime",
+      "Details": "Due to falling under a case where the board of directors has made a resolution on a reverse stock split with a split ratio at which the number of all the shares owned by shareholders other than a specified party will be less than one share",
+      "Remarks": "",
+      "File_URL": "/english/listing/market-alerts/supervision/sjcobq00000253pr-att/sjcobq00000253r6.pdf",
+      "File_Path": "data/pdfs/supervision_delisting/4917_MANDOM_CORPORATION.pdf",
+      "Simplified_Details": "Reverse Stock Split (주식병합)"
+    },
+    {
+      "Section": "Securities Under Supervision (Confirmation)",
+      "Designation Date": "Aug. 29, 2025",
+      "Issue Name": "YUTAKA GIKEN CO.,LTD.",
+      "Code": "7229",
+      "Market Segment": "Standard",
+      "Details": "Due to falling under a case where the board of directors has made a resolution on a reverse stock split with a split ratio at which the number of all the shares owned by shareholders other than a specified party will be less than one share",
+      "Remarks": "*Addition of Reason for Designation of Securities Under Supervision (Confirmation)ï¼Apr.1,2026ï¼",
+      "File_URL": "/english/listing/market-alerts/supervision/sjcobq0000024dzb-att/sjcobq0000024e0q.pdf",
+      "File_Path": "data/pdfs/supervision_delisting/7229_YUTAKA_GIKEN_CO.LTD..pdf",
+      "Simplified_Details": "Reverse Stock Split (주식병합)"
+    },
+    {
+      "Section": "Securities Under Supervision (Confirmation)",
+      "Designation Date": "Jun. 03, 2025",
+      "Issue Name": "Makino Milling Machine Co.,Ltd.",
+      "Code": "6135",
+      "Market Segment": "Prime",
+      "Details": "Due to falling under a case where a special controlling shareholder has made an announcement, etc. equivalent to disclosing information regarding a decision that it makes to demand the sale of shares, etc. or a case where the board of directors has made a resolution on a reverse stock split with a split ratio at which the number of all the shares owned by shareholders other than a specified party will be less than one share",
+      "Remarks": "",
+      "File_URL": "/english/listing/market-alerts/supervision/sjcobq000001niss-att/sjcobq000001niu7.pdf",
+      "File_Path": "data/pdfs/supervision_delisting/6135_Makino_Milling_Machine_Co.Ltd..pdf",
+      "Simplified_Details": "Reverse Stock Split (주식병합)"
+    },
+    {
+      "Section": "Securities Under Supervision (Examination)",
+      "Designation Date": "Apr. 01, 2026",
+      "Issue Name": "UMC Electronics Co.,Ltd.",
+      "Code": "6615",
+      "Market Segment": "Prime",
+      "Details": "The company(ies) listed in \"1. Issue Name\" above did not meet the continued listing criteria as of the previous record date. Therefore, unless they meet said criteria within the improvement period, their stock(s) will be delisted. As of today, TSE cannot confirm said company(ies)' compliance with the continued listing criteria, and therefore considers it likely that their stock(s) will be delisted. In addition, as the company(ies) have filed an application for transfer of market segment and are currently undergoing examination by Japan Exchange Regulation, TSE hereby designates their stock(s) as Securities Under Supervision (Examination). Please note that TSE will examine a listed company's compliance status with the continued listing criteria using the “Table of Distribution of Stocks, etc.” submitted by the company. Because the stock(s) on the list are not likely to meet the continued listing criteria within the improvement period and examination is being conducted in connection with a transfer of market segment If TSE confirms compliance with the continued listing criteria based on its examination of the “Distribution Status of Share Certificates, etc.” or approves a market segment transfer as a result of the segment transfer examination, the stock(s) will remain listed. (Related Clause) From Apr. 1, 2026 (Wed.) to the day when TSE determines whether the company has fallen under the delisting criteria DISCLAIMER: This translation may be used for reference purposes only. This English version is not an official translation of the original Japanese document. In cases where any differences occur between the English version and the original Japanese version, the Japanese version shall prevail. This translation is subject to change without notice. Tokyo Stock Exchange, Inc. and/or Japan Exchange Regulation shall individually or jointly accept no responsibility or liability for damage or loss caused by any error, inaccuracy, misunderstanding, or changes with regard to this translation. ● UMC Electronics Co.,Ltd. 6615 Prime Market SUNWELS Co.,Ltd. 9229 Prime Market ● Issue Name Mar. 31, 2026 Listing Department Tokyo Stock Exchange, Inc. Issue Name (Stock) Code Market Segment Item(s) in Violation of the Continued Listing Criteria Number of Shareholders Number of Tradable Shares Tradable Share Ratio Tradable Share Market Capitalization TSE Urgent Notice",
+      "Remarks": "",
+      "File_URL": "/english/listing/market-alerts/supervision/vk0khi00000105k3-att/vk0khi00000105ll.pdf",
+      "File_Path": "data/pdfs/supervision_delisting/6615_UMC_Electronics_Co.Ltd..pdf",
+      "Refined_Details": [
+        "Tradable Share Market Capitalization"
+      ],
+      "Simplified_Details": "상장유지기준 미달 (개선기간 미충족)"
+    },
+    {
+      "Section": "Securities Under Supervision (Examination)",
+      "Designation Date": "Apr. 01, 2026",
+      "Issue Name": "SUNWELS Co.,Ltd.",
+      "Code": "9229",
+      "Market Segment": "Prime",
+      "Details": "The company(ies) listed in \"1. Issue Name\" above did not meet the continued listing criteria as of the previous record date. Therefore, unless they meet said criteria within the improvement period, their stock(s) will be delisted. As of today, TSE cannot confirm said company(ies)' compliance with the continued listing criteria, and therefore considers it likely that their stock(s) will be delisted. In addition, as the company(ies) have filed an application for transfer of market segment and are currently undergoing examination by Japan Exchange Regulation, TSE hereby designates their stock(s) as Securities Under Supervision (Examination). Please note that TSE will examine a listed company's compliance status with the continued listing criteria using the “Table of Distribution of Stocks, etc.” submitted by the company. Because the stock(s) on the list are not likely to meet the continued listing criteria within the improvement period and examination is being conducted in connection with a transfer of market segment If TSE confirms compliance with the continued listing criteria based on its examination of the “Distribution Status of Share Certificates, etc.” or approves a market segment transfer as a result of the segment transfer examination, the stock(s) will remain listed. (Related Clause) From Apr. 1, 2026 (Wed.) to the day when TSE determines whether the company has fallen under the delisting criteria DISCLAIMER: This translation may be used for reference purposes only. This English version is not an official translation of the original Japanese document. In cases where any differences occur between the English version and the original Japanese version, the Japanese version shall prevail. This translation is subject to change without notice. Tokyo Stock Exchange, Inc. and/or Japan Exchange Regulation shall individually or jointly accept no responsibility or liability for damage or loss caused by any error, inaccuracy, misunderstanding, or changes with regard to this translation. ● UMC Electronics Co.,Ltd. 6615 Prime Market SUNWELS Co.,Ltd. 9229 Prime Market ● Issue Name Mar. 31, 2026 Listing Department Tokyo Stock Exchange, Inc. Issue Name (Stock) Code Market Segment Item(s) in Violation of the Continued Listing Criteria Number of Shareholders Number of Tradable Shares Tradable Share Ratio Tradable Share Market Capitalization TSE Urgent Notice",
+      "Remarks": "",
+      "File_URL": "/english/listing/market-alerts/supervision/vk0khi00000105m5-att/vk0khi00000105nk.pdf",
+      "File_Path": "data/pdfs/supervision_delisting/9229_SUNWELS_Co.Ltd..pdf",
+      "Refined_Details": [
+        "Tradable Share Market Capitalization"
+      ],
+      "Simplified_Details": "상장유지기준 미달 (개선기간 미충족)"
+    },
+    {
+      "Section": "Securities to Be Delisted",
+      "Designation Date": "Apr. 09, 2026",
+      "Issue Name": "Mitsubishi Logisnext Co.,Ltd.",
+      "Code": "7105",
+      "Market Segment": "Standard",
+      "Details": "Due to falling under a case where the board of directors has made a resolution on a reverse stock split with a split ratio at which the number of all the shares owned by shareholders other than a specified party will be less than one share",
+      "Remarks": "",
+      "File_URL": "/english/listing/market-alerts/supervision/vk0khi000001562y-att/vk0khi000001564d.pdf",
+      "File_Path": "data/pdfs/supervision_delisting/7105_Mitsubishi_Logisnext_Co.Ltd..pdf",
+      "Simplified_Details": "Reverse Stock Split (주식병합)"
+    },
+    {
+      "Section": "Securities to Be Delisted",
+      "Designation Date": "Apr. 01, 2026",
+      "Issue Name": "Forum Engineering Inc.",
+      "Code": "7088",
+      "Market Segment": "Prime",
+      "Details": "Due to falling under a case where the company implements a reverse stock split with a split ratio at which the number of all the shares owned by shareholders other than a specified party will be less than one share",
+      "Remarks": "",
+      "File_URL": "/english/listing/market-alerts/supervision/vk0khi0000012nbp-att/vk0khi0000012nd4.pdf",
+      "File_Path": "data/pdfs/supervision_delisting/7088_Forum_Engineering_Inc..pdf",
+      "Simplified_Details": "Reverse Stock Split (주식병합)"
+    },
+    {
+      "Section": "Securities to Be Delisted",
+      "Designation Date": "Mar. 31, 2026",
+      "Issue Name": "BeMap,Inc.",
+      "Code": "4316",
+      "Market Segment": "Growth",
+      "Details": "Because the stock(s) on the list do not meet the continued listing criteria From Mar. 31, 2026 (Tue.) to Sep. 30, 2026 (Wed.) Excluded (Related Clause)",
+      "Remarks": "",
+      "File_URL": "/english/listing/market-alerts/supervision/vk0khi0000010cqa-att/BeMap_EN.pdf",
+      "File_Path": "data/pdfs/supervision_delisting/4316_BeMapInc..pdf",
+      "Simplified_Details": "상장유지기준 미달 (개선기간 미충족)",
+      "Refined_Details": [
+        "Market Capitalization"
+      ]
+    },
+    {
+      "Section": "Securities to Be Delisted",
+      "Designation Date": "Mar. 30, 2026",
+      "Issue Name": "ABHOTEL CO.,LTD.",
+      "Code": "6565",
+      "Market Segment": "Standard",
+      "Details": "（Related Clause） Due to submission of delisting application by the Company today and determination of delisting by TSE. （Securities Listing Regulations, Rule 606）",
+      "Remarks": "",
+      "File_URL": "/english/listing/market-alerts/supervision/vk0khi00000104la-att/ABHOTEL_EN.pdf",
+      "File_Path": "data/pdfs/supervision_delisting/6565_ABHOTEL_CO.LTD..pdf",
+      "Simplified_Details": "상장폐지 신청"
+    },
+    {
+      "Section": "Securities to Be Delisted",
+      "Designation Date": "Mar. 27, 2026",
+      "Issue Name": "FRIENDLY CORPORATION",
+      "Code": "8209",
+      "Market Segment": "Standard",
+      "Details": "At the general shareholders meeting of FRIENDLY CORPORATION (hereinafter \"the Company\") held today, the agenda item regarding a reverse stock split with a split ratio at which each of the shares held by shareholders other than specified entities will be less than one share was approved. Period of Designation as Securities to Be Delisted - Participant bonds - Trading participant security money From Mar. 27, 2026 (Fri.) to Apr. 26, 2026 (Sun.)",
+      "Remarks": "",
+      "File_URL": "/english/listing/market-alerts/supervision/vk0khi0000010356-att/vk0khi000001036l.pdf",
+      "File_Path": "data/pdfs/supervision_delisting/8209_FRIENDLY_CORPORATION.pdf",
+      "Simplified_Details": "Reverse Stock Split (주식병합, 주총결의)"
+    },
+    {
+      "Section": "Securities to Be Delisted",
+      "Designation Date": "Mar. 26, 2026",
+      "Issue Name": "MAMEZO CO.,LTD.",
+      "Code": "202A",
+      "Market Segment": "Growth",
+      "Details": "Listing Department DISCLAIMER: This translation may be used for reference purposes only. This English version is not an official translation of the original Japanese document. In cases where any differences occur between the English version and the original Japanese version, the Japanese version shall prevail. This translation is Mar. 26, 2026 Decision on Delisting, etc. Tokyo Stock Exchange, Inc. (Note) In cases where circumstances in which the company should be promptly delisted occur, TSE may change the period of designation as Securities to Be Delisted and the delisting date. The stock of the Company will be excluded from securities in lieu of money for the following items from Mar. 27, 2026 (Fri.) inclusive. - Customer margin for margin transactions and when-issued transactions - Trading margin for when-issued transactions Apr. 14, 2026 (Tue.) Due to falling under acquisition by a demand for share, etc. cash-out MAMEZO CO.,LTD. stock (Code: 202A, Market Segment: Growth Market)",
+      "Remarks": "",
+      "File_URL": "/english/listing/market-alerts/supervision/vk0khi00000100kz-att/vk0khi00000100me.pdf",
+      "File_Path": "data/pdfs/supervision_delisting/202A_MAMEZO_CO.LTD..pdf",
+      "Simplified_Details": "Share Cash-Out (캐시아웃)"
+    },
+    {
+      "Section": "Securities to Be Delisted",
+      "Designation Date": "Mar. 26, 2026",
+      "Issue Name": "NIPPON PALLET POOL CO.,LTD.",
+      "Code": "4690",
+      "Market Segment": "Standard",
+      "Details": "Today, NIPPON PALLET POOL CO.,LTD. (hereinafter \"the Company\") approved a demand for a cash-out by a special controlling shareholder of the Company. Period of Designation as Securities to Be Delisted - Participant bonds - Trading participant security money From Mar. 26, 2026 (Thu.) to Apr. 14, 2026 (Tue.)",
+      "Remarks": "",
+      "File_URL": "/english/listing/market-alerts/supervision/vk0khi00000101nu-att/vk0khi00000101p9.pdf",
+      "File_Path": "data/pdfs/supervision_delisting/4690_NIPPON_PALLET_POOL_CO.LTD..pdf",
+      "Simplified_Details": "TOB/공개매수 (특별지배주주)"
+    },
+    {
+      "Section": "Securities to Be Delisted",
+      "Designation Date": "Mar. 24, 2026",
+      "Issue Name": "Medical Data Vision Co.,Ltd.",
+      "Code": "3902",
+      "Market Segment": "Prime",
+      "Details": "At the general shareholders meeting of Medical Data Vision Co.,Ltd. (hereinafter \"the Company\") held today, the agenda item regarding a reverse stock split with a split ratio at which each of the shares held by shareholders other than specified entities will be less than one share was approved. Period of Designation as Securities to Be Delisted - Participant bonds - Trading participant security money From Mar. 24, 2026 (Tue.) to Apr. 23, 2026 (Thu.)",
+      "Remarks": "",
+      "File_URL": "/english/listing/market-alerts/supervision/vk0khi000000xrlb-att/vk0khi000000xrmq.pdf",
+      "File_Path": "data/pdfs/supervision_delisting/3902_Medical_Data_Vision_Co.Ltd..pdf",
+      "Simplified_Details": "Reverse Stock Split (주식병합, 주총결의)"
+    },
+    {
+      "Section": "Securities to Be Delisted",
+      "Designation Date": "Mar. 24, 2026",
+      "Issue Name": "PACIFIC INDUSTRIAL CO.,LTD.",
+      "Code": "7250",
+      "Market Segment": "Prime",
+      "Details": "Listing Department Mar. 24, 2026 Decision on Delisting, etc. Tokyo Stock Exchange, Inc. (Note) In cases where circumstances in which the company should be promptly delisted occur, TSE may change the period of designation as Securities to Be Delisted and the delisting date. The stock of the Company will be excluded from securities in lieu of money for the following items from Mar. 25, 2026 (Wed.) inclusive. - Customer margin for margin transactions and when-issued transactions - Trading margin for when-issued transactions Apr. 13, 2026 (Mon.) Due to falling under a case where the company implements a reverse stock split with a split ratio at which the number of all the shares owned by shareholders other than a specified party will be less than one share PACIFIC INDUSTRIAL CO.,LTD. stock (Code: 7250, Market Segment: Prime Market)",
+      "Remarks": "",
+      "File_URL": "/english/listing/market-alerts/supervision/vk0khi000000xnf0-att/vk0khi000000xngf.pdf",
+      "File_Path": "data/pdfs/supervision_delisting/7250_PACIFIC_INDUSTRIAL_CO.LTD..pdf",
+      "Simplified_Details": "Reverse Stock Split (주식병합)"
+    },
+    {
+      "Section": "Securities to Be Delisted",
+      "Designation Date": "Mar. 19, 2026",
+      "Issue Name": "CANON ELECTRONICS INC.",
+      "Code": "7739",
+      "Market Segment": "Prime",
+      "Details": "At the general shareholders meeting of CANON ELECTRONICS INC. (hereinafter \"the Company\") held today, the agenda item regarding a reverse stock split with a split ratio at which each of the shares held by shareholders other than specified entities will be less than one share was approved. Period of Designation as Securities to Be Delisted - Participant bonds - Trading participant security money From Mar. 19, 2026 (Thu.) to Apr. 20, 2026 (Mon.)",
+      "Remarks": "",
+      "File_URL": "/english/listing/market-alerts/supervision/vk0khi000000xkgw-att/vk0khi000000xkib.pdf",
+      "File_Path": "data/pdfs/supervision_delisting/7739_CANON_ELECTRONICS_INC..pdf",
+      "Simplified_Details": "Reverse Stock Split (주식병합, 주총결의)"
+    },
+    {
+      "Section": "Securities to Be Delisted",
+      "Designation Date": "Mar. 19, 2026",
+      "Issue Name": "Fast Fitness Japan Incorporated",
+      "Code": "7092",
+      "Market Segment": "Prime",
+      "Details": "At the general shareholders meeting of Fast Fitness Japan Incorporated (hereinafter \"the Company\") held today, the agenda item regarding a reverse stock split with a split ratio at which each of the shares held by shareholders other than specified entities will be less than one share was approved. Period of Designation as Securities to Be Delisted - Participant bonds - Trading participant security money From Mar. 19, 2026 (Thu.) to Apr. 19, 2026 (Sun.)",
+      "Remarks": "",
+      "File_URL": "/english/listing/market-alerts/supervision/vk0khi000000xjwb-att/vk0khi000000xjxq.pdf",
+      "File_Path": "data/pdfs/supervision_delisting/7092_Fast_Fitness_Japan_Incorporated.pdf",
+      "Simplified_Details": "Reverse Stock Split (주식병합, 주총결의)"
+    }
+  ]
+}

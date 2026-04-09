@@ -1,0 +1,71 @@
+{
+  "fetched_date": "2026-04-10",
+  "count": 5,
+  "data": [
+    {
+      "Code": "3223",
+      "Company Name": "SLD Entertainment Inc.",
+      "Market Segment": "Standard",
+      "Number of Shareholders": "",
+      "Number of Tradable Shares": "",
+      "Tradable Share Ratio": "",
+      "Tradable Share Market Capitalization Deadline": "2027-02-28",
+      "Trading Value": "",
+      "Market Capitalization": "",
+      "Remarks": "",
+      "Violated Criteria": "Tradable Share Market Capitalization"
+    },
+    {
+      "Code": "4920",
+      "Company Name": "Nippon Shikizai,Inc.",
+      "Market Segment": "Standard",
+      "Number of Shareholders": "",
+      "Number of Tradable Shares": "",
+      "Tradable Share Ratio": "",
+      "Tradable Share Market Capitalization Deadline": "2027-02-28",
+      "Trading Value": "",
+      "Market Capitalization": "",
+      "Remarks": "",
+      "Violated Criteria": "Tradable Share Market Capitalization"
+    },
+    {
+      "Code": "5025",
+      "Company Name": "MERCURY Inc.",
+      "Market Segment": "Growth",
+      "Number of Shareholders": "",
+      "Number of Tradable Shares": "",
+      "Tradable Share Ratio Deadline": "2026-02-28",
+      "Tradable Share Market Capitalization Deadline": "2026-02-28",
+      "Trading Value": "",
+      "Market Capitalization": "",
+      "Remarks": "",
+      "Violated Criteria": "Tradable Share Ratio, Tradable Share Market Capitalization"
+    },
+    {
+      "Code": "6572",
+      "Company Name": "OPEN Group,Inc.",
+      "Market Segment": "Prime",
+      "Number of Shareholders": "",
+      "Number of Tradable Shares": "",
+      "Tradable Share Ratio Deadline": "2026-02-28",
+      "Tradable Share Market Capitalization Deadline": "2026-02-28",
+      "Trading Value": "",
+      "Market Capitalization": "",
+      "Remarks": "",
+      "Violated Criteria": "Tradable Share Ratio, Tradable Share Market Capitalization"
+    },
+    {
+      "Code": "8143",
+      "Company Name": "LAPINE CO.,LTD.",
+      "Market Segment": "Standard",
+      "Number of Shareholders": "",
+      "Number of Tradable Shares": "",
+      "Tradable Share Ratio": "",
+      "Tradable Share Market Capitalization Deadline": "2027-02-28",
+      "Trading Value": "",
+      "Market Capitalization": "",
+      "Remarks": "",
+      "Violated Criteria": "Tradable Share Market Capitalization"
+    }
+  ]
+}

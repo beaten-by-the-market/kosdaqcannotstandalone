@@ -1,0 +1,28 @@
+{
+  "fetched_date": "2026-04-10",
+  "count": 2,
+  "data": [
+    {
+      "Section": "Securities Under Supervision (Confirmation)",
+      "Designation Date": "Jan. 06, 2026",
+      "Issue Name": "SANKEI REAL ESTATE Inc.",
+      "Code": "2972",
+      "Product": "REIT",
+      "Details": "Due to TSE deeming that the investment securities may fall under cases where the Exchange deems delisting as appropriate",
+      "Remarks": "",
+      "File_URL": "/english/listing/market-alerts/supervision/vk0khi000000kv6q-att/vk0khi000000kv85.pdf",
+      "File_Path": "data/pdfs/supervision_delisting/2972_SANKEI_REAL_ESTATE_Inc..pdf"
+    },
+    {
+      "Section": "Securities to Be Delisted",
+      "Designation Date": "Mar. 30, 2026",
+      "Issue Name": "Japan Infrastructure Fund Investment Corporation",
+      "Code": "9287",
+      "Product": "IF",
+      "Details": "Period of Designation as Securities to Be Delisted - Participant bonds - Trading participant security money From Mar. 30, 2026 (Mon.) to Apr. 19, 2026 (Sun.)",
+      "Remarks": "",
+      "File_URL": "/english/listing/market-alerts/supervision/vk0khi0000010amt-att/vk0khi0000010ao8.pdf",
+      "File_Path": "data/pdfs/supervision_delisting/9287_Japan_Infrastructure_Fund_Investment_Corporation.pdf"
+    }
+  ]
+}

@@ -1,0 +1,671 @@
+(Provisional Reference Translation)
+1 
+DISCLAIMER: This translation may be used for reference purposes only. This English version is not an official translation of 
+the original Japanese document. In cases where any differences occur between the English version and the original Japanese 
+version, the Japanese version shall prevail. This translation is subject to change without notice. Japan Exchange Regulation,
+Japan Exchange Group, Inc., and/or their affiliates shall individually or jointly accept no responsibility or liability for damage 
+or loss caused by any error, inaccuracy, misunderstanding, or changes with regard to this translation. 
+ 
+ 
+Articles of Incorporation 
+(as of October 24, 2025) 
+ 
+Japan Exchange Regulation 
+ 
+Chapter 1 
+General Provisions 
+ 
+Article 1. Corporate Name 
+The corporate name of this self-regulatory corporation (hereinafter referred to as the 
+"Corporation") shall be 日本取引所自主規制法人 in Japanese or Japan Exchange 
+Regulation in English. 
+ 
+Article 2. Organization and Judicial Status 
+The Corporation is a membership legal entity based on the Financial Instruments and 
+Exchange Law (Law No.25 of 1948; hereinafter referred to as the "Law"). 
+ 
+Article 3. Office Location 
+The main office of the Corporation shall be located in Chuo-Ku, Tokyo, and the secondary 
+office shall be located in Chuo-ku, Osaka. 
+ 
+Article 4. Equity Capital 
+The equity capital of the Corporation shall be the total amount of capital contributions by 
+the members. 
+ 
+Article 5. Method of Public Notice 
+The public notice by the Corporation shall be given by means of posting on government 
+gazettes. 
+ 
+Chapter 2 
+Purpose and Operations 
+ 
+Article 6. Purpose 
+1. The purpose of the Corporation shall be to conduct the self-regulatory operations of a 
+financial instruments exchange (meaning the self-regulatory operations prescribed in 
+Paragraph 2, Article 84 of the Law. The same shall apply hereinafter.). 
+2. The Corporation shall conduct its business in order to achieve fair and smooth 
+(Provisional Reference Translation)
+2 
+DISCLAIMER: This translation may be used for reference purposes only. This English version is not an official translation of 
+the original Japanese document. In cases where any differences occur between the English version and the original Japanese 
+version, the Japanese version shall prevail. This translation is subject to change without notice. Japan Exchange Regulation,
+Japan Exchange Group, Inc., and/or their affiliates shall individually or jointly accept no responsibility or liability for damage 
+or loss caused by any error, inaccuracy, misunderstanding, or changes with regard to this translation. 
+ 
+ 
+transactions of securities and market derivatives in the exchange financial instruments 
+market operated by the entrusting financial instruments exchange, and be conducive to 
+the sound development of the financial instruments trading business and the protection 
+of investors. 
+ 
+Article 7. Operations 
+1. The Corporation shall conduct the self-regulatory operations listed in each of the 
+following Items upon the entrustment of the entrusting financial instruments 
+exchange(s). 
+(1) Operations relating to listing and delisting of financial instruments, financial 
+indicators or options (hereinafter referred to as the "financial instruments, etc.") 
+provided by the entrusting financial instruments exchange(s) (excluding operations 
+relating to listing and delisting of the financial instruments, etc. for specified market 
+derivatives trading (meaning market derivatives trading where the issue(s) of financial 
+instruments for such market derivatives transactions are specified in the Business 
+Regulations and other rules and regulations of the entrusting financial instruments 
+exchange(s). The same shall apply hereinafter.) 
+(2) Inspections on trading participants or members of the entrusting financial instruments 
+exchange(s) (hereinafter referred to as the "trading participants, etc." about their 
+compliance with laws and regulations, disposition by the administrative agencies 
+based on laws and regulations, the articles of incorporation and any other rules of the 
+entrusting financial instruments exchange(s), or the fair and equitable principle of 
+trading 
+(3) Detailed Examinations of securities trading or market derivatives trading carried out 
+by the trading participants, etc. in the exchange financial instruments market 
+(excluding examination instantaneously carried out for expediting securities trading or 
+market derivatives trading in the exchange financial instruments market) 
+(4) Examination of qualifications of the trading participants, etc. 
+(5) Operations related to disposition and any other measures against the trading 
+participants, etc. 
+(6) Examinations on information disclosure by the issuer of listed securities with regard 
+to the issuer t, and operations regarding disposition and other measures to be taken 
+against the issuer of listed securities 
+(7) Drawing-up, amendments, or abolition of the Business Regulations and other rules of 
+the entrusting financial instruments exchange(s) listed in each of the preceding Items 
+(hereinafter referred to as the "Specified Self-Regulatory Operations") (excluding 
+criteria for listing and delisting of financial instruments, etc. as well as criteria for 
+(Provisional Reference Translation)
+3 
+DISCLAIMER: This translation may be used for reference purposes only. This English version is not an official translation of 
+the original Japanese document. In cases where any differences occur between the English version and the original Japanese 
+version, the Japanese version shall prevail. This translation is subject to change without notice. Japan Exchange Regulation,
+Japan Exchange Group, Inc., and/or their affiliates shall individually or jointly accept no responsibility or liability for damage 
+or loss caused by any error, inaccuracy, misunderstanding, or changes with regard to this translation. 
+ 
+ 
+granting qualifications of the trading participants, etc.) 
+(8) Preparation of the summary of proposals for a general meeting or a general 
+shareholders meeting of the entrusting financial instruments exchange pertaining to 
+any amendment to the Articles of Incorporation of the entrusting financial 
+instruments exchange concerning the Specified Self-Regulatory Operations 
+(excluding amendments to the Articles of Incorporation concerning criteria for listing 
+and delisting of financial instruments, etc. and criteria for granting qualifications of 
+the Trading Participants, etc.) 
+2. The Corporation shall give consent to the financial instruments exchange concerning 
+amendment or abolition of the Self-Regulatory Operations related matters provided by 
+the Business Regulations and other rules of the entrusting financial instruments 
+exchange, pursuant to the provisions of laws and regulations, give advices, if it deems 
+necessary, on measures that should be taken against the entrusting financial instruments 
+exchange, and conduct operations incidental to the operations listed in each of the 
+preceding Items. 
+ 
+Chapter 3 
+Members 
+ 
+Article 8. Members 
+The members of the Corporation shall be limited to financial instruments exchanges and 
+financial instruments exchange holding companies. 
+ 
+Article 9. Equity Contributions 
+1. The amount of a unit of equity contribution by a member shall be JPY 3 billion. 
+2. The amount of a contribution must be paid in total at one time. 
+ 
+Article 10. Prohibition of Transfer of Right to Receive Refund of Membership Equity, 
+Etc. 
+No member may transfer, promise to transfer, or pledge its right to receive refund of the 
+membership equity to any other person, except as otherwise provided by Article 13. 
+ 
+Article 11. Admission to Membership 
+1. Procedures for the admission to membership shall be as prescribed by this Article. 
+2. An entity who wishes to obtain membership (hereinafter referred to as the "Membership 
+Admission Applicant") shall be given a consent by over two thirds of the total members 
+at the time of admission to membership. 
+(Provisional Reference Translation)
+4 
+DISCLAIMER: This translation may be used for reference purposes only. This English version is not an official translation of 
+the original Japanese document. In cases where any differences occur between the English version and the original Japanese 
+version, the Japanese version shall prevail. This translation is subject to change without notice. Japan Exchange Regulation,
+Japan Exchange Group, Inc., and/or their affiliates shall individually or jointly accept no responsibility or liability for damage 
+or loss caused by any error, inaccuracy, misunderstanding, or changes with regard to this translation. 
+ 
+ 
+3. The Membership Applicant who has obtained consent as prescribed in the preceding 
+paragraph shall pay the membership equity contribution money, the admission fee, and 
+the initiation fee to the Corporation by a date designated by the Corporation. However, 
+in cases where the Membership Admission Applicant has taken over a Membership 
+Equity the applicant is not required to pay the Membership Equity Contribution Money 
+and the Admission fee. 
+4. The amount of the Admission Fee shall be determined by the Corporation, based on an 
+amount (where the ordinary general meeting has not yet been convened as of the 
+membership admission date, an amount estimated to be that amount) divided by the 
+number of members as of the end of the immediately prior fiscal year, (where the 
+balance of the surplus as of the end of the immediately prior fiscal year is negative, an 
+amount minus this amount). The amount comprises the amounts of basic reserve, 
+reserve for which usage purpose is limited (hereinafter referred to as "reserve for 
+specific purposes") and special reserve (including amounts transferred as reserve for 
+specific purposes and special reserve respectively by resolution made at the ordinary 
+general meeting) as of the end of the immediately prior fiscal year approved at the 
+ordinary general meeting for the fiscal year immediately prior to the fiscal year 
+containing the membership admission date. 
+5. The amount of the Initiation Fee shall be decided by resolution of the general meeting 
+of the Corporation. 
+6. The Membership Applicant who has taken the procedures prescribed by Paragraph 3 
+shall become a member on the day (where a proviso in the same Paragraph is applied, 
+the day decided by the Corporation) following the date designated by the Corporation 
+pursuant to the provisions in the same paragraph. 
+ 
+Article 12. Withdrawal from Membership 
+1. A member may withdraw from membership upon obtaining consent of over two thirds 
+of the total members. 
+2. A member shall withdraw from membership in the following events in addition to cases 
+in the preceding paragraph. 
+(1) Where the member ceases to be the financial instruments exchange or the financial 
+instruments exchange holding company 
+(2) Where the member is dissolved 
+3. The amount of the membership equity which will be refunded to the member who 
+withdraws from membership shall be an amount obtained by adding the amount stated 
+in Item (1) to the amount of its paid-in equity contribution and subtracting the amount 
+stated in Item (2) from the amount of its paid-in equity contribution. 
+(Provisional Reference Translation)
+5 
+DISCLAIMER: This translation may be used for reference purposes only. This English version is not an official translation of 
+the original Japanese document. In cases where any differences occur between the English version and the original Japanese 
+version, the Japanese version shall prevail. This translation is subject to change without notice. Japan Exchange Regulation,
+Japan Exchange Group, Inc., and/or their affiliates shall individually or jointly accept no responsibility or liability for damage 
+or loss caused by any error, inaccuracy, misunderstanding, or changes with regard to this translation. 
+ 
+ 
+(1) The total amount (where the balance of the surplus as of the end of the immediately 
+prior fiscal year is negative, an amount minus this amount) comprising the amounts of 
+basic reserve, reserve for specific purposes and special reserve (including amounts 
+transferred as reserve for specific purposes and special reserve respectively by 
+resolution made at the ordinary general meeting) as of the end of the immediately 
+prior fiscal year approved at the ordinary general meeting for the fiscal year 
+immediately prior to the fiscal year containing the date of withdrawal from the 
+membership, divided by the number of members as of the end of the immediately 
+prior fiscal year 
+(2) Where the Corporation has a significant amount of extraordinary expenditures as of 
+the date of withdrawal from the membership, an amount decided by the Corporation at 
+the ordinary general meeting, out of that amount, divided by the number of members 
+as of the day preceding the withdrawal date 
+4. The underlying assets for refund prescribed in the preceding Paragraph shall be 
+disposed of from the amount of the equity capital as of the end of the fiscal year 
+immediately prior to the fiscal year containing the withdrawal date divided by the 
+number of members as of the end of the immediately prior fiscal year, the amount of the 
+basic reserve as of the end of the fiscal year immediately prior to the fiscal year 
+containing the withdrawal date divided by the number of members as of the end of the 
+immediately prior fiscal year, the amount of reserve for specific purposes as oft the end 
+of the immediately prior fiscal year divided by the number of members as at the end of 
+the immediately prior fiscal year divided by the number of members as at the end of the 
+immediately prior fiscal year, and special reserve, in this order. 
+ 
+Article 13. Transfer of Membership Equity 
+The membership equity may be only transferred to an entity who will become a member at 
+the same time and on condition that the withdrawing member withdraws from membership 
+by obtaining the consent of two thirds or more of the total members. 
+ 
+Chapter 4 
+Organizations 
+ 
+Section 1 
+General Meetings 
+ 
+Article 14. Convocation of General Meetings 
+The general meetings comprise ordinary general meetings and extraordinary general 
+(Provisional Reference Translation)
+6 
+DISCLAIMER: This translation may be used for reference purposes only. This English version is not an official translation of 
+the original Japanese document. In cases where any differences occur between the English version and the original Japanese 
+version, the Japanese version shall prevail. This translation is subject to change without notice. Japan Exchange Regulation,
+Japan Exchange Group, Inc., and/or their affiliates shall individually or jointly accept no responsibility or liability for damage 
+or loss caused by any error, inaccuracy, misunderstanding, or changes with regard to this translation. 
+ 
+ 
+meetings. An ordinary general meeting shall be convened within three months from the end 
+of every fiscal year, and an extraordinary general meeting shall be convened from time to 
+time whenever necessary. 
+ 
+Article 15. Convener and Chairperson of General Meeting 
+1. Based on resolution by the board of governors, the president shall convene a general 
+meeting at which he/she shall preside as chairperson. 
+2. The President must immediately take procedures for convening a general meeting if one 
+fifth or more of the members with voting rights for the relevant agenda have requested 
+convocation of a general meeting, showing the agenda and the reason for the 
+convocation. 
+3. The convocation of a general meeting as prescribed in the preceding two paragraphs 
+shall be conducted by notifying each member of the meeting date, time, place, and 
+agendas at least five days prior to the meeting day. 
+4. Resolutions may be only made for the agendas notified beforehand pursuant to the 
+provisions in the preceding paragraph. 
+ 
+Article 16. Quorum of General Meeting 
+1. No general meeting may be held unless a majority of the members holding voting rights 
+for the relevant agendas attend the meeting. 
+2. Members who have submitted a written document for exercising voting rights pursuant 
+to the provisions in Paragraph 4 of the following Article shall be deemed to have been 
+attending the general meeting. 
+ 
+Article 17. Resolution Method, Exercise of Voting Rights by Members, Etc. 
+1. Proceedings of general meetings shall be resolved by a majority of the voting rights of 
+the members present, except as otherwise provided by these Articles of Incorporation. 
+2. Each member shall have one voting right. 
+3. No member shall have voting right in cases where it has a special interest in the 
+resolution of the general meeting. 
+4. The Member may exercise its voting right by submitting a written document to the 
+Chairperson of the general meeting if the Board of Governors approves the exercise of 
+the voting right by means of the written document. 
+ 
+Article 18. Minutes 
+Minutes (including electronic records; the same shall apply hereinafter) of a general 
+meeting must be prepared, and the summary of the proceedings and their results must be 
+(Provisional Reference Translation)
+7 
+DISCLAIMER: This translation may be used for reference purposes only. This English version is not an official translation of 
+the original Japanese document. In cases where any differences occur between the English version and the original Japanese 
+version, the Japanese version shall prevail. This translation is subject to change without notice. Japan Exchange Regulation,
+Japan Exchange Group, Inc., and/or their affiliates shall individually or jointly accept no responsibility or liability for damage 
+or loss caused by any error, inaccuracy, misunderstanding, or changes with regard to this translation. 
+ 
+ 
+stated or recorded therein. The Chairperson of the general meeting, governors present, 
+auditors present, and at least one member present at the general meeting must either 
+provide their names and seals or their electronic signatures on the minutes. 
+ 
+Section 2 
+Officers 
+ 
+Article 19. Number of Officers 
+The Corporation shall have the following officers. 
+President: 
+1 
+Governors: 3 or more but 8 or less 
+Auditors: 
+2 
+ 
+Article 20. Election of Governors 
+1. Directors shall be elected by resolution of general meetings. 
+2. A majority of Governors must be external governors (meaning external governors 
+prescribed in Paragraph 3 of Article 102-23 of the Law. The same shall apply 
+hereinafter.) and, in addition, external governors shall be elected from among persons 
+with excellent insight who can make fair decision concerning the Self-regulatory 
+Operations excluding the persons falling under any of the following Items. 
+(1) Persons engaged in regular business directly related to the financial instruments 
+trading business 
+(2) Persons engaged in the regular business of a company which is an issuer of securities 
+listed on the exchange financial instruments market established by the entrusting 
+financial instruments exchange(s) 
+3. Governors (hereinafter referred to as the "Independent Governors" elected pursuant to 
+the provisions in the preceding paragraph may not be engaged in the operations of the 
+entrusting financial instruments exchange, regular business of a company conducting 
+operations directly related to the financial instrument transaction business or regular 
+business of a company which is an issuer of securities listed on the exchange financial 
+instruments market established by the entrusting financial instruments exchange during 
+their term of office. 
+4. No governors may be reelected no more than twice. 
+ 
+Article 21. Election of President 
+1. The President shall be elected from among the Independent Governors by mutual votes 
+of the Governors. 
+(Provisional Reference Translation)
+8 
+DISCLAIMER: This translation may be used for reference purposes only. This English version is not an official translation of 
+the original Japanese document. In cases where any differences occur between the English version and the original Japanese 
+version, the Japanese version shall prevail. This translation is subject to change without notice. Japan Exchange Regulation,
+Japan Exchange Group, Inc., and/or their affiliates shall individually or jointly accept no responsibility or liability for damage 
+or loss caused by any error, inaccuracy, misunderstanding, or changes with regard to this translation. 
+ 
+ 
+2. During his/her term of office, the President may not be an officer of other corporation 
+or any other body (excluding a part-time officer of a not-for-profit organization) or may not 
+engage himself/herself in profit making business, without obtaining approval of the Board of 
+Governors. 
+ 
+Article 22. Election of Full-Time Governors 
+1. The Board of Governors shall, by its resolution, appoint full-time governors from 
+among governors other than the President. 
+2. The Board of Governors may appoint senior managing governors and managing 
+governors from among full-time governors. 
+3. The provisions in Paragraph 3 of Article 20 and Paragraph 2 of the preceding Article 
+shall be applied mutatis mutandis to full-time governors. 
+ 
+Article 23. Election of Auditors 
+1. Auditors shall be elected by resolution of a general meeting(s). 
+2. Only one full-time auditor shall be appointed by resolution of a general meeting. 
+3. The provisions in Paragraph 3 of Article 20 and Paragraph 2 of Article 21 shall be 
+applied mutatis mutandis to the full-time auditor. In this case the term "approval of the 
+Board of Governors" in Paragraph 2 of Article 21 shall be deemed to be replaced with 
+"consent of all the other auditors". 
+ 
+Article 24. Duties of Governors 
+1. The President shall represent and comprehensibly manage operations of the 
+Corporation. 
+2. The full-time governors shall conduct operations of the Corporation, assisting the 
+President. 
+3. The governors shall organize the Board of Governors and supervise execution of duties 
+by other Governors. 
+4. In the case that the office of President is vacant or in the absence or disability of the 
+President, the Corporation shall select a governor who will represent the Corporation 
+and execute the duties of the President on his/her own responsibilities or as deputy, 
+pursuant to the provisions in the Rules for the Board of Governors as prescribed in 
+Article 37. 
+5. The Corporation may give a full-time governor the authority to represent the 
+Corporation by resolution of the Board of Governors if it deems necessary. 
+6. If it is deemed necessary, a governor(s) may attend meetings of the Board of Directors 
+or the Board of Governors of the entrusting financial instruments exchange, and express 
+(Provisional Reference Translation)
+9 
+DISCLAIMER: This translation may be used for reference purposes only. This English version is not an official translation of 
+the original Japanese document. In cases where any differences occur between the English version and the original Japanese 
+version, the Japanese version shall prevail. This translation is subject to change without notice. Japan Exchange Regulation,
+Japan Exchange Group, Inc., and/or their affiliates shall individually or jointly accept no responsibility or liability for damage 
+or loss caused by any error, inaccuracy, misunderstanding, or changes with regard to this translation. 
+ 
+ 
+his/her opinion at such meetings. 
+ 
+Article 25. Duties of Auditors 
+1. Auditors audit operations and accounting of the Corporation. 
+2. Auditors shall inspect the documents specified in Paragraph 2 of Article 44 that the 
+President submits to the general meeting, and shall convey their opinions in the general 
+meetings. 
+3. Auditors may attend meetings of the Board of Governors and express their opinions at 
+such meetings. 
+ 
+Article 26. Term of Office of Officers 
+1. A governor’s term of office shall expire at the close of the ordinary general meeting for 
+the last fiscal year which terminates within two years from his/her election. 
+2. An auditor’s term of office shall expire at the close of the ordinary general meeting for 
+the last fiscal year which terminates within four years from his/her election. 
+Article 27. Dismissal of Officers 
+An officer shall not be dismissed except for cases where he/she falls under any of the 
+following items and a majority of members attend the general meeting at which a 
+four-fifths majority of members present gives consent by resolution. 
+(1) Where the officer is deemed unable to execute his or her duties due to mental or 
+physical disorder 
+(2) Where the officer is deemed to have violated his or her duties or committed any other 
+improper act as an officer 
+ 
+Article 28. Remuneration of Officers 
+The total amount of the remuneration for officers shall be decided by resolution of a 
+general meeting(s). 
+ 
+Section 3 
+Board of Governors 
+ 
+Article 29. Authority of Board of Governors, Etc. 
+1. The Board of Governors shall execute the following duties. 
+(1) Decision on matters prescribed in the Articles of Incorporation and decision on the 
+execution of operations of the Corporation 
+(2) Supervision of the execution of duties of governors 
+(Provisional Reference Translation)
+10 
+DISCLAIMER: This translation may be used for reference purposes only. This English version is not an official translation of 
+the original Japanese document. In cases where any differences occur between the English version and the original Japanese 
+version, the Japanese version shall prevail. This translation is subject to change without notice. Japan Exchange Regulation,
+Japan Exchange Group, Inc., and/or their affiliates shall individually or jointly accept no responsibility or liability for damage 
+or loss caused by any error, inaccuracy, misunderstanding, or changes with regard to this translation. 
+ 
+ 
+(3) Dismissal of the President 
+(4) Appointment and dismissal of senior managing governors, managing governors, or 
+full-time governors 
+2. The President and full-time governors must report to the Board of Governors on the 
+state of execution of their own duties once or more times every three months. 
+ 
+Article 30. Convocation of the Board of Governors 
+1.  A meeting of the Board of Governors shall be convened by the President, who shall 
+preside as chairperson. 
+2. If a governor requests to convene a meeting of the Board of Governors by presenting 
+issues to be discussed at a Board of Governors meeting and a reason for the 
+convocation, the President must immediately convene a meeting of the Board of 
+Directors. 
+ 
+Article 31. Convocation Notice Regarding the Board of Governors, etc. 
+1. When convening a Board of Governors meeting, convocation notice regarding the 
+meeting shall be given to each governor and each auditor at least a week prior to the 
+meeting day (if a shorter period is decided in a meeting of the Board of Governors, that 
+period shall be deferred to). 
+2. With the consent of all governors, a Board of Governors meeting may be convened 
+without taking convocation procedures. 
+ 
+Article 32. Method of Resolution by Board of Governors 
+1. A resolution of the Board of Governors shall be adopted if a majority of the governors 
+who are entitled to participate in a vote are present, and a majority of governors present 
+and a majority of the Independent Governors present both approve. 
+2. No governor with a special interest in a resolution of the Board of Governors may 
+participate in a vote. 
+ 
+Article 32-2. Omission of Resolution by Board of Governors 
+A resolution of the Board of Governors is deemed to be adopted if all governors who may 
+participate in a vote approve such a resolution in writing or in an electromagnetic record. 
+ 
+Article 33. Grasping of Situations About Execution of Operations by the Entrusting 
+Financial Instruments Exchange 
+1. The Board of Governors shall receive reports on the status of business execution from 
+the entrusting financial instruments exchange twice or more a year. 
+(Provisional Reference Translation)
+11 
+DISCLAIMER: This translation may be used for reference purposes only. This English version is not an official translation of 
+the original Japanese document. In cases where any differences occur between the English version and the original Japanese 
+version, the Japanese version shall prevail. This translation is subject to change without notice. Japan Exchange Regulation,
+Japan Exchange Group, Inc., and/or their affiliates shall individually or jointly accept no responsibility or liability for damage 
+or loss caused by any error, inaccuracy, misunderstanding, or changes with regard to this translation. 
+ 
+ 
+2. The Board of Governors may, if it deems necessary, request governors, directors, 
+executive officers, managers and other employees of the entrusting financial instruments 
+exchange to submit reports on matters concerning the execution of their duties. 
+ 
+Article 34. Consent to Changes in Business Regulations, Etc. of Entrusting Financial 
+Instruments Exchange 
+Procedures for the Corporation's giving consent in cases where the entrusting financial 
+instruments exchange intends to amend or abolish the Self-regulatory Operations related 
+matters which are prescribed in the Business Regulations and/or other rules of the 
+exchange shall be provided in the Rules for the Board of Governors as prescribed in Article 
+37. 
+ 
+Article 35. Advice to Entrusting Financial Instruments Exchange 
+By its own resolution the Board of Governors may, if it deems necessary, give the 
+entrusting financial instruments exchange any advice on measures to be taken in order to 
+achieve fair and smooth securities trading and market derivatives trading in the financial 
+instruments market operated by the entrusting financial instruments exchange, and to be 
+conducive to the sound development of the financial instruments trading business and the 
+protection of investors. 
+ 
+Article 36. Minutes  
+Minutes of the Board of Governors meeting must be prepared, and the summary of the 
+proceedings and their results must be stated or recorded therein. The governors and 
+auditors present at the meeting must either provide their names and seals or their electronic 
+signatures on the minutes. 
+ 
+Article 37. Rules on Council 
+Matters concerning the Board of Governors shall be subject to the Board of Governors 
+Rules prescribed by the Board of Governors in addition to laws and regulations and/or 
+these Articles of Incorporation. 
+ 
+Section 4 
+Advisory Committee 
+ 
+Article 38. Consultation Committee 
+1. An advisory committee(s) shall be established within the Corporation. 
+2. With respect to key issues concerning the operations of the Corporation, an advisory 
+(Provisional Reference Translation)
+12 
+DISCLAIMER: This translation may be used for reference purposes only. This English version is not an official translation of 
+the original Japanese document. In cases where any differences occur between the English version and the original Japanese 
+version, the Japanese version shall prevail. This translation is subject to change without notice. Japan Exchange Regulation,
+Japan Exchange Group, Inc., and/or their affiliates shall individually or jointly accept no responsibility or liability for damage 
+or loss caused by any error, inaccuracy, misunderstanding, or changes with regard to this translation. 
+ 
+ 
+committee(s) may give advice in response to any inquiry of the Board of Governors or 
+express opinions to the Board of Governors. 
+3. Composition and procedures of the Advisory Committees, and other matters necessary 
+for running the Advisory Committees shall be subject to the Advisory Committees 
+Rules as adopted by the Board of Governors. 
+ 
+ 
+Chapter 5 
+Business Regulations, Etc. 
+ 
+Article 39. Business Regulations 
+1. Matters concerning operations prescribed in Paragraph 1 of Article 7 shall be prescribed 
+by the Business Regulations in addition to these Articles of Incorporation. 
+2. The Business Regulations may be established or amended by Board of Governors 
+resolution. 
+ 
+Article 40. Detailed Rules 
+In addition to the rules separately prescribed in these Articles of Incorporation, detailed 
+rules necessary for the operations of the Corporation shall be adopted by the President. 
+ 
+Chapter 6 
+Accounting 
+ 
+Article 41. Payment of Expenses 
+Expenses of the Corporation shall be mainly covered by the business entrustment fees 
+pertaining to the Self-regulatory Operations entrusted by the entrusting financial 
+instruments exchange(s). 
+ 
+Article 42. Fiscal Year 
+The fiscal year of the Corporation shall be from April 1 to March 31 of the following year. 
+ 
+Article 43. Budget 
+1. The Corporation shall prepare budgets for each fiscal year by resolution of the Board of 
+Governors. 
+2. If the Corporation deems it necessary to amend the budgets in the preceding paragraph, 
+it may do so by resolution of the Board of Governors. 
+ 
+(Provisional Reference Translation)
+13 
+DISCLAIMER: This translation may be used for reference purposes only. This English version is not an official translation of 
+the original Japanese document. In cases where any differences occur between the English version and the original Japanese 
+version, the Japanese version shall prevail. This translation is subject to change without notice. Japan Exchange Regulation,
+Japan Exchange Group, Inc., and/or their affiliates shall individually or jointly accept no responsibility or liability for damage 
+or loss caused by any error, inaccuracy, misunderstanding, or changes with regard to this translation. 
+ 
+ 
+Article 44. Account Settlement 
+1. The Corporation shall close its account at the end of each fiscal year. 
+2. The President must prepare written documents listed in each of the following Items by 
+resolution of the Board of Governors immediately after closing the account and submit 
+them to auditors. 
+(1) Balance sheet 
+(2) Income statement 
+(3) Business report including the summary of operations, the state of officers and 
+employees and other reports on operations 
+(4) Written document calculating the amount of net assets 
+(5) Table showing individual notes 
+(6) Inventory of assets 
+3. Documents listed in Items (1), (2) and (4) of the preceding paragraph must be prepared 
+in accordance with the corporate accounting standards which are generally considered 
+fair and appropriate. 
+4. The President must keep the documents listed in Paragraph 2 and auditors' report 
+thereon in the office and submit them for the members' inspection. 
+ 
+Article 45. Approval of Accounting Documents 
+The President must submit the documents listed in Paragraph 2 of the preceding Article to 
+an ordinary general meeting and seek its approval. 
+ 
+Article 46. Appropriation of Surplus 
+1. In the event net profit for the current term arises at the account settlement prescribed in 
+Article 44, such profit shall be treated as a surplus, and if the balance of the surplus 
+becomes positive as a result, the total amount shall be appropriated by resolution of the 
+general meeting as follows. 
+(1) Reserve for specific purposes 
+(2) Special reserve 
+2. In the event net loss for the current term is incurred at the account settlement prescribed 
+in Article 44, such loss shall be treated as a negative surplus, and if the balance of the 
+surplus becomes negative as a result, and if there is special reserve, such reserve shall 
+be transferred to supplement the surplus by resolution of the general meeting. 
+3. Reserve for specific purpose may be liquidated and used by resolution of a general 
+meeting (where it is used for that specific purpose or where it is used to refund the 
+membership equity pursuant to the provisions of Article 12, by resolution of the Board 
+of Governors). 
+(Provisional Reference Translation)
+14 
+DISCLAIMER: This translation may be used for reference purposes only. This English version is not an official translation of 
+the original Japanese document. In cases where any differences occur between the English version and the original Japanese 
+version, the Japanese version shall prevail. This translation is subject to change without notice. Japan Exchange Regulation,
+Japan Exchange Group, Inc., and/or their affiliates shall individually or jointly accept no responsibility or liability for damage 
+or loss caused by any error, inaccuracy, misunderstanding, or changes with regard to this translation. 
+ 
+ 
+4. The special reserve may be liquidated and used by resolution of a general meeting 
+(where it is used to refund the membership equity pursuant to the provisions of Article 12, by 
+resolution of the Council). 
+ 
+Article 47. Accumulation of Basic Reserve 
+1. Admission fees paid-in pursuant to the provisions of Paragraph 3 of Article 11 shall be 
+accumulated into basic reserve whenever their payment is received. 
+2. Basic reserve shall only be paid out in cases where the equity capital of the Corporation 
+is increased or where membership equity is refunded pursuant to the provisions of 
+Article 12. 
+ 
+Article 48. Accounting Rules 
+Necessary matters regarding budgets, account settlements and other accounting of the 
+Corporation shall be decided in accordance with the accounting rules. 
+ 
+Article 49. Distribution of Residual Properties 
+Where the Corporation is dissolved and there are residual properties after settling all of its 
+credit and debt, the residual amount shall be equally divided and distributed to members as 
+at the time of the resolution of the dissolution. 
+ 
+Chapter 7 
+Miscellaneous Rules 
+ 
+Article 50. Resolution of Amendments to Articles of Incorporation or Dissolution of the 
+Corporation 
+Resolution of amendments to the Articles of Incorporation or dissolution of the 
+Corporation shall be adopted if three quarters or more of the members who can vote at the 
+general meeting are present, and a three quarters or more majority of the members approve. 
+ 
+Supplementary Provisions 
+(First Fiscal Year) 
+Notwithstanding the provisions of Article 42, the first fiscal year of the Corporation after 
+its establishment shall be from the establishment day of the Corporation to March 31, 
+2008. 
+ 
+Supplementary Provisions 
+These revisions shall take effect on July 16, 2013. 
+(Provisional Reference Translation)
+15 
+DISCLAIMER: This translation may be used for reference purposes only. This English version is not an official translation of 
+the original Japanese document. In cases where any differences occur between the English version and the original Japanese 
+version, the Japanese version shall prevail. This translation is subject to change without notice. Japan Exchange Regulation,
+Japan Exchange Group, Inc., and/or their affiliates shall individually or jointly accept no responsibility or liability for damage 
+or loss caused by any error, inaccuracy, misunderstanding, or changes with regard to this translation. 
+ 
+ 
+Supplementary Provisions 
+These revisions shall take effect on April 1, 2014. 
+ 
+Supplementary Provisions 
+1. These revisions shall take effect on March 20, 2017. 
+2. With regard to the term of office of governors and auditors who are in office at the time 
+of the enforcement of this revised provision and who are elected as a result of an 
+increase in the number of governors or as a substitute, the provisions of paragraph 1of 
+Article 26 after the revision shall apply to governors, and the provisions of paragraph 2 
+of Article 26 shall apply to auditors, respectively, notwithstanding the resolution of the 
+general meeting pertaining to such election. 
+ 
+Supplementary Provisions 
+These revisions shall take effect on October 22, 2020. 
+ 
+Supplementary Provisions 
+These revisions shall take effect on October 24, 2025. 

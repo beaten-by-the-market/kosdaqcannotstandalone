@@ -1,0 +1,102 @@
+{
+  "fetched_date": "2026-04-10",
+  "count": 8,
+  "data": [
+    {
+      "Issue Name": "Abalance Corporation",
+      "Code": "3856",
+      "Market Segment": "Standard",
+      "Designation Date": "Jan. 31, 2026",
+      "Details": "Due to a disclaimer of conclusion being stated in the interim review report attached to the listed company's interim consolidated financial statements, and TSE deeming that improvement of the internal management system is highly necessary",
+      "Examination Status": "Company Making Improvements",
+      "Additional Information": "",
+      "File_URL": "/english/listing/measures/alert/vk0khi000000qgrr-att/vk0khi000000qgt4.pdf",
+      "File_Path": "data/pdfs/special_alert/3856_Abalance_Corporation.pdf",
+      "Simplified_Details": "감사의견 미표명/부적정"
+    },
+    {
+      "Issue Name": "TABIKOBO Co.Ltd.",
+      "Code": "6548",
+      "Market Segment": "Growth",
+      "Designation Date": "Nov. 22, 2025",
+      "Details": "Due to falling under a case where TSE deems that the listed company has violated the provisions of timely disclosure and that the improvement of the internal management system of such listed company is highly necessary",
+      "Examination Status": "Company Making Improvements",
+      "Additional Information": "",
+      "File_URL": "/english/listing/measures/alert/vk0khi0000006aje-att/vk0khi0000006akr.pdf",
+      "File_Path": "data/pdfs/special_alert/6548_TABIKOBO_Co.Ltd..pdf",
+      "Simplified_Details": "적시공시 위반 (Timely Disclosure)"
+    },
+    {
+      "Issue Name": "TOSHIN HOLDINGS CO.,LTD",
+      "Code": "9444",
+      "Market Segment": "Standard",
+      "Designation Date": "Nov. 22, 2025",
+      "Details": "Due to falling under a case where opinions are not expressed in audit reports, interim audit reports, or interim review reports attached to the listed company's financial statements or interim financial statements and TSE deems that the improvement of the internal management system of said listed company is highly necessary",
+      "Examination Status": "Company Making Improvements",
+      "Additional Information": "",
+      "File_URL": "/english/listing/measures/alert/vk0khi00000066rw-att/vk0khi00000066t9.pdf",
+      "File_Path": "data/pdfs/special_alert/9444_TOSHIN_HOLDINGS_CO.LTD.pdf",
+      "Simplified_Details": "감사의견 미표명/부적정"
+    },
+    {
+      "Issue Name": "NIDEC CORPORATION",
+      "Code": "6594",
+      "Market Segment": "Prime",
+      "Designation Date": "Oct. 28, 2025",
+      "Details": "Due to falling under a case where opinions are not expressed in audit reports, interim audit reports, or interim review reports attached to the listed company's financial statements or interim financial statements and TSE deems that the improvement of the internal management system of said listed company is highly necessary",
+      "Examination Status": "Company Making Improvements",
+      "Additional Information": "",
+      "File_URL": "/english/listing/measures/alert/sjcobq0000029lir-att/sjcobq0000029lk4.pdf",
+      "File_Path": "data/pdfs/special_alert/6594_NIDEC_CORPORATION.pdf",
+      "Simplified_Details": "감사의견 미표명/부적정"
+    },
+    {
+      "Issue Name": "ACCESS CO.,LTD.",
+      "Code": "4813",
+      "Market Segment": "Prime",
+      "Designation Date": "Aug. 27, 2025",
+      "Details": "Due to falling under a case where TSE deems that the listed company has violated the provisions of timely disclosure and that the improvement of the internal management system of such listed company is highly necessary",
+      "Examination Status": "Company Making Improvements",
+      "Additional Information": "",
+      "File_URL": "/english/listing/measures/alert/sjcobq00000249vi-att/sjcobq00000249wv.pdf",
+      "File_Path": "data/pdfs/special_alert/4813_ACCESS_CO.LTD..pdf",
+      "Simplified_Details": "적시공시 위반 (Timely Disclosure)"
+    },
+    {
+      "Issue Name": "Life Intelligent Enterprise Holdings Co.,Ltd.",
+      "Code": "5856",
+      "Market Segment": "Standard",
+      "Designation Date": "Mar. 27, 2025",
+      "Details": "Due to falling under a case where TSE deems that the listed company has violated the provisions of the matters to be observed in the Code of Corporate Conduct (Development of System and Structure Necessary to Ensure Appropriateness of Business) and that the improvement of the internal management system of such listed company is highly necessary",
+      "Examination Status": "Company Making Improvements",
+      "Additional Information": "",
+      "File_URL": "/english/listing/measures/alert/sjcobq00000136oi-att/sjcobq00000136pv.pdf",
+      "File_Path": "data/pdfs/special_alert/5856_Life_Intelligent_Enterprise_Holdings_Co.Ltd..pdf",
+      "Simplified_Details": "기업행동규범 위반 (Corporate Conduct)"
+    },
+    {
+      "Issue Name": "Aqualine Ltd.",
+      "Code": "6173",
+      "Market Segment": "Growth",
+      "Designation Date": "Jan. 29, 2025",
+      "Details": "Due to falling under a case where TSE deems that the listed company has violated the provisions of timely disclosure and that the improvement of the internal management system of such listed company is highly necessary",
+      "Examination Status": "Company Making Improvements",
+      "Additional Information": "",
+      "File_URL": "/english/listing/measures/alert/sjcobq000000akww-att/sjcobq000000aky9.pdf",
+      "File_Path": "data/pdfs/special_alert/6173_Aqualine_Ltd..pdf",
+      "Simplified_Details": "적시공시 위반 (Timely Disclosure)"
+    },
+    {
+      "Issue Name": "Wellco Holdings Corporation",
+      "Code": "7831",
+      "Market Segment": "Standard",
+      "Designation Date": "Oct. 26, 2024",
+      "Details": "Due to falling under a case where TSE deems that the listed company has violated the provisions of timely disclosure and that the improvement of the internal management system of such listed company is highly necessary",
+      "Examination Status": "Company in Follow-up Period",
+      "Additional Information": "",
+      "File_URL": "/english/listing/measures/alert/dh3otn000000iujj-att/dh3otn000000iukw.pdf",
+      "File_Path": "data/pdfs/special_alert/7831_Wellco_Holdings_Corporation.pdf",
+      "Simplified_Details": "적시공시 위반 (Timely Disclosure)"
+    }
+  ]
+}
