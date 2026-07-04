@@ -53,7 +53,7 @@
 
 <div class="header">
   <h1>코스닥 신규상장 분석 대시보드</h1>
-  <p style="font-size:0.8rem;color:#8899aa;margin-top:2px">2021.01 ~ 2026.01 상장 종목 대상 (약 5년)</p>
+  <p style="font-size:0.8rem;color:#8899aa;margin-top:2px">2021.01 ~ 2026.07 상장 종목 대상 (약 5.5년)</p>
   <p id="subtitle">데이터 로딩 중...</p>
 </div>
 <div class="tabs">
@@ -195,7 +195,7 @@
       <div class="card">
         <h3>데이터 현황</h3>
         <div style="display:grid;grid-template-columns:1fr 1fr;gap:12px">
-          <div class="info-item"><div class="lbl">전체 분석 대상</div><div class="val">340개</div></div>
+          <div class="info-item"><div class="lbl">전체 분석 대상</div><div class="val">347개</div></div>
           <div class="info-item"><div class="lbl">수정계수 매칭</div><div class="val" style="color:#2ec4b6">100%</div></div>
           <div class="info-item"><div class="lbl">수정계수 &ne; 1</div><div class="val">108개</div></div>
           <div class="info-item"><div class="lbl">수정계수 = 1</div><div class="val">234개</div></div>
@@ -207,7 +207,7 @@
         <table class="summary-table" style="font-size:0.85rem">
           <thead><tr><th>분석 항목</th><th>적용 기준가</th></tr></thead>
           <tbody>
-            <tr><td style="text-align:left">IPO 수익률 (상장일/'26.2.5 기준/6M/12M/18M/24M)</td><td><strong>수정공모가</strong> 대비 수정주가</td></tr>
+            <tr><td style="text-align:left">IPO 수익률 (상장일/'26.6.30 기준/6M/12M/18M/24M)</td><td><strong>수정공모가</strong> 대비 수정주가</td></tr>
             <tr><td style="text-align:left">IPO 시가총액 (ipo_mcap)</td><td>수정공모가 &times; 최초상장주식수</td></tr>
             <tr><td style="text-align:left">공모금액 (ipo_offering)</td><td>수정공모가 &times; 공모주식수</td></tr>
             <tr><td style="text-align:left">주가 차트 기준선</td><td>수정공모가</td></tr>
@@ -379,7 +379,7 @@ function _onDataReady() {
   document.getElementById('aggregate').classList.add('active');
 
   const periods = [
-    {key:"'26.2.5 기준", col:'최종일수익률_수정공모가(%)'},
+    {key:"'26.6.30 기준", col:'최종일수익률_수정공모가(%)'},
     {key:'6M', col:'6M수익률_수정공모가(%)'},
     {key:'12M', col:'12M수익률_수정공모가(%)'},
     {key:'18M', col:'18M수익률_수정공모가(%)'},
@@ -460,7 +460,7 @@ function renderSummaryTable(c) {
   periodKeys.push('m6','m12','m18','m24');
   periodLabels.push('6M','12M','18M','24M');
   periodKeys.push('latest');
-  periodLabels.push("'26.2.5 기준*");
+  periodLabels.push("'26.6.30 기준*");
 
   // 기간별 수익률 배열
   const retArrays = {};
@@ -544,13 +544,13 @@ function renderSummaryTable(c) {
   html += '</tbody></table>';
 
   // 주석
-  let notes = `* '26.2.5 기준: 2026-02-05 수정주가 기준, 상장 후 2년 이상 경과 종목만 집계`;
+  let notes = `* '26.6.30 기준: 2026-06-30 수정주가 기준, 상장 후 2년 이상 경과 종목만 집계`;
   if (outlierNames.length) {
     const outlierDetails = [];
     DATA.forEach(r => {
       const v = Number(r[c['latest']]);
       if (!isNaN(v) && v > OUTLIER_CUT) {
-        outlierDetails.push(`${r['종목명']}('26.2.5 기준 +${fmt(v,0)}%)`);
+        outlierDetails.push(`${r['종목명']}('26.6.30 기준 +${fmt(v,0)}%)`);
       }
     });
     notes += `<br>** 수익률 ${OUTLIER_CUT}% 초과 Outlier 종목 제외시. ${outlierDetails.join(', ')}`;
@@ -584,7 +584,7 @@ function renderAggregate() {
     {x:ret18, type:'histogram', name:'18M', opacity:0.5, marker:{color:COLORS.m18}, xbins:{size:10}},
     {x:ret24, type:'histogram', name:'24M', opacity:0.5, marker:{color:COLORS.m24}, xbins:{size:10}},
   );
-  if (retLatest.length) histTraces.push({x:retLatest, type:'histogram', name:"'26.2.5 기준", opacity:0.5, marker:{color:COLORS.latest}, xbins:{size:10}});
+  if (retLatest.length) histTraces.push({x:retLatest, type:'histogram', name:"'26.6.30 기준", opacity:0.5, marker:{color:COLORS.latest}, xbins:{size:10}});
   Plotly.newPlot('chart-hist', histTraces,
     {barmode:'overlay', xaxis:{title:'수익률 (%)'}, yaxis:{title:'종목 수'}, legend:{x:0.75,y:0.95}, margin:{t:20,r:20}}, PLOTLY_CFG);
 
@@ -596,7 +596,7 @@ function renderAggregate() {
   const outlierStocks = [];
   const allRetCols = [
     {key:'listing', label:'상장일'}, {key:'m6', label:'6M'}, {key:'m12', label:'12M'},
-    {key:'m18', label:'18M'}, {key:'m24', label:'24M'}, {key:'latest', label:"'26.2.5 기준"}
+    {key:'m18', label:'18M'}, {key:'m24', label:'24M'}, {key:'latest', label:"'26.6.30 기준"}
   ];
   DATA.forEach(r => {
     allRetCols.forEach(rc => {
@@ -616,7 +616,7 @@ function renderAggregate() {
     {y:cap(ret18), type:'box', name:'18M', marker:{color:COLORS.m18}},
     {y:cap(ret24), type:'box', name:'24M', marker:{color:COLORS.m24}},
   );
-  if (retLatest.length) boxTraces.push({y:cap(retLatest), type:'box', name:"'26.2.5 기준", marker:{color:COLORS.latest}});
+  if (retLatest.length) boxTraces.push({y:cap(retLatest), type:'box', name:"'26.6.30 기준", marker:{color:COLORS.latest}});
   Plotly.newPlot('chart-box', boxTraces,
     {yaxis:{title:'수익률 (%)'}, margin:{t:20,r:20}, showlegend:false}, PLOTLY_CFG);
 
@@ -726,7 +726,7 @@ function renderStock(r) {
     {l:`12M 수익률(${c.label})`, v:fmt(r[c.m12])+'%', c:cls(r[c.m12])},
     {l:`18M 수익률(${c.label})`, v:fmt(r[c.m18])+'%', c:cls(r[c.m18])},
     {l:`24M 수익률(${c.label})`, v:fmt(r[c.m24])+'%', c:cls(r[c.m24])},
-    {l:"'26.2.5 기준 수익률("+c.label+")", v:fmt(r[c.latest])+'%', c:cls(r[c.latest])},
+    {l:"'26.6.30 기준 수익률("+c.label+")", v:fmt(r[c.latest])+'%', c:cls(r[c.latest])},
   );
   document.getElementById('stock-info').innerHTML = items.map(i =>
     `<div class="info-item"><div class="lbl">${i.l}</div><div class="val" style="color:${i.c==='pos'?'#e63946':i.c==='neg'?'#457b9d':''}">${i.v}</div></div>`
@@ -750,7 +750,7 @@ function renderStock(r) {
     {key:'m12', label:'12M', color:COLORS.m12},
     {key:'m18', label:'18M', color:COLORS.m18},
     {key:'m24', label:'24M', color:COLORS.m24},
-    {key:'latest', label:"'26.2.5 기준", color:COLORS.latest},
+    {key:'latest', label:"'26.6.30 기준", color:COLORS.latest},
   ];
   const traces = [];
   const shapes = [];
