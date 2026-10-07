@@ -167,7 +167,7 @@
           <tbody>
             <tr><td style="font-weight:600">공모가</td><td>KRX 정보데이터시스템</td><td style="text-align:left">IPO 당시 실제 공모 가격</td></tr>
             <tr><td style="font-weight:600">수정계수</td><td>DataGuide (FnGuide)</td><td style="text-align:left">기업 이벤트 누적 보정 계수</td></tr>
-            <tr><td style="font-weight:600">수정주가</td><td>DataGuide (FnGuide)</td><td style="text-align:left">종가를 수정계수로 보정한 가격</td></tr>
+            <tr><td style="font-weight:600">수정주가</td><td>KRX 정보데이터시스템</td><td style="text-align:left">개별종목 시세추이의 수정주가 (기준일 2026-07-02, 상장폐지 종목은 상폐일)</td></tr><tr><td style="font-weight:600">수정공모가</td><td>KRX 정보데이터시스템</td><td style="text-align:left">KRX가 제공하는 수정공모가. 공모가 &divide; 수정계수와 0.5% 이내로 일치하는지 교차검증 (KRX 값이 없는 상장폐지 종목만 계산값)</td></tr>
           </tbody>
         </table>
       </div>
@@ -212,9 +212,9 @@
           <tr><td>펨트론</td><td style="text-align:right">8,000</td><td>2.000</td><td style="text-align:right;font-weight:600;color:#4361ee">4,000</td><td>액면분할</td></tr>
           <tr><td>HPSP</td><td style="text-align:right">25,000</td><td>4.000</td><td style="text-align:right;font-weight:600;color:#4361ee">6,250</td><td>액면분할</td></tr>
           <tr><td>모아데이타</td><td style="text-align:right">20,000</td><td>5.998</td><td style="text-align:right;font-weight:600;color:#4361ee">3,335</td><td>액면분할</td></tr>
-          <tr><td>루닛</td><td style="text-align:right">30,000</td><td>2.071</td><td style="text-align:right;font-weight:600;color:#4361ee">14,484</td><td>복합 이벤트</td></tr>
-          <tr><td>한주라이트메탈</td><td style="text-align:right">3,100</td><td>1.408</td><td style="text-align:right;font-weight:600;color:#4361ee">2,202</td><td>복합 이벤트</td></tr>
-          <tr><td>위니아에이드</td><td style="text-align:right">16,200</td><td>0.414</td><td style="text-align:right;font-weight:600;color:#4361ee">39,087</td><td>무상감자</td></tr>
+          <tr><td>루닛</td><td style="text-align:right">30,000</td><td>4.419</td><td style="text-align:right;font-weight:600;color:#4361ee">6,789</td><td>복합 이벤트</td></tr>
+          <tr><td>한주라이트메탈</td><td style="text-align:right">3,100</td><td>0.704</td><td style="text-align:right;font-weight:600;color:#4361ee">4,403</td><td>복합 이벤트</td></tr>
+          <tr><td>큐에이드 (구 위니아에이드)</td><td style="text-align:right">16,200</td><td>0.414</td><td style="text-align:right;font-weight:600;color:#4361ee">39,088</td><td>무상감자</td></tr>
           <tr><td>셀레스트라</td><td style="text-align:right">13,900</td><td>0.114</td><td style="text-align:right;font-weight:600;color:#4361ee">122,140</td><td>무상감자</td></tr>
         </tbody>
       </table>
@@ -226,8 +226,8 @@
         <div style="display:grid;grid-template-columns:1fr 1fr;gap:12px">
           <div class="info-item"><div class="lbl">전체 분석 대상</div><div class="val">403개</div></div>
           <div class="info-item"><div class="lbl">수정계수 매칭</div><div class="val" style="color:#2ec4b6">100%</div></div>
-          <div class="info-item"><div class="lbl">수정계수 &ne; 1</div><div class="val">150개</div></div>
-          <div class="info-item"><div class="lbl">수정계수 = 1</div><div class="val">254개</div></div>
+          <div class="info-item"><div class="lbl">수정계수 &ne; 1</div><div class="val">144개</div></div>
+          <div class="info-item"><div class="lbl">수정계수 = 1</div><div class="val">259개</div></div>
         </div>
       </div>
 
@@ -237,8 +237,8 @@
           <thead><tr><th>분석 항목</th><th>적용 기준가</th></tr></thead>
           <tbody>
             <tr><td style="text-align:left">IPO 수익률 (상장일/6M/12M/18M/24M)</td><td><strong>수정공모가</strong> 대비 수정주가</td></tr>
-            <tr><td style="text-align:left">IPO 시가총액 (ipo_mcap)</td><td>수정공모가 &times; 최초상장주식수</td></tr>
-            <tr><td style="text-align:left">공모금액 (ipo_offering)</td><td>수정공모가 &times; 공모주식수</td></tr>
+            <tr><td style="text-align:left">IPO 시가총액 (VC 분석 ipo_mcap)</td><td>원래 공모가 &times; 최초상장주식수 (수정 전 주식수와 짝을 맞춤)</td></tr>
+            <tr><td style="text-align:left">공모금액 (VC 분석 ipo_offering)</td><td>원래 공모가 &times; 공모주식수</td></tr>
             <tr><td style="text-align:left">주가 차트 기준선</td><td>수정공모가</td></tr>
           </tbody>
         </table>

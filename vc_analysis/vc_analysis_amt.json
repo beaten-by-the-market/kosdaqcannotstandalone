@@ -2,259 +2,259 @@
   "total_bin": [
     {
       "days": 0,
-      "net": -2103527267665,
-      "count": 1093,
-      "cum": -2103527267665,
-      "net_pct_mcap": -4.6556,
-      "net_pct_offering": -28.7914,
-      "cum_pct_mcap": -4.6556,
-      "cum_pct_offering": -28.7914
+      "net": -2091532556797,
+      "count": 1087,
+      "cum": -2091532556797,
+      "net_pct_mcap": -4.4898,
+      "net_pct_offering": -27.6162,
+      "cum_pct_mcap": -4.4898,
+      "cum_pct_offering": -27.6162
     },
     {
       "days": 30,
-      "net": -964862736906,
-      "count": 740,
-      "cum": -3068390004571,
-      "net_pct_mcap": -2.1355,
-      "net_pct_offering": -13.2063,
-      "cum_pct_mcap": -6.791,
-      "cum_pct_offering": -41.9977
+      "net": -1018599544877,
+      "count": 771,
+      "cum": -3110132101674,
+      "net_pct_mcap": -2.1866,
+      "net_pct_offering": -13.4494,
+      "cum_pct_mcap": -6.6764,
+      "cum_pct_offering": -41.0656
     },
     {
       "days": 60,
-      "net": -321863015209,
-      "count": 406,
-      "cum": -3390253019780,
-      "net_pct_mcap": -0.7124,
-      "net_pct_offering": -4.4054,
-      "cum_pct_mcap": -7.5034,
-      "cum_pct_offering": -46.4031
+      "net": -322946111311,
+      "count": 407,
+      "cum": -3433078212985,
+      "net_pct_mcap": -0.6933,
+      "net_pct_offering": -4.2641,
+      "cum_pct_mcap": -7.3697,
+      "cum_pct_offering": -45.3297
     },
     {
       "days": 90,
-      "net": -320626329972,
-      "count": 335,
-      "cum": -3710879349752,
-      "net_pct_mcap": -0.7096,
-      "net_pct_offering": -4.3885,
-      "cum_pct_mcap": -8.213,
-      "cum_pct_offering": -50.7916
+      "net": -327518392487,
+      "count": 351,
+      "cum": -3760596605472,
+      "net_pct_mcap": -0.7031,
+      "net_pct_offering": -4.3245,
+      "cum_pct_mcap": -8.0727,
+      "cum_pct_offering": -49.6542
     },
     {
       "days": 120,
-      "net": -123857735409,
-      "count": 291,
-      "cum": -3834737085161,
-      "net_pct_mcap": -0.2741,
-      "net_pct_offering": -1.6953,
-      "cum_pct_mcap": -8.4871,
-      "cum_pct_offering": -52.4868
+      "net": -139384059614,
+      "count": 330,
+      "cum": -3899980665086,
+      "net_pct_mcap": -0.2992,
+      "net_pct_offering": -1.8404,
+      "cum_pct_mcap": -8.372,
+      "cum_pct_offering": -51.4946
     },
     {
       "days": 150,
-      "net": -49183346609,
-      "count": 166,
-      "cum": -3883920431770,
-      "net_pct_mcap": -0.1089,
-      "net_pct_offering": -0.6732,
-      "cum_pct_mcap": -8.596,
-      "cum_pct_offering": -53.16
+      "net": -52070487471,
+      "count": 204,
+      "cum": -3952051152557,
+      "net_pct_mcap": -0.1118,
+      "net_pct_offering": -0.6875,
+      "cum_pct_mcap": -8.4837,
+      "cum_pct_offering": -52.1821
     },
     {
       "days": 180,
-      "net": -140801221107,
-      "count": 122,
-      "cum": -4024721652877,
-      "net_pct_mcap": -0.3116,
-      "net_pct_offering": -1.9272,
-      "cum_pct_mcap": -8.9076,
-      "cum_pct_offering": -55.0872
+      "net": -178708656554,
+      "count": 162,
+      "cum": -4130759809111,
+      "net_pct_mcap": -0.3836,
+      "net_pct_offering": -2.3596,
+      "cum_pct_mcap": -8.8674,
+      "cum_pct_offering": -54.5417
     },
     {
       "days": 210,
-      "net": -83461713984,
-      "count": 57,
-      "cum": -4108183366861,
-      "net_pct_mcap": -0.1847,
-      "net_pct_offering": -1.1424,
-      "cum_pct_mcap": -9.0923,
-      "cum_pct_offering": -56.2295
+      "net": -84503253202,
+      "count": 72,
+      "cum": -4215263062313,
+      "net_pct_mcap": -0.1814,
+      "net_pct_offering": -1.1158,
+      "cum_pct_mcap": -9.0488,
+      "cum_pct_offering": -55.6575
     },
     {
       "days": 240,
-      "net": -97586350260,
-      "count": 95,
-      "cum": -4205769717121,
-      "net_pct_mcap": -0.216,
-      "net_pct_offering": -1.3357,
-      "cum_pct_mcap": -9.3083,
-      "cum_pct_offering": -57.5652
+      "net": -99832115716,
+      "count": 125,
+      "cum": -4315095178029,
+      "net_pct_mcap": -0.2143,
+      "net_pct_offering": -1.3182,
+      "cum_pct_mcap": -9.2631,
+      "cum_pct_offering": -56.9756
     },
     {
       "days": 270,
-      "net": -240779429303,
-      "count": 70,
-      "cum": -4446549146424,
-      "net_pct_mcap": -0.5329,
-      "net_pct_offering": -3.2956,
-      "cum_pct_mcap": -9.8412,
-      "cum_pct_offering": -60.8608
+      "net": -248602077464,
+      "count": 118,
+      "cum": -4563697255493,
+      "net_pct_mcap": -0.5337,
+      "net_pct_offering": -3.2825,
+      "cum_pct_mcap": -9.7967,
+      "cum_pct_offering": -60.2581
     },
     {
       "days": 300,
-      "net": -20396580543,
-      "count": 19,
-      "cum": -4466945726967,
-      "net_pct_mcap": -0.0451,
-      "net_pct_offering": -0.2792,
-      "cum_pct_mcap": -9.8864,
-      "cum_pct_offering": -61.14
+      "net": -23601032353,
+      "count": 58,
+      "cum": -4587298287846,
+      "net_pct_mcap": -0.0507,
+      "net_pct_offering": -0.3116,
+      "cum_pct_mcap": -9.8474,
+      "cum_pct_offering": -60.5698
     },
     {
       "days": 330,
-      "net": -18589710764,
-      "count": 33,
-      "cum": -4485535437731,
-      "net_pct_mcap": -0.0411,
-      "net_pct_offering": -0.2544,
-      "cum_pct_mcap": -9.9275,
-      "cum_pct_offering": -61.3944
+      "net": -23765365046,
+      "count": 70,
+      "cum": -4611063652892,
+      "net_pct_mcap": -0.051,
+      "net_pct_offering": -0.3138,
+      "cum_pct_mcap": -9.8984,
+      "cum_pct_offering": -60.8836
     },
     {
       "days": 360,
-      "net": -50125103411,
-      "count": 125,
-      "cum": -4535660541142,
-      "net_pct_mcap": -0.1109,
-      "net_pct_offering": -0.6861,
-      "cum_pct_mcap": -10.0384,
-      "cum_pct_offering": -62.0805
+      "net": -50814966623,
+      "count": 167,
+      "cum": -4661878619515,
+      "net_pct_mcap": -0.1091,
+      "net_pct_offering": -0.671,
+      "cum_pct_mcap": -10.0075,
+      "cum_pct_offering": -61.5545
     },
     {
       "days": 390,
-      "net": -28467857957,
-      "count": 54,
-      "cum": -4564128399099,
-      "net_pct_mcap": -0.063,
-      "net_pct_offering": -0.3896,
-      "cum_pct_mcap": -10.1015,
-      "cum_pct_offering": -62.4701
+      "net": -28849212245,
+      "count": 68,
+      "cum": -4690727831760,
+      "net_pct_mcap": -0.0619,
+      "net_pct_offering": -0.3809,
+      "cum_pct_mcap": -10.0694,
+      "cum_pct_offering": -61.9354
     },
     {
       "days": 420,
-      "net": -50165803868,
-      "count": 54,
-      "cum": -4614294202967,
-      "net_pct_mcap": -0.111,
-      "net_pct_offering": -0.6866,
-      "cum_pct_mcap": -10.2125,
-      "cum_pct_offering": -63.1568
+      "net": -75371427865,
+      "count": 82,
+      "cum": -4766099259625,
+      "net_pct_mcap": -0.1618,
+      "net_pct_offering": -0.9952,
+      "cum_pct_mcap": -10.2312,
+      "cum_pct_offering": -62.9306
     },
     {
       "days": 450,
-      "net": -2933964233,
-      "count": 16,
-      "cum": -4617228167200,
-      "net_pct_mcap": -0.0065,
-      "net_pct_offering": -0.0402,
-      "cum_pct_mcap": -10.219,
-      "cum_pct_offering": -63.1969
+      "net": -2938710821,
+      "count": 19,
+      "cum": -4769037970446,
+      "net_pct_mcap": -0.0063,
+      "net_pct_offering": -0.0388,
+      "cum_pct_mcap": -10.2375,
+      "cum_pct_offering": -62.9694
     },
     {
       "days": 480,
-      "net": -9000830295,
-      "count": 12,
-      "cum": -4626228997495,
-      "net_pct_mcap": -0.0199,
-      "net_pct_offering": -0.1232,
-      "cum_pct_mcap": -10.2389,
-      "cum_pct_offering": -63.3201
+      "net": -9694330295,
+      "count": 13,
+      "cum": -4778732300741,
+      "net_pct_mcap": -0.0208,
+      "net_pct_offering": -0.128,
+      "cum_pct_mcap": -10.2583,
+      "cum_pct_offering": -63.0974
     },
     {
       "days": 510,
-      "net": -147398776453,
-      "count": 35,
-      "cum": -4773627773948,
-      "net_pct_mcap": -0.3262,
-      "net_pct_offering": -2.0175,
-      "cum_pct_mcap": -10.5651,
-      "cum_pct_offering": -65.3376
+      "net": -160817007515,
+      "count": 38,
+      "cum": -4939549308256,
+      "net_pct_mcap": -0.3452,
+      "net_pct_offering": -2.1234,
+      "cum_pct_mcap": -10.6036,
+      "cum_pct_offering": -65.2208
     },
     {
       "days": 540,
       "net": -10645016543,
       "count": 26,
-      "cum": -4784272790491,
-      "net_pct_mcap": -0.0236,
-      "net_pct_offering": -0.1457,
-      "cum_pct_mcap": -10.5887,
-      "cum_pct_offering": -65.4833
+      "cum": -4950194324799,
+      "net_pct_mcap": -0.0229,
+      "net_pct_offering": -0.1406,
+      "cum_pct_mcap": -10.6264,
+      "cum_pct_offering": -65.3614
     },
     {
       "days": 570,
       "net": -5908673125,
       "count": 42,
-      "cum": -4790181463616,
-      "net_pct_mcap": -0.0131,
-      "net_pct_offering": -0.0809,
-      "cum_pct_mcap": -10.6018,
-      "cum_pct_offering": -65.5642
+      "cum": -4956102997924,
+      "net_pct_mcap": -0.0127,
+      "net_pct_offering": -0.078,
+      "cum_pct_mcap": -10.6391,
+      "cum_pct_offering": -65.4394
     },
     {
       "days": 600,
       "net": -2987155096,
       "count": 11,
-      "cum": -4793168618712,
-      "net_pct_mcap": -0.0066,
-      "net_pct_offering": -0.0409,
-      "cum_pct_mcap": -10.6084,
-      "cum_pct_offering": -65.6051
+      "cum": -4959090153020,
+      "net_pct_mcap": -0.0064,
+      "net_pct_offering": -0.0394,
+      "cum_pct_mcap": -10.6455,
+      "cum_pct_offering": -65.4788
     },
     {
       "days": 630,
-      "net": -14043566035,
-      "count": 23,
-      "cum": -4807212184747,
-      "net_pct_mcap": -0.0311,
-      "net_pct_offering": -0.1922,
-      "cum_pct_mcap": -10.6395,
-      "cum_pct_offering": -65.7973
+      "net": -14877043114,
+      "count": 33,
+      "cum": -4973967196134,
+      "net_pct_mcap": -0.0319,
+      "net_pct_offering": -0.1964,
+      "cum_pct_mcap": -10.6774,
+      "cum_pct_offering": -65.6753
     },
     {
       "days": 660,
-      "net": -3871678992,
-      "count": 27,
-      "cum": -4811083863739,
-      "net_pct_mcap": -0.0086,
-      "net_pct_offering": -0.053,
-      "cum_pct_mcap": -10.648,
-      "cum_pct_offering": -65.8503
+      "net": -3975797434,
+      "count": 35,
+      "cum": -4977942993568,
+      "net_pct_mcap": -0.0085,
+      "net_pct_offering": -0.0525,
+      "cum_pct_mcap": -10.686,
+      "cum_pct_offering": -65.7278
     },
     {
       "days": 690,
-      "net": -14966133208,
-      "count": 30,
-      "cum": -4826049996947,
-      "net_pct_mcap": -0.0331,
-      "net_pct_offering": -0.2048,
-      "cum_pct_mcap": -10.6811,
-      "cum_pct_offering": -66.0551
+      "net": -16093653208,
+      "count": 32,
+      "cum": -4994036646776,
+      "net_pct_mcap": -0.0345,
+      "net_pct_offering": -0.2125,
+      "cum_pct_mcap": -10.7205,
+      "cum_pct_offering": -65.9403
     },
     {
       "days": 720,
       "net": -147140000,
       "count": 1,
-      "cum": -4826197136947,
+      "cum": -4994183786776,
       "net_pct_mcap": -0.0003,
-      "net_pct_offering": -0.002,
-      "cum_pct_mcap": -10.6815,
-      "cum_pct_offering": -66.0571
+      "net_pct_offering": -0.0019,
+      "cum_pct_mcap": -10.7208,
+      "cum_pct_offering": -65.9422
     }
   ],
   "type_pivot": [
     {
       "days": 0,
-      "장내매도": -2065941025418,
+      "장내매도": -2053946314550,
       "장내매수": 400208653,
       "장외매도": -5405833500,
       "장외매수": 0,
@@ -262,7 +262,7 @@
     },
     {
       "days": 30,
-      "장내매도": -736361365732,
+      "장내매도": -790098173703,
       "장내매수": 422716100,
       "장외매도": -2929700000,
       "장외매수": 0,
@@ -270,7 +270,7 @@
     },
     {
       "days": 60,
-      "장내매도": -211511621456,
+      "장내매도": -212594717558,
       "장내매수": 1248931,
       "장외매도": 0,
       "장외매수": 0,
@@ -278,7 +278,7 @@
     },
     {
       "days": 90,
-      "장내매도": -254104541117,
+      "장내매도": -260996603632,
       "장내매수": 880967192,
       "장외매도": -900160000,
       "장외매수": 0,
@@ -286,7 +286,7 @@
     },
     {
       "days": 120,
-      "장내매도": -109497006688,
+      "장내매도": -125023330893,
       "장내매수": 244981328,
       "장외매도": 0,
       "장외매수": 0,
@@ -294,7 +294,7 @@
     },
     {
       "days": 150,
-      "장내매도": -42602587007,
+      "장내매도": -45489727869,
       "장내매수": 0,
       "장외매도": 0,
       "장외매수": 0,
@@ -302,7 +302,7 @@
     },
     {
       "days": 180,
-      "장내매도": -70274114913,
+      "장내매도": -108181550360,
       "장내매수": 0,
       "장외매도": 0,
       "장외매수": 0,
@@ -310,7 +310,7 @@
     },
     {
       "days": 210,
-      "장내매도": -47144358648,
+      "장내매도": -48185897866,
       "장내매수": 0,
       "장외매도": 0,
       "장외매수": 0,
@@ -318,7 +318,7 @@
     },
     {
       "days": 240,
-      "장내매도": -84186359988,
+      "장내매도": -86432125444,
       "장내매수": 0,
       "장외매도": -13399990272,
       "장외매수": 0,
@@ -326,7 +326,7 @@
     },
     {
       "days": 270,
-      "장내매도": -132851335001,
+      "장내매도": -140673983162,
       "장내매수": 0,
       "장외매도": 0,
       "장외매수": 0,
@@ -334,7 +334,7 @@
     },
     {
       "days": 300,
-      "장내매도": -11706927260,
+      "장내매도": -14911379070,
       "장내매수": 0,
       "장외매도": 0,
       "장외매수": 0,
@@ -342,7 +342,7 @@
     },
     {
       "days": 330,
-      "장내매도": -18589710764,
+      "장내매도": -23765365046,
       "장내매수": 0,
       "장외매도": 0,
       "장외매수": 0,
@@ -350,7 +350,7 @@
     },
     {
       "days": 360,
-      "장내매도": -50125103411,
+      "장내매도": -50814966623,
       "장내매수": 0,
       "장외매도": 0,
       "장외매수": 0,
@@ -358,7 +358,7 @@
     },
     {
       "days": 390,
-      "장내매도": -7917606529,
+      "장내매도": -8298960817,
       "장내매수": 0,
       "장외매도": 0,
       "장외매수": 0,
@@ -366,7 +366,7 @@
     },
     {
       "days": 420,
-      "장내매도": -12732072468,
+      "장내매도": -37937696465,
       "장내매수": 0,
       "장외매도": 0,
       "장외매수": 0,
@@ -374,7 +374,7 @@
     },
     {
       "days": 450,
-      "장내매도": -2933964233,
+      "장내매도": -2938710821,
       "장내매수": 0,
       "장외매도": 0,
       "장외매수": 0,
@@ -386,15 +386,15 @@
       "장내매수": 0,
       "장외매도": 0,
       "장외매수": 0,
-      "시간외매매": -6601566950
+      "시간외매매": -7295066950
     },
     {
       "days": 510,
-      "장내매도": -19757646453,
+      "장내매도": -30531680433,
       "장내매수": 0,
       "장외매도": 0,
       "장외매수": 0,
-      "시간외매매": -127641130000
+      "시간외매매": -130285327082
     },
     {
       "days": 540,
@@ -422,7 +422,7 @@
     },
     {
       "days": 630,
-      "장내매도": -12525496397,
+      "장내매도": -13358973476,
       "장내매수": 0,
       "장외매도": 0,
       "장외매수": 0,
@@ -430,7 +430,7 @@
     },
     {
       "days": 660,
-      "장내매도": -3871678992,
+      "장내매도": -3975797434,
       "장내매수": 0,
       "장외매도": 0,
       "장외매수": 0,
@@ -438,7 +438,7 @@
     },
     {
       "days": 690,
-      "장내매도": -10292177968,
+      "장내매도": -11419697968,
       "장내매수": 0,
       "장외매도": 0,
       "장외매수": 0,
@@ -456,9 +456,9 @@
   "type_total": [
     {
       "type": "장내매도",
-      "total_amount": -3925351458052,
-      "total_shares": -156533130,
-      "count": 3743
+      "total_amount": -4090000410799,
+      "total_shares": -164955040,
+      "count": 4180
     },
     {
       "type": "장내매수",
@@ -480,9 +480,9 @@
     },
     {
       "type": "시간외매매",
-      "total_amount": -880160117327,
-      "total_shares": -30957271,
-      "count": 108
+      "total_amount": -883497814409,
+      "total_shares": -31285593,
+      "count": 110
     }
   ],
   "corp_top_sell": [
@@ -599,33 +599,6 @@
       "pct_offering": -216.68
     },
     {
-      "corp_name": "씨엠티엑스",
-      "net_amount": -130985836355,
-      "sell_amount": -131040200543,
-      "buy_amount": 54364188,
-      "net_shares": -1340470,
-      "sell_shares": -1341045,
-      "buy_shares": 575,
-      "tx_count": 73,
-      "sell_vcs": [
-        "K2-KIS 2021세컨더리투자조합",
-        "미래에셋위반도체1호창업벤처전문사모투자 합자회사",
-        "케이디비씨-케이투 2023 세컨더리 투자조합",
-        "케이디비씨-케이투 2023세컨더리 투자조합",
-        "케이투엑스페디오투자조합",
-        "케이투케이아이에스2022 세컨더리 투자조합",
-        "한국투자-킹고 소부장육성 투자조합"
-      ],
-      "buy_vcs": [
-        "케이투엑스페디오투자조합"
-      ],
-      "stock_code": "388210",
-      "ipo_mcap": 560997624000,
-      "ipo_offering": 60500000000,
-      "pct_mcap": -23.35,
-      "pct_offering": -216.51
-    },
-    {
       "corp_name": "리브스메드",
       "net_amount": -129678238391,
       "sell_amount": -129678238391,
@@ -666,6 +639,32 @@
       "ipo_offering": 95030250000,
       "pct_mcap": -20.12,
       "pct_offering": -134.32
+    },
+    {
+      "corp_name": "씨엠티엑스",
+      "net_amount": -117611599547,
+      "sell_amount": -117665963735,
+      "buy_amount": 54364188,
+      "net_shares": -1203807,
+      "sell_shares": -1204382,
+      "buy_shares": 575,
+      "tx_count": 63,
+      "sell_vcs": [
+        "K2-KIS 2021세컨더리투자조합",
+        "미래에셋위반도체1호창업벤처전문사모투자 합자회사",
+        "케이디비씨-케이투 2023 세컨더리 투자조합",
+        "케이투엑스페디오투자조합",
+        "케이투케이아이에스2022 세컨더리 투자조합",
+        "한국투자-킹고 소부장육성 투자조합"
+      ],
+      "buy_vcs": [
+        "케이투엑스페디오투자조합"
+      ],
+      "stock_code": "388210",
+      "ipo_mcap": 560997624000,
+      "ipo_offering": 60500000000,
+      "pct_mcap": -20.96,
+      "pct_offering": -194.4
     },
     {
       "corp_name": "네패스아크",
@@ -722,7 +721,7 @@
         "2019KIF스톤브릿지혁신기술성장TCB투자조합",
         "IBK-컴퍼니케이 혁신성장펀드",
         "e-신산업 LB펀드 1호",
-        "스마트코리아 컴퍼니케이 언택트펀드",
+        "스마트코리아컴퍼니케이언택트펀드",
         "스톤브릿지DX사업재편투자조합",
         "스톤브릿지영프론티어투자조합",
         "엘비혁신성장펀드 Ⅱ"
@@ -733,6 +732,26 @@
       "ipo_offering": 26535600000,
       "pct_mcap": -44.08,
       "pct_offering": -319.88
+    },
+    {
+      "corp_name": "에이직랜드",
+      "net_amount": -75629265548,
+      "sell_amount": -75629265548,
+      "buy_amount": 0,
+      "net_shares": -1382575,
+      "sell_shares": -1382575,
+      "buy_shares": 0,
+      "tx_count": 12,
+      "sell_vcs": [
+        "유티씨반도체성장펀드",
+        "인천창조경제혁신펀드"
+      ],
+      "buy_vcs": [],
+      "stock_code": "445090",
+      "ipo_mcap": 264633000000,
+      "ipo_offering": 65908250000,
+      "pct_mcap": -28.58,
+      "pct_offering": -114.75
     },
     {
       "corp_name": "디앤디파마텍",
@@ -762,35 +781,6 @@
       "pct_offering": -195.52
     },
     {
-      "corp_name": "이엔셀",
-      "net_amount": -59032813566,
-      "sell_amount": -59032813566,
-      "buy_amount": 0,
-      "net_shares": -1915615,
-      "sell_shares": -1915615,
-      "buy_shares": 0,
-      "tx_count": 32,
-      "sell_vcs": [
-        "기술혁신전문G&G펀드1호",
-        "스마일게이트뉴딜펀드",
-        "스마일게이트딥테크사업화1호펀드",
-        "스마일게이트패스파인더펀드",
-        "에스브이아이씨38호신기술사업투자조합(업무집행조합원:삼성벤처투자(주))",
-        "원앤파트너스",
-        "원앤파트너스(유)",
-        "코오롱 2017 4차 산업혁명 투자조합",
-        "코오롱 2017 신산업 육성 투자조합",
-        "코오롱 2019 유니콘 투자조합",
-        "코오롱 2020 소재부품장비 투자조합"
-      ],
-      "buy_vcs": [],
-      "stock_code": "456070",
-      "ipo_mcap": 143054296200,
-      "ipo_offering": 23972040000,
-      "pct_mcap": -41.27,
-      "pct_offering": -246.26
-    },
-    {
       "corp_name": "나라스페이스테크놀로지",
       "net_amount": -58442458277,
       "sell_amount": -58442458277,
@@ -817,6 +807,30 @@
       "ipo_offering": 28380000000,
       "pct_mcap": -30.71,
       "pct_offering": -205.93
+    },
+    {
+      "corp_name": "오픈엣지테크놀로지",
+      "net_amount": -56825574516,
+      "sell_amount": -56825574516,
+      "buy_amount": 0,
+      "net_shares": -3626647,
+      "sell_shares": -3626647,
+      "buy_shares": 0,
+      "tx_count": 49,
+      "sell_vcs": [
+        "스톤브릿지 2020벤처투자조합",
+        "스톤브릿지DNA혁신성장투자조합",
+        "스톤브릿지영프론티어투자조합",
+        "에이티넘성장투자조합2018",
+        "이노폴리스 2020 과학기술 성장펀드",
+        "이노폴리스공공기술기반펀드"
+      ],
+      "buy_vcs": [],
+      "stock_code": "394280",
+      "ipo_mcap": 208704740000,
+      "ipo_offering": 33850000000,
+      "pct_mcap": -27.23,
+      "pct_offering": -167.87
     },
     {
       "corp_name": "에스비비테크",
@@ -943,6 +957,34 @@
       "pct_offering": -110.68
     },
     {
+      "corp_name": "이엔셀",
+      "net_amount": -47285563566,
+      "sell_amount": -47285563566,
+      "buy_amount": 0,
+      "net_shares": -1628115,
+      "sell_shares": -1628115,
+      "buy_shares": 0,
+      "tx_count": 31,
+      "sell_vcs": [
+        "기술혁신전문G&G펀드1호",
+        "스마일게이트뉴딜펀드",
+        "스마일게이트딥테크사업화1호펀드",
+        "스마일게이트패스파인더펀드",
+        "에스브이아이씨38호신기술사업투자조합(업무집행조합원:삼성벤처투자(주))",
+        "원앤파트너스",
+        "코오롱 2017 4차 산업혁명 투자조합",
+        "코오롱 2017 신산업 육성 투자조합",
+        "코오롱 2019 유니콘 투자조합",
+        "코오롱 2020 소재부품장비 투자조합"
+      ],
+      "buy_vcs": [],
+      "stock_code": "456070",
+      "ipo_mcap": 143054296200,
+      "ipo_offering": 23972040000,
+      "pct_mcap": -33.05,
+      "pct_offering": -197.25
+    },
+    {
       "corp_name": "SAMG엔터",
       "net_amount": -46328066676,
       "sell_amount": -46328066676,
@@ -1023,6 +1065,33 @@
       "ipo_offering": 432000000000,
       "pct_mcap": -2.22,
       "pct_offering": -10.37
+    },
+    {
+      "corp_name": "지아이이노베이션",
+      "net_amount": -40435147241,
+      "sell_amount": -40435147241,
+      "buy_amount": 0,
+      "net_shares": -2156642,
+      "sell_shares": -2156642,
+      "buy_shares": 0,
+      "tx_count": 132,
+      "sell_vcs": [
+        "아주 좋은 벤처 펀드",
+        "아주 좋은 성장지원 펀드",
+        "엔에이치-아이비케이씨 바이오 신기술조합",
+        "케이클라비스 CL-신기술조합 제구호",
+        "케이클라비스 CL-신기술조합 제삼호",
+        "케이클라비스 CL-신기술조합 제십호",
+        "케이클라비스 마이스터 신기술조합 제오십일호",
+        "케이클라비스 신기술조합 제사십칠호",
+        "케이클라비스 신기술조합 제삼십이호"
+      ],
+      "buy_vcs": [],
+      "stock_code": "358570",
+      "ipo_mcap": 286054600000,
+      "ipo_offering": 26000000000,
+      "pct_mcap": -14.14,
+      "pct_offering": -155.52
     },
     {
       "corp_name": "넥스틴",
@@ -1120,74 +1189,6 @@
       "ipo_offering": 27000000000,
       "pct_mcap": -29.49,
       "pct_offering": -145.47
-    },
-    {
-      "corp_name": "신성에스티",
-      "net_amount": -37069348284,
-      "sell_amount": -37069348284,
-      "buy_amount": 0,
-      "net_shares": -1109772,
-      "sell_shares": -1109772,
-      "buy_shares": 0,
-      "tx_count": 3,
-      "sell_vcs": [
-        "케이클라비스 클라우드 신기술조합 제일호"
-      ],
-      "buy_vcs": [],
-      "stock_code": "416180",
-      "ipo_mcap": 235034228000,
-      "ipo_offering": 52000000000,
-      "pct_mcap": -15.77,
-      "pct_offering": -71.29
-    },
-    {
-      "corp_name": "링크솔루션",
-      "net_amount": -35253166786,
-      "sell_amount": -35453895251,
-      "buy_amount": 200728465,
-      "net_shares": -946311,
-      "sell_shares": -955096,
-      "buy_shares": 8785,
-      "tx_count": 35,
-      "sell_vcs": [
-        "신한-오픈워터 Pre-IPO 투자조합 제1호",
-        "오픈워터소부장1호펀드",
-        "오픈워터소부장2호펀드",
-        "오픈워터엔젤스투자조합1호",
-        "오픈워터엔젤스투자조합4호",
-        "오픈워터창업초기투자조합2호",
-        "위청년메이트펀드1호"
-      ],
-      "buy_vcs": [
-        "오픈워터엔젤스투자조합1호"
-      ],
-      "stock_code": "474650",
-      "ipo_mcap": 128317736000,
-      "ipo_offering": 20700000000,
-      "pct_mcap": -27.47,
-      "pct_offering": -170.31
-    },
-    {
-      "corp_name": "풍전약품",
-      "net_amount": -35236216757,
-      "sell_amount": -35236216757,
-      "buy_amount": 0,
-      "net_shares": -1095348,
-      "sell_shares": -1095348,
-      "buy_shares": 0,
-      "tx_count": 47,
-      "sell_vcs": [
-        "KDBC마이다스동아스노우볼투자조합2호",
-        "글로벌ICT융합펀드",
-        "케이티디에스씨(KT-DSC)창조경제청년창업투자조합",
-        "한국투자 미래성장 벤처펀드 제22호"
-      ],
-      "buy_vcs": [],
-      "stock_code": "298060",
-      "ipo_mcap": 187452982000,
-      "ipo_offering": 30600000000,
-      "pct_mcap": -18.8,
-      "pct_offering": -115.15
     }
   ],
   "corp_top_buy": [
@@ -1267,25 +1268,6 @@
       "pct_offering": -1.82
     },
     {
-      "corp_name": "에이에스텍",
-      "net_amount": -467074797,
-      "sell_amount": -467074797,
-      "buy_amount": 0,
-      "net_shares": -96523,
-      "sell_shares": -96523,
-      "buy_shares": 0,
-      "tx_count": 17,
-      "sell_vcs": [
-        "AJ-ISU경기도애그리푸드투자조합"
-      ],
-      "buy_vcs": [],
-      "stock_code": "453860",
-      "ipo_mcap": 158402020000,
-      "ipo_offering": 39396000000,
-      "pct_mcap": -0.29,
-      "pct_offering": -1.19
-    },
-    {
       "corp_name": "바이오인프라",
       "net_amount": -482600000,
       "sell_amount": -482600000,
@@ -1322,25 +1304,6 @@
       "ipo_offering": 193750000000,
       "pct_mcap": -0.04,
       "pct_offering": -0.29
-    },
-    {
-      "corp_name": "엑셀세라퓨틱스",
-      "net_amount": -691677072,
-      "sell_amount": -691677072,
-      "buy_amount": 0,
-      "net_shares": -67388,
-      "sell_shares": -67388,
-      "buy_shares": 0,
-      "tx_count": 3,
-      "sell_vcs": [
-        "이그나이트이노베이터스(주)"
-      ],
-      "buy_vcs": [],
-      "stock_code": "373110",
-      "ipo_mcap": 108302120000,
-      "ipo_offering": 16180000000,
-      "pct_mcap": -0.64,
-      "pct_offering": -4.27
     },
     {
       "corp_name": "시선AI",
@@ -1403,23 +1366,42 @@
       "pct_offering": -2.14
     },
     {
-      "corp_name": "티엑스알로보틱스",
-      "net_amount": -1070292663,
-      "sell_amount": -1070292663,
+      "corp_name": "엑셀세라퓨틱스",
+      "net_amount": -1161531979,
+      "sell_amount": -1161531979,
       "buy_amount": 0,
-      "net_shares": -48651,
-      "sell_shares": -48651,
+      "net_shares": -167405,
+      "sell_shares": -167405,
       "buy_shares": 0,
-      "tx_count": 2,
+      "tx_count": 8,
       "sell_vcs": [
-        "디티앤로보테크투자조합1호"
+        "이그나이트이노베이터스㈜"
       ],
       "buy_vcs": [],
-      "stock_code": "484810",
-      "ipo_mcap": 208587352500,
-      "ipo_offering": 41517900000,
-      "pct_mcap": -0.51,
-      "pct_offering": -2.58
+      "stock_code": "373110",
+      "ipo_mcap": 108302120000,
+      "ipo_offering": 16180000000,
+      "pct_mcap": -1.07,
+      "pct_offering": -7.18
+    },
+    {
+      "corp_name": "성일하이텍",
+      "net_amount": -1186433254,
+      "sell_amount": -1186433254,
+      "buy_amount": 0,
+      "net_shares": -10589,
+      "sell_shares": -10589,
+      "buy_shares": 0,
+      "tx_count": 7,
+      "sell_vcs": [
+        "삼성벤처투자(주)"
+      ],
+      "buy_vcs": [],
+      "stock_code": "365340",
+      "ipo_mcap": 580682450000,
+      "ipo_offering": 133500000000,
+      "pct_mcap": -0.2,
+      "pct_offering": -0.89
     },
     {
       "corp_name": "씨메스로보틱스",
@@ -1482,25 +1464,23 @@
       "pct_offering": -6.69
     },
     {
-      "corp_name": "노을",
-      "net_amount": -1707062008,
-      "sell_amount": -1707062008,
+      "corp_name": "에이유브랜즈",
+      "net_amount": -1610121074,
+      "sell_amount": -1610121074,
       "buy_amount": 0,
-      "net_shares": -223894,
-      "sell_shares": -223894,
+      "net_shares": -87000,
+      "sell_shares": -87000,
       "buy_shares": 0,
-      "tx_count": 3,
+      "tx_count": 9,
       "sell_vcs": [
-        "2018 KIF-프리미어 기술금융 투자조합",
-        "2020 프리미어 스케일업 투자조합",
-        "데일리 스완슨 바이오 헬스케어 펀드7호"
+        "무신사 한국투자 넥스트웨이브 신기술사업투자조합 1호"
       ],
       "buy_vcs": [],
-      "stock_code": "376930",
-      "ipo_mcap": 104250500000,
-      "ipo_offering": 15000000000,
-      "pct_mcap": -1.64,
-      "pct_offering": -11.38
+      "stock_code": "481070",
+      "ipo_mcap": 226560000000,
+      "ipo_offering": 32000000000,
+      "pct_mcap": -0.71,
+      "pct_offering": -5.03
     },
     {
       "corp_name": "닷밀",
@@ -1512,7 +1492,7 @@
       "buy_shares": 0,
       "tx_count": 10,
       "sell_vcs": [
-        "아주좋은 성장지원 펀드",
+        "아주 좋은 성장지원 펀드",
         "엔에이치벤처-아주아이비 뉴그로쓰펀드"
       ],
       "buy_vcs": [],
@@ -1620,6 +1600,25 @@
       "pct_offering": -10.54
     },
     {
+      "corp_name": "유진테크놀로지",
+      "net_amount": -2043329189,
+      "sell_amount": -2043329189,
+      "buy_amount": 0,
+      "net_shares": -229973,
+      "sell_shares": -229973,
+      "buy_shares": 0,
+      "tx_count": 3,
+      "sell_vcs": [
+        "하베스트제1호 창업벤처전문 사모투자 합자회사"
+      ],
+      "buy_vcs": [],
+      "stock_code": "240600",
+      "ipo_mcap": 106445245000,
+      "ipo_offering": 17841194000,
+      "pct_mcap": -1.92,
+      "pct_offering": -11.45
+    },
+    {
       "corp_name": "오에스피",
       "net_amount": -2137675390,
       "sell_amount": -2137675390,
@@ -1629,7 +1628,7 @@
       "buy_shares": 0,
       "tx_count": 11,
       "sell_vcs": [
-        "아주좋은성장지원펀드",
+        "아주 좋은 성장지원 펀드",
         "하나디지털트랜스포메이션펀드"
       ],
       "buy_vcs": [],
@@ -1640,26 +1639,24 @@
       "pct_offering": -12.38
     },
     {
-      "corp_name": "HEM파마",
-      "net_amount": -2573636355,
-      "sell_amount": -2573636355,
+      "corp_name": "에이에스텍",
+      "net_amount": -2209303518,
+      "sell_amount": -2209303518,
       "buy_amount": 0,
-      "net_shares": -122245,
-      "sell_shares": -122245,
+      "net_shares": -456562,
+      "sell_shares": -456562,
       "buy_shares": 0,
-      "tx_count": 22,
+      "tx_count": 25,
       "sell_vcs": [
-        "KTBN 16호 벤처투자조합",
-        "베스트7호투자조합",
-        "베스트바이오17호투자조합",
-        "윈베스트21호투자조합"
+        "AJ-ISU경기도애그리푸드투자조합",
+        "에이제이엘앤케이신기술사업투자조합"
       ],
       "buy_vcs": [],
-      "stock_code": "376270",
-      "ipo_mcap": 160126897000,
-      "ipo_offering": 16031000000,
-      "pct_mcap": -1.61,
-      "pct_offering": -16.05
+      "stock_code": "453860",
+      "ipo_mcap": 158402020000,
+      "ipo_offering": 39396000000,
+      "pct_mcap": -1.39,
+      "pct_offering": -5.61
     },
     {
       "corp_name": "엠오티",
@@ -1702,26 +1699,6 @@
       "ipo_offering": 25500000000,
       "pct_mcap": -1.06,
       "pct_offering": -10.52
-    },
-    {
-      "corp_name": "사이냅소프트",
-      "net_amount": -2736632573,
-      "sell_amount": -2736632573,
-      "buy_amount": 0,
-      "net_shares": -149876,
-      "sell_shares": -149876,
-      "buy_shares": 0,
-      "tx_count": 16,
-      "sell_vcs": [
-        "케이비뉴딜혁신펀드",
-        "케이비세컨더리플러스펀"
-      ],
-      "buy_vcs": [],
-      "stock_code": "466410",
-      "ipo_mcap": 123407063500,
-      "ipo_offering": 24745000000,
-      "pct_mcap": -2.22,
-      "pct_offering": -11.06
     },
     {
       "corp_name": "트루엔",
@@ -1781,6 +1758,26 @@
       "ipo_offering": 26600000000,
       "pct_mcap": -1.47,
       "pct_offering": -11.19
+    },
+    {
+      "corp_name": "피스피스스튜디오",
+      "net_amount": -3021850102,
+      "sell_amount": -3021850102,
+      "buy_amount": 0,
+      "net_shares": -143852,
+      "sell_shares": -143852,
+      "buy_shares": 0,
+      "tx_count": 2,
+      "sell_vcs": [
+        "케이비 디지털 플랫폼 펀드",
+        "케이비 프라임 디지털 플랫폼 펀드"
+      ],
+      "buy_vcs": [],
+      "stock_code": "0117P0",
+      "ipo_mcap": 304631586500,
+      "ipo_offering": 48861695500,
+      "pct_mcap": -0.99,
+      "pct_offering": -6.18
     }
   ],
   "vc_top_sell": [
@@ -1915,6 +1912,27 @@
       ]
     },
     {
+      "SPC_NM": "KTBN 16호 벤처투자조합",
+      "net_amount": -58170136647,
+      "sell_amount": -58170136647,
+      "buy_amount": 0,
+      "net_shares": -2453145,
+      "sell_shares": -2453145,
+      "buy_shares": 0,
+      "tx_count": 188,
+      "corps": [
+        "HEM파마",
+        "비씨엔씨",
+        "쏘닉스",
+        "아이씨에이치",
+        "오름테라퓨틱",
+        "원티드랩",
+        "인벤테라",
+        "젝시믹스",
+        "플라즈맵"
+      ]
+    },
+    {
       "SPC_NM": "에이씨피씨피이제일호 창업벤처전문 사모투자합자회사",
       "net_amount": -55519071841,
       "sell_amount": -55519071841,
@@ -1956,6 +1974,20 @@
       ]
     },
     {
+      "SPC_NM": "KB-솔리더스 글로벌헬스케어펀드",
+      "net_amount": -44563348678,
+      "sell_amount": -44563348678,
+      "buy_amount": 0,
+      "net_shares": -1527793,
+      "sell_shares": -1527793,
+      "buy_shares": 0,
+      "tx_count": 48,
+      "corps": [
+        "오름테라퓨틱",
+        "지니너스"
+      ]
+    },
+    {
       "SPC_NM": "파트너스제4호Growth투자조합",
       "net_amount": -44187479992,
       "sell_amount": -44187479992,
@@ -1971,6 +2003,20 @@
       ]
     },
     {
+      "SPC_NM": "유티씨반도체성장펀드",
+      "net_amount": -44060495998,
+      "sell_amount": -44060495998,
+      "buy_amount": 0,
+      "net_shares": -1075836,
+      "sell_shares": -1075836,
+      "buy_shares": 0,
+      "tx_count": 16,
+      "corps": [
+        "아이씨티케이",
+        "에이직랜드"
+      ]
+    },
+    {
       "SPC_NM": "인천창조경제혁신펀드",
       "net_amount": -43217018270,
       "sell_amount": -43217018270,
@@ -1982,6 +2028,21 @@
       "corps": [
         "에이직랜드",
         "제이아이테크"
+      ]
+    },
+    {
+      "SPC_NM": "한국투자미래성장벤처펀드제22호",
+      "net_amount": -42386176950,
+      "sell_amount": -42386176950,
+      "buy_amount": 0,
+      "net_shares": -1460522,
+      "sell_shares": -1460522,
+      "buy_shares": 0,
+      "tx_count": 82,
+      "corps": [
+        "비비씨",
+        "알비더블유",
+        "풍전약품"
       ]
     },
     {
@@ -2052,24 +2113,6 @@
       ]
     },
     {
-      "SPC_NM": "KTBN 16호 벤처투자조합",
-      "net_amount": -38897807739,
-      "sell_amount": -38897807739,
-      "buy_amount": 0,
-      "net_shares": -1857267,
-      "sell_shares": -1857267,
-      "buy_shares": 0,
-      "tx_count": 111,
-      "corps": [
-        "HEM파마",
-        "아이씨에이치",
-        "오름테라퓨틱",
-        "원티드랩",
-        "젝시믹스",
-        "플라즈맵"
-      ]
-    },
-    {
       "SPC_NM": "델타유니콘투자조합4호",
       "net_amount": -38184585084,
       "sell_amount": -38184585084,
@@ -2084,30 +2127,19 @@
     },
     {
       "SPC_NM": "2019KIF스톤브릿지혁신기술성장TCB투자조합",
-      "net_amount": -37814460516,
-      "sell_amount": -37814460516,
+      "net_amount": -37958540974,
+      "sell_amount": -37958540974,
       "buy_amount": 0,
-      "net_shares": -912826,
-      "sell_shares": -912826,
+      "net_shares": -962131,
+      "sell_shares": -962131,
       "buy_shares": 0,
-      "tx_count": 22,
+      "tx_count": 30,
       "corps": [
         "노타",
         "리브스메드",
-        "에스투더블유"
-      ]
-    },
-    {
-      "SPC_NM": "KB-솔리더스 글로벌헬스케어펀드",
-      "net_amount": -37169780148,
-      "sell_amount": -37169780148,
-      "buy_amount": 0,
-      "net_shares": -880953,
-      "sell_shares": -880953,
-      "buy_shares": 0,
-      "tx_count": 46,
-      "corps": [
-        "오름테라퓨틱"
+        "에스투더블유",
+        "인벤티지랩",
+        "진시스템"
       ]
     },
     {
@@ -2124,20 +2156,6 @@
       ]
     },
     {
-      "SPC_NM": "한국투자 미래성장 벤처펀드 제22호",
-      "net_amount": -35614416880,
-      "sell_amount": -35614416880,
-      "buy_amount": 0,
-      "net_shares": -1170980,
-      "sell_shares": -1170980,
-      "buy_shares": 0,
-      "tx_count": 30,
-      "corps": [
-        "비비씨",
-        "풍전약품"
-      ]
-    },
-    {
       "SPC_NM": "e-신산업 LB펀드 1호",
       "net_amount": -35070335434,
       "sell_amount": -35070335434,
@@ -2148,6 +2166,23 @@
       "tx_count": 9,
       "corps": [
         "노타"
+      ]
+    },
+    {
+      "SPC_NM": "스톤브릿지영프론티어투자조합",
+      "net_amount": -34955980840,
+      "sell_amount": -34955980840,
+      "buy_amount": 0,
+      "net_shares": -1213395,
+      "sell_shares": -1213395,
+      "buy_shares": 0,
+      "tx_count": 37,
+      "corps": [
+        "노타",
+        "리브스메드",
+        "오픈엣지테크놀로지",
+        "인벤티지랩",
+        "진시스템"
       ]
     },
     {
@@ -2192,35 +2227,6 @@
       "tx_count": 1,
       "corps": [
         "에이프로"
-      ]
-    },
-    {
-      "SPC_NM": "에이온 글로벌 RNA 유니콘 벤처투자조합",
-      "net_amount": -32834593702,
-      "sell_amount": -32834593702,
-      "buy_amount": 0,
-      "net_shares": -205870,
-      "sell_shares": -205870,
-      "buy_shares": 0,
-      "tx_count": 16,
-      "corps": [
-        "알지노믹스"
-      ]
-    },
-    {
-      "SPC_NM": "스마일게이트패스파인더펀드",
-      "net_amount": -32830694216,
-      "sell_amount": -32830694216,
-      "buy_amount": 0,
-      "net_shares": -1181827,
-      "sell_shares": -1181827,
-      "buy_shares": 0,
-      "tx_count": 33,
-      "corps": [
-        "디앤디파마텍",
-        "오름테라퓨틱",
-        "온코크로스",
-        "이엔셀"
       ]
     }
   ],
@@ -2409,19 +2415,6 @@
       ]
     },
     {
-      "SPC_NM": "신한캐피탈(주)",
-      "net_amount": -30925000,
-      "sell_amount": -30925000,
-      "buy_amount": 0,
-      "net_shares": -2474,
-      "sell_shares": -2474,
-      "buy_shares": 0,
-      "tx_count": 1,
-      "corps": [
-        "클로봇"
-      ]
-    },
-    {
       "SPC_NM": "엔브이씨 2019 바이오헬스케어 투자조합",
       "net_amount": -34736040,
       "sell_amount": -34736040,
@@ -2526,16 +2519,15 @@
       ]
     },
     {
-      "SPC_NM": "2019KIF-스톤브릿지혁신기술성장TCB투자조합",
-      "net_amount": -144080458,
-      "sell_amount": -144080458,
+      "SPC_NM": "스톤브릿지2020벤처",
+      "net_amount": -144000456,
+      "sell_amount": -144000456,
       "buy_amount": 0,
-      "net_shares": -49305,
-      "sell_shares": -49305,
+      "net_shares": -14305,
+      "sell_shares": -14305,
       "buy_shares": 0,
-      "tx_count": 8,
+      "tx_count": 7,
       "corps": [
-        "인벤티지랩",
         "진시스템"
       ]
     },
@@ -2615,6 +2607,19 @@
       "tx_count": 2,
       "corps": [
         "KT밀리의서재"
+      ]
+    },
+    {
+      "SPC_NM": "스프링스페이스테크투자조합 제1호",
+      "net_amount": -202118400,
+      "sell_amount": -202118400,
+      "buy_amount": 0,
+      "net_shares": -10208,
+      "sell_shares": -10208,
+      "buy_shares": 0,
+      "tx_count": 1,
+      "corps": [
+        "컨텍"
       ]
     }
   ],
@@ -3397,678 +3402,6 @@
       ]
     },
     {
-      "corp_name": "씨엠티엑스",
-      "stock_code": "388210",
-      "net_amount": -130985836355,
-      "sell_amount": -131040200543,
-      "buy_amount": 54364188,
-      "net_shares": -1340470,
-      "tx_count": 73,
-      "ipo_mcap": 560997624000,
-      "ipo_offering": 60500000000,
-      "pct_mcap": -23.35,
-      "pct_offering": -216.51,
-      "disclosures": [
-        {
-          "date": "2025-11-20",
-          "days": 0,
-          "vc": "미래에셋위반도체1호창업벤처전문사모투자 합자회사",
-          "type": "장내매도",
-          "amount": -4338432000,
-          "shares": -36000,
-          "rcept_no": "20251208000246"
-        },
-        {
-          "date": "2025-11-20",
-          "days": 0,
-          "vc": "한국투자-킹고 소부장육성 투자조합",
-          "type": "장내매도",
-          "amount": -4455969442,
-          "shares": -35582,
-          "rcept_no": "20251208000246"
-        },
-        {
-          "date": "2025-11-24",
-          "days": 4,
-          "vc": "케이디비씨-케이투 2023 세컨더리 투자조합",
-          "type": "장내매도",
-          "amount": -45345857,
-          "shares": -449,
-          "rcept_no": "20251208000246"
-        },
-        {
-          "date": "2025-11-24",
-          "days": 4,
-          "vc": "케이투엑스페디오투자조합",
-          "type": "장내매도",
-          "amount": -298995520,
-          "shares": -2960,
-          "rcept_no": "20251209000181"
-        },
-        {
-          "date": "2025-11-24",
-          "days": 4,
-          "vc": "K2-KIS 2021세컨더리투자조합",
-          "type": "장내매도",
-          "amount": -16354710,
-          "shares": -162,
-          "rcept_no": "20251209000181"
-        },
-        {
-          "date": "2025-11-24",
-          "days": 4,
-          "vc": "케이투케이아이에스2022 세컨더리 투자조합",
-          "type": "장내매도",
-          "amount": -10903356,
-          "shares": -108,
-          "rcept_no": "20251209000181"
-        },
-        {
-          "date": "2025-11-24",
-          "days": 4,
-          "vc": "케이디비씨-케이투 2023세컨더리 투자조합",
-          "type": "장내매도",
-          "amount": -45345857,
-          "shares": -449,
-          "rcept_no": "20251209000181"
-        },
-        {
-          "date": "2025-11-25",
-          "days": 5,
-          "vc": "케이디비씨-케이투 2023 세컨더리 투자조합",
-          "type": "장내매도",
-          "amount": -742613820,
-          "shares": -7527,
-          "rcept_no": "20251208000246"
-        },
-        {
-          "date": "2025-11-25",
-          "days": 5,
-          "vc": "케이투엑스페디오투자조합",
-          "type": "장내매도",
-          "amount": -4430824972,
-          "shares": -44689,
-          "rcept_no": "20251209000181"
-        },
-        {
-          "date": "2025-11-25",
-          "days": 5,
-          "vc": "K2-KIS 2021세컨더리투자조합",
-          "type": "장내매도",
-          "amount": -266737345,
-          "shares": -2705,
-          "rcept_no": "20251209000181"
-        },
-        {
-          "date": "2025-11-25",
-          "days": 5,
-          "vc": "케이투케이아이에스2022 세컨더리 투자조합",
-          "type": "장내매도",
-          "amount": -176345076,
-          "shares": -1788,
-          "rcept_no": "20251209000181"
-        },
-        {
-          "date": "2025-11-25",
-          "days": 5,
-          "vc": "케이디비씨-케이투 2023세컨더리 투자조합",
-          "type": "장내매도",
-          "amount": -742613820,
-          "shares": -7527,
-          "rcept_no": "20251209000181"
-        },
-        {
-          "date": "2025-11-26",
-          "days": 6,
-          "vc": "케이투케이아이에스2022 세컨더리 투자조합",
-          "type": "장내매도",
-          "amount": -230492800,
-          "shares": -2432,
-          "rcept_no": "20251209000181"
-        },
-        {
-          "date": "2025-11-26",
-          "days": 6,
-          "vc": "K2-KIS 2021세컨더리투자조합",
-          "type": "장내매도",
-          "amount": -337060014,
-          "shares": -3558,
-          "rcept_no": "20251209000181"
-        },
-        {
-          "date": "2025-11-26",
-          "days": 6,
-          "vc": "케이디비씨-케이투 2023세컨더리 투자조합",
-          "type": "장내매도",
-          "amount": -940155792,
-          "shares": -9916,
-          "rcept_no": "20251209000181"
-        },
-        {
-          "date": "2025-11-26",
-          "days": 6,
-          "vc": "케이투엑스페디오투자조합",
-          "type": "장내매도",
-          "amount": -5128935360,
-          "shares": -54185,
-          "rcept_no": "20251209000181"
-        },
-        {
-          "date": "2025-11-26",
-          "days": 6,
-          "vc": "케이디비씨-케이투 2023 세컨더리 투자조합",
-          "type": "장내매도",
-          "amount": -940155792,
-          "shares": -9916,
-          "rcept_no": "20251208000246"
-        },
-        {
-          "date": "2025-11-26",
-          "days": 6,
-          "vc": "케이투엑스페디오투자조합",
-          "type": "장내매수",
-          "amount": 6782400,
-          "shares": 72,
-          "rcept_no": "20251209000181"
-        },
-        {
-          "date": "2025-11-27",
-          "days": 7,
-          "vc": "케이디비씨-케이투 2023 세컨더리 투자조합",
-          "type": "장내매도",
-          "amount": -955528288,
-          "shares": -9922,
-          "rcept_no": "20251208000246"
-        },
-        {
-          "date": "2025-11-27",
-          "days": 7,
-          "vc": "케이투엑스페디오투자조합",
-          "type": "장내매도",
-          "amount": -6062088572,
-          "shares": -63106,
-          "rcept_no": "20251209000181"
-        },
-        {
-          "date": "2025-11-27",
-          "days": 7,
-          "vc": "K2-KIS 2021세컨더리투자조합",
-          "type": "장내매도",
-          "amount": -351315510,
-          "shares": -3647,
-          "rcept_no": "20251209000181"
-        },
-        {
-          "date": "2025-11-27",
-          "days": 7,
-          "vc": "케이투케이아이에스2022 세컨더리 투자조합",
-          "type": "장내매도",
-          "amount": -225066843,
-          "shares": -2333,
-          "rcept_no": "20251209000181"
-        },
-        {
-          "date": "2025-11-27",
-          "days": 7,
-          "vc": "케이디비씨-케이투 2023세컨더리 투자조합",
-          "type": "장내매도",
-          "amount": -955528288,
-          "shares": -9922,
-          "rcept_no": "20251209000181"
-        },
-        {
-          "date": "2025-11-28",
-          "days": 8,
-          "vc": "케이디비씨-케이투 2023세컨더리 투자조합",
-          "type": "장내매도",
-          "amount": -786249596,
-          "shares": -8269,
-          "rcept_no": "20251209000181"
-        },
-        {
-          "date": "2025-11-28",
-          "days": 8,
-          "vc": "케이투케이아이에스2022 세컨더리 투자조합",
-          "type": "장내매도",
-          "amount": -198487368,
-          "shares": -2088,
-          "rcept_no": "20251209000181"
-        },
-        {
-          "date": "2025-11-28",
-          "days": 8,
-          "vc": "K2-KIS 2021세컨더리투자조합",
-          "type": "장내매도",
-          "amount": -291144146,
-          "shares": -3062,
-          "rcept_no": "20251209000181"
-        },
-        {
-          "date": "2025-11-28",
-          "days": 8,
-          "vc": "케이투엑스페디오투자조합",
-          "type": "장내매수",
-          "amount": 47581788,
-          "shares": 503,
-          "rcept_no": "20251209000181"
-        },
-        {
-          "date": "2025-11-28",
-          "days": 8,
-          "vc": "케이디비씨-케이투 2023 세컨더리 투자조합",
-          "type": "장내매도",
-          "amount": -786249596,
-          "shares": -8269,
-          "rcept_no": "20251208000246"
-        },
-        {
-          "date": "2025-11-28",
-          "days": 8,
-          "vc": "케이투엑스페디오투자조합",
-          "type": "장내매도",
-          "amount": -4822767954,
-          "shares": -50703,
-          "rcept_no": "20251209000181"
-        },
-        {
-          "date": "2025-12-02",
-          "days": 12,
-          "vc": "케이투엑스페디오투자조합",
-          "type": "장내매도",
-          "amount": -1221588720,
-          "shares": -12660,
-          "rcept_no": "20251209000181"
-        },
-        {
-          "date": "2025-12-02",
-          "days": 12,
-          "vc": "K2-KIS 2021세컨더리투자조합",
-          "type": "장내매도",
-          "amount": -63413640,
-          "shares": -657,
-          "rcept_no": "20251209000181"
-        },
-        {
-          "date": "2025-12-02",
-          "days": 12,
-          "vc": "케이투케이아이에스2022 세컨더리 투자조합",
-          "type": "장내매도",
-          "amount": -40364170,
-          "shares": -418,
-          "rcept_no": "20251209000181"
-        },
-        {
-          "date": "2025-12-02",
-          "days": 12,
-          "vc": "케이디비씨-케이투 2023세컨더리 투자조합",
-          "type": "장내매도",
-          "amount": -170028072,
-          "shares": -1761,
-          "rcept_no": "20251209000181"
-        },
-        {
-          "date": "2025-12-02",
-          "days": 12,
-          "vc": "케이디비씨-케이투 2023 세컨더리 투자조합",
-          "type": "장내매도",
-          "amount": -170028072,
-          "shares": -1761,
-          "rcept_no": "20260109000246"
-        },
-        {
-          "date": "2025-12-04",
-          "days": 14,
-          "vc": "케이디비씨-케이투 2023 세컨더리 투자조합",
-          "type": "장내매도",
-          "amount": -775483192,
-          "shares": -8696,
-          "rcept_no": "20260109000246"
-        },
-        {
-          "date": "2025-12-04",
-          "days": 14,
-          "vc": "케이디비씨-케이투 2023세컨더리 투자조합",
-          "type": "장내매도",
-          "amount": -775483192,
-          "shares": -8696,
-          "rcept_no": "20251209000181"
-        },
-        {
-          "date": "2025-12-04",
-          "days": 14,
-          "vc": "케이투케이아이에스2022 세컨더리 투자조합",
-          "type": "장내매도",
-          "amount": -185679006,
-          "shares": -2082,
-          "rcept_no": "20251209000181"
-        },
-        {
-          "date": "2025-12-04",
-          "days": 14,
-          "vc": "K2-KIS 2021세컨더리투자조합",
-          "type": "장내매도",
-          "amount": -278515386,
-          "shares": -3123,
-          "rcept_no": "20251209000181"
-        },
-        {
-          "date": "2025-12-04",
-          "days": 14,
-          "vc": "케이투엑스페디오투자조합",
-          "type": "장내매도",
-          "amount": -4611981164,
-          "shares": -51716,
-          "rcept_no": "20251209000181"
-        },
-        {
-          "date": "2025-12-05",
-          "days": 15,
-          "vc": "케이투엑스페디오투자조합",
-          "type": "장내매도",
-          "amount": -688776756,
-          "shares": -8214,
-          "rcept_no": "20251209000181"
-        },
-        {
-          "date": "2025-12-05",
-          "days": 15,
-          "vc": "K2-KIS 2021세컨더리투자조합",
-          "type": "장내매도",
-          "amount": -25927686,
-          "shares": -306,
-          "rcept_no": "20251209000181"
-        },
-        {
-          "date": "2025-12-05",
-          "days": 15,
-          "vc": "케이투케이아이에스2022 세컨더리 투자조합",
-          "type": "장내매도",
-          "amount": -19373171,
-          "shares": -229,
-          "rcept_no": "20251209000181"
-        },
-        {
-          "date": "2025-12-05",
-          "days": 15,
-          "vc": "케이디비씨-케이투 2023세컨더리 투자조합",
-          "type": "장내매도",
-          "amount": -108738751,
-          "shares": -1289,
-          "rcept_no": "20251209000181"
-        },
-        {
-          "date": "2025-12-05",
-          "days": 15,
-          "vc": "케이디비씨-케이투 2023 세컨더리 투자조합",
-          "type": "장내매도",
-          "amount": -108738751,
-          "shares": -1289,
-          "rcept_no": "20260109000246"
-        },
-        {
-          "date": "2025-12-16",
-          "days": 26,
-          "vc": "한국투자-킹고 소부장육성 투자조합",
-          "type": "장내매도",
-          "amount": -3016849924,
-          "shares": -35926,
-          "rcept_no": "20260109000246"
-        },
-        {
-          "date": "2025-12-17",
-          "days": 27,
-          "vc": "한국투자-킹고 소부장육성 투자조합",
-          "type": "장내매도",
-          "amount": -2291995832,
-          "shares": -25508,
-          "rcept_no": "20260109000246"
-        },
-        {
-          "date": "2025-12-18",
-          "days": 28,
-          "vc": "한국투자-킹고 소부장육성 투자조합",
-          "type": "장내매도",
-          "amount": -52333625,
-          "shares": -545,
-          "rcept_no": "20260109000246"
-        },
-        {
-          "date": "2025-12-19",
-          "days": 29,
-          "vc": "한국투자-킹고 소부장육성 투자조합",
-          "type": "장내매도",
-          "amount": -903831815,
-          "shares": -9455,
-          "rcept_no": "20260109000246"
-        },
-        {
-          "date": "2025-12-22",
-          "days": 32,
-          "vc": "케이투엑스페디오투자조합",
-          "type": "장내매도",
-          "amount": -16921451547,
-          "shares": -177023,
-          "rcept_no": "20251224000294"
-        },
-        {
-          "date": "2025-12-22",
-          "days": 32,
-          "vc": "K2-KIS 2021세컨더리투자조합",
-          "type": "장내매도",
-          "amount": -1565588872,
-          "shares": -16372,
-          "rcept_no": "20251224000294"
-        },
-        {
-          "date": "2025-12-22",
-          "days": 32,
-          "vc": "케이투케이아이에스2022 세컨더리 투자조합",
-          "type": "장내매도",
-          "amount": -1043730233,
-          "shares": -10913,
-          "rcept_no": "20251224000294"
-        },
-        {
-          "date": "2025-12-22",
-          "days": 32,
-          "vc": "케이디비씨-케이투 2023세컨더리 투자조합",
-          "type": "장내매도",
-          "amount": -4328471140,
-          "shares": -45284,
-          "rcept_no": "20251224000294"
-        },
-        {
-          "date": "2025-12-22",
-          "days": 32,
-          "vc": "케이디비씨-케이투 2023 세컨더리 투자조합",
-          "type": "장내매도",
-          "amount": -4328471140,
-          "shares": -45284,
-          "rcept_no": "20260109000246"
-        },
-        {
-          "date": "2025-12-22",
-          "days": 32,
-          "vc": "한국투자-킹고 소부장육성 투자조합",
-          "type": "장내매도",
-          "amount": -4600464624,
-          "shares": -47691,
-          "rcept_no": "20260109000246"
-        },
-        {
-          "date": "2025-12-23",
-          "days": 33,
-          "vc": "한국투자-킹고 소부장육성 투자조합",
-          "type": "장내매도",
-          "amount": -1830435472,
-          "shares": -17684,
-          "rcept_no": "20260109000246"
-        },
-        {
-          "date": "2025-12-23",
-          "days": 33,
-          "vc": "케이디비씨-케이투 2023 세컨더리 투자조합",
-          "type": "장내매도",
-          "amount": -4521622300,
-          "shares": -43550,
-          "rcept_no": "20260109000246"
-        },
-        {
-          "date": "2025-12-23",
-          "days": 33,
-          "vc": "케이디비씨-케이투 2023세컨더리 투자조합",
-          "type": "장내매도",
-          "amount": -4521622300,
-          "shares": -43550,
-          "rcept_no": "20251224000294"
-        },
-        {
-          "date": "2025-12-23",
-          "days": 33,
-          "vc": "케이투엑스페디오투자조합",
-          "type": "시간외매매",
-          "amount": -15622156508,
-          "shares": -170317,
-          "rcept_no": "20251224000294"
-        },
-        {
-          "date": "2025-12-23",
-          "days": 33,
-          "vc": "K2-KIS 2021세컨더리투자조합",
-          "type": "시간외매매",
-          "amount": -1438140596,
-          "shares": -15679,
-          "rcept_no": "20251224000294"
-        },
-        {
-          "date": "2025-12-23",
-          "days": 33,
-          "vc": "케이투케이아이에스2022 세컨더리 투자조합",
-          "type": "시간외매매",
-          "amount": -958607524,
-          "shares": -10451,
-          "rcept_no": "20251224000294"
-        },
-        {
-          "date": "2025-12-24",
-          "days": 34,
-          "vc": "한국투자-킹고 소부장육성 투자조합",
-          "type": "장내매도",
-          "amount": -1458751580,
-          "shares": -13948,
-          "rcept_no": "20260109000246"
-        },
-        {
-          "date": "2025-12-26",
-          "days": 36,
-          "vc": "한국투자-킹고 소부장육성 투자조합",
-          "type": "장내매도",
-          "amount": -67305000,
-          "shares": -641,
-          "rcept_no": "20260109000246"
-        },
-        {
-          "date": "2025-12-29",
-          "days": 39,
-          "vc": "한국투자-킹고 소부장육성 투자조합",
-          "type": "장내매도",
-          "amount": -1021190000,
-          "shares": -10000,
-          "rcept_no": "20260109000246"
-        },
-        {
-          "date": "2025-12-30",
-          "days": 40,
-          "vc": "한국투자-킹고 소부장육성 투자조합",
-          "type": "장내매도",
-          "amount": -1317623941,
-          "shares": -13121,
-          "rcept_no": "20260109000246"
-        },
-        {
-          "date": "2026-01-02",
-          "days": 43,
-          "vc": "한국투자-킹고 소부장육성 투자조합",
-          "type": "장내매도",
-          "amount": -1021160000,
-          "shares": -10000,
-          "rcept_no": "20260209000515"
-        },
-        {
-          "date": "2026-01-05",
-          "days": 46,
-          "vc": "한국투자-킹고 소부장육성 투자조합",
-          "type": "장내매도",
-          "amount": -702260000,
-          "shares": -6500,
-          "rcept_no": "20260209000515"
-        },
-        {
-          "date": "2026-01-12",
-          "days": 53,
-          "vc": "케이디비씨-케이투 2023 세컨더리 투자조합",
-          "type": "장내매도",
-          "amount": -2255094117,
-          "shares": -22767,
-          "rcept_no": "20260209000515"
-        },
-        {
-          "date": "2026-01-12",
-          "days": 53,
-          "vc": "한국투자-킹고 소부장육성 투자조합",
-          "type": "장내매도",
-          "amount": -648278520,
-          "shares": -6439,
-          "rcept_no": "20260209000515"
-        },
-        {
-          "date": "2026-01-13",
-          "days": 54,
-          "vc": "한국투자-킹고 소부장육성 투자조합",
-          "type": "장내매도",
-          "amount": -451278000,
-          "shares": -4500,
-          "rcept_no": "20260209000515"
-        },
-        {
-          "date": "2026-01-14",
-          "days": 55,
-          "vc": "한국투자-킹고 소부장육성 투자조합",
-          "type": "장내매도",
-          "amount": -2192580000,
-          "shares": -20000,
-          "rcept_no": "20260209000515"
-        },
-        {
-          "date": "2026-01-26",
-          "days": 67,
-          "vc": "한국투자-킹고 소부장육성 투자조합",
-          "type": "장내매도",
-          "amount": -1118640000,
-          "shares": -10000,
-          "rcept_no": "20260209000515"
-        },
-        {
-          "date": "2026-01-27",
-          "days": 68,
-          "vc": "미래에셋위반도체1호창업벤처전문사모투자 합자회사",
-          "type": "장내매도",
-          "amount": -1418832240,
-          "shares": -11760,
-          "rcept_no": "20260209000515"
-        },
-        {
-          "date": "2026-01-28",
-          "days": 69,
-          "vc": "미래에셋위반도체1호창업벤처전문사모투자 합자회사",
-          "type": "장내매도",
-          "amount": -1595606270,
-          "shares": -11966,
-          "rcept_no": "20260209000515"
-        }
-      ]
-    },
-    {
       "corp_name": "리브스메드",
       "stock_code": "491000",
       "net_amount": -129678238391,
@@ -4728,6 +4061,588 @@
           "amount": -131400000,
           "shares": -1460,
           "rcept_no": "20260310003065"
+        }
+      ]
+    },
+    {
+      "corp_name": "씨엠티엑스",
+      "stock_code": "388210",
+      "net_amount": -117611599547,
+      "sell_amount": -117665963735,
+      "buy_amount": 54364188,
+      "net_shares": -1203807,
+      "tx_count": 63,
+      "ipo_mcap": 560997624000,
+      "ipo_offering": 60500000000,
+      "pct_mcap": -20.96,
+      "pct_offering": -194.4,
+      "disclosures": [
+        {
+          "date": "2025-11-20",
+          "days": 0,
+          "vc": "미래에셋위반도체1호창업벤처전문사모투자 합자회사",
+          "type": "장내매도",
+          "amount": -4338432000,
+          "shares": -36000,
+          "rcept_no": "20251208000246"
+        },
+        {
+          "date": "2025-11-20",
+          "days": 0,
+          "vc": "한국투자-킹고 소부장육성 투자조합",
+          "type": "장내매도",
+          "amount": -4455969442,
+          "shares": -35582,
+          "rcept_no": "20251208000246"
+        },
+        {
+          "date": "2025-11-24",
+          "days": 4,
+          "vc": "케이디비씨-케이투 2023 세컨더리 투자조합",
+          "type": "장내매도",
+          "amount": -45345857,
+          "shares": -449,
+          "rcept_no": "20251208000246"
+        },
+        {
+          "date": "2025-11-24",
+          "days": 4,
+          "vc": "케이투엑스페디오투자조합",
+          "type": "장내매도",
+          "amount": -298995520,
+          "shares": -2960,
+          "rcept_no": "20251209000181"
+        },
+        {
+          "date": "2025-11-24",
+          "days": 4,
+          "vc": "K2-KIS 2021세컨더리투자조합",
+          "type": "장내매도",
+          "amount": -16354710,
+          "shares": -162,
+          "rcept_no": "20251209000181"
+        },
+        {
+          "date": "2025-11-24",
+          "days": 4,
+          "vc": "케이투케이아이에스2022 세컨더리 투자조합",
+          "type": "장내매도",
+          "amount": -10903356,
+          "shares": -108,
+          "rcept_no": "20251209000181"
+        },
+        {
+          "date": "2025-11-25",
+          "days": 5,
+          "vc": "케이디비씨-케이투 2023 세컨더리 투자조합",
+          "type": "장내매도",
+          "amount": -742613820,
+          "shares": -7527,
+          "rcept_no": "20251208000246"
+        },
+        {
+          "date": "2025-11-25",
+          "days": 5,
+          "vc": "케이투엑스페디오투자조합",
+          "type": "장내매도",
+          "amount": -4430824972,
+          "shares": -44689,
+          "rcept_no": "20251209000181"
+        },
+        {
+          "date": "2025-11-25",
+          "days": 5,
+          "vc": "K2-KIS 2021세컨더리투자조합",
+          "type": "장내매도",
+          "amount": -266737345,
+          "shares": -2705,
+          "rcept_no": "20251209000181"
+        },
+        {
+          "date": "2025-11-25",
+          "days": 5,
+          "vc": "케이투케이아이에스2022 세컨더리 투자조합",
+          "type": "장내매도",
+          "amount": -176345076,
+          "shares": -1788,
+          "rcept_no": "20251209000181"
+        },
+        {
+          "date": "2025-11-26",
+          "days": 6,
+          "vc": "K2-KIS 2021세컨더리투자조합",
+          "type": "장내매도",
+          "amount": -337060014,
+          "shares": -3558,
+          "rcept_no": "20251209000181"
+        },
+        {
+          "date": "2025-11-26",
+          "days": 6,
+          "vc": "케이투엑스페디오투자조합",
+          "type": "장내매수",
+          "amount": 6782400,
+          "shares": 72,
+          "rcept_no": "20251209000181"
+        },
+        {
+          "date": "2025-11-26",
+          "days": 6,
+          "vc": "케이투케이아이에스2022 세컨더리 투자조합",
+          "type": "장내매도",
+          "amount": -230492800,
+          "shares": -2432,
+          "rcept_no": "20251209000181"
+        },
+        {
+          "date": "2025-11-26",
+          "days": 6,
+          "vc": "케이디비씨-케이투 2023 세컨더리 투자조합",
+          "type": "장내매도",
+          "amount": -940155792,
+          "shares": -9916,
+          "rcept_no": "20251208000246"
+        },
+        {
+          "date": "2025-11-26",
+          "days": 6,
+          "vc": "케이투엑스페디오투자조합",
+          "type": "장내매도",
+          "amount": -5128935360,
+          "shares": -54185,
+          "rcept_no": "20251209000181"
+        },
+        {
+          "date": "2025-11-27",
+          "days": 7,
+          "vc": "케이디비씨-케이투 2023 세컨더리 투자조합",
+          "type": "장내매도",
+          "amount": -955528288,
+          "shares": -9922,
+          "rcept_no": "20251208000246"
+        },
+        {
+          "date": "2025-11-27",
+          "days": 7,
+          "vc": "케이투엑스페디오투자조합",
+          "type": "장내매도",
+          "amount": -6062088572,
+          "shares": -63106,
+          "rcept_no": "20251209000181"
+        },
+        {
+          "date": "2025-11-27",
+          "days": 7,
+          "vc": "K2-KIS 2021세컨더리투자조합",
+          "type": "장내매도",
+          "amount": -351315510,
+          "shares": -3647,
+          "rcept_no": "20251209000181"
+        },
+        {
+          "date": "2025-11-27",
+          "days": 7,
+          "vc": "케이투케이아이에스2022 세컨더리 투자조합",
+          "type": "장내매도",
+          "amount": -225066843,
+          "shares": -2333,
+          "rcept_no": "20251209000181"
+        },
+        {
+          "date": "2025-11-28",
+          "days": 8,
+          "vc": "케이디비씨-케이투 2023 세컨더리 투자조합",
+          "type": "장내매도",
+          "amount": -786249596,
+          "shares": -8269,
+          "rcept_no": "20251208000246"
+        },
+        {
+          "date": "2025-11-28",
+          "days": 8,
+          "vc": "케이투엑스페디오투자조합",
+          "type": "장내매도",
+          "amount": -4822767954,
+          "shares": -50703,
+          "rcept_no": "20251209000181"
+        },
+        {
+          "date": "2025-11-28",
+          "days": 8,
+          "vc": "케이투엑스페디오투자조합",
+          "type": "장내매수",
+          "amount": 47581788,
+          "shares": 503,
+          "rcept_no": "20251209000181"
+        },
+        {
+          "date": "2025-11-28",
+          "days": 8,
+          "vc": "K2-KIS 2021세컨더리투자조합",
+          "type": "장내매도",
+          "amount": -291144146,
+          "shares": -3062,
+          "rcept_no": "20251209000181"
+        },
+        {
+          "date": "2025-11-28",
+          "days": 8,
+          "vc": "케이투케이아이에스2022 세컨더리 투자조합",
+          "type": "장내매도",
+          "amount": -198487368,
+          "shares": -2088,
+          "rcept_no": "20251209000181"
+        },
+        {
+          "date": "2025-12-02",
+          "days": 12,
+          "vc": "케이디비씨-케이투 2023 세컨더리 투자조합",
+          "type": "장내매도",
+          "amount": -170028072,
+          "shares": -1761,
+          "rcept_no": "20251209000181"
+        },
+        {
+          "date": "2025-12-02",
+          "days": 12,
+          "vc": "케이투엑스페디오투자조합",
+          "type": "장내매도",
+          "amount": -1221588720,
+          "shares": -12660,
+          "rcept_no": "20251209000181"
+        },
+        {
+          "date": "2025-12-02",
+          "days": 12,
+          "vc": "K2-KIS 2021세컨더리투자조합",
+          "type": "장내매도",
+          "amount": -63413640,
+          "shares": -657,
+          "rcept_no": "20251209000181"
+        },
+        {
+          "date": "2025-12-02",
+          "days": 12,
+          "vc": "케이투케이아이에스2022 세컨더리 투자조합",
+          "type": "장내매도",
+          "amount": -40364170,
+          "shares": -418,
+          "rcept_no": "20251209000181"
+        },
+        {
+          "date": "2025-12-04",
+          "days": 14,
+          "vc": "케이투케이아이에스2022 세컨더리 투자조합",
+          "type": "장내매도",
+          "amount": -185679006,
+          "shares": -2082,
+          "rcept_no": "20251209000181"
+        },
+        {
+          "date": "2025-12-04",
+          "days": 14,
+          "vc": "케이디비씨-케이투 2023 세컨더리 투자조합",
+          "type": "장내매도",
+          "amount": -775483192,
+          "shares": -8696,
+          "rcept_no": "20251209000181"
+        },
+        {
+          "date": "2025-12-04",
+          "days": 14,
+          "vc": "케이투엑스페디오투자조합",
+          "type": "장내매도",
+          "amount": -4611981164,
+          "shares": -51716,
+          "rcept_no": "20251209000181"
+        },
+        {
+          "date": "2025-12-04",
+          "days": 14,
+          "vc": "K2-KIS 2021세컨더리투자조합",
+          "type": "장내매도",
+          "amount": -278515386,
+          "shares": -3123,
+          "rcept_no": "20251209000181"
+        },
+        {
+          "date": "2025-12-05",
+          "days": 15,
+          "vc": "케이투엑스페디오투자조합",
+          "type": "장내매도",
+          "amount": -688776756,
+          "shares": -8214,
+          "rcept_no": "20251209000181"
+        },
+        {
+          "date": "2025-12-05",
+          "days": 15,
+          "vc": "K2-KIS 2021세컨더리투자조합",
+          "type": "장내매도",
+          "amount": -25927686,
+          "shares": -306,
+          "rcept_no": "20251209000181"
+        },
+        {
+          "date": "2025-12-05",
+          "days": 15,
+          "vc": "케이투케이아이에스2022 세컨더리 투자조합",
+          "type": "장내매도",
+          "amount": -19373171,
+          "shares": -229,
+          "rcept_no": "20251209000181"
+        },
+        {
+          "date": "2025-12-05",
+          "days": 15,
+          "vc": "케이디비씨-케이투 2023 세컨더리 투자조합",
+          "type": "장내매도",
+          "amount": -108738751,
+          "shares": -1289,
+          "rcept_no": "20251209000181"
+        },
+        {
+          "date": "2025-12-16",
+          "days": 26,
+          "vc": "한국투자-킹고 소부장육성 투자조합",
+          "type": "장내매도",
+          "amount": -3016849924,
+          "shares": -35926,
+          "rcept_no": "20260109000246"
+        },
+        {
+          "date": "2025-12-17",
+          "days": 27,
+          "vc": "한국투자-킹고 소부장육성 투자조합",
+          "type": "장내매도",
+          "amount": -2291995832,
+          "shares": -25508,
+          "rcept_no": "20260109000246"
+        },
+        {
+          "date": "2025-12-18",
+          "days": 28,
+          "vc": "한국투자-킹고 소부장육성 투자조합",
+          "type": "장내매도",
+          "amount": -52333625,
+          "shares": -545,
+          "rcept_no": "20260109000246"
+        },
+        {
+          "date": "2025-12-19",
+          "days": 29,
+          "vc": "한국투자-킹고 소부장육성 투자조합",
+          "type": "장내매도",
+          "amount": -903831815,
+          "shares": -9455,
+          "rcept_no": "20260109000246"
+        },
+        {
+          "date": "2025-12-22",
+          "days": 32,
+          "vc": "케이투엑스페디오투자조합",
+          "type": "장내매도",
+          "amount": -16921451547,
+          "shares": -177023,
+          "rcept_no": "20251224000294"
+        },
+        {
+          "date": "2025-12-22",
+          "days": 32,
+          "vc": "K2-KIS 2021세컨더리투자조합",
+          "type": "장내매도",
+          "amount": -1565588872,
+          "shares": -16372,
+          "rcept_no": "20251224000294"
+        },
+        {
+          "date": "2025-12-22",
+          "days": 32,
+          "vc": "케이투케이아이에스2022 세컨더리 투자조합",
+          "type": "장내매도",
+          "amount": -1043730233,
+          "shares": -10913,
+          "rcept_no": "20251224000294"
+        },
+        {
+          "date": "2025-12-22",
+          "days": 32,
+          "vc": "케이디비씨-케이투 2023 세컨더리 투자조합",
+          "type": "장내매도",
+          "amount": -4328471140,
+          "shares": -45284,
+          "rcept_no": "20251224000294"
+        },
+        {
+          "date": "2025-12-22",
+          "days": 32,
+          "vc": "한국투자-킹고 소부장육성 투자조합",
+          "type": "장내매도",
+          "amount": -4600464624,
+          "shares": -47691,
+          "rcept_no": "20260109000246"
+        },
+        {
+          "date": "2025-12-23",
+          "days": 33,
+          "vc": "케이디비씨-케이투 2023 세컨더리 투자조합",
+          "type": "장내매도",
+          "amount": -4521622300,
+          "shares": -43550,
+          "rcept_no": "20251224000294"
+        },
+        {
+          "date": "2025-12-23",
+          "days": 33,
+          "vc": "한국투자-킹고 소부장육성 투자조합",
+          "type": "장내매도",
+          "amount": -1830435472,
+          "shares": -17684,
+          "rcept_no": "20260109000246"
+        },
+        {
+          "date": "2025-12-23",
+          "days": 33,
+          "vc": "K2-KIS 2021세컨더리투자조합",
+          "type": "시간외매매",
+          "amount": -1438140596,
+          "shares": -15679,
+          "rcept_no": "20251224000294"
+        },
+        {
+          "date": "2025-12-23",
+          "days": 33,
+          "vc": "케이투엑스페디오투자조합",
+          "type": "시간외매매",
+          "amount": -15622156508,
+          "shares": -170317,
+          "rcept_no": "20251224000294"
+        },
+        {
+          "date": "2025-12-23",
+          "days": 33,
+          "vc": "케이투케이아이에스2022 세컨더리 투자조합",
+          "type": "시간외매매",
+          "amount": -958607524,
+          "shares": -10451,
+          "rcept_no": "20251224000294"
+        },
+        {
+          "date": "2025-12-24",
+          "days": 34,
+          "vc": "한국투자-킹고 소부장육성 투자조합",
+          "type": "장내매도",
+          "amount": -1458751580,
+          "shares": -13948,
+          "rcept_no": "20260109000246"
+        },
+        {
+          "date": "2025-12-26",
+          "days": 36,
+          "vc": "한국투자-킹고 소부장육성 투자조합",
+          "type": "장내매도",
+          "amount": -67305000,
+          "shares": -641,
+          "rcept_no": "20260109000246"
+        },
+        {
+          "date": "2025-12-29",
+          "days": 39,
+          "vc": "한국투자-킹고 소부장육성 투자조합",
+          "type": "장내매도",
+          "amount": -1021190000,
+          "shares": -10000,
+          "rcept_no": "20260109000246"
+        },
+        {
+          "date": "2025-12-30",
+          "days": 40,
+          "vc": "한국투자-킹고 소부장육성 투자조합",
+          "type": "장내매도",
+          "amount": -1317623941,
+          "shares": -13121,
+          "rcept_no": "20260109000246"
+        },
+        {
+          "date": "2026-01-02",
+          "days": 43,
+          "vc": "한국투자-킹고 소부장육성 투자조합",
+          "type": "장내매도",
+          "amount": -1021160000,
+          "shares": -10000,
+          "rcept_no": "20260209000515"
+        },
+        {
+          "date": "2026-01-05",
+          "days": 46,
+          "vc": "한국투자-킹고 소부장육성 투자조합",
+          "type": "장내매도",
+          "amount": -702260000,
+          "shares": -6500,
+          "rcept_no": "20260209000515"
+        },
+        {
+          "date": "2026-01-12",
+          "days": 53,
+          "vc": "케이디비씨-케이투 2023 세컨더리 투자조합",
+          "type": "장내매도",
+          "amount": -2255094117,
+          "shares": -22767,
+          "rcept_no": "20260209000515"
+        },
+        {
+          "date": "2026-01-12",
+          "days": 53,
+          "vc": "한국투자-킹고 소부장육성 투자조합",
+          "type": "장내매도",
+          "amount": -648278520,
+          "shares": -6439,
+          "rcept_no": "20260209000515"
+        },
+        {
+          "date": "2026-01-13",
+          "days": 54,
+          "vc": "한국투자-킹고 소부장육성 투자조합",
+          "type": "장내매도",
+          "amount": -451278000,
+          "shares": -4500,
+          "rcept_no": "20260209000515"
+        },
+        {
+          "date": "2026-01-14",
+          "days": 55,
+          "vc": "한국투자-킹고 소부장육성 투자조합",
+          "type": "장내매도",
+          "amount": -2192580000,
+          "shares": -20000,
+          "rcept_no": "20260209000515"
+        },
+        {
+          "date": "2026-01-26",
+          "days": 67,
+          "vc": "한국투자-킹고 소부장육성 투자조합",
+          "type": "장내매도",
+          "amount": -1118640000,
+          "shares": -10000,
+          "rcept_no": "20260209000515"
+        },
+        {
+          "date": "2026-01-27",
+          "days": 68,
+          "vc": "미래에셋위반도체1호창업벤처전문사모투자 합자회사",
+          "type": "장내매도",
+          "amount": -1418832240,
+          "shares": -11760,
+          "rcept_no": "20260209000515"
+        },
+        {
+          "date": "2026-01-28",
+          "days": 69,
+          "vc": "미래에셋위반도체1호창업벤처전문사모투자 합자회사",
+          "type": "장내매도",
+          "amount": -1595606270,
+          "shares": -11966,
+          "rcept_no": "20260209000515"
         }
       ]
     },
@@ -6352,7 +6267,7 @@
         {
           "date": "2025-11-03",
           "days": 0,
-          "vc": "스마트코리아 컴퍼니케이 언택트펀드",
+          "vc": "스마트코리아컴퍼니케이언택트펀드",
           "type": "장내매도",
           "amount": -4261917800,
           "shares": -142730,
@@ -6388,7 +6303,7 @@
         {
           "date": "2025-11-04",
           "days": 1,
-          "vc": "스마트코리아 컴퍼니케이 언택트펀드",
+          "vc": "스마트코리아컴퍼니케이언택트펀드",
           "type": "장내매도",
           "amount": -1422344935,
           "shares": -35365,
@@ -6406,7 +6321,7 @@
         {
           "date": "2025-11-05",
           "days": 2,
-          "vc": "스마트코리아 컴퍼니케이 언택트펀드",
+          "vc": "스마트코리아컴퍼니케이언택트펀드",
           "type": "장내매도",
           "amount": -1806165120,
           "shares": -35905,
@@ -6577,305 +6492,125 @@
       ]
     },
     {
-      "corp_name": "이엔셀",
-      "stock_code": "456070",
-      "net_amount": -59032813566,
-      "sell_amount": -59032813566,
+      "corp_name": "에이직랜드",
+      "stock_code": "445090",
+      "net_amount": -75629265548,
+      "sell_amount": -75629265548,
       "buy_amount": 0,
-      "net_shares": -1915615,
-      "tx_count": 32,
-      "ipo_mcap": 143054296200,
-      "ipo_offering": 23972040000,
-      "pct_mcap": -41.27,
-      "pct_offering": -246.26,
+      "net_shares": -1382575,
+      "tx_count": 12,
+      "ipo_mcap": 264633000000,
+      "ipo_offering": 65908250000,
+      "pct_mcap": -28.58,
+      "pct_offering": -114.75,
       "disclosures": [
         {
-          "date": "2024-08-23",
-          "days": 0,
-          "vc": "코오롱 2017 신산업 육성 투자조합",
+          "date": "2023-12-27",
+          "days": 44,
+          "vc": "유티씨반도체성장펀드",
           "type": "장내매도",
-          "amount": -1001831880,
-          "shares": -26670,
-          "rcept_no": "20240829000951"
+          "amount": -6429223680,
+          "shares": -105216,
+          "rcept_no": "20240103000448"
         },
         {
-          "date": "2024-08-23",
-          "days": 0,
-          "vc": "에스브이아이씨38호신기술사업투자조합(업무집행조합원:삼성벤처투자(주))",
+          "date": "2023-12-27",
+          "days": 44,
+          "vc": "인천창조경제혁신펀드",
           "type": "장내매도",
-          "amount": -3920175700,
-          "shares": -97975,
-          "rcept_no": "20240927000151"
+          "amount": -5289013847,
+          "shares": -86593,
+          "rcept_no": "20240103000448"
         },
         {
-          "date": "2024-08-23",
-          "days": 0,
-          "vc": "원앤파트너스",
+          "date": "2023-12-28",
+          "days": 45,
+          "vc": "유티씨반도체성장펀드",
           "type": "장내매도",
-          "amount": -11747250000,
-          "shares": -287500,
-          "rcept_no": "20240830001953"
+          "amount": -1209072882,
+          "shares": -20038,
+          "rcept_no": "20240103000448"
         },
         {
-          "date": "2024-08-23",
-          "days": 0,
-          "vc": "기술혁신전문G&G펀드1호",
+          "date": "2023-12-28",
+          "days": 45,
+          "vc": "인천창조경제혁신펀드",
           "type": "장내매도",
-          "amount": -723443040,
-          "shares": -18990,
-          "rcept_no": "20240829001442"
+          "amount": -947111160,
+          "shares": -15690,
+          "rcept_no": "20240103000448"
         },
         {
-          "date": "2024-08-23",
-          "days": 0,
-          "vc": "스마일게이트패스파인더펀드",
+          "date": "2024-01-02",
+          "days": 50,
+          "vc": "유티씨반도체성장펀드",
           "type": "장내매도",
-          "amount": -3049440000,
-          "shares": -80000,
-          "rcept_no": "20240829001442"
+          "amount": -7585967970,
+          "shares": -124299,
+          "rcept_no": "20240103000448"
         },
         {
-          "date": "2024-08-23",
-          "days": 0,
-          "vc": "원앤파트너스(유)",
+          "date": "2024-01-02",
+          "days": 50,
+          "vc": "인천창조경제혁신펀드",
           "type": "장내매도",
-          "amount": -11747250000,
-          "shares": -287500,
-          "rcept_no": "20240830001958"
+          "amount": -5986809727,
+          "shares": -98101,
+          "rcept_no": "20240103000448"
         },
         {
-          "date": "2024-08-23",
-          "days": 0,
-          "vc": "코오롱 2020 소재부품장비 투자조합",
+          "date": "2024-01-04",
+          "days": 52,
+          "vc": "유티씨반도체성장펀드",
           "type": "장내매도",
-          "amount": -745718310,
-          "shares": -18990,
-          "rcept_no": "20240829000951"
+          "amount": -1297847500,
+          "shares": -21500,
+          "rcept_no": "20240111000342"
         },
         {
-          "date": "2024-08-23",
-          "days": 0,
-          "vc": "코오롱 2019 유니콘 투자조합",
+          "date": "2024-01-04",
+          "days": 52,
+          "vc": "인천창조경제혁신펀드",
           "type": "장내매도",
-          "amount": -1793022540,
-          "shares": -45660,
-          "rcept_no": "20240829000951"
+          "amount": -964451605,
+          "shares": -15977,
+          "rcept_no": "20240111000342"
         },
         {
-          "date": "2024-08-23",
-          "days": 0,
-          "vc": "코오롱 2017 4차 산업혁명 투자조합",
+          "date": "2024-01-08",
+          "days": 56,
+          "vc": "유티씨반도체성장펀드",
           "type": "장내매도",
-          "amount": -994204260,
-          "shares": -26670,
-          "rcept_no": "20240829000951"
+          "amount": -10338510000,
+          "shares": -202875,
+          "rcept_no": "20240111000342"
         },
         {
-          "date": "2024-08-23",
-          "days": 0,
-          "vc": "스마일게이트딥테크사업화1호펀드",
+          "date": "2024-01-08",
+          "days": 56,
+          "vc": "인천창조경제혁신펀드",
           "type": "장내매도",
-          "amount": -723613950,
-          "shares": -18990,
-          "rcept_no": "20240829001442"
+          "amount": -8199107280,
+          "shares": -160893,
+          "rcept_no": "20240111000342"
         },
         {
-          "date": "2024-09-23",
-          "days": 31,
-          "vc": "에스브이아이씨38호신기술사업투자조합(업무집행조합원:삼성벤처투자(주))",
-          "type": "시간외매매",
-          "amount": -5055118100,
-          "shares": -195950,
-          "rcept_no": "20240927000151"
-        },
-        {
-          "date": "2024-09-23",
-          "days": 31,
-          "vc": "스마일게이트딥테크사업화1호펀드",
+          "date": "2024-01-09",
+          "days": 57,
+          "vc": "유티씨반도체성장펀드",
           "type": "장내매도",
-          "amount": -420931840,
-          "shares": -17240,
-          "rcept_no": "20241008000426"
+          "amount": -15684912310,
+          "shares": -304390,
+          "rcept_no": "20240111000342"
         },
         {
-          "date": "2024-09-23",
-          "days": 31,
-          "vc": "스마일게이트패스파인더펀드",
+          "date": "2024-01-09",
+          "days": 57,
+          "vc": "인천창조경제혁신펀드",
           "type": "장내매도",
-          "amount": -2155649370,
-          "shares": -91570,
-          "rcept_no": "20241008000426"
-        },
-        {
-          "date": "2024-09-23",
-          "days": 31,
-          "vc": "기술혁신전문G&G펀드1호",
-          "type": "장내매도",
-          "amount": -942232480,
-          "shares": -39760,
-          "rcept_no": "20241008000426"
-        },
-        {
-          "date": "2024-09-23",
-          "days": 31,
-          "vc": "스마일게이트뉴딜펀드",
-          "type": "장내매도",
-          "amount": -436790967,
-          "shares": -18437,
-          "rcept_no": "20241008000426"
-        },
-        {
-          "date": "2024-09-24",
-          "days": 32,
-          "vc": "스마일게이트뉴딜펀드",
-          "type": "장내매도",
-          "amount": -466495453,
-          "shares": -22511,
-          "rcept_no": "20241008000426"
-        },
-        {
-          "date": "2024-09-24",
-          "days": 32,
-          "vc": "기술혁신전문G&G펀드1호",
-          "type": "장내매도",
-          "amount": -1086617664,
-          "shares": -52448,
-          "rcept_no": "20241008000426"
-        },
-        {
-          "date": "2024-09-24",
-          "days": 32,
-          "vc": "에스브이아이씨38호신기술사업투자조합(업무집행조합원:삼성벤처투자(주))",
-          "type": "시간외매매",
-          "amount": -4268182900,
-          "shares": -195950,
-          "rcept_no": "20240927000151"
-        },
-        {
-          "date": "2024-09-24",
-          "days": 32,
-          "vc": "스마일게이트딥테크사업화1호펀드",
-          "type": "장내매도",
-          "amount": -598987802,
-          "shares": -28973,
-          "rcept_no": "20241008000426"
-        },
-        {
-          "date": "2024-09-24",
-          "days": 32,
-          "vc": "스마일게이트패스파인더펀드",
-          "type": "장내매도",
-          "amount": -2613453515,
-          "shares": -126065,
-          "rcept_no": "20241008000426"
-        },
-        {
-          "date": "2024-09-25",
-          "days": 33,
-          "vc": "스마일게이트딥테크사업화1호펀드",
-          "type": "장내매도",
-          "amount": -332221824,
-          "shares": -15552,
-          "rcept_no": "20241008000426"
-        },
-        {
-          "date": "2024-09-25",
-          "days": 33,
-          "vc": "스마일게이트패스파인더펀드",
-          "type": "장내매도",
-          "amount": -1399408902,
-          "shares": -65497,
-          "rcept_no": "20241008000426"
-        },
-        {
-          "date": "2024-09-25",
-          "days": 33,
-          "vc": "기술혁신전문G&G펀드1호",
-          "type": "장내매도",
-          "amount": -547742673,
-          "shares": -25659,
-          "rcept_no": "20241008000426"
-        },
-        {
-          "date": "2024-09-25",
-          "days": 33,
-          "vc": "스마일게이트뉴딜펀드",
-          "type": "장내매도",
-          "amount": -208240500,
-          "shares": -9750,
-          "rcept_no": "20241008000426"
-        },
-        {
-          "date": "2024-09-26",
-          "days": 34,
-          "vc": "스마일게이트딥테크사업화1호펀드",
-          "type": "장내매도",
-          "amount": -27734400,
-          "shares": -1296,
-          "rcept_no": "20241008000426"
-        },
-        {
-          "date": "2024-09-26",
-          "days": 34,
-          "vc": "스마일게이트패스파인더펀드",
-          "type": "장내매도",
-          "amount": -116801200,
-          "shares": -5458,
-          "rcept_no": "20241008000426"
-        },
-        {
-          "date": "2024-09-26",
-          "days": 34,
-          "vc": "기술혁신전문G&G펀드1호",
-          "type": "장내매도",
-          "amount": -82689600,
-          "shares": -3864,
-          "rcept_no": "20241008000426"
-        },
-        {
-          "date": "2024-09-26",
-          "days": 34,
-          "vc": "스마일게이트뉴딜펀드",
-          "type": "장내매도",
-          "amount": -62573600,
-          "shares": -2924,
-          "rcept_no": "20241008000426"
-        },
-        {
-          "date": "2024-09-27",
-          "days": 35,
-          "vc": "기술혁신전문G&G펀드1호",
-          "type": "장내매도",
-          "amount": -517723374,
-          "shares": -25654,
-          "rcept_no": "20241008000426"
-        },
-        {
-          "date": "2024-09-27",
-          "days": 35,
-          "vc": "스마일게이트딥테크사업화1호펀드",
-          "type": "장내매도",
-          "amount": -259579476,
-          "shares": -12899,
-          "rcept_no": "20241008000426"
-        },
-        {
-          "date": "2024-09-27",
-          "days": 35,
-          "vc": "스마일게이트패스파인더펀드",
-          "type": "장내매도",
-          "amount": -629990370,
-          "shares": -31410,
-          "rcept_no": "20241008000426"
-        },
-        {
-          "date": "2024-09-27",
-          "days": 35,
-          "vc": "스마일게이트뉴딜펀드",
-          "type": "장내매도",
-          "amount": -357697876,
-          "shares": -17803,
-          "rcept_no": "20241008000426"
+          "amount": -11697237587,
+          "shares": -227003,
+          "rcept_no": "20240111000342"
         }
       ]
     },
@@ -8050,6 +7785,300 @@
       ]
     },
     {
+      "corp_name": "이엔셀",
+      "stock_code": "456070",
+      "net_amount": -47285563566,
+      "sell_amount": -47285563566,
+      "buy_amount": 0,
+      "net_shares": -1628115,
+      "tx_count": 31,
+      "ipo_mcap": 143054296200,
+      "ipo_offering": 23972040000,
+      "pct_mcap": -33.05,
+      "pct_offering": -197.25,
+      "disclosures": [
+        {
+          "date": "2024-08-23",
+          "days": 0,
+          "vc": "코오롱 2017 신산업 육성 투자조합",
+          "type": "장내매도",
+          "amount": -1001831880,
+          "shares": -26670,
+          "rcept_no": "20240829000951"
+        },
+        {
+          "date": "2024-08-23",
+          "days": 0,
+          "vc": "코오롱 2017 4차 산업혁명 투자조합",
+          "type": "장내매도",
+          "amount": -994204260,
+          "shares": -26670,
+          "rcept_no": "20240829000951"
+        },
+        {
+          "date": "2024-08-23",
+          "days": 0,
+          "vc": "코오롱 2019 유니콘 투자조합",
+          "type": "장내매도",
+          "amount": -1793022540,
+          "shares": -45660,
+          "rcept_no": "20240829000951"
+        },
+        {
+          "date": "2024-08-23",
+          "days": 0,
+          "vc": "코오롱 2020 소재부품장비 투자조합",
+          "type": "장내매도",
+          "amount": -745718310,
+          "shares": -18990,
+          "rcept_no": "20240829000951"
+        },
+        {
+          "date": "2024-08-23",
+          "days": 0,
+          "vc": "스마일게이트딥테크사업화1호펀드",
+          "type": "장내매도",
+          "amount": -723613950,
+          "shares": -18990,
+          "rcept_no": "20240829001442"
+        },
+        {
+          "date": "2024-08-23",
+          "days": 0,
+          "vc": "스마일게이트패스파인더펀드",
+          "type": "장내매도",
+          "amount": -3049440000,
+          "shares": -80000,
+          "rcept_no": "20240829001442"
+        },
+        {
+          "date": "2024-08-23",
+          "days": 0,
+          "vc": "기술혁신전문G&G펀드1호",
+          "type": "장내매도",
+          "amount": -723443040,
+          "shares": -18990,
+          "rcept_no": "20240829001442"
+        },
+        {
+          "date": "2024-08-23",
+          "days": 0,
+          "vc": "원앤파트너스",
+          "type": "장내매도",
+          "amount": -11747250000,
+          "shares": -287500,
+          "rcept_no": "20240830001953"
+        },
+        {
+          "date": "2024-08-23",
+          "days": 0,
+          "vc": "에스브이아이씨38호신기술사업투자조합(업무집행조합원:삼성벤처투자(주))",
+          "type": "장내매도",
+          "amount": -3920175700,
+          "shares": -97975,
+          "rcept_no": "20240927000151"
+        },
+        {
+          "date": "2024-09-23",
+          "days": 31,
+          "vc": "에스브이아이씨38호신기술사업투자조합(업무집행조합원:삼성벤처투자(주))",
+          "type": "시간외매매",
+          "amount": -5055118100,
+          "shares": -195950,
+          "rcept_no": "20240927000151"
+        },
+        {
+          "date": "2024-09-23",
+          "days": 31,
+          "vc": "스마일게이트딥테크사업화1호펀드",
+          "type": "장내매도",
+          "amount": -420931840,
+          "shares": -17240,
+          "rcept_no": "20241008000426"
+        },
+        {
+          "date": "2024-09-23",
+          "days": 31,
+          "vc": "스마일게이트패스파인더펀드",
+          "type": "장내매도",
+          "amount": -2155649370,
+          "shares": -91570,
+          "rcept_no": "20241008000426"
+        },
+        {
+          "date": "2024-09-23",
+          "days": 31,
+          "vc": "기술혁신전문G&G펀드1호",
+          "type": "장내매도",
+          "amount": -942232480,
+          "shares": -39760,
+          "rcept_no": "20241008000426"
+        },
+        {
+          "date": "2024-09-23",
+          "days": 31,
+          "vc": "스마일게이트뉴딜펀드",
+          "type": "장내매도",
+          "amount": -436790967,
+          "shares": -18437,
+          "rcept_no": "20241008000426"
+        },
+        {
+          "date": "2024-09-24",
+          "days": 32,
+          "vc": "스마일게이트뉴딜펀드",
+          "type": "장내매도",
+          "amount": -466495453,
+          "shares": -22511,
+          "rcept_no": "20241008000426"
+        },
+        {
+          "date": "2024-09-24",
+          "days": 32,
+          "vc": "기술혁신전문G&G펀드1호",
+          "type": "장내매도",
+          "amount": -1086617664,
+          "shares": -52448,
+          "rcept_no": "20241008000426"
+        },
+        {
+          "date": "2024-09-24",
+          "days": 32,
+          "vc": "스마일게이트딥테크사업화1호펀드",
+          "type": "장내매도",
+          "amount": -598987802,
+          "shares": -28973,
+          "rcept_no": "20241008000426"
+        },
+        {
+          "date": "2024-09-24",
+          "days": 32,
+          "vc": "에스브이아이씨38호신기술사업투자조합(업무집행조합원:삼성벤처투자(주))",
+          "type": "시간외매매",
+          "amount": -4268182900,
+          "shares": -195950,
+          "rcept_no": "20240927000151"
+        },
+        {
+          "date": "2024-09-24",
+          "days": 32,
+          "vc": "스마일게이트패스파인더펀드",
+          "type": "장내매도",
+          "amount": -2613453515,
+          "shares": -126065,
+          "rcept_no": "20241008000426"
+        },
+        {
+          "date": "2024-09-25",
+          "days": 33,
+          "vc": "스마일게이트딥테크사업화1호펀드",
+          "type": "장내매도",
+          "amount": -332221824,
+          "shares": -15552,
+          "rcept_no": "20241008000426"
+        },
+        {
+          "date": "2024-09-25",
+          "days": 33,
+          "vc": "스마일게이트패스파인더펀드",
+          "type": "장내매도",
+          "amount": -1399408902,
+          "shares": -65497,
+          "rcept_no": "20241008000426"
+        },
+        {
+          "date": "2024-09-25",
+          "days": 33,
+          "vc": "기술혁신전문G&G펀드1호",
+          "type": "장내매도",
+          "amount": -547742673,
+          "shares": -25659,
+          "rcept_no": "20241008000426"
+        },
+        {
+          "date": "2024-09-25",
+          "days": 33,
+          "vc": "스마일게이트뉴딜펀드",
+          "type": "장내매도",
+          "amount": -208240500,
+          "shares": -9750,
+          "rcept_no": "20241008000426"
+        },
+        {
+          "date": "2024-09-26",
+          "days": 34,
+          "vc": "스마일게이트딥테크사업화1호펀드",
+          "type": "장내매도",
+          "amount": -27734400,
+          "shares": -1296,
+          "rcept_no": "20241008000426"
+        },
+        {
+          "date": "2024-09-26",
+          "days": 34,
+          "vc": "스마일게이트패스파인더펀드",
+          "type": "장내매도",
+          "amount": -116801200,
+          "shares": -5458,
+          "rcept_no": "20241008000426"
+        },
+        {
+          "date": "2024-09-26",
+          "days": 34,
+          "vc": "기술혁신전문G&G펀드1호",
+          "type": "장내매도",
+          "amount": -82689600,
+          "shares": -3864,
+          "rcept_no": "20241008000426"
+        },
+        {
+          "date": "2024-09-26",
+          "days": 34,
+          "vc": "스마일게이트뉴딜펀드",
+          "type": "장내매도",
+          "amount": -62573600,
+          "shares": -2924,
+          "rcept_no": "20241008000426"
+        },
+        {
+          "date": "2024-09-27",
+          "days": 35,
+          "vc": "기술혁신전문G&G펀드1호",
+          "type": "장내매도",
+          "amount": -517723374,
+          "shares": -25654,
+          "rcept_no": "20241008000426"
+        },
+        {
+          "date": "2024-09-27",
+          "days": 35,
+          "vc": "스마일게이트딥테크사업화1호펀드",
+          "type": "장내매도",
+          "amount": -259579476,
+          "shares": -12899,
+          "rcept_no": "20241008000426"
+        },
+        {
+          "date": "2024-09-27",
+          "days": 35,
+          "vc": "스마일게이트패스파인더펀드",
+          "type": "장내매도",
+          "amount": -629990370,
+          "shares": -31410,
+          "rcept_no": "20241008000426"
+        },
+        {
+          "date": "2024-09-27",
+          "days": 35,
+          "vc": "스마일게이트뉴딜펀드",
+          "type": "장내매도",
+          "amount": -357697876,
+          "shares": -17803,
+          "rcept_no": "20241008000426"
+        }
+      ]
+    },
+    {
       "corp_name": "SAMG엔터",
       "stock_code": "419530",
       "net_amount": -46328066676,
@@ -9193,6 +9222,156 @@
       ]
     },
     {
+      "corp_name": "HPSP",
+      "stock_code": "403870",
+      "net_amount": -36252812076,
+      "sell_amount": -36252812076,
+      "buy_amount": 0,
+      "net_shares": -637056,
+      "tx_count": 15,
+      "ipo_mcap": 493742875000,
+      "ipo_offering": 75000000000,
+      "pct_mcap": -7.34,
+      "pct_offering": -48.34,
+      "disclosures": [
+        {
+          "date": "2022-08-16",
+          "days": 32,
+          "vc": "코너스톤 상생3호 신기술조합",
+          "type": "장내매도",
+          "amount": -7097996400,
+          "shares": -125851,
+          "rcept_no": "20220819000019"
+        },
+        {
+          "date": "2022-08-16",
+          "days": 32,
+          "vc": "코너스톤 상생2호 신기술조합",
+          "type": "장내매도",
+          "amount": -2125431921,
+          "shares": -37699,
+          "rcept_no": "20220819000019"
+        },
+        {
+          "date": "2022-08-16",
+          "days": 32,
+          "vc": "코너스톤 윈윈 신기술조합",
+          "type": "장내매도",
+          "amount": -538832250,
+          "shares": -9558,
+          "rcept_no": "20220819000019"
+        },
+        {
+          "date": "2022-08-17",
+          "days": 33,
+          "vc": "코너스톤 상생3호 신기술조합",
+          "type": "장내매도",
+          "amount": -10071590984,
+          "shares": -183547,
+          "rcept_no": "20220819000019"
+        },
+        {
+          "date": "2022-08-17",
+          "days": 33,
+          "vc": "코너스톤 상생2호 신기술조합",
+          "type": "장내매도",
+          "amount": -2991733248,
+          "shares": -54528,
+          "rcept_no": "20220819000019"
+        },
+        {
+          "date": "2022-08-17",
+          "days": 33,
+          "vc": "코너스톤 윈윈 신기술조합",
+          "type": "장내매도",
+          "amount": -748359479,
+          "shares": -13643,
+          "rcept_no": "20220819000019"
+        },
+        {
+          "date": "2022-08-18",
+          "days": 34,
+          "vc": "코너스톤 상생3호 신기술조합",
+          "type": "장내매도",
+          "amount": -4178488600,
+          "shares": -75700,
+          "rcept_no": "20220819000019"
+        },
+        {
+          "date": "2022-08-18",
+          "days": 34,
+          "vc": "코너스톤 상생2호 신기술조합",
+          "type": "장내매도",
+          "amount": -1258286400,
+          "shares": -22800,
+          "rcept_no": "20220819000019"
+        },
+        {
+          "date": "2022-08-18",
+          "days": 34,
+          "vc": "코너스톤 윈윈 신기술조합",
+          "type": "장내매도",
+          "amount": -313951440,
+          "shares": -5690,
+          "rcept_no": "20220819000019"
+        },
+        {
+          "date": "2022-08-22",
+          "days": 38,
+          "vc": "2021 HB반도체세컨더리투자조합",
+          "type": "장내매도",
+          "amount": -5309175,
+          "shares": -87,
+          "rcept_no": "20220919000018"
+        },
+        {
+          "date": "2022-08-25",
+          "days": 41,
+          "vc": "2021 HB반도체세컨더리투자조합",
+          "type": "장내매도",
+          "amount": -1225107499,
+          "shares": -19913,
+          "rcept_no": "20220919000018"
+        },
+        {
+          "date": "2022-08-26",
+          "days": 42,
+          "vc": "2021 HB반도체세컨더리투자조합",
+          "type": "장내매도",
+          "amount": -1548536332,
+          "shares": -24077,
+          "rcept_no": "20220919000018"
+        },
+        {
+          "date": "2022-08-31",
+          "days": 47,
+          "vc": "2021 HB반도체세컨더리투자조합",
+          "type": "장내매도",
+          "amount": -2618160000,
+          "shares": -40000,
+          "rcept_no": "20220919000018"
+        },
+        {
+          "date": "2022-09-07",
+          "days": 54,
+          "vc": "2021 HB반도체세컨더리투자조합",
+          "type": "장내매도",
+          "amount": -113778000,
+          "shares": -1806,
+          "rcept_no": "20220919000018"
+        },
+        {
+          "date": "2022-09-08",
+          "days": 55,
+          "vc": "2021 HB반도체세컨더리투자조합",
+          "type": "장내매도",
+          "amount": -1417250348,
+          "shares": -22157,
+          "rcept_no": "20220919000018"
+        }
+      ]
+    },
+    {
       "corp_name": "압타머사이언스",
       "stock_code": "291650",
       "net_amount": -34387695055,
@@ -9796,7 +9975,7 @@
         {
           "date": "2020-09-14",
           "days": 0,
-          "vc": "아이디어브릿지파트너스-UTC기술강소기업투자1호조합",
+          "vc": "아이디어브릿지파트너스-유티씨기술강소기업투자1호조합",
           "type": "장내매도",
           "amount": -223659426,
           "shares": -9686,
@@ -9841,7 +10020,7 @@
         {
           "date": "2020-10-14",
           "days": 30,
-          "vc": "아이디어브릿지파트너스-UTC기술강소기업투자1호조합",
+          "vc": "아이디어브릿지파트너스-유티씨기술강소기업투자1호조합",
           "type": "장내매도",
           "amount": -38323950,
           "shares": -969,
@@ -9859,7 +10038,7 @@
         {
           "date": "2020-10-15",
           "days": 31,
-          "vc": "아이디어브릿지파트너스-UTC기술강소기업투자1호조합",
+          "vc": "아이디어브릿지파트너스-유티씨기술강소기업투자1호조합",
           "type": "장내매도",
           "amount": -439944792,
           "shares": -9687,
@@ -9877,7 +10056,7 @@
         {
           "date": "2020-12-29",
           "days": 106,
-          "vc": "아이디어브릿지파트너스-UTC기술강소기업투자1호조합",
+          "vc": "아이디어브릿지파트너스-유티씨기술강소기업투자1호조합",
           "type": "장내매도",
           "amount": -1455287470,
           "shares": -19370,
@@ -9891,75 +10070,6 @@
           "amount": -7541400000,
           "shares": -100000,
           "rcept_no": "20210111000497"
-        }
-      ]
-    },
-    {
-      "corp_name": "에이직랜드",
-      "stock_code": "445090",
-      "net_amount": -33083731206,
-      "sell_amount": -33083731206,
-      "buy_amount": 0,
-      "net_shares": -604257,
-      "tx_count": 6,
-      "ipo_mcap": 264633000000,
-      "ipo_offering": 65908250000,
-      "pct_mcap": -12.5,
-      "pct_offering": -50.2,
-      "disclosures": [
-        {
-          "date": "2023-12-27",
-          "days": 44,
-          "vc": "인천창조경제혁신펀드",
-          "type": "장내매도",
-          "amount": -5289013847,
-          "shares": -86593,
-          "rcept_no": "20240103000448"
-        },
-        {
-          "date": "2023-12-28",
-          "days": 45,
-          "vc": "인천창조경제혁신펀드",
-          "type": "장내매도",
-          "amount": -947111160,
-          "shares": -15690,
-          "rcept_no": "20240103000448"
-        },
-        {
-          "date": "2024-01-02",
-          "days": 50,
-          "vc": "인천창조경제혁신펀드",
-          "type": "장내매도",
-          "amount": -5986809727,
-          "shares": -98101,
-          "rcept_no": "20240103000448"
-        },
-        {
-          "date": "2024-01-04",
-          "days": 52,
-          "vc": "인천창조경제혁신펀드",
-          "type": "장내매도",
-          "amount": -964451605,
-          "shares": -15977,
-          "rcept_no": "20240111000342"
-        },
-        {
-          "date": "2024-01-08",
-          "days": 56,
-          "vc": "인천창조경제혁신펀드",
-          "type": "장내매도",
-          "amount": -8199107280,
-          "shares": -160893,
-          "rcept_no": "20240111000342"
-        },
-        {
-          "date": "2024-01-09",
-          "days": 57,
-          "vc": "인천창조경제혁신펀드",
-          "type": "장내매도",
-          "amount": -11697237587,
-          "shares": -227003,
-          "rcept_no": "20240111000342"
         }
       ]
     },
@@ -10093,7 +10203,7 @@
         {
           "date": "2022-03-03",
           "days": 0,
-          "vc": "KTBN 16호  벤처투자조합",
+          "vc": "KTBN 16호 벤처투자조합",
           "type": "장내매도",
           "amount": -5699744298,
           "shares": -210961,
@@ -10519,7 +10629,7 @@
         {
           "date": "2025-11-06",
           "days": 48,
-          "vc": "스톤브릿지DX사업재편 투자조합",
+          "vc": "스톤브릿지DX사업재편투자조합",
           "type": "장내매도",
           "amount": -2810754436,
           "shares": -111902,
@@ -10537,7 +10647,7 @@
         {
           "date": "2025-11-25",
           "days": 67,
-          "vc": "스톤브릿지DX사업재편 투자조합",
+          "vc": "스톤브릿지DX사업재편투자조합",
           "type": "장내매도",
           "amount": -9191088852,
           "shares": -351516,
@@ -10739,269 +10849,110 @@
           "rcept_no": "20210817000264"
         }
       ]
-    },
-    {
-      "corp_name": "코스모로보틱스",
-      "stock_code": "439960",
-      "net_amount": -30109374382,
-      "sell_amount": -30109374382,
-      "buy_amount": 0,
-      "net_shares": -1139720,
-      "tx_count": 16,
-      "ipo_mcap": 192653436000,
-      "ipo_offering": 25020000000,
-      "pct_mcap": -15.63,
-      "pct_offering": -120.34,
-      "disclosures": [
-        {
-          "date": "2026-05-11",
-          "days": 0,
-          "vc": "엔비에이치캐피탈(주)",
-          "type": "장내매도",
-          "amount": -435200871,
-          "shares": -19171,
-          "rcept_no": "20260514001509"
-        },
-        {
-          "date": "2026-05-11",
-          "days": 0,
-          "vc": "리네아-NBH신기술투자조합제1호",
-          "type": "장내매도",
-          "amount": -528000,
-          "shares": -22,
-          "rcept_no": "20260514001509"
-        },
-        {
-          "date": "2026-05-11",
-          "days": 0,
-          "vc": "리네아-NBH신기술투자조합제2호",
-          "type": "장내매도",
-          "amount": -4885660000,
-          "shares": -215000,
-          "rcept_no": "20260514001509"
-        },
-        {
-          "date": "2026-05-11",
-          "days": 0,
-          "vc": "리네아-NBH신기술투자조합제3호",
-          "type": "장내매도",
-          "amount": -1188402405,
-          "shares": -52341,
-          "rcept_no": "20260514001509"
-        },
-        {
-          "date": "2026-05-12",
-          "days": 1,
-          "vc": "엔비에이치캐피탈(주)",
-          "type": "장내매도",
-          "amount": -273317525,
-          "shares": -9365,
-          "rcept_no": "20260514001509"
-        },
-        {
-          "date": "2026-05-12",
-          "days": 1,
-          "vc": "리네아-NBH신기술투자조합제2호",
-          "type": "장내매도",
-          "amount": -3061485000,
-          "shares": -105000,
-          "rcept_no": "20260514001509"
-        },
-        {
-          "date": "2026-05-12",
-          "days": 1,
-          "vc": "리네아-NBH신기술투자조합제3호",
-          "type": "장내매도",
-          "amount": -746490726,
-          "shares": -25563,
-          "rcept_no": "20260514001509"
-        },
-        {
-          "date": "2026-05-13",
-          "days": 2,
-          "vc": "엔비에이치캐피탈(주)",
-          "type": "장내매도",
-          "amount": -383267452,
-          "shares": -9586,
-          "rcept_no": "20260514001509"
-        },
-        {
-          "date": "2026-05-13",
-          "days": 2,
-          "vc": "리네아-NBH신기술투자조합제2호",
-          "type": "장내매도",
-          "amount": -4299140000,
-          "shares": -107500,
-          "rcept_no": "20260514001509"
-        },
-        {
-          "date": "2026-05-13",
-          "days": 2,
-          "vc": "리네아-NBH신기술투자조합제3호",
-          "type": "장내매도",
-          "amount": -1045616778,
-          "shares": -26181,
-          "rcept_no": "20260514001509"
-        },
-        {
-          "date": "2026-06-16",
-          "days": 36,
-          "vc": "엔비에이치캐피탈(주)",
-          "type": "장내매도",
-          "amount": -1977072100,
-          "shares": -67300,
-          "rcept_no": "20260618000364"
-        },
-        {
-          "date": "2026-06-17",
-          "days": 37,
-          "vc": "엔비에이치캐피탈(주)",
-          "type": "장내매도",
-          "amount": -2847200000,
-          "shares": -100000,
-          "rcept_no": "20260618000364"
-        },
-        {
-          "date": "2026-06-18",
-          "days": 38,
-          "vc": "엔비에이치캐피탈(주)",
-          "type": "장내매도",
-          "amount": -1324810825,
-          "shares": -48275,
-          "rcept_no": "20260618000364"
-        },
-        {
-          "date": "2026-06-22",
-          "days": 42,
-          "vc": "리네아-NBH신기술투자조합제2호",
-          "type": "시간외매매",
-          "amount": -6144600000,
-          "shares": -285000,
-          "rcept_no": "20260623000378"
-        },
-        {
-          "date": "2026-06-22",
-          "days": 42,
-          "vc": "리네아-NBH신기술투자조합제3호",
-          "type": "시간외매매",
-          "amount": -1496048400,
-          "shares": -69390,
-          "rcept_no": "20260623000378"
-        },
-        {
-          "date": "2026-06-23",
-          "days": 43,
-          "vc": "리네아-NBH신기술투자조합제1호",
-          "type": "장내매도",
-          "amount": -534300,
-          "shares": -26,
-          "rcept_no": "20260623000378"
-        }
-      ]
     }
   ],
   "yearly_early_sell": [
     {
       "year": 2020,
       "ipo_total_count": 56,
-      "vc_ipo_count": 26,
+      "vc_ipo_count": 27,
       "early_sell_stocks": 24,
       "early_sell_vcs": 78,
       "net_amount": -550775226675,
       "sell_amount": -550775226675,
       "buy_amount": 0,
       "tx_count": 364,
-      "full_net_amount": -727053555448,
-      "full_pct_offering": -100.54,
-      "total_ipo_mcap": 4250207813500,
-      "total_ipo_offering": 723161719200,
-      "pct_mcap": -12.96,
-      "pct_offering": -76.16
+      "full_net_amount": -751567473840,
+      "full_pct_offering": -96.56,
+      "total_ipo_mcap": 4580597339500,
+      "total_ipo_offering": 778361719200,
+      "pct_mcap": -12.02,
+      "pct_offering": -70.76
     },
     {
       "year": 2021,
       "ipo_total_count": 65,
       "vc_ipo_count": 33,
       "early_sell_stocks": 31,
-      "early_sell_vcs": 69,
-      "net_amount": -455207044948,
-      "sell_amount": -455207044948,
+      "early_sell_vcs": 70,
+      "net_amount": -458542187068,
+      "sell_amount": -458542187068,
       "buy_amount": 0,
-      "tx_count": 566,
-      "full_net_amount": -740938979960,
-      "full_pct_offering": -60.21,
+      "tx_count": 572,
+      "full_net_amount": -747619181331,
+      "full_pct_offering": -60.76,
       "total_ipo_mcap": 6905385694400,
       "total_ipo_offering": 1230493730000,
-      "pct_mcap": -6.59,
-      "pct_offering": -36.99
+      "pct_mcap": -6.64,
+      "pct_offering": -37.26
     },
     {
       "year": 2022,
       "ipo_total_count": 61,
-      "vc_ipo_count": 35,
-      "early_sell_stocks": 32,
-      "early_sell_vcs": 70,
-      "net_amount": -400119619351,
-      "sell_amount": -401613711902,
+      "vc_ipo_count": 37,
+      "early_sell_stocks": 33,
+      "early_sell_vcs": 75,
+      "net_amount": -427535473522,
+      "sell_amount": -429029566073,
       "buy_amount": 1494092551,
-      "tx_count": 376,
-      "full_net_amount": -530043408923,
-      "full_pct_offering": -38.08,
-      "total_ipo_mcap": 7391324794400,
-      "total_ipo_offering": 1391971267700,
-      "pct_mcap": -5.41,
-      "pct_offering": -28.74
+      "tx_count": 394,
+      "full_net_amount": -599473941442,
+      "full_pct_offering": -38.57,
+      "total_ipo_mcap": 8128943361400,
+      "total_ipo_offering": 1554413167700,
+      "pct_mcap": -5.26,
+      "pct_offering": -27.5
     },
     {
       "year": 2023,
       "ipo_total_count": 70,
-      "vc_ipo_count": 35,
+      "vc_ipo_count": 36,
       "early_sell_stocks": 35,
-      "early_sell_vcs": 86,
-      "net_amount": -370640831589,
-      "sell_amount": -370640831589,
+      "early_sell_vcs": 89,
+      "net_amount": -424137098027,
+      "sell_amount": -424137098027,
       "buy_amount": 0,
-      "tx_count": 345,
-      "full_net_amount": -417525226278,
-      "full_pct_offering": -39.03,
-      "total_ipo_mcap": 6935343705000,
-      "total_ipo_offering": 1069834870000,
-      "pct_mcap": -5.34,
-      "pct_offering": -34.64
+      "tx_count": 374,
+      "full_net_amount": -486727881597,
+      "full_pct_offering": -44.75,
+      "total_ipo_mcap": 7041788950000,
+      "total_ipo_offering": 1087676064000,
+      "pct_mcap": -6.02,
+      "pct_offering": -38.99
     },
     {
       "year": 2024,
       "ipo_total_count": 67,
       "vc_ipo_count": 44,
       "early_sell_stocks": 41,
-      "early_sell_vcs": 139,
-      "net_amount": -470473715261,
-      "sell_amount": -470473715261,
+      "early_sell_vcs": 138,
+      "net_amount": -467235694644,
+      "sell_amount": -467235694644,
       "buy_amount": 0,
-      "tx_count": 524,
-      "full_net_amount": -581870020118,
-      "full_pct_offering": -48.18,
+      "tx_count": 567,
+      "full_net_amount": -581599951461,
+      "full_pct_offering": -48.16,
       "total_ipo_mcap": 7946082654600,
       "total_ipo_offering": 1207640340000,
-      "pct_mcap": -5.92,
-      "pct_offering": -38.96
+      "pct_mcap": -5.88,
+      "pct_offering": -38.69
     },
     {
       "year": 2025,
       "ipo_total_count": 67,
-      "vc_ipo_count": 39,
+      "vc_ipo_count": 40,
       "early_sell_stocks": 38,
       "early_sell_vcs": 140,
-      "net_amount": -1472979282306,
-      "sell_amount": -1473435311959,
+      "net_amount": -1463220760981,
+      "sell_amount": -1463676790634,
       "buy_amount": 456029653,
-      "tx_count": 778,
-      "full_net_amount": -1659187448664,
-      "full_pct_offering": -120.38,
-      "total_ipo_mcap": 9696438620700,
-      "total_ipo_offering": 1378321500000,
-      "pct_mcap": -15.19,
-      "pct_offering": -106.87
+      "tx_count": 803,
+      "full_net_amount": -1657616859549,
+      "full_pct_offering": -117.53,
+      "total_ipo_mcap": 9922998620700,
+      "total_ipo_offering": 1410321500000,
+      "pct_mcap": -14.75,
+      "pct_offering": -103.75
     },
     {
       "year": 2026,
@@ -11085,20 +11036,20 @@
     {
       "year": 2021,
       "days": 120,
-      "net_amount": -17511144241,
-      "count": 170
+      "net_amount": -17631331321,
+      "count": 172
     },
     {
       "year": 2021,
       "days": 150,
-      "net_amount": -7053921487,
-      "count": 105
+      "net_amount": -7148876527,
+      "count": 107
     },
     {
       "year": 2021,
       "days": 180,
-      "net_amount": -2974809840,
-      "count": 2
+      "net_amount": -6094809840,
+      "count": 4
     },
     {
       "year": 2022,
@@ -11109,8 +11060,8 @@
     {
       "year": 2022,
       "days": 30,
-      "net_amount": -126511994862,
-      "count": 96
+      "net_amount": -133440136216,
+      "count": 102
     },
     {
       "year": 2022,
@@ -11121,14 +11072,14 @@
     {
       "year": 2022,
       "days": 90,
-      "net_amount": -33282230070,
-      "count": 50
+      "net_amount": -39008049963,
+      "count": 57
     },
     {
       "year": 2022,
       "days": 120,
-      "net_amount": -35108266372,
-      "count": 49
+      "net_amount": -49870159296,
+      "count": 54
     },
     {
       "year": 2022,
@@ -11151,8 +11102,8 @@
     {
       "year": 2023,
       "days": 30,
-      "net_amount": -127383894542,
-      "count": 94
+      "net_amount": -179410389792,
+      "count": 113
     },
     {
       "year": 2023,
@@ -11169,14 +11120,14 @@
     {
       "year": 2023,
       "days": 120,
-      "net_amount": -7020332204,
-      "count": 23
+      "net_amount": -7152557954,
+      "count": 25
     },
     {
       "year": 2023,
       "days": 150,
-      "net_amount": -7217313075,
-      "count": 20
+      "net_amount": -8554858513,
+      "count": 28
     },
     {
       "year": 2023,
@@ -11187,50 +11138,50 @@
     {
       "year": 2024,
       "days": 0,
-      "net_amount": -284084809361,
-      "count": 153
+      "net_amount": -276614241861,
+      "count": 155
     },
     {
       "year": 2024,
       "days": 30,
-      "net_amount": -91972225937,
-      "count": 139
+      "net_amount": -93381129621,
+      "count": 142
     },
     {
       "year": 2024,
       "days": 60,
-      "net_amount": -24753201797,
-      "count": 126
+      "net_amount": -25836297899,
+      "count": 127
     },
     {
       "year": 2024,
       "days": 90,
-      "net_amount": -35613647766,
-      "count": 71
+      "net_amount": -36779890388,
+      "count": 80
     },
     {
       "year": 2024,
       "days": 120,
-      "net_amount": -33749594590,
-      "count": 34
+      "net_amount": -33815218300,
+      "count": 40
     },
     {
       "year": 2024,
       "days": 150,
-      "net_amount": -300235810,
-      "count": 1
+      "net_amount": -808916575,
+      "count": 23
     },
     {
       "year": 2025,
       "days": 0,
-      "net_amount": -819655231676,
-      "count": 370
+      "net_amount": -815131088308,
+      "count": 362
     },
     {
       "year": 2025,
       "days": 30,
-      "net_amount": -331577307469,
-      "count": 260
+      "net_amount": -324950575152,
+      "count": 263
     },
     {
       "year": 2025,
@@ -11247,14 +11198,14 @@
     {
       "year": 2025,
       "days": 120,
-      "net_amount": -23788744242,
-      "count": 12
+      "net_amount": -24235138983,
+      "count": 36
     },
     {
       "year": 2025,
       "days": 150,
-      "net_amount": -12603595215,
-      "count": 21
+      "net_amount": -13549554834,
+      "count": 27
     },
     {
       "year": 2025,
@@ -11515,9 +11466,9 @@
         "count": 4,
         "shares_abs": 372654,
         "vcs": [
-          "2015KIF-스톤브릿지IT전문투자조합",
-          "2019KIF-스톤브릿지혁신기술성장TCB투자조합",
-          "스톤브릿지2020벤처투자조합",
+          "2015KIF스톤브릿지IT전문투자조합",
+          "2019KIF스톤브릿지혁신기술성장TCB투자조합",
+          "스톤브릿지2020벤처",
           "스톤브릿지영프론티어투자조합"
         ],
         "cases": [
@@ -11535,7 +11486,7 @@
           {
             "date": "2021-07-09",
             "days": 44,
-            "vc": "2015KIF-스톤브릿지IT전문투자조합",
+            "vc": "2015KIF스톤브릿지IT전문투자조합",
             "corp_name": "진시스템",
             "type": "장내매도",
             "shares": -170081,
@@ -11546,7 +11497,7 @@
           {
             "date": "2021-07-09",
             "days": 44,
-            "vc": "2019KIF-스톤브릿지혁신기술성장TCB투자조합",
+            "vc": "2019KIF스톤브릿지혁신기술성장TCB투자조합",
             "corp_name": "진시스템",
             "type": "장내매도",
             "shares": -77446,
@@ -11557,7 +11508,7 @@
           {
             "date": "2021-07-09",
             "days": 44,
-            "vc": "스톤브릿지2020벤처투자조합",
+            "vc": "스톤브릿지2020벤처",
             "corp_name": "진시스템",
             "type": "장내매도",
             "shares": -77446,
@@ -11651,7 +11602,7 @@
         "count": 2,
         "shares_abs": 103105,
         "vcs": [
-          "2019KIF-스톤브릿지혁신기술성장TCB투자조합",
+          "2019KIF스톤브릿지혁신기술성장TCB투자조합",
           "스톤브릿지영프론티어투자조합"
         ],
         "cases": [
@@ -11669,7 +11620,7 @@
           {
             "date": "2022-11-22",
             "days": 0,
-            "vc": "2019KIF-스톤브릿지혁신기술성장TCB투자조합",
+            "vc": "2019KIF스톤브릿지혁신기술성장TCB투자조합",
             "corp_name": "인벤티지랩",
             "type": "장내매도",
             "shares": -35000,
@@ -11943,7 +11894,7 @@
         ]
       },
       {
-        "vc_name": "2019KIF-스톤브릿지혁신기술성장TCB투자조합",
+        "vc_name": "2019KIF스톤브릿지혁신기술성장TCB투자조합",
         "count": 2,
         "shares_abs": 112446,
         "stocks": [
@@ -11954,7 +11905,7 @@
           {
             "date": "2021-07-09",
             "days": 44,
-            "vc": "2019KIF-스톤브릿지혁신기술성장TCB투자조합",
+            "vc": "2019KIF스톤브릿지혁신기술성장TCB투자조합",
             "corp_name": "진시스템",
             "type": "장내매도",
             "shares": -77446,
@@ -11965,7 +11916,7 @@
           {
             "date": "2022-11-22",
             "days": 0,
-            "vc": "2019KIF-스톤브릿지혁신기술성장TCB투자조합",
+            "vc": "2019KIF스톤브릿지혁신기술성장TCB투자조합",
             "corp_name": "인벤티지랩",
             "type": "장내매도",
             "shares": -35000,
@@ -12009,7 +11960,7 @@
         ]
       },
       {
-        "vc_name": "2015KIF-스톤브릿지IT전문투자조합",
+        "vc_name": "2015KIF스톤브릿지IT전문투자조합",
         "count": 1,
         "shares_abs": 170081,
         "stocks": [
@@ -12019,7 +11970,7 @@
           {
             "date": "2021-07-09",
             "days": 44,
-            "vc": "2015KIF-스톤브릿지IT전문투자조합",
+            "vc": "2015KIF스톤브릿지IT전문투자조합",
             "corp_name": "진시스템",
             "type": "장내매도",
             "shares": -170081,
@@ -12030,7 +11981,7 @@
         ]
       },
       {
-        "vc_name": "스톤브릿지2020벤처투자조합",
+        "vc_name": "스톤브릿지2020벤처",
         "count": 1,
         "shares_abs": 77446,
         "stocks": [
@@ -12040,7 +11991,7 @@
           {
             "date": "2021-07-09",
             "days": 44,
-            "vc": "스톤브릿지2020벤처투자조합",
+            "vc": "스톤브릿지2020벤처",
             "corp_name": "진시스템",
             "type": "장내매도",
             "shares": -77446,
@@ -13160,7 +13111,7 @@
           "common_info": null
         },
         {
-          "spc_nm": "PATHFINDER YOUNG ENTREPRENEURS VENTURE FUND",
+          "spc_nm": "패스파인더 청년창업 투자조합",
           "stk_knd": "증권예탁증권",
           "hld_mth_adj": "신규상장(무상취득)(+)",
           "mdf_dt": "2025.12.09",
@@ -13174,7 +13125,7 @@
           "common_info": null
         },
         {
-          "spc_nm": "PATHFINDER YOUNG ENTREPRENEURS VENTURE FUND",
+          "spc_nm": "패스파인더 청년창업 투자조합",
           "stk_knd": "증권예탁증권",
           "hld_mth_adj": "장내매도(-)",
           "mdf_dt": "2025.12.09",
@@ -13188,7 +13139,7 @@
           "common_info": null
         },
         {
-          "spc_nm": "PATHFINDER YOUNG ENTREPRENEURS VENTURE FUND",
+          "spc_nm": "패스파인더 청년창업 투자조합",
           "stk_knd": "증권예탁증권",
           "hld_mth_adj": "특별관계해소(-)",
           "mdf_dt": "2026.01.09",
@@ -13202,7 +13153,7 @@
           "common_info": null
         },
         {
-          "spc_nm": "PATHFINDER YOUNG ENTREPRENEURS VENTURE FUND",
+          "spc_nm": "패스파인더 청년창업 투자조합",
           "stk_knd": "증권예탁증권",
           "hld_mth_adj": "장내매도(-)",
           "mdf_dt": "2026.01.14",
@@ -13462,6 +13413,63 @@
       ]
     },
     {
+      "corp_name": "엑셀세라퓨틱스",
+      "stock_code": "373110",
+      "records": [
+        {
+          "spc_nm": "이그나이트이노베이터스㈜",
+          "stk_knd": "신주인수권이표시된것",
+          "hld_mth_adj": "기타(+)",
+          "mdf_dt": "2025.10.21",
+          "mdf_sdk_cnt": "162177.0",
+          "hld_unt_pr": "-",
+          "afr_mdf_cnt": "162,177",
+          "bfr_mdf_cnt": "-",
+          "rmk": "주주배정 유상증자에 따른신주인수권증서 배정",
+          "rcept_no_new": "20251128002044",
+          "has_common": true,
+          "common_info": {
+            "qty": "446,510",
+            "unit_price": "-"
+          }
+        },
+        {
+          "spc_nm": "이그나이트이노베이터스㈜",
+          "stk_knd": "신주인수권이표시된것",
+          "hld_mth_adj": "장내매도(-)",
+          "mdf_dt": "2025.10.28",
+          "mdf_sdk_cnt": "-100000.0",
+          "hld_unt_pr": "1,880",
+          "afr_mdf_cnt": "62,177",
+          "bfr_mdf_cnt": "162,177",
+          "rmk": "신주인수권증서 장내매도",
+          "rcept_no_new": "20251128002044",
+          "has_common": true,
+          "common_info": {
+            "qty": "446,510",
+            "unit_price": "-"
+          }
+        },
+        {
+          "spc_nm": "이그나이트이노베이터스㈜",
+          "stk_knd": "신주인수권이표시된것",
+          "hld_mth_adj": "장내매도(-)",
+          "mdf_dt": "2025.10.29",
+          "mdf_sdk_cnt": "-62177.0",
+          "hld_unt_pr": "1,880",
+          "afr_mdf_cnt": "-",
+          "bfr_mdf_cnt": "62,177",
+          "rmk": "신주인수권증서 장내매도",
+          "rcept_no_new": "20251128002044",
+          "has_common": true,
+          "common_info": {
+            "qty": "446,510",
+            "unit_price": "-"
+          }
+        }
+      ]
+    },
+    {
       "corp_name": "웨이비스",
       "stock_code": "289930",
       "records": [
@@ -13647,6 +13655,46 @@
       ]
     },
     {
+      "corp_name": "유진테크놀로지",
+      "stock_code": "240600",
+      "records": [
+        {
+          "spc_nm": "하베스트제1호 창업벤처전문 사모투자 합자회사",
+          "stk_knd": "전환사채권",
+          "hld_mth_adj": "신규상장(유상취득)(+)",
+          "mdf_dt": "2023.11.02",
+          "mdf_sdk_cnt": "666666.0",
+          "hld_unt_pr": "7,500",
+          "afr_mdf_cnt": "666,666",
+          "bfr_mdf_cnt": "-",
+          "rmk": "최초 취득단가이며, 신규상장일 종가는 21,200원임",
+          "rcept_no_new": "20231106000262",
+          "has_common": true,
+          "common_info": {
+            "qty": "666,666",
+            "unit_price": "7,500"
+          }
+        },
+        {
+          "spc_nm": "하베스트제1호 창업벤처전문 사모투자 합자회사",
+          "stk_knd": "전환사채권",
+          "hld_mth_adj": "전환등(-)",
+          "mdf_dt": "2023.11.02",
+          "mdf_sdk_cnt": "-666666.0",
+          "hld_unt_pr": "7,500",
+          "afr_mdf_cnt": "-",
+          "bfr_mdf_cnt": "666,666",
+          "rmk": "전환권 행사",
+          "rcept_no_new": "20240903000395",
+          "has_common": true,
+          "common_info": {
+            "qty": "666,666",
+            "unit_price": "7,500"
+          }
+        }
+      ]
+    },
+    {
       "corp_name": "케이엔에스",
       "stock_code": "432470",
       "records": [
@@ -13787,26 +13835,6 @@
       ]
     },
     {
-      "corp_name": "유진테크놀로지",
-      "stock_code": "240600",
-      "records": [
-        {
-          "spc_nm": "하베스트제1호창업벤처전문사모투자 합자회사",
-          "stk_knd": "전환사채권",
-          "hld_mth_adj": "신규상장(유상취득)(+)",
-          "mdf_dt": "2023.11.02",
-          "mdf_sdk_cnt": "666666.0",
-          "hld_unt_pr": "7,500",
-          "afr_mdf_cnt": "666,666",
-          "bfr_mdf_cnt": "-",
-          "rmk": "최초 취득단가이며, 신규상장일 종가는 21,200원임",
-          "rcept_no_new": "20231106000262",
-          "has_common": false,
-          "common_info": null
-        }
-      ]
-    },
-    {
       "corp_name": "인바이오",
       "stock_code": "352940",
       "records": [
@@ -13838,24 +13866,26 @@
     "시간외매매"
   ],
   "summary": {
-    "total_records": 3883,
-    "total_stocks": 223,
-    "total_vcs": 576,
-    "total_net_amount": -4826197136947,
+    "total_records": 4322,
+    "total_stocks": 228,
+    "total_vcs": 564,
+    "total_net_amount": -4994183786776,
     "buy_amount": 1950122204,
-    "sell_amount": -4828147259151,
-    "total_net_shares": -188781547,
+    "sell_amount": -4996133908980,
+    "total_net_shares": -197531779,
     "buy_shares": 140118,
-    "sell_shares": -188921665,
+    "sell_shares": -197671897,
     "buy_count": 27,
-    "sell_count": 3829,
-    "ipo_vc_count": 703,
+    "sell_count": 4268,
+    "ipo_vc_count": 656,
     "ipo_stock_count": 240,
-    "ipo_pair_count": 918,
-    "total_ipo_mcap": 45182883623000,
-    "total_ipo_offering": 7306095122400,
+    "ipo_pair_count": 914,
+    "total_ipo_mcap": 46583896961000,
+    "total_ipo_offering": 7573578216400,
     "funnel_ipo_total": 403,
     "funnel_raw_stocks": 402,
-    "funnel_vc_stocks": 260
+    "funnel_vc_stocks": 260,
+    "listing_from": "2020-02-20",
+    "listing_to": "2026-07-01"
   }
 }

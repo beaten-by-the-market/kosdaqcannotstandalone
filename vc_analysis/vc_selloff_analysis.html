@@ -83,7 +83,7 @@
         <p>신규상장 시점 보유 VC의 상장 후 보통주 매매 <b>거래대금</b> 분석 (단가 &times; 수량)</p>
         <div class="note">
             데이터: DART 대량보유상황보고서 &nbsp;|&nbsp;
-            대상: 신규상장 시점 보유 VC 675사 &rarr; 이후 보통주(의결권있는 주식) 매매 &nbsp;|&nbsp;
+            대상: 신규상장 시점 보유 VC <span id="hdrIpoVc">-</span>사 &rarr; 이후 보통주(의결권있는 주식) 매매 &nbsp;|&nbsp;
             분석 대상: <b>장내매매, 장외매매, 시간외매매</b>만 포함 &nbsp;|&nbsp;
             금액 = HLD_UNT_PR &times; MDF_SDK_CNT
         </div>
@@ -247,7 +247,7 @@
         <div class="chart-box">
             <div class="doc">
                 <h2>VC는 어떻게 판별했는가?</h2>
-                <p>코스닥 신규상장 종목의 대량보유상황보고에 등장하는 법인/펀드 주주 <b>1,325사</b>를 전수 점검하여 VC 여부를 판별한 과정입니다.<br>
+                <p>코스닥 신규상장 종목의 대량보유상황보고에 등장하는 법인/펀드 주주 <b><span id="selTotal1">-</span>사</b>를 전수 점검하여 VC 여부를 판별한 과정입니다.<br>
                 <span style="color:#888;font-size:12px">위 퍼널의 "대량보유 보고 존재" 단계에서 개인을 제외한 법인/펀드만 추출한 수치입니다.</span></p>
                 <div class="stat-grid" id="selStatGrid"></div>
 
@@ -267,7 +267,7 @@
                 <h2>선별 프로세스 (6단계)</h2>
 
                 <h3>Step 1. 분석대상 추출</h3>
-                <p>원본 데이터에서 개인(주민번호) 제외, 법인/펀드만 추출 &rarr; <b>1,581행 (1,325 고유 사업자번호)</b></p>
+                <p>원본 데이터에서 개인(주민번호) 제외, 법인/펀드만 추출 &rarr; <b>고유 사업자번호 <span id="selTotal2">-</span>개</b></p>
 
                 <h3>Step 2. Phase 1: 참조 데이터 직접 매칭 (6단계)</h3>
                 <table>
@@ -304,7 +304,7 @@
                 </ul>
 
                 <h3>Step 6. 최종 병합 + 대량보유 데이터 필터링</h3>
-                <p>전 단계 결과를 병합하고 중복 제거(제외가 포함보다 우선) &rarr; VC 710사 확정 &rarr; 원본 대량보유 데이터에서 VC 주주만 추출.</p>
+                <p>전 단계 결과를 병합하고 중복 제거(제외가 포함보다 우선) &rarr; VC <span id="selVcCount">-</span>사 확정 &rarr; 원본 대량보유 데이터에서 VC 주주만 추출.</p>
             </div>
         </div>
 
@@ -449,7 +449,7 @@
         <div class="chart-box">
             <div class="doc">
                 <h2>Phase A 비보통주 보유 상세</h2>
-                <p>신규상장 시점(Phase A) 236개 종목 중 <b>보통주(의결권있는 주식) 외</b>의 주식종류를 보유한 VC 현황입니다.</p>
+                <p>신규상장 시점(Phase A) <span id="notesIpoStocks">-</span>개 종목 중 <b>보통주(의결권있는 주식) 외</b>의 주식종류를 보유한 VC 현황입니다.</p>
                 <p style="font-size:12px;color:#888;margin-top:4px">
                     Phase A에서는 VC 식별 목적으로 주식종류를 가리지 않으므로, CB/BW/DR 등 비보통주 보유자도 포함됩니다.
                     이후 Phase B(매매 분석)에서는 보통주 매매만 집계합니다.
@@ -483,6 +483,7 @@ Promise.all([
 ]).then(([d,s])=>{DATA=d;SEL=s;init();}).catch(e=>document.body.innerHTML='<h2 style="color:red;padding:40px">JSON 로드 실패: '+e.message+'</h2>');
 
 function init(){
+    fillStaticCounts();
     renderSummary();
     renderNetBar();
     renderCumulative();
@@ -493,6 +494,17 @@ function init(){
     document.getElementById('pctCumBase').addEventListener('change',function(){renderPctCumulative(this.value);});
 
     initTabs();
+}
+
+/* 본문 설명 문장 속 수치는 JSON에서 채운다(HTML에 직접 적으면 데이터 갱신 때마다 낡는다). */
+function fillStaticCounts(){
+    const ds = DATA.summary, ss = SEL.summary;
+    const set = (id, v) => { const el = document.getElementById(id); if (el && v != null) el.textContent = Number(v).toLocaleString(); };
+    set('hdrIpoVc', ds.ipo_vc_count);
+    set('notesIpoStocks', ds.ipo_stock_count);
+    set('selTotal1', ss.total_candidates);
+    set('selTotal2', ss.total_candidates);
+    set('selVcCount', ss.vc_count);
 }
 
 /* ── Util ── */
@@ -744,11 +756,11 @@ function renderCriteria(){
     const base = ds.funnel_ipo_total || 1;
     const funnel = [
         {label:'수집대상 (IPO 전체)', count: ds.funnel_ipo_total, color:'#6366f1',
-         desc:'2020~2025년 코스닥 신규상장 종목 전체'},
+         desc:(ds.listing_from||'')+' ~ '+(ds.listing_to||'')+' 코스닥 신규상장 종목 전체 (스팩·스팩합병·이전상장·재상장 제외)'},
         {label:'대량보유 보고 존재', count: ds.funnel_raw_stocks, color:'#8b5cf6',
-         desc:'상장 전후 2.5년 내 대량보유상황보고(5%이상)가 1건 이상 접수된 종목'},
+         desc:'상장일부터 2.5년(912일) 내 변동이 담긴 대량보유상황보고(5% 이상)가 1건 이상 있는 종목'},
         {label:'VC 포함 종목', count: ds.funnel_vc_stocks, color:'#f59e0b',
-         desc:'대량보유 보고 주주 중 VC로 선별된 960사가 1사 이상 포함된 종목'},
+         desc:'대량보유 보고 주주 중 VC로 선별된 '+ss.vc_count.toLocaleString()+'사가 1사 이상 포함된 종목'},
         {label:'Phase A (IPO시점 보유)', count: ds.ipo_stock_count, color:'#3b82f6',
          desc:'VC가 신규상장 시점에 지분을 보유(주식종류 불문)하고 있던 종목<br><b>'+ds.ipo_vc_count+'사</b> &times; <b>'+ds.ipo_stock_count+'종목</b>'},
         {label:'Phase B (최종 분석)', count: ds.total_stocks, color:'#22c55e',
