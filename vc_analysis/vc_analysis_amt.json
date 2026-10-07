@@ -2,259 +2,259 @@
   "total_bin": [
     {
       "days": 0,
-      "net": -2101592092665,
-      "count": 1091,
-      "cum": -2101592092665,
-      "net_pct_mcap": -4.6669,
-      "net_pct_offering": -28.8439,
-      "cum_pct_mcap": -4.6669,
-      "cum_pct_offering": -28.8439
+      "net": -2103527267665,
+      "count": 1093,
+      "cum": -2103527267665,
+      "net_pct_mcap": -4.6556,
+      "net_pct_offering": -28.7914,
+      "cum_pct_mcap": -4.6556,
+      "cum_pct_offering": -28.7914
     },
     {
       "days": 30,
       "net": -964862736906,
       "count": 740,
-      "cum": -3066454829571,
-      "net_pct_mcap": -2.1426,
-      "net_pct_offering": -13.2425,
-      "cum_pct_mcap": -6.8095,
-      "cum_pct_offering": -42.0864
+      "cum": -3068390004571,
+      "net_pct_mcap": -2.1355,
+      "net_pct_offering": -13.2063,
+      "cum_pct_mcap": -6.791,
+      "cum_pct_offering": -41.9977
     },
     {
       "days": 60,
       "net": -321863015209,
       "count": 406,
-      "cum": -3388317844780,
-      "net_pct_mcap": -0.7147,
-      "net_pct_offering": -4.4175,
-      "cum_pct_mcap": -7.5242,
-      "cum_pct_offering": -46.5039
+      "cum": -3390253019780,
+      "net_pct_mcap": -0.7124,
+      "net_pct_offering": -4.4054,
+      "cum_pct_mcap": -7.5034,
+      "cum_pct_offering": -46.4031
     },
     {
       "days": 90,
       "net": -320626329972,
       "count": 335,
-      "cum": -3708944174752,
-      "net_pct_mcap": -0.712,
-      "net_pct_offering": -4.4005,
-      "cum_pct_mcap": -8.2362,
-      "cum_pct_offering": -50.9044
+      "cum": -3710879349752,
+      "net_pct_mcap": -0.7096,
+      "net_pct_offering": -4.3885,
+      "cum_pct_mcap": -8.213,
+      "cum_pct_offering": -50.7916
     },
     {
       "days": 120,
       "net": -123857735409,
       "count": 291,
-      "cum": -3832801910161,
-      "net_pct_mcap": -0.275,
-      "net_pct_offering": -1.6999,
-      "cum_pct_mcap": -8.5112,
-      "cum_pct_offering": -52.6043
+      "cum": -3834737085161,
+      "net_pct_mcap": -0.2741,
+      "net_pct_offering": -1.6953,
+      "cum_pct_mcap": -8.4871,
+      "cum_pct_offering": -52.4868
     },
     {
       "days": 150,
       "net": -49183346609,
       "count": 166,
-      "cum": -3881985256770,
-      "net_pct_mcap": -0.1092,
-      "net_pct_offering": -0.675,
-      "cum_pct_mcap": -8.6205,
-      "cum_pct_offering": -53.2794
+      "cum": -3883920431770,
+      "net_pct_mcap": -0.1089,
+      "net_pct_offering": -0.6732,
+      "cum_pct_mcap": -8.596,
+      "cum_pct_offering": -53.16
     },
     {
       "days": 180,
       "net": -140801221107,
       "count": 122,
-      "cum": -4022786477877,
-      "net_pct_mcap": -0.3127,
-      "net_pct_offering": -1.9325,
-      "cum_pct_mcap": -8.9331,
-      "cum_pct_offering": -55.2118
+      "cum": -4024721652877,
+      "net_pct_mcap": -0.3116,
+      "net_pct_offering": -1.9272,
+      "cum_pct_mcap": -8.9076,
+      "cum_pct_offering": -55.0872
     },
     {
       "days": 210,
       "net": -83461713984,
       "count": 57,
-      "cum": -4106248191861,
-      "net_pct_mcap": -0.1853,
-      "net_pct_offering": -1.1455,
-      "cum_pct_mcap": -9.1185,
-      "cum_pct_offering": -56.3573
+      "cum": -4108183366861,
+      "net_pct_mcap": -0.1847,
+      "net_pct_offering": -1.1424,
+      "cum_pct_mcap": -9.0923,
+      "cum_pct_offering": -56.2295
     },
     {
       "days": 240,
       "net": -97586350260,
       "count": 95,
-      "cum": -4203834542121,
-      "net_pct_mcap": -0.2167,
-      "net_pct_offering": -1.3394,
-      "cum_pct_mcap": -9.3352,
-      "cum_pct_offering": -57.6967
+      "cum": -4205769717121,
+      "net_pct_mcap": -0.216,
+      "net_pct_offering": -1.3357,
+      "cum_pct_mcap": -9.3083,
+      "cum_pct_offering": -57.5652
     },
     {
       "days": 270,
       "net": -240779429303,
       "count": 70,
-      "cum": -4444613971424,
-      "net_pct_mcap": -0.5347,
-      "net_pct_offering": -3.3046,
-      "cum_pct_mcap": -9.8698,
-      "cum_pct_offering": -61.0013
+      "cum": -4446549146424,
+      "net_pct_mcap": -0.5329,
+      "net_pct_offering": -3.2956,
+      "cum_pct_mcap": -9.8412,
+      "cum_pct_offering": -60.8608
     },
     {
       "days": 300,
       "net": -20396580543,
       "count": 19,
-      "cum": -4465010551967,
-      "net_pct_mcap": -0.0453,
-      "net_pct_offering": -0.2799,
-      "cum_pct_mcap": -9.9151,
-      "cum_pct_offering": -61.2813
+      "cum": -4466945726967,
+      "net_pct_mcap": -0.0451,
+      "net_pct_offering": -0.2792,
+      "cum_pct_mcap": -9.8864,
+      "cum_pct_offering": -61.14
     },
     {
       "days": 330,
       "net": -18589710764,
       "count": 33,
-      "cum": -4483600262731,
-      "net_pct_mcap": -0.0413,
-      "net_pct_offering": -0.2551,
-      "cum_pct_mcap": -9.9564,
-      "cum_pct_offering": -61.5364
+      "cum": -4485535437731,
+      "net_pct_mcap": -0.0411,
+      "net_pct_offering": -0.2544,
+      "cum_pct_mcap": -9.9275,
+      "cum_pct_offering": -61.3944
     },
     {
       "days": 360,
       "net": -50125103411,
       "count": 125,
-      "cum": -4533725366142,
-      "net_pct_mcap": -0.1113,
-      "net_pct_offering": -0.688,
-      "cum_pct_mcap": -10.0677,
-      "cum_pct_offering": -62.2244
+      "cum": -4535660541142,
+      "net_pct_mcap": -0.1109,
+      "net_pct_offering": -0.6861,
+      "cum_pct_mcap": -10.0384,
+      "cum_pct_offering": -62.0805
     },
     {
       "days": 390,
       "net": -28467857957,
       "count": 54,
-      "cum": -4562193224099,
-      "net_pct_mcap": -0.0632,
-      "net_pct_offering": -0.3907,
-      "cum_pct_mcap": -10.1309,
-      "cum_pct_offering": -62.6151
+      "cum": -4564128399099,
+      "net_pct_mcap": -0.063,
+      "net_pct_offering": -0.3896,
+      "cum_pct_mcap": -10.1015,
+      "cum_pct_offering": -62.4701
     },
     {
       "days": 420,
       "net": -50165803868,
       "count": 54,
-      "cum": -4612359027967,
-      "net_pct_mcap": -0.1114,
-      "net_pct_offering": -0.6885,
-      "cum_pct_mcap": -10.2423,
-      "cum_pct_offering": -63.3036
+      "cum": -4614294202967,
+      "net_pct_mcap": -0.111,
+      "net_pct_offering": -0.6866,
+      "cum_pct_mcap": -10.2125,
+      "cum_pct_offering": -63.1568
     },
     {
       "days": 450,
       "net": -2933964233,
       "count": 16,
-      "cum": -4615292992200,
+      "cum": -4617228167200,
       "net_pct_mcap": -0.0065,
-      "net_pct_offering": -0.0403,
-      "cum_pct_mcap": -10.2489,
-      "cum_pct_offering": -63.3438
+      "net_pct_offering": -0.0402,
+      "cum_pct_mcap": -10.219,
+      "cum_pct_offering": -63.1969
     },
     {
       "days": 480,
       "net": -9000830295,
       "count": 12,
-      "cum": -4624293822495,
-      "net_pct_mcap": -0.02,
-      "net_pct_offering": -0.1235,
-      "cum_pct_mcap": -10.2688,
-      "cum_pct_offering": -63.4674
+      "cum": -4626228997495,
+      "net_pct_mcap": -0.0199,
+      "net_pct_offering": -0.1232,
+      "cum_pct_mcap": -10.2389,
+      "cum_pct_offering": -63.3201
     },
     {
       "days": 510,
       "net": -147398776453,
       "count": 35,
-      "cum": -4771692598948,
-      "net_pct_mcap": -0.3273,
-      "net_pct_offering": -2.023,
-      "cum_pct_mcap": -10.5962,
-      "cum_pct_offering": -65.4904
+      "cum": -4773627773948,
+      "net_pct_mcap": -0.3262,
+      "net_pct_offering": -2.0175,
+      "cum_pct_mcap": -10.5651,
+      "cum_pct_offering": -65.3376
     },
     {
       "days": 540,
       "net": -10645016543,
       "count": 26,
-      "cum": -4782337615491,
+      "cum": -4784272790491,
       "net_pct_mcap": -0.0236,
-      "net_pct_offering": -0.1461,
-      "cum_pct_mcap": -10.6198,
-      "cum_pct_offering": -65.6365
+      "net_pct_offering": -0.1457,
+      "cum_pct_mcap": -10.5887,
+      "cum_pct_offering": -65.4833
     },
     {
       "days": 570,
       "net": -5908673125,
       "count": 42,
-      "cum": -4788246288616,
+      "cum": -4790181463616,
       "net_pct_mcap": -0.0131,
-      "net_pct_offering": -0.0811,
-      "cum_pct_mcap": -10.6329,
-      "cum_pct_offering": -65.7176
+      "net_pct_offering": -0.0809,
+      "cum_pct_mcap": -10.6018,
+      "cum_pct_offering": -65.5642
     },
     {
       "days": 600,
       "net": -2987155096,
       "count": 11,
-      "cum": -4791233443712,
+      "cum": -4793168618712,
       "net_pct_mcap": -0.0066,
-      "net_pct_offering": -0.041,
-      "cum_pct_mcap": -10.6396,
-      "cum_pct_offering": -65.7586
+      "net_pct_offering": -0.0409,
+      "cum_pct_mcap": -10.6084,
+      "cum_pct_offering": -65.6051
     },
     {
       "days": 630,
       "net": -14043566035,
       "count": 23,
-      "cum": -4805277009747,
-      "net_pct_mcap": -0.0312,
-      "net_pct_offering": -0.1927,
-      "cum_pct_mcap": -10.6707,
-      "cum_pct_offering": -65.9513
+      "cum": -4807212184747,
+      "net_pct_mcap": -0.0311,
+      "net_pct_offering": -0.1922,
+      "cum_pct_mcap": -10.6395,
+      "cum_pct_offering": -65.7973
     },
     {
       "days": 660,
       "net": -3871678992,
       "count": 27,
-      "cum": -4809148688739,
+      "cum": -4811083863739,
       "net_pct_mcap": -0.0086,
-      "net_pct_offering": -0.0531,
-      "cum_pct_mcap": -10.6793,
-      "cum_pct_offering": -66.0045
+      "net_pct_offering": -0.053,
+      "cum_pct_mcap": -10.648,
+      "cum_pct_offering": -65.8503
     },
     {
       "days": 690,
       "net": -14966133208,
       "count": 30,
-      "cum": -4824114821947,
-      "net_pct_mcap": -0.0332,
-      "net_pct_offering": -0.2054,
-      "cum_pct_mcap": -10.7126,
-      "cum_pct_offering": -66.2099
+      "cum": -4826049996947,
+      "net_pct_mcap": -0.0331,
+      "net_pct_offering": -0.2048,
+      "cum_pct_mcap": -10.6811,
+      "cum_pct_offering": -66.0551
     },
     {
       "days": 720,
       "net": -147140000,
       "count": 1,
-      "cum": -4824261961947,
+      "cum": -4826197136947,
       "net_pct_mcap": -0.0003,
       "net_pct_offering": -0.002,
-      "cum_pct_mcap": -10.7129,
-      "cum_pct_offering": -66.2119
+      "cum_pct_mcap": -10.6815,
+      "cum_pct_offering": -66.0571
     }
   ],
   "type_pivot": [
     {
       "days": 0,
-      "장내매도": -2064005850418,
+      "장내매도": -2065941025418,
       "장내매수": 400208653,
       "장외매도": -5405833500,
       "장외매수": 0,
@@ -456,9 +456,9 @@
   "type_total": [
     {
       "type": "장내매도",
-      "total_amount": -3923416283052,
-      "total_shares": -156378316,
-      "count": 3741
+      "total_amount": -3925351458052,
+      "total_shares": -156533130,
+      "count": 3743
     },
     {
       "type": "장내매수",
@@ -1542,6 +1542,26 @@
       "pct_offering": -4.34
     },
     {
+      "corp_name": "져스텍",
+      "net_amount": -1935175000,
+      "sell_amount": -1935175000,
+      "buy_amount": 0,
+      "net_shares": -154814,
+      "sell_shares": -154814,
+      "buy_shares": 0,
+      "tx_count": 2,
+      "sell_vcs": [
+        "베스트바이오4호투자조합",
+        "윈베스트벤처투자(주)"
+      ],
+      "buy_vcs": [],
+      "stock_code": "153890",
+      "ipo_mcap": 150628812500,
+      "ipo_offering": 20000000000,
+      "pct_mcap": -1.28,
+      "pct_offering": -9.68
+    },
+    {
       "corp_name": "와이바이오로직스",
       "net_amount": -1944036200,
       "sell_amount": -1944036200,
@@ -1761,26 +1781,6 @@
       "ipo_offering": 26600000000,
       "pct_mcap": -1.47,
       "pct_offering": -11.19
-    },
-    {
-      "corp_name": "피스피스스튜디오",
-      "net_amount": -3021850102,
-      "sell_amount": -3021850102,
-      "buy_amount": 0,
-      "net_shares": -143852,
-      "sell_shares": -143852,
-      "buy_shares": 0,
-      "tx_count": 2,
-      "sell_vcs": [
-        "케이비 디지털 플랫폼 펀드",
-        "케이비 프라임 디지털 플랫폼 펀드"
-      ],
-      "buy_vcs": [],
-      "stock_code": "0117P0",
-      "ipo_mcap": 304631586500,
-      "ipo_offering": 48861695500,
-      "pct_mcap": -0.99,
-      "pct_offering": -6.18
     }
   ],
   "vc_top_sell": [
@@ -10588,7 +10588,7 @@
         {
           "date": "2021-03-24",
           "days": 0,
-          "vc": "KoFC-Neoplux RD-Biz Creation 2013-1호 투자조합",
+          "vc": "KoFC-Neoplux R&D-Biz Creation 2013-1호 투자조합",
           "type": "장내매도",
           "amount": -8008956864,
           "shares": -106816,
@@ -10615,7 +10615,7 @@
         {
           "date": "2021-03-26",
           "days": 2,
-          "vc": "KoFC-Neoplux RD-Biz Creation 2013-1호 투자조합",
+          "vc": "KoFC-Neoplux R&D-Biz Creation 2013-1호 투자조합",
           "type": "장내매도",
           "amount": -2680343344,
           "shares": -38248,
@@ -10633,7 +10633,7 @@
         {
           "date": "2021-08-05",
           "days": 134,
-          "vc": "KoFC-Neoplux RD-Biz Creation 2013-1호 투자조합",
+          "vc": "KoFC-Neoplux R&D-Biz Creation 2013-1호 투자조합",
           "type": "장내매도",
           "amount": -301436850,
           "shares": -5577,
@@ -10660,7 +10660,7 @@
         {
           "date": "2021-08-09",
           "days": 138,
-          "vc": "KoFC-Neoplux RD-Biz Creation 2013-1호 투자조합",
+          "vc": "KoFC-Neoplux R&D-Biz Creation 2013-1호 투자조합",
           "type": "장내매도",
           "amount": -1412087760,
           "shares": -24495,
@@ -10669,7 +10669,7 @@
         {
           "date": "2021-08-10",
           "days": 139,
-          "vc": "KoFC-Neoplux RD-Biz Creation 2013-1호 투자조합",
+          "vc": "KoFC-Neoplux R&D-Biz Creation 2013-1호 투자조합",
           "type": "장내매도",
           "amount": -1204893430,
           "shares": -21055,
@@ -10687,7 +10687,7 @@
         {
           "date": "2021-08-11",
           "days": 140,
-          "vc": "KoFC-Neoplux RD-Biz Creation 2013-1호 투자조합",
+          "vc": "KoFC-Neoplux R&D-Biz Creation 2013-1호 투자조합",
           "type": "장내매도",
           "amount": -490524496,
           "shares": -9016,
@@ -10705,7 +10705,7 @@
         {
           "date": "2021-08-12",
           "days": 141,
-          "vc": "KoFC-Neoplux RD-Biz Creation 2013-1호 투자조합",
+          "vc": "KoFC-Neoplux R&D-Biz Creation 2013-1호 투자조합",
           "type": "장내매도",
           "amount": -1013303790,
           "shares": -18415,
@@ -10723,7 +10723,7 @@
         {
           "date": "2021-08-13",
           "days": 142,
-          "vc": "KoFC-Neoplux RD-Biz Creation 2013-1호 투자조합",
+          "vc": "KoFC-Neoplux R&D-Biz Creation 2013-1호 투자조합",
           "type": "장내매도",
           "amount": -944705700,
           "shares": -16985,
@@ -11006,19 +11006,19 @@
     {
       "year": 2026,
       "ipo_total_count": 17,
-      "vc_ipo_count": 10,
-      "early_sell_stocks": 10,
-      "early_sell_vcs": 40,
-      "net_amount": -167643322556,
-      "sell_amount": -167643322556,
+      "vc_ipo_count": 11,
+      "early_sell_stocks": 11,
+      "early_sell_vcs": 42,
+      "net_amount": -169578497556,
+      "sell_amount": -169578497556,
       "buy_amount": 0,
-      "tx_count": 83,
-      "full_net_amount": -167643322556,
-      "full_pct_offering": -58.89,
-      "total_ipo_mcap": 1907471527900,
-      "total_ipo_offering": 284671695500,
-      "pct_mcap": -8.79,
-      "pct_offering": -58.89
+      "tx_count": 85,
+      "full_net_amount": -169578497556,
+      "full_pct_offering": -55.66,
+      "total_ipo_mcap": 2058100340400,
+      "total_ipo_offering": 304671695500,
+      "pct_mcap": -8.24,
+      "pct_offering": -55.66
     }
   ],
   "yearly_early_bin": [
@@ -11265,8 +11265,8 @@
     {
       "year": 2026,
       "days": 0,
-      "net_amount": -140523647002,
-      "count": 69
+      "net_amount": -142458822002,
+      "count": 71
     },
     {
       "year": 2026,
@@ -13838,24 +13838,24 @@
     "시간외매매"
   ],
   "summary": {
-    "total_records": 3881,
-    "total_stocks": 222,
-    "total_vcs": 574,
-    "total_net_amount": -4824261961947,
+    "total_records": 3883,
+    "total_stocks": 223,
+    "total_vcs": 576,
+    "total_net_amount": -4826197136947,
     "buy_amount": 1950122204,
-    "sell_amount": -4826212084151,
-    "total_net_shares": -188626733,
+    "sell_amount": -4828147259151,
+    "total_net_shares": -188781547,
     "buy_shares": 140118,
-    "sell_shares": -188766851,
+    "sell_shares": -188921665,
     "buy_count": 27,
-    "sell_count": 3827,
-    "ipo_vc_count": 696,
-    "ipo_stock_count": 238,
-    "ipo_pair_count": 911,
-    "total_ipo_mcap": 45032254810500,
-    "total_ipo_offering": 7286095122400,
+    "sell_count": 3829,
+    "ipo_vc_count": 703,
+    "ipo_stock_count": 240,
+    "ipo_pair_count": 918,
+    "total_ipo_mcap": 45182883623000,
+    "total_ipo_offering": 7306095122400,
     "funnel_ipo_total": 403,
-    "funnel_raw_stocks": 401,
-    "funnel_vc_stocks": 258
+    "funnel_raw_stocks": 402,
+    "funnel_vc_stocks": 260
   }
 }
