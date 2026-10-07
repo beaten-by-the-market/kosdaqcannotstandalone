@@ -12,6 +12,7 @@
           - 이후 보통주(의결권있는 주식) 매매만 포함
           - 장내매매, 장외매매, 시간외매매
           - 거래금액 = 단가(HLD_UNT_PR) × 변동수량(MDF_SDK_CNT)
+          - 단가는 s6 정정표 반영: 시세와 맞지 않으면 공시 괄호 단가 또는 그날 VWAP 추정 (분석방법론.md 5.3)
     -->
     <script src="https://cdn.plot.ly/plotly-2.35.0.min.js"></script>
     <style>
@@ -85,7 +86,10 @@
             데이터: DART 대량보유상황보고서 &nbsp;|&nbsp;
             대상: 신규상장 시점 보유 VC <span id="hdrIpoVc">-</span>사 &rarr; 이후 보통주(의결권있는 주식) 매매 &nbsp;|&nbsp;
             분석 대상: <b>장내매매, 장외매매, 시간외매매</b>만 포함 &nbsp;|&nbsp;
-            금액 = HLD_UNT_PR &times; MDF_SDK_CNT
+            금액 = 단가 &times; 변동수량<br>
+            단가 정정: 공시 단가가 그날 KRX 시세 범위를 벗어나면 보고서 괄호 칸의 매매단가(<span id="hdrFixParen">-</span>건) 또는
+            그날 거래량가중평균가(VWAP) 추정(<span id="hdrFixVwap">-</span>건)으로 바꿈 &nbsp;|&nbsp;
+            VWAP 추정분을 빼면 순매매 <span id="hdrNetExcl">-</span>원
         </div>
     </div>
 
@@ -262,7 +266,7 @@
                 </ol>
                 <p style="font-size:12px;color:#888;margin-top:8px">
                     민감도: 증권사·은행·보험사·자산운용사가 운용하는 조합(32곳, 순매도 약 2,858억원)을 빼도 IPO 시총 대비 −10.51%, 공모금액 대비 −65.29%로
-                    결론은 같다(포함 시 −10.79%, −66.45%. 2026년 6월 말 매매·7월 10일 접수 공시 기준).
+                    결론은 같다(포함 시 −10.79%, −66.45%. 2026년 6월 말 매매·7월 10일 접수 공시, 단가 정정 전 기준).
                 </p>
             </div>
         </div>
@@ -308,7 +312,17 @@
                     <li><b>5-A 자동포함</b>: "투자조합", "벤처투자", "창업투자" 등 VC 확실 패턴</li>
                     <li><b>5-B 영문명 전수 제외</b>: 해외법인 직접 투자분 (한국 VC업계 분석 목적)</li>
                     <li><b>5-C 웹서치 검증</b>: 나머지 후보 82건을 개별 검색하여 실체 확인</li>
+                    <li><b>미매칭 재검토</b>(2026-10-08): 이름에 VC 키워드가 없어 빠진 조합·창투사를 대량보유 보고서 원문의 법적성격·업무집행조합원으로 확인(12곳 포함, 2곳 제외).
+                        같은 조합이 보고서마다 사업자번호를 다르게 적은 경우(5개 조합)는 VC 목록 번호로 묶음</li>
+                    <li><b>공시 법적성격 검증</b>(2026-10-08): VC 전체를 대량보유 보고서의 구분·법적성격·업무집행조합원과 대조해 기준에 어긋난 11곳(일반 PEF·은행·증권사·PEF 운용사·민법상 조합·사업회사) 제외.
+                        VC별 판정 근거(공시 법적성격·업무집행조합원·근거 보고서)는 별도 근거자료로 정리</li>
                 </ul>
+
+                <h3>Phase 6: 투자목적회사 투시</h3>
+                <p>창업벤처전문 PEF가 100% 출자한 특수목적회사·투자목적회사는 이름에 VC 키워드가 없어 미매칭으로 남는다.
+                    지분은 껍데기 회사가 들고 있어도 투자·매각 판단은 모 기구가 하므로, 대량보유 보고서의 「특별관계자에 대한 구체적인 사항」(최대주주·의사결정기구)으로
+                    모 기구를 확인해 모 기구가 VC면 함께 포함한다(예: 파두의 유한회사 에프피파인트리1·2호 &rarr; 파인트리1·2호창업벤처전문 PEF, 포레스트파트너스).
+                    모 기구가 일반 PEF인 특수목적회사는 일반 PEF와 같이 제외한다.</p>
 
                 <h3>Step 6. 최종 병합 + 대량보유 데이터 필터링</h3>
                 <p>전 단계 결과를 병합하고 중복 제거(제외가 포함보다 우선) &rarr; VC <span id="selVcCount">-</span>사 확정 &rarr; 원본 대량보유 데이터에서 VC 주주만 추출.</p>
@@ -392,6 +406,7 @@
                     <ul>
                         <li><span class="tag-exclude">제외</span> 일반 PEF: 기업재무안정, 턴어라운드, 스페셜시츄에이션 목적</li>
                         <li><span class="tag-include">포함</span> 창업벤처전문 PEF: VC가 GP, 벤처투자 목적 명시</li>
+                        <li><span class="tag-include">포함</span> 창업벤처전문 PEF가 100% 출자한 투자목적회사(SPC): 모 기구 기준(Phase 6)</li>
                     </ul>
                 </div>
                 <div class="case-box">
@@ -508,6 +523,11 @@ function fillStaticCounts(){
     const ds = DATA.summary, ss = SEL.summary;
     const set = (id, v) => { const el = document.getElementById(id); if (el && v != null) el.textContent = Number(v).toLocaleString(); };
     set('hdrIpoVc', ds.ipo_vc_count);
+    const fixCount = src => ((DATA.price_fix?.by_source || []).find(r => r.source === src) || {}).count;
+    set('hdrFixParen', fixCount('괄호단가'));
+    set('hdrFixVwap', fixCount('VWAP추정'));
+    const ex = document.getElementById('hdrNetExcl');
+    if (ex && ds.total_net_amount_excl_estimated != null) ex.textContent = fmtAmtDetail(ds.total_net_amount_excl_estimated);
     set('notesIpoStocks', ds.ipo_stock_count);
     set('selTotal1', ss.total_candidates);
     set('selTotal2', ss.total_candidates);
@@ -853,7 +873,7 @@ function renderCriteria(){
 
 function renderVCListTable(list){
     if(!list.length){document.getElementById('vcListTable').innerHTML='<p style="color:#888">결과 없음</p>';document.getElementById('vcFilterCount').textContent='';return;}
-    const phaseColors={'1A':'#3b82f6','1B':'#3b82f6','1C':'#3b82f6','1D':'#3b82f6','1E':'#60a5fa','1F':'#60a5fa','2':'#22c55e','5_auto':'#f59e0b','5':'#a78bfa'};
+    const phaseColors={'1A':'#3b82f6','1B':'#3b82f6','1C':'#3b82f6','1D':'#3b82f6','1E':'#60a5fa','1F':'#60a5fa','2':'#22c55e','5_auto':'#f59e0b','5':'#a78bfa','6':'#2dd4bf'};
     let h='<table class="ranking"><thead><tr><th>#</th><th>SPC_NM (주주명)</th><th>유형</th><th>GP명</th><th>Phase</th><th>확인소스</th><th>비고</th></tr></thead><tbody>';
     list.forEach((r,i)=>{
         const pc=phaseColors[r.phase]||'#888';
@@ -976,12 +996,13 @@ function renderEarlySell(){
                             const dartUrl = d.rcept_no ? 'https://dart.fss.or.kr/dsaf001/main.do?rcpNo='+d.rcept_no : '';
                             const dartLink = dartUrl ? '<a href="'+dartUrl+'" target="_blank" rel="noopener" style="color:#60a5fa;text-decoration:none">'+d.rcept_no+'</a>' : '-';
                             const dcolor = d.amount>=0 ? '#ef4444' : '#3b82f6';
+                            const pmark = {'괄호단가':'괄호 단가','VWAP추정':'VWAP 추정','표시만':'시세 범위 밖'}[d.price_src];
                             return `<tr>
                                 <td>${d.date}</td>
                                 <td>+${d.days}일</td>
                                 <td>${d.vc}</td>
                                 <td>${d.type}</td>
-                                <td style="color:${dcolor}">${fmtAmt(d.amount)}원</td>
+                                <td style="color:${dcolor}">${fmtAmt(d.amount)}원${pmark ? ' <span style="color:#888;font-size:10px">('+pmark+')</span>' : ''}</td>
                                 <td style="color:${dcolor}">${d.shares.toLocaleString()}주</td>
                                 <td>${dartLink}</td>
                             </tr>`;
